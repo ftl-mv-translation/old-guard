@@ -1,14 +1,25 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-21 19:44+0000\n"
+"Last-Translator: EvilPepperPlayz <aiaksel73@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_sector_og_dawnxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_og_dawn.xml:10
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DESTROY\"]/text"
 msgstr ""
+"Вы победили стражу Железного Дозора. Что бы ни было в их грузе, оно "
+"наверняка уничтожено, но вы можете по крайней мере спасти некоторые припасы "
+"с корабля."
 
 #: src-en/data/events_sector_og_dawn.xml:13
 msgid ""
@@ -19,6 +30,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DEADCREW\"]/text"
 msgstr ""
+"Вы победили стражу Железного Дозора. Без экипажа на борту, чтобы остановить "
+"вас, вы можете исследовать их груз. Вы находите оружие чтобы отнести его на "
+"корабль, и приступаете к утилизации их корпуса."
 
 #: src-en/data/events_sector_og_dawn.xml:22
 msgid ""
@@ -29,6 +43,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/text"
 msgstr ""
+"Убив стражу Железного Дозора, вы, несомненно, заставили их выслать "
+"подкрепления, чтобы выследить вас. Будьте осторожны при исследовании сектора."
 
 #: src-en/data/events_sector_og_dawn.xml:43
 msgid ""
@@ -59,6 +75,8 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/text"
 msgstr ""
+"Корабль Железного Дозора идёт в атаку! Судя по мстительному взору в глазу их "
+"капитана, это несомненно корабль, отправленный стражей, чтобы выследить вас!"
 
 #: src-en/data/events_sector_og_dawn.xml:63
 msgid ""
@@ -84,6 +102,8 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/text"
 msgstr ""
+"Корабль Железного Дозора идёт в атаку! Судя по мстительному взору в глазу их "
+"капитана, это несомненно корабль, отправленный стражей, чтобы выследить вас!"
 
 #: src-en/data/events_sector_og_dawn.xml:81
 msgid ""
@@ -94,6 +114,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN\"]/text"
 msgstr ""
+"[РЕПУТАЦИЯ УВЕЛИЧЕНА — НОВЫЙ РАССВЕТ]\n"
+"Ваши действия здесь повысили вашу репутацию среди Нового рассвета, за счёт "
+"ухудшения отношений с Железным Дозором. Некоторые его члены могут стать "
+"более склонны взаимодействовать с вами.\n"
+"\n"
+"[ДУРНАЯ СЛАВА УВЕЛИЧЕНА — ОБЩЕЕ]\n"
+"Ваши действия здесь, оправданы они или нет, не будут хорошо восприняты "
+"Федерацией или её гражданами. Если постоянно совершать подобные поступки, вы "
+"можете начать сталкиваться с негативной реакцией со стороны Федерации и её "
+"союзников."
 
 #: src-en/data/events_sector_og_dawn.xml:97
 msgid ""
