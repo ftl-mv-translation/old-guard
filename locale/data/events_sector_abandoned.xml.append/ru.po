@@ -1,14 +1,24 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-21 19:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_sector_abandonedxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_abandoned.xml.append:7
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/text"
 msgstr ""
+"Когда вы прибываете, корабль Железного дозора исследует этот маяк. Похоже, "
+"они не хотят рисковать и сразу же активируют свое оружие."
 
 #: src-en/data/events_sector_abandoned.xml.append:10
 msgid ""
@@ -27,18 +37,23 @@ msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"К счастью, они быстро узнают вас благодаря вашей хорошей репутации. Они "
+"предлагают поделиться частью найденного ими добра."
 
 #: src-en/data/events_sector_abandoned.xml.append:20
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Тем не менее, атаковать их."
 
 #: src-en/data/events_sector_abandoned.xml.append:22
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
 msgstr ""
+"Вы включаете свое оружие после получения добычи, и по количеству "
+"ругательств, которые слышны в вашей связи, становится ясно, что Железный "
+"дозор явно возмущен вашим предательством."
 
 #: src-en/data/events_sector_abandoned.xml.append:25
 msgid ""
