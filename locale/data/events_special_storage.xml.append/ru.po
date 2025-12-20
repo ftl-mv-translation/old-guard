@@ -1,0 +1,338 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:5
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:11
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:13
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[1]/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_storage.xml.append:17
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:23
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:25
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/choice/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_storage.xml.append:31
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:33
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:46
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:48
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_storage.xml.append:54
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:56
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT\"]/choice/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_storage.xml.append:62
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT_STEP\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:67
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:73
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/text"
+msgstr "Какое улучшение вы хотите установить?"
+
+#: src-en/data/events_special_storage.xml.append:75
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:79
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:83
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:87
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:91
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:95
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:99
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:103
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[8]/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_storage.xml.append:108
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:111
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:113
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/event/text"
+msgstr "Вы устанавливаете улучшение."
+
+#: src-en/data/events_special_storage.xml.append:119
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_storage.xml.append:125
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/text"
+msgstr "Преобразовать внешний модуль во внутренний."
+
+#: src-en/data/events_special_storage.xml.append:127
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/event/text"
+msgstr "Вы устанавливаете улучшение."
+
+#: src-en/data/events_special_storage.xml.append:130
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_storage.xml.append:136
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"pilot\"]/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_storage.xml.append:147
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:150
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:152
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/event/text"
+msgstr "Вы устанавливаете улучшение."
+
+#: src-en/data/events_special_storage.xml.append:158
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_storage.xml.append:164
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/text"
+msgstr "Преобразовать внешний модуль во внутренний."
+
+#: src-en/data/events_special_storage.xml.append:166
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/event/text"
+msgstr "Вы устанавливаете улучшение."
+
+#: src-en/data/events_special_storage.xml.append:169
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_storage.xml.append:175
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"pilot\"]/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_storage.xml.append:186
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:189
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:191
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/event/text"
+msgstr "Вы устанавливаете улучшение."
+
+#: src-en/data/events_special_storage.xml.append:197
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_storage.xml.append:203
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/text"
+msgstr "Преобразовать внешний модуль во внутренний."
+
+#: src-en/data/events_special_storage.xml.append:205
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/event/text"
+msgstr "Вы устанавливаете улучшение."
+
+#: src-en/data/events_special_storage.xml.append:208
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_storage.xml.append:214
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"pilot\"]/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_storage.xml.append:226
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:228
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_1_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:233
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:235
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_2_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:240
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:242
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_3_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:247
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:249
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_4_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:254
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:256
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_5_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:261
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:263
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_6_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:268
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:270
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_7_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:275
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:277
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_8_START\"]/text"
+msgstr ""

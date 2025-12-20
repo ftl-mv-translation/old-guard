@@ -1,0 +1,92 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:83
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
+"append:shipIcon[1]/tooltip"
+msgstr ""
+"OVERCLOCKED MOTORS:\n"
+"Enemy Turrets rotate 100% faster."
+
+#: src-en/data/hyperspace.xml.append:88
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
+"append:shipIcon[2]/tooltip"
+msgstr ""
+"REFLECTIVE PLATING:\n"
+"Halves the damage of beams hitting this ship, rounding down."
+
+#: src-en/data/hyperspace.xml.append:93
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
+"append:shipIcon[3]/tooltip"
+msgstr ""
+"TURRET PRE-IGNITER:\n"
+"This enemy's turrets will be fully charged at the start of combat."
+
+#: src-en/data/hyperspace.xml.append:123
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/name"
+msgstr "War Economy"
+
+#: src-en/data/hyperspace.xml.append:124
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/description"
+msgstr "As a Raider-Class vessel, create a new turret of your own."
+
+#: src-en/data/hyperspace.xml.append:129
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/name"
+msgstr "Treading on the Rattlesnake"
+
+#: src-en/data/hyperspace.xml.append:130
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/description"
+msgstr "Defeat a New Dawn ship using a Raider-Class vessel."
+
+#: src-en/data/hyperspace.xml.append:135
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/name"
+msgstr "Heavy Lifting"
+
+#: src-en/data/hyperspace.xml.append:136
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/description"
+msgstr ""
+"As a Raider Class Vessel: Reach Sector 8 without buying weapons or shields' "
+"systems (or upgrading them as ship starting systems)."
+
+#: src-en/data/hyperspace.xml.append:270
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/buttonText"
+msgstr "CLOAK"
+
+#: src-en/data/hyperspace.xml.append:271
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/tooltip"
+msgstr ""
+"[COOLDOWN:30s  DURATION: 15s]\n"
+"\t\t\t\tGrants the following effects:\n"
+"\t\t\t\t-Avoids being targetted by crew.\n"
+"\t\t\t\t-Damage reduced by 25%\n"
+"\t\t\t\t-Sabotage Speed reduced by 50%\n"
+"\t\t\t\t-Cloak duration passively regenerates\n"
+"\t\t\t\t-Cloak duration reduces from the following actions:\n"
+"\t\t\t\t\t-Attacking, 1x\n"
+"\t\t\t\t\t-Repairing, 0.75x\n"
+"\t\t\t\t\t-Moving, 0.25x"
+
+#: src-en/data/hyperspace.xml.append:309
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[5]/mod-"
+"append:page/section/@text"
+msgstr "The Old Guard"
+
+#: src-en/data/hyperspace.xml.append:311
+msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_IRON\"]/name"
+msgstr "Iron Watch"
