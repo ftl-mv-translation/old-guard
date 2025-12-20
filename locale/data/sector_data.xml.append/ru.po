@@ -1,126 +1,134 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-21 19:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"datasector_dataxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/sector_data.xml.append:42
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[1]"
-msgstr ""
+msgstr "Сектор Железного дозора"
 
 #: src-en/data/sector_data.xml.append:43
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[2]"
-msgstr ""
+msgstr "Пространство Железного дозора"
 
 #: src-en/data/sector_data.xml.append:44
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[3]"
-msgstr ""
+msgstr "Граница Железного дозора"
 
 #: src-en/data/sector_data.xml.append:45
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[4]"
-msgstr ""
+msgstr "Территория Железного дозора"
 
 #: src-en/data/sector_data.xml.append:46
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[5]"
-msgstr ""
+msgstr "Зона Железного дозора"
 
 #: src-en/data/sector_data.xml.append:47
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[6]"
-msgstr ""
+msgstr "Родные миры Железного дозора"
 
 #: src-en/data/sector_data.xml.append:48
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[7]"
-msgstr ""
+msgstr "Регионы Железного дозора"
 
 #: src-en/data/sector_data.xml.append:49
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[8]"
-msgstr ""
+msgstr "Края Железного дозора"
 
 #: src-en/data/sector_data.xml.append:50
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[9]"
-msgstr ""
+msgstr "Владения Железного дозора"
 
 #: src-en/data/sector_data.xml.append:51
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[10]"
-msgstr ""
+msgstr "Земли Железного дозора"
 
 #: src-en/data/sector_data.xml.append:52
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[11]"
-msgstr ""
+msgstr "Область Железного дозора"
 
 #: src-en/data/sector_data.xml.append:53
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[12]"
-msgstr ""
+msgstr "Форпосты Железного дозора"
 
 #: src-en/data/sector_data.xml.append:119
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[1]"
-msgstr ""
+msgstr "Сектор Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:120
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[2]"
-msgstr ""
+msgstr "Пространство Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:121
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[3]"
-msgstr ""
+msgstr "Граница Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:122
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[4]"
-msgstr ""
+msgstr "Территория Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:123
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[5]"
-msgstr ""
+msgstr "Зона Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:124
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[6]"
-msgstr ""
+msgstr "Родные миры Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:125
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[7]"
-msgstr ""
+msgstr "Регионы Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:126
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[8]"
-msgstr ""
+msgstr "Края Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:127
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[9]"
-msgstr ""
+msgstr "Владения Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:128
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[10]"
-msgstr ""
+msgstr "Земли Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:129
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[11]"
-msgstr ""
+msgstr "Область Железного дозора [Акция!]"
 
 #: src-en/data/sector_data.xml.append:130
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[12]"
-msgstr ""
+msgstr "Форпосты Железного дозора [Акция!]"
