@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-21 19:44+0000\n"
-"Last-Translator: EvilPepperPlayz <aiaksel73@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -17,7 +17,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Управление турелью."
 
 #: src-en/data/events_special_storage.xml.append:11
 msgid ""
@@ -83,7 +83,7 @@ msgstr "Выберите компонент для создания."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Управление турелью."
 
 #: src-en/data/events_special_storage.xml.append:73
 msgid ""
@@ -147,7 +147,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 35~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:113
 msgid ""
@@ -187,7 +187,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:150
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 40~, 5}]"
 
 #: src-en/data/events_special_storage.xml.append:152
 msgid ""
@@ -227,7 +227,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:189
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:191
 msgid ""
