@@ -1,57 +1,74 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-21 19:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"datahyperspace-xml-append/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:83
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
+"РАЗОГНАННЫЕ МОТОРЫ:\n"
+"Вражеские турели вращаются на 100% быстрее."
 
 #: src-en/data/hyperspace.xml.append:88
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
+"ОТРАЖАЮЩЕЕ ПОКРЫТИЕ:\n"
+"Уменьшает урон от лучей, попадающих в этот корабль, в два раза "
+"(с округлением в меньшую сторону)."
 
 #: src-en/data/hyperspace.xml.append:93
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
+"ПРЕДЗАЖИГАТЕЛЬ ТУРЕЛИ:\n"
+"Турели этого врага будут полностью заряжены в начале боя."
 
 #: src-en/data/hyperspace.xml.append:123
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/name"
-msgstr ""
+msgstr "Военная экономика"
 
 #: src-en/data/hyperspace.xml.append:124
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/description"
-msgstr ""
+msgstr "На корабле класса \"Рейдер\" создайте свою собственную новую турель."
 
 #: src-en/data/hyperspace.xml.append:129
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/name"
-msgstr ""
+msgstr "Наступая на гремучую змею"
 
 #: src-en/data/hyperspace.xml.append:130
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/description"
-msgstr ""
+msgstr "Уничтожьте корабль Нового рассвета на судне класса \"Рейдер\"."
 
 #: src-en/data/hyperspace.xml.append:135
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/name"
-msgstr ""
+msgstr "Тяжелый подъем"
 
 #: src-en/data/hyperspace.xml.append:136
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/description"
 msgstr ""
+"На корабле класса \"Рейдер\" достигните сектора 8, не покупая оружия или "
+"систем щитов (или не модернизируя их в качестве стартовых систем корабля)."
 
 #: src-en/data/hyperspace.xml.append:270
 msgid ""
@@ -62,13 +79,23 @@ msgstr "МАСКИРОВКА"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 30с  ДЛИТЕЛЬНОСТЬ: 15с]\n"
+"\t\t\t\tДает следующие эффекты:\n"
+"\t\t\t\t-Избегает нацеливания со стороны экипажа.\n"
+"\t\t\t\t-Урон уменьшается на 25%\n"
+"\t\t\t\t-Скорость саботажа уменьшается на 50%\n"
+"\t\t\t\t-Пассивно восстанавливает перезарядку Маскировки.\n"
+"\t\t\t\t-Продолжительность Маскировки сокращается при следующих действиях:\n"
+"\t\t\t\t\t-Атака - 1x\n"
+"\t\t\t\t\t-Ремонт - 0.75x\n"
+"\t\t\t\t\t-Перемещение - 0.25x"
 
 #: src-en/data/hyperspace.xml.append:309
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[5]/mod-"
 "append:page/section/@text"
-msgstr ""
+msgstr "The Old Guard"
 
 #: src-en/data/hyperspace.xml.append:311
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_IRON\"]/name"
-msgstr ""
+msgstr "Железный дозор"
