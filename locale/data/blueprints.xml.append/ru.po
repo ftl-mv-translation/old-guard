@@ -166,6 +166,8 @@ msgstr "Рейдер"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[1]"
 msgstr ""
+"Дает 2 единицы энергии текущей системе в присутствии пульсара или ионного "
+"шторма"
 
 #: src-en/data/blueprints.xml.append:177
 msgid ""
