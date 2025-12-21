@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-21 19:44+0000\n"
-"Last-Translator: EvilPepperPlayz <aiaksel73@gmail.com>\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -38,7 +38,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:19
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/title"
-msgstr ""
+msgstr "Разогнанные моторы [В]"
 
 #: src-en/data/blueprints.xml.append:20
 msgid ""
@@ -147,6 +147,10 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:168
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/desc"
 msgstr ""
+"Техник Железного дозора, обладающий навыками ремонта.\n"
+"\n"
+"\tНаследует характеристики людей: небольшое сопротивление удушью, быстрее "
+"изучает навыки"
 
 #: src-en/data/blueprints.xml.append:172
 msgid ""
@@ -156,7 +160,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:173
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/short"
-msgstr ""
+msgstr "Рейдер"
 
 #: src-en/data/blueprints.xml.append:176
 msgid ""
@@ -166,12 +170,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:177
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[2]"
-msgstr ""
+msgstr "Видит соседние отсеки в присутствии туманности"
 
 #: src-en/data/blueprints.xml.append:178
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[3]"
-msgstr ""
+msgstr "1.25x скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:179
 msgid ""
@@ -184,7 +188,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:208
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/title"
-msgstr ""
+msgstr "Солдат Нового рассвета"
 
 #: src-en/data/blueprints.xml.append:209
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/short"
