@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-21 19:44+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"PO-Revision-Date: 2025-12-22 21:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -421,7 +421,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
 msgstr ""
 "Мощная осколочная турель, способная производить невероятные залпы как в "
-"обороне, так и в атаке."
+"защите, так и в атаке."
 
 #: src-en/data/blueprints.xml.append:477
 msgid ""
@@ -491,7 +491,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/desc"
 msgstr ""
 "Неспособна наносить урон системе, эта Легкая лазерная турель гораздо лучше "
-"подходит для подавления щитов и обороны."
+"подходит для подавления щитов и защиты."
 
 #: src-en/data/blueprints.xml.append:561
 msgid ""
@@ -595,7 +595,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
 "Мощная осколочная турель, способная производить невероятные залпы как в "
-"обороне, так и в атаке."
+"защите, так и в атаке."
 
 #: src-en/data/blueprints.xml.append:688
 msgid ""
@@ -647,7 +647,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
 msgstr ""
 "Неспособна наносить урон системе, эта Легкая лазерная турель гораздо лучше "
-"подходит для подавления щитов и обороны."
+"подходит для подавления щитов и защиты."
 
 #: src-en/data/blueprints.xml.append:751
 msgid ""
