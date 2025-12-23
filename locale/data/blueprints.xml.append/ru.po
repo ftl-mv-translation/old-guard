@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-24 19:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -124,7 +132,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:141
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/title"
-msgstr "Управление микро-турелью"
+msgstr "Управление микротурелью"
 
 #: src-en/data/blueprints.xml.append:142
 msgid ""
@@ -135,7 +143,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:156
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/title"
-msgstr "Управление микро-турелью"
+msgstr "Управление микротурелью"
 
 #: src-en/data/blueprints.xml.append:157
 msgid ""
@@ -146,7 +154,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:171
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/title"
-msgstr "Управление микро-турелью"
+msgstr "Управление микротурелью"
 
 #: src-en/data/blueprints.xml.append:172
 msgid ""
@@ -157,7 +165,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:186
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/title"
-msgstr "Управление микро-турелью"
+msgstr "Управление микротурелью"
 
 #: src-en/data/blueprints.xml.append:187
 msgid ""
