@@ -9,70 +9,69 @@ msgstr ""
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/text"
 msgstr ""
-"Вы удивлены, увидев корабль Железного дозора в таком густонаселенном "
-"пространстве, обычно они держатся на окраинах цивилизованного космоса."
+"You're surprised to see an Iron Watch vessel in such populated space, "
+"usually they keep to the outer edges of civilised space."
 
 #: src-en/data/events_sector_droppoint.xml.append:10
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/text"
-msgstr "Связаться с кораблем."
+msgstr "Contact the ship."
 
 #: src-en/data/events_sector_droppoint.xml.append:12
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/text"
 msgstr ""
-"\"Наша навигационная система сломалась, и, похоже, мы заблудились. Не могли "
-"бы вы указать нам направление к выходному маяку?\""
+"\"Our navigation system broke and it appears we've gotten lost, could you "
+"point us in the direction of the exit beacon?\""
 
 #: src-en/data/events_sector_droppoint.xml.append:14
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[1]/text"
-msgstr "Направить их к выходу."
+msgstr "Direct them to the exit."
 
 #: src-en/data/events_sector_droppoint.xml.append:16
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[1]/event/text"
-msgstr "Перед уходом они благодарят вас небольшим подарком в виде припасов."
+msgstr "They thank you with a small donation of supplies before heading off."
 
 #: src-en/data/events_sector_droppoint.xml.append:22
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr ""
-"(Член экипажа-Инженер) Предложить отремонтировать их навигационную систему."
+msgstr "(Engineer Crew) Offer to repair their navigation system."
 
 #: src-en/data/events_sector_droppoint.xml.append:24
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON_REPAIR\"]/text"
 msgstr ""
-"Они очень благодарны вам за помощь и в знак благодарности дарят вам припасы."
+"They're very thankful for your help and give you a donation of supplies in "
+"thanks."
 
 #: src-en/data/events_sector_droppoint.xml.append:28
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON_REPAIR\"]/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_droppoint.xml.append:34
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGI\"]/text"
-msgstr ""
-"(Член экипажа-энджи) Предложить отремонтировать их навигационную систему."
+msgstr "(Engi Crew) Offer to repair their navigation system."
 
 #: src-en/data/events_sector_droppoint.xml.append:40
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/text"
-msgstr "Не обращать внимания на корабль."
+msgstr "Ignore the ship."
 
 #: src-en/data/events_sector_droppoint.xml.append:42
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/event/text"
-msgstr "Вы готовитесь к следующему прыжку."
+msgstr "You prepare for your next jump."
 
 #: src-en/data/events_sector_droppoint.xml.append:44
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/event/choice[1]/text"
-msgstr "Заняться чем-либо на корабле."
+msgstr "Do something onboard the ship."
 
 #: src-en/data/events_sector_droppoint.xml.append:48
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/event/choice[2]/text"
-msgstr "Ничего не делать."
+msgstr "Do nothing."

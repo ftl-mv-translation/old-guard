@@ -41,49 +41,84 @@ msgid ""
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:14
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret\"]"
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_REBEL_unlock\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:15
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_installed\"]"
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_CURA_unlock\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:16
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_alt\"]"
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_SEPARATIST_unlock\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:17
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_alt_installed\"]"
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ANGEL_unlock\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:18
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini\"]"
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ROCK_unlock\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:19
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_installed\"]"
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_PEACEKEEPER_unlock\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:20
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2\"]"
-msgstr ""
-
-#: src-en/data/text_misc.xml.append:21
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2_installed\"]"
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_KNIGHT_unlock\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:22
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3\"]"
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:23
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3_installed\"]"
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_installed\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:24
-msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4\"]"
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_alt\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:25
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_alt_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:26
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:27
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:28
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:29
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:30
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:31
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:32
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:33
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4_installed\"]"
 msgstr ""

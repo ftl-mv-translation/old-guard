@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-21 19:44+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
-"datatext_tooltipsxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_tooltips.xml.append:2
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
@@ -20,70 +12,74 @@ msgstr "Совет: турели должны быть оснащены сист
 #: src-en/data/text_tooltips.xml.append:3
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_mini\"]"
 msgstr ""
-"Совет: турели должны быть оснащены системой управления турелями. Микротурели "
-"не могут быть установлены в слоты для более крупных турелей."
+"Совет: турели должны быть оснащены системой управления турелями. Микротурели"
+" не могут быть установлены в слоты для более крупных турелей."
 
-#: src-en/data/text_tooltips.xml.append:5
+#: src-en/data/text_tooltips.xml.append:4
+msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_base\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:6
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
 "ее. Сокращает время зарядки."
 
-#: src-en/data/text_tooltips.xml.append:6
+#: src-en/data/text_tooltips.xml.append:7
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_enemy\"]"
 msgstr "Управление турелью: питает вражескую турель."
 
-#: src-en/data/text_tooltips.xml.append:7
+#: src-en/data/text_tooltips.xml.append:8
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_alt\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
 "ее. Сокращает время зарядки."
 
-#: src-en/data/text_tooltips.xml.append:8
+#: src-en/data/text_tooltips.xml.append:9
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_alt_enemy\"]"
 msgstr "Управление турелью: питает вражескую турель."
 
-#: src-en/data/text_tooltips.xml.append:9
+#: src-en/data/text_tooltips.xml.append:10
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
 "ее."
 
-#: src-en/data/text_tooltips.xml.append:10
+#: src-en/data/text_tooltips.xml.append:11
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_enemy\"]"
 msgstr "Управление турелью: питает вражескую турель."
 
-#: src-en/data/text_tooltips.xml.append:11
+#: src-en/data/text_tooltips.xml.append:12
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
 "ее."
 
-#: src-en/data/text_tooltips.xml.append:12
+#: src-en/data/text_tooltips.xml.append:13
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2_enemy\"]"
 msgstr "Управление турелью: питает вражескую турель."
 
-#: src-en/data/text_tooltips.xml.append:13
+#: src-en/data/text_tooltips.xml.append:14
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
 "ее."
 
-#: src-en/data/text_tooltips.xml.append:14
+#: src-en/data/text_tooltips.xml.append:15
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3_enemy\"]"
 msgstr "Управление турелью: питает вражескую турель."
 
-#: src-en/data/text_tooltips.xml.append:15
+#: src-en/data/text_tooltips.xml.append:16
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
 "ее."
 
-#: src-en/data/text_tooltips.xml.append:16
+#: src-en/data/text_tooltips.xml.append:17
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4_enemy\"]"
 msgstr "Управление турелью: питает вражескую турель."

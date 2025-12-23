@@ -9,58 +9,59 @@ msgstr ""
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/text"
 msgstr ""
-"Когда вы прибываете, корабль Железного дозора исследует этот маяк. Похоже, "
-"они не хотят рисковать и сразу же активируют свое оружие."
+"An Iron Watch vessel is exploring this beacon when you arrive, it appears "
+"they aren't taking any chances out here and immediately activate their "
+"weapons."
 
 #: src-en/data/events_sector_abandoned.xml.append:10
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"-999\"]/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_abandoned.xml.append:14
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_abandoned.xml.append:17
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
-"К счастью, они быстро узнают вас благодаря вашей хорошей репутации. Они "
-"предлагают поделиться частью найденного ими добра."
+"Luckily they quickly recognise you due to your positive reputation. They "
+"offer to split some of salvage they've found."
 
 #: src-en/data/events_sector_abandoned.xml.append:20
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[1]/text"
-msgstr "Тем не менее, атаковать их."
+msgstr "Attack them anyway."
 
 #: src-en/data/events_sector_abandoned.xml.append:22
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
 msgstr ""
-"Вы включаете свое оружие после получения добычи, и по количеству "
-"ругательств, которые слышны в вашей связи, становится ясно, что Железный "
-"дозор явно возмущен вашим предательством."
+"You power on your weapons after receiving the salvage, the Iron Watch are "
+"clearly outraged by your betrayal by the number of expletives you can hear "
+"over your comms."
 
 #: src-en/data/events_sector_abandoned.xml.append:25
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_sector_abandoned.xml.append:31
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[2]/text"
-msgstr "Заняться чем-либо на корабле."
+msgstr "Do something onboard the ship."
 
 #: src-en/data/events_sector_abandoned.xml.append:35
 msgid ""
 "data/events_sector_abandoned.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ABANDONED\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[3]/text"
-msgstr "Ничего не делать."
+msgstr "Do nothing."

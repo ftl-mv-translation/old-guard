@@ -1,0 +1,242 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_og_dawn.xml:10
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DESTROY\"]/text"
+msgstr ""
+"You have defeated the Iron Watch guard. Whatever might have been in their "
+"cargo has for certain been destroyed, but you can at least salvage some "
+"supplies from the ship."
+
+#: src-en/data/events_sector_og_dawn.xml:13
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DESTROY\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_dawn.xml:18
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DEADCREW\"]/text"
+msgstr ""
+"You have defeated the Iron Watch guard. Without crew on board to stop you, "
+"you can investigate their cargo. You find a weapon to bring back to the "
+"ship, and move on to scrap their hull."
+
+#: src-en/data/events_sector_og_dawn.xml:22
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DEADCREW\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_dawn.xml:34
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/text"
+msgstr ""
+"By killing the Iron Watch guard, you have no doubt caused them to dispatch "
+"reinforcements to track you down. Watch your step as you explore the sector."
+
+#: src-en/data/events_sector_og_dawn.xml:43
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_og_dawn.xml:47
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_og_dawn.xml:55
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_og_dawn.xml:56
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_og_dawn.xml:57
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_og_dawn.xml:59
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/text"
+msgstr ""
+"A Iron Watch ship moves in to attack! Based on the vengeful look in their "
+"captain's eye, this is no doubt the ship dispatched by the guard to hunt you"
+" down!"
+
+#: src-en/data/events_sector_og_dawn.xml:63
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_dawn.xml:71
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_og_dawn.xml:72
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_og_dawn.xml:73
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_og_dawn.xml:75
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/text"
+msgstr ""
+"A Iron Watch ship moves in to attack! Based on the vengeful look in their "
+"captain's eye, this is no doubt the ship dispatched by the guard to hunt you"
+" down!"
+
+#: src-en/data/events_sector_og_dawn.xml:81
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_dawn.xml:88
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN\"]/text"
+msgstr ""
+"[REPUTATION INCREASED - NEW DAWN]\n"
+"\tYour actions here have improved your reputation within the New Dawn, at the cost of your reputation with the Iron Watch. Certain members might be more willing to interact with you.\n"
+"\n"
+"[NOTORIETY INCREASED - GENERAL]\n"
+"Your actions here, justifiable or not, will not reflect well in the eyes of the Federation or its citizens. Continuously perform actions like this and you might start to see negative reactions from the Federation and its allies."
+
+#: src-en/data/events_sector_og_dawn.xml:97
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN_COMBAT\"]/text"
+msgstr ""
+"[REPUTATION INCREASED - NEW DAWN]\n"
+"\tYour actions here have improved your reputation within the New Dawn, at the cost of your reputation with the Iron Watch. Certain members might be more willing to interact with you.\n"
+"\n"
+"[NOTORIETY INCREASED - GENERAL]\n"
+"Your actions here, justifiable or not, will not reflect well in the eyes of the Federation or its citizens. Continuously perform actions like this and you might start to see negative reactions from the Federation and its allies."
+
+#: src-en/data/events_sector_og_dawn.xml:105
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN_COMBAT\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_dawn.xml:110
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_OG_DAWN\"]/text"
+msgstr ""
+"[REPUTATION DECREASED - NEW DAWN]\n"
+"\tYour actions here will reflect poorly within the New Dawn. They might no longer feel comfortable around you, if you had previously gained reputation before."
+
+#: src-en/data/events_sector_og_dawn.xml:115
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_OG_DAWN_COMBAT\"]/text"
+msgstr ""
+"[REPUTATION DECREASED - NEW DAWN]\n"
+"\tYour actions here will reflect poorly within the New Dawn. They might no longer feel comfortable around you, if you had previously gained reputation before."
+
+#: src-en/data/events_sector_og_dawn.xml:119
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_OG_DAWN_COMBAT\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_dawn.xml:129
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"FINISH_BEACON_OG_DAWN\"]/choice[1]/text"
+msgstr "Explore."
+
+#: src-en/data/events_sector_og_dawn.xml:133
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"FINISH_BEACON_OG_DAWN\"]/choice[2]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_og_dawn.xml:137
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"FINISH_BEACON_OG_DAWN\"]/choice[3]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_og_dawn.xml:149
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[1]"
+msgstr ""
+"The Iron Watch captain lets out one final expletive as the ship is "
+"obliterated."
+
+#: src-en/data/events_sector_og_dawn.xml:150
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[2]"
+msgstr ""
+"The hull of the Iron Watch vessel is dispersed out into space. You swoop in "
+"to salvage the remains."
+
+#: src-en/data/events_sector_og_dawn.xml:151
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[3]"
+msgstr ""
+"The Iron Watch ship explodes, extinguishing all lives within. Your crew "
+"avoids their remains as they salvage the ship pieces."
+
+#: src-en/data/events_sector_og_dawn.xml:152
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[4]"
+msgstr ""
+"One of the turrets is launched off into empty space as the ship explodes, "
+"throwing valuable debris in every direction."
+
+#: src-en/data/events_sector_og_dawn.xml:160
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[1]"
+msgstr ""
+"\"Your bloodlust... will be your downfall someday, Renegade. You are only "
+"proof... the Federation... is no better than the Rebellion...\""
+
+#: src-en/data/events_sector_og_dawn.xml:161
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[2]"
+msgstr ""
+"Without a word, the Iron Watch captain falls to the ground, gasping for air "
+"as the life is extinguished from their eyes. You salvage the hull of their "
+"ship."
+
+#: src-en/data/events_sector_og_dawn.xml:162
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[3]"
+msgstr ""
+"\"You will regret this! Karma always comes back to people like you. Damn you"
+" Renegades... the Iron Watch would have been better off with the "
+"Rebellion...\""
+
+#: src-en/data/events_sector_og_dawn.xml:166
+msgid "data/events_sector_og_dawn.xml$//event[@name=\"ESCAPE_OG_DAWN\"]/text"
+msgstr ""
+"Scans show that the Iron Watch ship is trying to escape. Destroy it before "
+"it can get away!"
+
+#: src-en/data/events_sector_og_dawn.xml:179
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[1]"
+msgstr ""
+"The Iron Watch vessel has slipped from your grasp, abandoning you at the "
+"beacon."
+
+#: src-en/data/events_sector_og_dawn.xml:180
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[2]"
+msgstr ""
+"Your attempts at destroying the Iron Watch vessel have failed, and the ship "
+"has escaped."
+
+#: src-en/data/events_sector_og_dawn.xml:183
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GOTAWAY_OG_DAWN_REMAINS\"]/text"
+msgstr ""
+"The Iron Watch vessel may have escaped, but not everything has gone wrong. A"
+" trail of scrap from the wreckage has been left behind, which you collect."

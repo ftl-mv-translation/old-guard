@@ -13,7 +13,7 @@ msgstr "Tip: Turrets have to be equiped to the Turret Control system."
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_mini\"]"
 msgstr ""
 "Tip: Turrets have to be equiped to the Turret Control system. Micro turrets "
-"cannot be equiped on larger turret slots."
+"can be equiped on both small and large turret slots."
 
 #: src-en/data/text_tooltips.xml.append:4
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_base\"]"

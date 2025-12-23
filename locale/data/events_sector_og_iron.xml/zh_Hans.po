@@ -422,1006 +422,1011 @@ msgstr ""
 
 #: src-en/data/events_sector_og_iron.xml:341
 msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:347
+msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:345
+#: src-en/data/events_sector_og_iron.xml:351
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:350
+#: src-en/data/events_sector_og_iron.xml:356
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON_COMBAT\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:355
+#: src-en/data/events_sector_og_iron.xml:361
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON_COMBAT\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:365
+#: src-en/data/events_sector_og_iron.xml:371
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[1]/text"
 msgstr "探索。"
 
-#: src-en/data/events_sector_og_iron.xml:369
+#: src-en/data/events_sector_og_iron.xml:375
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[2]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:373
+#: src-en/data/events_sector_og_iron.xml:379
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[3]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:385
+#: src-en/data/events_sector_og_iron.xml:391
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:386
+#: src-en/data/events_sector_og_iron.xml:392
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:387
+#: src-en/data/events_sector_og_iron.xml:393
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:388
+#: src-en/data/events_sector_og_iron.xml:394
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:396
+#: src-en/data/events_sector_og_iron.xml:402
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[1]"
 msgstr "\"你的杀戮欲…总有一天会成为你的致命弱点，变元者。你只证明了…联邦相比叛军…好不到哪去…\""
 
-#: src-en/data/events_sector_og_iron.xml:397
+#: src-en/data/events_sector_og_iron.xml:403
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:398
+#: src-en/data/events_sector_og_iron.xml:404
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:404
+#: src-en/data/events_sector_og_iron.xml:410
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"SURRENDER_OG_IRON\"]/choice[1]/text"
 msgstr "接受他们的投降。"
 
-#: src-en/data/events_sector_og_iron.xml:413
+#: src-en/data/events_sector_og_iron.xml:419
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[1]"
 msgstr "\"好了好了，你们赢了！拿走我们店里的一些装备，放过我们吧！\""
 
-#: src-en/data/events_sector_og_iron.xml:414
+#: src-en/data/events_sector_og_iron.xml:420
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[2]"
 msgstr "对方舰船反复向你发起呼叫。看来他们想要投降。"
 
-#: src-en/data/events_sector_og_iron.xml:415
+#: src-en/data/events_sector_og_iron.xml:421
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[3]"
 msgstr "\"你比我们想象中装备精良多了。我们投降。\""
 
-#: src-en/data/events_sector_og_iron.xml:416
+#: src-en/data/events_sector_og_iron.xml:422
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[4]"
 msgstr "他们向你发了一条消息：\"你的星舰装备真是精良！请拿走这件装备放我们一条生路吧。\""
 
-#: src-en/data/events_sector_og_iron.xml:417
+#: src-en/data/events_sector_og_iron.xml:423
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[5]"
 msgstr "\"求求你不要杀死我们。我们所有东西都给你！\""
 
-#: src-en/data/events_sector_og_iron.xml:418
+#: src-en/data/events_sector_og_iron.xml:424
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[6]"
 msgstr "他们提议如果放他们一条生路就把部分货物送给你。"
 
-#: src-en/data/events_sector_og_iron.xml:419
+#: src-en/data/events_sector_og_iron.xml:425
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[7]"
 msgstr "他们提议如果不摧毁他们舰船就把部分货物送给你。"
 
-#: src-en/data/events_sector_og_iron.xml:420
+#: src-en/data/events_sector_og_iron.xml:426
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[8]"
 msgstr "你收到一条慌张的消息，\"我们所有东西都给你！千万别杀死我们！\""
 
-#: src-en/data/events_sector_og_iron.xml:421
+#: src-en/data/events_sector_og_iron.xml:427
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[9]"
 msgstr "\"显然是你更胜一筹。我们只求活命。\""
 
-#: src-en/data/events_sector_og_iron.xml:422
+#: src-en/data/events_sector_og_iron.xml:428
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[10]"
 msgstr "\"你的意图我们领会了，我们被打败了。拿走这些让我们自取其辱吧。\""
 
-#: src-en/data/events_sector_og_iron.xml:423
+#: src-en/data/events_sector_og_iron.xml:429
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[11]"
 msgstr "\"把我们东西都拿走吧，我们就当刚才的事从没发生过。\""
 
-#: src-en/data/events_sector_og_iron.xml:427
+#: src-en/data/events_sector_og_iron.xml:433
 msgid "data/events_sector_og_iron.xml$//event[@name=\"ESCAPE_OG_IRON\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:440
+#: src-en/data/events_sector_og_iron.xml:446
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_IRON\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:441
+#: src-en/data/events_sector_og_iron.xml:447
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_IRON\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:444
+#: src-en/data/events_sector_og_iron.xml:450
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GOTAWAY_OG_IRON_REMAINS\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:505
+#: src-en/data/events_sector_og_iron.xml:511
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/text"
 msgstr "有一个盟军加油站俯瞰附近的市场。"
 
-#: src-en/data/events_sector_og_iron.xml:508
+#: src-en/data/events_sector_og_iron.xml:514
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:510
+#: src-en/data/events_sector_og_iron.xml:516
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/text"
 msgstr "你囤积了一些燃料，然后到商店里去看了看。"
 
-#: src-en/data/events_sector_og_iron.xml:516
+#: src-en/data/events_sector_og_iron.xml:522
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/choice/text"
 msgstr "交易。"
 
-#: src-en/data/events_sector_og_iron.xml:522
+#: src-en/data/events_sector_og_iron.xml:528
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:524
+#: src-en/data/events_sector_og_iron.xml:530
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/text"
 msgstr "你囤积了一些燃料，然后到商店里去看了看。"
 
-#: src-en/data/events_sector_og_iron.xml:530
+#: src-en/data/events_sector_og_iron.xml:536
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/choice/text"
 msgstr "交易。"
 
-#: src-en/data/events_sector_og_iron.xml:536
+#: src-en/data/events_sector_og_iron.xml:542
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:538
+#: src-en/data/events_sector_og_iron.xml:544
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
 msgstr "你囤积了一些燃料，然后到商店里去看了看。"
 
-#: src-en/data/events_sector_og_iron.xml:543
+#: src-en/data/events_sector_og_iron.xml:549
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice/text"
 msgstr "交易。"
 
-#: src-en/data/events_sector_og_iron.xml:549
+#: src-en/data/events_sector_og_iron.xml:555
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:551
+#: src-en/data/events_sector_og_iron.xml:557
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/event/text"
 msgstr "在这之后，市场很可能不愿意继续和你交易了，但这并不妨碍你骚扰随机的平民。"
 
-#: src-en/data/events_sector_og_iron.xml:554
+#: src-en/data/events_sector_og_iron.xml:560
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:560
+#: src-en/data/events_sector_og_iron.xml:566
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[5]/text"
 msgstr "就在周围购物。"
 
-#: src-en/data/events_sector_og_iron.xml:580
+#: src-en/data/events_sector_og_iron.xml:586
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:584
+#: src-en/data/events_sector_og_iron.xml:590
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:586
+#: src-en/data/events_sector_og_iron.xml:592
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:590
+#: src-en/data/events_sector_og_iron.xml:596
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:594
+#: src-en/data/events_sector_og_iron.xml:600
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:600
+#: src-en/data/events_sector_og_iron.xml:606
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:602
+#: src-en/data/events_sector_og_iron.xml:608
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:604
+#: src-en/data/events_sector_og_iron.xml:610
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:608
+#: src-en/data/events_sector_og_iron.xml:614
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:618
+#: src-en/data/events_sector_og_iron.xml:624
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:620
+#: src-en/data/events_sector_og_iron.xml:626
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[1]/text"
 msgstr "同意提供帮助。"
 
-#: src-en/data/events_sector_og_iron.xml:623
+#: src-en/data/events_sector_og_iron.xml:629
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:627
+#: src-en/data/events_sector_og_iron.xml:633
 msgid ""
 "data/events_sector_og_iron.xml$//triggeredEvent[@name=\"OG_IRON_FOR_SCIENCE_TURRET\"]/triggeredEventBox/tooltip"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:635
+#: src-en/data/events_sector_og_iron.xml:641
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:637
+#: src-en/data/events_sector_og_iron.xml:643
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:639
+#: src-en/data/events_sector_og_iron.xml:645
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:643
+#: src-en/data/events_sector_og_iron.xml:649
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:651
+#: src-en/data/events_sector_og_iron.xml:657
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:653
+#: src-en/data/events_sector_og_iron.xml:659
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"LIST_CREW_POWER\"]/text"
 msgstr "(能量供给船员) 让你的船员超载他们的系统。"
 
-#: src-en/data/events_sector_og_iron.xml:657
+#: src-en/data/events_sector_og_iron.xml:663
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"battery\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:661
+#: src-en/data/events_sector_og_iron.xml:667
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:675
+#: src-en/data/events_sector_og_iron.xml:681
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS_ION\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:679
+#: src-en/data/events_sector_og_iron.xml:685
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:685
+#: src-en/data/events_sector_og_iron.xml:691
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_BLAST\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:704
+#: src-en/data/events_sector_og_iron.xml:710
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:706
+#: src-en/data/events_sector_og_iron.xml:712
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/text"
 msgstr "调查。"
 
-#: src-en/data/events_sector_og_iron.xml:708
+#: src-en/data/events_sector_og_iron.xml:714
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:713
+#: src-en/data/events_sector_og_iron.xml:719
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/text"
 msgstr "无视这艘舰船。"
 
-#: src-en/data/events_sector_og_iron.xml:715
+#: src-en/data/events_sector_og_iron.xml:721
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:717
+#: src-en/data/events_sector_og_iron.xml:723
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:721
+#: src-en/data/events_sector_og_iron.xml:727
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:744
+#: src-en/data/events_sector_og_iron.xml:750
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:747
+#: src-en/data/events_sector_og_iron.xml:753
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:752
+#: src-en/data/events_sector_og_iron.xml:758
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:755
+#: src-en/data/events_sector_og_iron.xml:761
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:763
+#: src-en/data/events_sector_og_iron.xml:769
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:765
+#: src-en/data/events_sector_og_iron.xml:771
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/text"
 msgstr "援救平民船。"
 
-#: src-en/data/events_sector_og_iron.xml:767
+#: src-en/data/events_sector_og_iron.xml:773
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:770
+#: src-en/data/events_sector_og_iron.xml:776
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:776
+#: src-en/data/events_sector_og_iron.xml:782
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/text"
 msgstr "不要插手。"
 
-#: src-en/data/events_sector_og_iron.xml:779
+#: src-en/data/events_sector_og_iron.xml:785
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/text"
 msgstr "战斗把他们带出了你的即时传感范围。一段时间过后，求救信号停止了。"
 
-#: src-en/data/events_sector_og_iron.xml:781
+#: src-en/data/events_sector_og_iron.xml:787
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:785
+#: src-en/data/events_sector_og_iron.xml:791
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:795
+#: src-en/data/events_sector_og_iron.xml:801
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:797
+#: src-en/data/events_sector_og_iron.xml:803
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/text"
 msgstr "援救平民船。"
 
-#: src-en/data/events_sector_og_iron.xml:799
+#: src-en/data/events_sector_og_iron.xml:805
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:802
+#: src-en/data/events_sector_og_iron.xml:808
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:808
+#: src-en/data/events_sector_og_iron.xml:814
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/text"
 msgstr "不要插手。"
 
-#: src-en/data/events_sector_og_iron.xml:811
+#: src-en/data/events_sector_og_iron.xml:817
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/text"
 msgstr "战斗把他们带出了你的即时传感范围。一段时间过后，求救信号停止了。"
 
-#: src-en/data/events_sector_og_iron.xml:813
+#: src-en/data/events_sector_og_iron.xml:819
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:817
+#: src-en/data/events_sector_og_iron.xml:823
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:827
+#: src-en/data/events_sector_og_iron.xml:833
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:829
+#: src-en/data/events_sector_og_iron.xml:835
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/text"
 msgstr "援救平民船。"
 
-#: src-en/data/events_sector_og_iron.xml:831
+#: src-en/data/events_sector_og_iron.xml:837
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:834
+#: src-en/data/events_sector_og_iron.xml:840
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:836
+#: src-en/data/events_sector_og_iron.xml:842
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:840
+#: src-en/data/events_sector_og_iron.xml:846
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:846
+#: src-en/data/events_sector_og_iron.xml:852
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:848
+#: src-en/data/events_sector_og_iron.xml:854
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:852
+#: src-en/data/events_sector_og_iron.xml:858
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:860
+#: src-en/data/events_sector_og_iron.xml:866
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/text"
 msgstr "不要插手。"
 
-#: src-en/data/events_sector_og_iron.xml:863
+#: src-en/data/events_sector_og_iron.xml:869
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/text"
 msgstr "战斗把他们带出了你的即时传感范围。一段时间过后，求救信号停止了。"
 
-#: src-en/data/events_sector_og_iron.xml:865
+#: src-en/data/events_sector_og_iron.xml:871
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:869
+#: src-en/data/events_sector_og_iron.xml:875
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:878
+#: src-en/data/events_sector_og_iron.xml:884
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:880
+#: src-en/data/events_sector_og_iron.xml:886
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/choice[1]/text"
 msgstr "接受提议。"
 
-#: src-en/data/events_sector_og_iron.xml:884
+#: src-en/data/events_sector_og_iron.xml:890
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/choice[2]/text"
 msgstr "选项里没有投降二字。"
 
-#: src-en/data/events_sector_og_iron.xml:892
+#: src-en/data/events_sector_og_iron.xml:898
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/destroyed/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:900
+#: src-en/data/events_sector_og_iron.xml:906
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/deadCrew/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:906
+#: src-en/data/events_sector_og_iron.xml:912
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:911
+#: src-en/data/events_sector_og_iron.xml:917
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:913
+#: src-en/data/events_sector_og_iron.xml:919
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:917
+#: src-en/data/events_sector_og_iron.xml:923
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[@req=\"sensors\""
 " and @lvl=\"2\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:921
+#: src-en/data/events_sector_og_iron.xml:927
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:925
+#: src-en/data/events_sector_og_iron.xml:931
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/text"
 msgstr "礼貌地拒绝。"
 
-#: src-en/data/events_sector_og_iron.xml:927
+#: src-en/data/events_sector_og_iron.xml:933
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:929
+#: src-en/data/events_sector_og_iron.xml:935
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:933
+#: src-en/data/events_sector_og_iron.xml:939
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:942
+#: src-en/data/events_sector_og_iron.xml:948
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:945
+#: src-en/data/events_sector_og_iron.xml:951
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:947
+#: src-en/data/events_sector_og_iron.xml:953
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:950
+#: src-en/data/events_sector_og_iron.xml:956
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:956
+#: src-en/data/events_sector_og_iron.xml:962
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:958
+#: src-en/data/events_sector_og_iron.xml:964
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:960
+#: src-en/data/events_sector_og_iron.xml:966
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:964
+#: src-en/data/events_sector_og_iron.xml:970
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:972
+#: src-en/data/events_sector_og_iron.xml:978
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:974
+#: src-en/data/events_sector_og_iron.xml:980
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:976
+#: src-en/data/events_sector_og_iron.xml:982
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:979
+#: src-en/data/events_sector_og_iron.xml:985
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:985
+#: src-en/data/events_sector_og_iron.xml:991
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:987
+#: src-en/data/events_sector_og_iron.xml:993
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:989
+#: src-en/data/events_sector_og_iron.xml:995
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:993
+#: src-en/data/events_sector_og_iron.xml:999
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:1000
+#: src-en/data/events_sector_og_iron.xml:1006
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_EXPLORE_TRANSPORT_SEARCH\"]/event[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1023
+#: src-en/data/events_sector_og_iron.xml:1029
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_WATCH_PIRATE\"]/destroyed/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1031
+#: src-en/data/events_sector_og_iron.xml:1037
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_WATCH_PIRATE\"]/deadCrew/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1040
+#: src-en/data/events_sector_og_iron.xml:1046
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1042
+#: src-en/data/events_sector_og_iron.xml:1048
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1044
+#: src-en/data/events_sector_og_iron.xml:1050
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1047
+#: src-en/data/events_sector_og_iron.xml:1053
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1053
+#: src-en/data/events_sector_og_iron.xml:1059
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1055
+#: src-en/data/events_sector_og_iron.xml:1061
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/text"
 msgstr "战斗把他们带出了你的即时传感范围。一段时间过后，求救信号停止了。"
 
-#: src-en/data/events_sector_og_iron.xml:1057
+#: src-en/data/events_sector_og_iron.xml:1063
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:1061
+#: src-en/data/events_sector_og_iron.xml:1067
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:1076
+#: src-en/data/events_sector_og_iron.xml:1082
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1078
+#: src-en/data/events_sector_og_iron.xml:1084
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1080
+#: src-en/data/events_sector_og_iron.xml:1086
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1083
+#: src-en/data/events_sector_og_iron.xml:1089
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1089
+#: src-en/data/events_sector_og_iron.xml:1095
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1091
+#: src-en/data/events_sector_og_iron.xml:1097
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1096
+#: src-en/data/events_sector_og_iron.xml:1102
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1105
+#: src-en/data/events_sector_og_iron.xml:1111
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1107
+#: src-en/data/events_sector_og_iron.xml:1113
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1109
+#: src-en/data/events_sector_og_iron.xml:1115
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1115
+#: src-en/data/events_sector_og_iron.xml:1121
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1121
+#: src-en/data/events_sector_og_iron.xml:1127
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1123
+#: src-en/data/events_sector_og_iron.xml:1129
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1126
+#: src-en/data/events_sector_og_iron.xml:1132
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1132
+#: src-en/data/events_sector_og_iron.xml:1138
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"DRONE_CONTROL_REPAIR_CREW\"]/text"
 msgstr "(维修无人机)派出一架维修无人机。[-1|]"
 
-#: src-en/data/events_sector_og_iron.xml:1136
+#: src-en/data/events_sector_og_iron.xml:1142
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
 msgstr "尝试解决他们的问题。"
 
-#: src-en/data/events_sector_og_iron.xml:1140
+#: src-en/data/events_sector_og_iron.xml:1146
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1142
+#: src-en/data/events_sector_og_iron.xml:1148
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/event/text"
 msgstr "每一个废料都是如此珍贵，怎可放过唾手可得之物。"
 
-#: src-en/data/events_sector_og_iron.xml:1145
+#: src-en/data/events_sector_og_iron.xml:1151
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1151
+#: src-en/data/events_sector_og_iron.xml:1157
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/text"
 msgstr "道歉并说你帮不上忙。"
 
-#: src-en/data/events_sector_og_iron.xml:1153
+#: src-en/data/events_sector_og_iron.xml:1159
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1155
+#: src-en/data/events_sector_og_iron.xml:1161
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:1159
+#: src-en/data/events_sector_og_iron.xml:1165
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:1168
+#: src-en/data/events_sector_og_iron.xml:1174
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1174
+#: src-en/data/events_sector_og_iron.xml:1180
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[1]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1179
+#: src-en/data/events_sector_og_iron.xml:1185
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1186
+#: src-en/data/events_sector_og_iron.xml:1192
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1195
+#: src-en/data/events_sector_og_iron.xml:1201
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1198
+#: src-en/data/events_sector_og_iron.xml:1204
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[1]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1203
+#: src-en/data/events_sector_og_iron.xml:1209
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1207
+#: src-en/data/events_sector_og_iron.xml:1213
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1211
+#: src-en/data/events_sector_og_iron.xml:1217
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[4]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1214
+#: src-en/data/events_sector_og_iron.xml:1220
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[5]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1232
+#: src-en/data/events_sector_og_iron.xml:1238
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1234
+#: src-en/data/events_sector_og_iron.xml:1240
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1236
+#: src-en/data/events_sector_og_iron.xml:1242
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1239
+#: src-en/data/events_sector_og_iron.xml:1245
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/text"
 msgstr "调查。"
 
-#: src-en/data/events_sector_og_iron.xml:1241
+#: src-en/data/events_sector_og_iron.xml:1247
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1245
+#: src-en/data/events_sector_og_iron.xml:1251
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:1249
+#: src-en/data/events_sector_og_iron.xml:1255
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:1261
+#: src-en/data/events_sector_og_iron.xml:1267
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1265
+#: src-en/data/events_sector_og_iron.xml:1271
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1267
+#: src-en/data/events_sector_og_iron.xml:1273
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1269
+#: src-en/data/events_sector_og_iron.xml:1275
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1271
+#: src-en/data/events_sector_og_iron.xml:1277
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
 "not(@lvl)]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1273
+#: src-en/data/events_sector_og_iron.xml:1279
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
 "not(@lvl)]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1278
+#: src-en/data/events_sector_og_iron.xml:1284
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
@@ -1429,293 +1434,666 @@ msgid ""
 "not(@lvl)]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1284
+#: src-en/data/events_sector_og_iron.xml:1290
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
 "@lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1288
+#: src-en/data/events_sector_og_iron.xml:1294
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1290
+#: src-en/data/events_sector_og_iron.xml:1296
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1292
+#: src-en/data/events_sector_og_iron.xml:1298
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[3]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:1296
+#: src-en/data/events_sector_og_iron.xml:1302
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[3]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:1304
+#: src-en/data/events_sector_og_iron.xml:1310
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1308
+#: src-en/data/events_sector_og_iron.xml:1314
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/text"
 msgstr "无视哨站。"
 
-#: src-en/data/events_sector_og_iron.xml:1310
+#: src-en/data/events_sector_og_iron.xml:1316
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1312
+#: src-en/data/events_sector_og_iron.xml:1318
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:1316
+#: src-en/data/events_sector_og_iron.xml:1322
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:1335
+#: src-en/data/events_sector_og_iron.xml:1341
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1337
+#: src-en/data/events_sector_og_iron.xml:1343
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1341
+#: src-en/data/events_sector_og_iron.xml:1347
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1343
+#: src-en/data/events_sector_og_iron.xml:1349
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1346
+#: src-en/data/events_sector_og_iron.xml:1352
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1348
+#: src-en/data/events_sector_og_iron.xml:1354
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1356
+#: src-en/data/events_sector_og_iron.xml:1362
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1358
+#: src-en/data/events_sector_og_iron.xml:1364
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1361
+#: src-en/data/events_sector_og_iron.xml:1367
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:1365
+#: src-en/data/events_sector_og_iron.xml:1371
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:1371
+#: src-en/data/events_sector_og_iron.xml:1377
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/text"
 msgstr "让他们离开。"
 
-#: src-en/data/events_sector_og_iron.xml:1373
+#: src-en/data/events_sector_og_iron.xml:1379
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1376
+#: src-en/data/events_sector_og_iron.xml:1382
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:1380
+#: src-en/data/events_sector_og_iron.xml:1386
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:1388
+#: src-en/data/events_sector_og_iron.xml:1394
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1391
+#: src-en/data/events_sector_og_iron.xml:1397
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[1]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1396
+#: src-en/data/events_sector_og_iron.xml:1402
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1400
+#: src-en/data/events_sector_og_iron.xml:1406
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[2]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1411
+#: src-en/data/events_sector_og_iron.xml:1417
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_DAWN_QUEST\"]/destroyed/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1419
+#: src-en/data/events_sector_og_iron.xml:1425
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_DAWN_QUEST\"]/deadCrew/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1427
+#: src-en/data/events_sector_og_iron.xml:1433
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1432
+#: src-en/data/events_sector_og_iron.xml:1438
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1434
+#: src-en/data/events_sector_og_iron.xml:1440
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/text"
 msgstr "攻击守卫。"
 
-#: src-en/data/events_sector_og_iron.xml:1436
+#: src-en/data/events_sector_og_iron.xml:1442
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1439
+#: src-en/data/events_sector_og_iron.xml:1445
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1445
+#: src-en/data/events_sector_og_iron.xml:1451
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1447
+#: src-en/data/events_sector_og_iron.xml:1453
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1450
+#: src-en/data/events_sector_og_iron.xml:1456
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1456
+#: src-en/data/events_sector_og_iron.xml:1462
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1458
+#: src-en/data/events_sector_og_iron.xml:1464
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1461
+#: src-en/data/events_sector_og_iron.xml:1467
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_og_iron.xml:1465
+#: src-en/data/events_sector_og_iron.xml:1471
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_og_iron.xml:1473
+#: src-en/data/events_sector_og_iron.xml:1479
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1477
+#: src-en/data/events_sector_og_iron.xml:1483
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1504
+#: src-en/data/events_sector_og_iron.xml:1510
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_SHIP\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1509
+#: src-en/data/events_sector_og_iron.xml:1515
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1510
+#: src-en/data/events_sector_og_iron.xml:1516
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[2]"
 msgstr "抵达该星系后不久，你就被一艘小型战舰叫住。\"真是好运气，我们碰巧遇到了彼此。不针对你个人，但你有一些我们需要的情报！\""
 
-#: src-en/data/events_sector_og_iron.xml:1511
+#: src-en/data/events_sector_og_iron.xml:1517
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[3]"
 msgstr "这个信标处的另一艘船给你发来信息。\"等待了几个月的时间，终于有人落入我们的陷阱！\""
 
-#: src-en/data/events_sector_og_iron.xml:1512
+#: src-en/data/events_sector_og_iron.xml:1518
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[4]"
 msgstr "你还没有完成跃迁充能之前便听到你的星舰警告你有一艘带着武器的飞船来袭。"
 
-#: src-en/data/events_sector_og_iron.xml:1516
+#: src-en/data/events_sector_og_iron.xml:1522
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1520
+#: src-en/data/events_sector_og_iron.xml:1526
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_og_iron.xml:1526
+#: src-en/data/events_sector_og_iron.xml:1532
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1530
+#: src-en/data/events_sector_og_iron.xml:1536
 #, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1556
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1558
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1560
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1563
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1565
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1568
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1572
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1576
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1580
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1582
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1587
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1589
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1591
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_sector_og_iron.xml:1595
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_sector_og_iron.xml:1607
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1610
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_sector_og_iron.xml:1614
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_sector_og_iron.xml:1619
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1621
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1626
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1628
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1633
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1638
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1640
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1646
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1652
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1654
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1656
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_sector_og_iron.xml:1660
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_sector_og_iron.xml:1668
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1673
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1678
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1680
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1683
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1689
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1691
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1694
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1700
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1702
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1707
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1709
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1711
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_sector_og_iron.xml:1715
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_sector_og_iron.xml:1723
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1725
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1727
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1730
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1736
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1738
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1741
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1747
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1749
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1754
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1756
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1758
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_sector_og_iron.xml:1762
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_sector_og_iron.xml:1775
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/destroyed/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1784
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/deadCrew/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1792
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1797
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1799
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_sector_og_iron.xml:1801
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1805
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1809
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1813
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1815
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1818
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_sector_og_iron.xml:1822
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_sector_og_iron.xml:1832
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1835
+#, fuzzy
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/choice/text"
 msgstr "继续。"

@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-21 19:44+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
-"datatext_miscxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"ship_unlock_og_two_wins\"]"
@@ -26,7 +18,8 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_RAIDER_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 8 на корабле типа A, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 8 на корабле типа A, чтобы разблокировать этот "
+"корабль."
 
 #: src-en/data/text_misc.xml.append:8
 msgid ""
@@ -44,7 +37,8 @@ msgstr "Пройдите игру на 2 любых кораблях класс�
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 8 на корабле типа A, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 8 на корабле типа A, чтобы разблокировать этот "
+"корабль."
 
 #: src-en/data/text_misc.xml.append:12
 msgid ""
@@ -54,49 +48,84 @@ msgstr ""
 "корабль."
 
 #: src-en/data/text_misc.xml.append:14
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_REBEL_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:15
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_CURA_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:16
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_SEPARATIST_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:17
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ANGEL_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:18
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ROCK_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:19
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_PEACEKEEPER_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:20
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_KNIGHT_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret\"]"
 msgstr "Управление турелью"
 
-#: src-en/data/text_misc.xml.append:15
+#: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_installed\"]"
 msgstr "Система управления турелью установлена"
 
-#: src-en/data/text_misc.xml.append:16
+#: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_alt\"]"
 msgstr "Управление турелью"
 
-#: src-en/data/text_misc.xml.append:17
+#: src-en/data/text_misc.xml.append:25
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_alt_installed\"]"
 msgstr "Система управления турелью установлена"
 
-#: src-en/data/text_misc.xml.append:18
+#: src-en/data/text_misc.xml.append:26
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini\"]"
 msgstr "Управление турелью"
 
-#: src-en/data/text_misc.xml.append:19
+#: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_installed\"]"
 msgstr "Система управления турелью установлена"
 
-#: src-en/data/text_misc.xml.append:20
+#: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2\"]"
 msgstr "Управление турелью"
 
-#: src-en/data/text_misc.xml.append:21
+#: src-en/data/text_misc.xml.append:29
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2_installed\"]"
 msgstr "Система управления турелью установлена"
 
-#: src-en/data/text_misc.xml.append:22
+#: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3\"]"
 msgstr "Управление турелью"
 
-#: src-en/data/text_misc.xml.append:23
+#: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3_installed\"]"
 msgstr "Система управления турелью установлена"
 
-#: src-en/data/text_misc.xml.append:24
+#: src-en/data/text_misc.xml.append:32
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4\"]"
 msgstr "Управление турелью"
 
-#: src-en/data/text_misc.xml.append:25
+#: src-en/data/text_misc.xml.append:33
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4_installed\"]"
 msgstr "Система управления турелью установлена"

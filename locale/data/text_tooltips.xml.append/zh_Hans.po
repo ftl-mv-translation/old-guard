@@ -13,55 +13,59 @@ msgstr ""
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_mini\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:5
-msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret\"]"
+#: src-en/data/text_tooltips.xml.append:4
+msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_base\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:6
-msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_enemy\"]"
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:7
-msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_alt\"]"
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_enemy\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:8
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_alt\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:9
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_alt_enemy\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:9
+#: src-en/data/text_tooltips.xml.append:10
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:10
+#: src-en/data/text_tooltips.xml.append:11
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_enemy\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:11
+#: src-en/data/text_tooltips.xml.append:12
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:12
+#: src-en/data/text_tooltips.xml.append:13
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2_enemy\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:13
+#: src-en/data/text_tooltips.xml.append:14
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:14
+#: src-en/data/text_tooltips.xml.append:15
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3_enemy\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:15
+#: src-en/data/text_tooltips.xml.append:16
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:16
+#: src-en/data/text_tooltips.xml.append:17
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4_enemy\"]"
 msgstr ""
