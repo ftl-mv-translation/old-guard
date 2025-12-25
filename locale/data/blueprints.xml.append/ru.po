@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-24 19:44+0000\n"
+"PO-Revision-Date: 2025-12-25 05:15+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
@@ -249,77 +249,96 @@ msgstr "Получает 0.7x урона в бою с экипажем и 0.6x �
 #: src-en/data/blueprints.xml.append:282
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/title"
-msgstr ""
+msgstr "Основание лазерной турели"
 
 #: src-en/data/blueprints.xml.append:283
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/short"
-msgstr ""
+msgstr "Осн. лазера"
 
 #: src-en/data/blueprints.xml.append:284
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/desc"
 msgstr ""
+"Может использоваться для создания:\n"
+"[Импульсная лазерная турель]\n"
+"[Тяжелая лазерная турель]\n"
+"[???]\n"
+"[???]"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/title"
-msgstr ""
+msgstr "Основание ионной турели"
 
 #: src-en/data/blueprints.xml.append:307
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/short"
-msgstr ""
+msgstr "Осн. ион."
 
 #: src-en/data/blueprints.xml.append:308
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/desc"
 msgstr ""
+"Может использоваться для создания:\n"
+"[Залповая ионная турель]\n"
+"[Огненная ионная турель]"
 
 #: src-en/data/blueprints.xml.append:328
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/title"
-msgstr ""
+msgstr "Основание ракетной турели"
 
 #: src-en/data/blueprints.xml.append:329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/short"
-msgstr ""
+msgstr "Осн. ракет."
 
 #: src-en/data/blueprints.xml.append:330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/desc"
 msgstr ""
+"Может использоваться для создания:\n"
+"[Ракетная роевая турель]\n"
+"[Четырехзарядная ракетная турель]\n"
+"[Осколочная турель]"
 
 #: src-en/data/blueprints.xml.append:351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/title"
-msgstr ""
+msgstr "Основание точечной турели"
 
 #: src-en/data/blueprints.xml.append:352
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/short"
-msgstr ""
+msgstr "Осн. точеч."
 
 #: src-en/data/blueprints.xml.append:353
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/desc"
 msgstr ""
+"Может использоваться для создания:\n"
+"[Точечная турель]"
 
 #: src-en/data/blueprints.xml.append:372
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/title"
-msgstr ""
+msgstr "Основание микротурели"
 
 #: src-en/data/blueprints.xml.append:373
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/short"
-msgstr ""
+msgstr "Осн. микрот."
 
 #: src-en/data/blueprints.xml.append:374
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/desc"
 msgstr ""
+"Может использоваться для создания:\n"
+"[Микролазерная турель]\n"
+"[Легкая лазерная турель]\n"
+"[Микроионная турель]\n"
+"[Микроточечная турель]"
 
 #: src-en/data/blueprints.xml.append:397
 msgid ""
@@ -1069,47 +1088,54 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1829
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/class"
-msgstr ""
+msgstr "Крейсер Железная Пустельга"
 
 #: src-en/data/blueprints.xml.append:1830
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/name"
-msgstr ""
+msgstr "Сверхсветовой"
 
 #: src-en/data/blueprints.xml.append:1831
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/desc"
 msgstr ""
+"Это культовое крейсерское судно модели \"Пустельга\" имеет отличную "
+"комплектацию и хорошо подходит как для опытных, так и для неопытных "
+"капитанов."
 
 #: src-en/data/blueprints.xml.append:1911
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/class"
-msgstr ""
+msgstr "Крейсер Железных повстанцев"
 
 #: src-en/data/blueprints.xml.append:1912
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/name"
-msgstr ""
+msgstr "Аяччо"
 
 #: src-en/data/blueprints.xml.append:1914
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/desc"
 msgstr ""
+"Используя артиллерийские технологии Федерации и вооружение, аналогичное "
+"Флагману, этот мощный крейсер представляет собой серьезную угрозу."
 
 #: src-en/data/blueprints.xml.append:1994
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/class"
-msgstr ""
+msgstr "Крейсер Железных Инноваций"
 
 #: src-en/data/blueprints.xml.append:1995
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/name"
-msgstr ""
+msgstr "К.У.Р.А."
 
 #: src-en/data/blueprints.xml.append:1997
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/desc"
 msgstr ""
+"На этом корабле, оснащенном ограниченным ИИ-ядром повстанцев, установлен "
+"прототип оборудования, используемого для создания выбросов энергии."
 
 #: src-en/data/blueprints.xml.append:2081
 msgid ""
