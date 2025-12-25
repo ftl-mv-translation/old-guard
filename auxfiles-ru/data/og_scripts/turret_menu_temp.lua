@@ -172,7 +172,7 @@ mods.og.hideName = {}
 local hideName = mods.og.hideName
 for item in vter(Hyperspace.Blueprints:GetBlueprintList("BLUELIST_OBELISK")) do
 	--print("add to hideName:"..item)
-	hideName[item] = "Something Old"
+	hideName[item] = "Что-то старое"
 end
 hideName["PRIME_LASER"] = "Стоит ему попасть, и ты - труп"
 hideName["DEFENSE_PRIME"] = "Стоит ему попасть, и ты - труп"

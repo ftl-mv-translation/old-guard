@@ -706,7 +706,7 @@ local function add_stat_text(desc, currentTurret, chargeMax)
 	desc = desc.."\nМакс. очередь: "..math.floor(currentTurret.charges)
 	desc = desc.."\nВыстрелов в очереди: "..math.floor(currentTurret.charges_per_charge)
 	if currentTurret.ammo_consumption then
-		desc = desc.."\nMissile Consumption: "..tostring(currentTurret.ammo_consumption)
+		desc = desc.."\nПотребление боеголовок: "..tostring(currentTurret.ammo_consumption)
 	end
 	desc = desc.."\n\nСкорость вращения: "..math.floor(currentTurret.rotation_speed)
 	if currentTurret.shot_radius then
@@ -714,7 +714,7 @@ local function add_stat_text(desc, currentTurret, chargeMax)
 	end
 	desc = desc.."\nСкорость стрельбы: "
 	for i, t in ipairs(currentTurret.fire_points) do
-		desc = desc..t.fire_delay.."сек"
+		desc = desc..t.fire_delay.."с"
 		if i < #currentTurret.fire_points then
 			desc = desc.."/"
 		end
@@ -736,11 +736,11 @@ local function add_stat_text(desc, currentTurret, chargeMax)
 		desc = desc.."\nИонный урон: "..math.floor(damage.iIonDamage)
 	end
 	if damage.iShieldPiercing ~= 0 then
-		desc = desc.."\nShield Piercing: "..math.floor(damage.iShieldPiercing)
+		desc = desc.."\nПробивание щита: "..math.floor(damage.iShieldPiercing)
 	end
 	desc = desc.."\n"
 	if damage.bLockdown then
-		desc = desc.."\nLocks down rooms on hit"
+		desc = desc.."\nЗапирает отсеки при попадании"
 	end
 	if damage.fireChance > 0 then
 		desc = desc.."\nВероятность возгорания: "..math.floor(damage.fireChance * 10).."%"
@@ -758,7 +758,7 @@ script.on_internal_event(Defines.InternalEvents.WEAPON_DESCBOX, function(bluepri
 	if turrets[blueprint.name] then
 		local currentTurret = turrets[blueprint.name]
 		desc = add_stat_text((blueprint.desc.description:GetText().."\n\n"), currentTurret, 8)
-		desc = desc.."\n\nПокупка: "..math.floor(blueprint.desc.cost).."~   -   Продажа: "..math.floor(blueprint.desc.cost/2).."~"
+		desc = desc.."\n\nПокупка: "..math.floor(blueprint.desc.cost).."~   -   Продажа: "..math.floor(blueprint.desc.cost/2).."~\n"
 	end
 	return Defines.Chain.CONTINUE, desc
 end)
@@ -828,7 +828,7 @@ end
 local function get_level_description_system(currentId, level, tooltip)
 	for _, sysName in ipairs(systemNameList) do
 		if currentId == Hyperspace.ShipSystem.NameToSystemId(sysName) then
-			return string.format("More System Power")
+			return string.format("Доп. мощность системы")
 		end
 	end
 end
