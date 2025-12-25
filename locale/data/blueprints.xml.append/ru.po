@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-25 05:15+0000\n"
+"PO-Revision-Date: 2025-12-25 15:49+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
@@ -1140,77 +1140,89 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2081
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/class"
-msgstr ""
+msgstr "Крейсер Железных Сепаратистов"
 
 #: src-en/data/blueprints.xml.append:2082
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/name"
-msgstr ""
+msgstr "Одиночество"
 
 #: src-en/data/blueprints.xml.append:2084
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/desc"
 msgstr ""
+"Одинокий энджи-Сепаратист пилотирует этот корабль без помощи многочисленной "
+"команды, но в компании своих пехотных дронов у него все получится."
 
 #: src-en/data/blueprints.xml.append:2165
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/class"
-msgstr ""
+msgstr "Железный Ангельский вестник смерти"
 
 #: src-en/data/blueprints.xml.append:2166
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/name"
-msgstr ""
+msgstr "Люцифер"
 
 #: src-en/data/blueprints.xml.append:2168
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/desc"
 msgstr ""
+"Ангелы - одни из лучших наемников в галактике. Этот корабль-невидимка должен "
+"полагаться на свою смертоносную команду, чтобы быстро уничтожить врага, пока "
+"он не получил слишком много повреждений."
 
 #: src-en/data/blueprints.xml.append:2243
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/class"
-msgstr ""
+msgstr "Крейсер Железных валунов"
 
 #: src-en/data/blueprints.xml.append:2244
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/name"
-msgstr ""
+msgstr "Оплот"
 
 #: src-en/data/blueprints.xml.append:2246
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/desc"
 msgstr ""
+"Этот корабль, как и его создатели, напоминает тяжелого бегемота и сокрушает "
+"врагов с помощью грубой силы."
 
 #: src-en/data/blueprints.xml.append:2329
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/class"
-msgstr ""
+msgstr "Крейсер Железных Миротворцев"
 
 #: src-en/data/blueprints.xml.append:2330
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/name"
-msgstr ""
+msgstr "Лазарь"
 
 #: src-en/data/blueprints.xml.append:2332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/desc"
 msgstr ""
+"Гладкий и современный дизайн золтанского судна. Эта модель стала культовой "
+"благодаря тому, что была личным крейсером Деворака Рея."
 
 #: src-en/data/blueprints.xml.append:2407
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/class"
-msgstr ""
+msgstr "Крейсер Железных Атаманов"
 
 #: src-en/data/blueprints.xml.append:2408
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/name"
-msgstr ""
+msgstr "Черный Ворон"
 
 #: src-en/data/blueprints.xml.append:2410
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/desc"
 msgstr ""
+"Может этот маленький крейсер и не сильно прочный, он все же является "
+"флагманским кораблем самого Атамана. Ведь важен не размер, а умение им "
+"пользоваться."
 
 #: src-en/data/blueprints.xml.append:2492
 msgid ""
