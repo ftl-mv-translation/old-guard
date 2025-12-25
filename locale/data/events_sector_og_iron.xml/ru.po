@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-12-25 15:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_sector_og_ironxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_og_iron.xml:10
 msgid ""
@@ -2004,6 +2012,9 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_iron.xml:1556
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/text"
 msgstr ""
+"Вы прибыли к довольно пустынному маяку, здесь почти ничего интересного, "
+"кроме аванпоста Железного дозора, который вы обнаружили на орбите "
+"близлежащей планеты."
 
 #: src-en/data/events_sector_og_iron.xml:1558
 msgid ""
@@ -2014,6 +2025,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/text"
 msgstr ""
+"Как раз когда вам стало скучно, в системе появляется еще один корабль, не "
+"похожий на те корабли Железного дозора, которые вы видели раньше. Похоже, "
+"это какой-то новый крейсер, возможно, прототип."
 
 #: src-en/data/events_sector_og_iron.xml:1563
 msgid ""
@@ -2024,39 +2038,44 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/text"
 msgstr ""
+"Вы наблюдаете, как прототип пристыковывается к удаленному аванпосту. Спустя "
+"всего несколько минут корабль отстыковывается и улетает, не давая вам ничего "
+"сделать."
 
 #: src-en/data/events_sector_og_iron.xml:1568
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(Дружественная репутация) Спросить об корабле на аванпосте."
 
 #: src-en/data/events_sector_og_iron.xml:1572
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "(Нейтральная репутация) Спросить об корабле на аванпосте."
 
 #: src-en/data/events_sector_og_iron.xml:1576
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "(Негативная репутация) Спросить об корабле на аванпосте."
 
 #: src-en/data/events_sector_og_iron.xml:1580
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(Продв. Сенсоры) Просканировать след от прыжка, оставленный кораблем."
 
 #: src-en/data/events_sector_og_iron.xml:1582
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/event/text"
 msgstr ""
+"Сканируя излучение, вызванное прыжком, вы можете определить примерное место "
+"нахождение прототипа."
 
 #: src-en/data/events_sector_og_iron.xml:1587
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/text"
-msgstr ""
+msgstr "Двигайся дальше."
 
 #: src-en/data/events_sector_og_iron.xml:1589
 msgid ""
@@ -2077,6 +2096,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/text"
 msgstr ""
+"Через мгновение аванпост принимает ваш вызов: \"Вообще-то мы не должны "
+"разглашать эту информацию, но для вас сделаем исключение\"."
 
 #: src-en/data/events_sector_og_iron.xml:1610
 msgid ""
@@ -2092,36 +2113,49 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/text"
 msgstr ""
+"Через мгновение аванпост принимает ваш вызов, и вы сразу же сталкиваетесь со "
+"стеной: "
+"\"Извините, мы не можем предоставить никакой информации об этом корабле\"."
 
 #: src-en/data/events_sector_og_iron.xml:1621
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/text"
-msgstr ""
+msgstr "Это могло бы изменить ваше решение?"
 
 #: src-en/data/events_sector_og_iron.xml:1626
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/text"
 msgstr ""
+"Аванпост принимает ваш лом: \"Хотя ваше пожертвование очень мило, мы по-"
+"прежнему не можем ничего рассказать вам об этом корабле\"."
 
 #: src-en/data/events_sector_og_iron.xml:1628
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Предложить более крупную взятку."
 
 #: src-en/data/events_sector_og_iron.xml:1633
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Аванпост принимает ваш лом: \"Вот это уже что-то, хотя мы не можем вам "
+"ничего рассказать, но в последнее время наша связь дает сбои и отправляет "
+"секретную информацию по открытым каналам, это действительно нужно "
+"проверить...\" Через мгновение ваш экипаж обнаруживает местонахождение "
+"корабля, которое транслируется по одному из открытых каналов."
 
 #: src-en/data/events_sector_og_iron.xml:1638
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Угрожать аванпосту, чтобы получить информацию."
 
 #: src-en/data/events_sector_og_iron.xml:1640
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Аванпост фактически беззащитен перед вашим оружием, они быстро капитулируют "
+"перед вашими требованиями, загружая данные о прототипе. Они также любезно "
+"возвращают ваше пожертвование."
 
 #: src-en/data/events_sector_og_iron.xml:1646
 msgid ""
@@ -2131,12 +2165,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_iron.xml:1652
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Действовать, не имея этой информации."
 
 #: src-en/data/events_sector_og_iron.xml:1654
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "Вы удаляетесь от аванпоста и готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_iron.xml:1656
 msgid ""
@@ -2151,22 +2185,30 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_og_iron.xml:1668
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/text"
-msgstr ""
+msgstr "Предложить более крупную взятку."
 
 #: src-en/data/events_sector_og_iron.xml:1673
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
 msgstr ""
+"Аванпост принимает ваш лом: \"Вот это уже что-то, хотя мы не можем вам "
+"ничего рассказать, но в последнее время наша связь дает сбои и отправляет "
+"секретную информацию по открытым каналам, это действительно нужно "
+"проверить...\" Через мгновение ваш экипаж обнаруживает местонахождение "
+"корабля, которое транслируется по одному из открытых каналов."
 
 #: src-en/data/events_sector_og_iron.xml:1678
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/text"
-msgstr ""
+msgstr "Угрожать аванпосту, чтобы получить информацию."
 
 #: src-en/data/events_sector_og_iron.xml:1680
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
 msgstr ""
+"Аванпост фактически беззащитен перед вашим оружием, они быстро капитулируют "
+"перед вашими требованиями, загружая данные о прототипе. Они также любезно "
+"возвращают ваше пожертвование."
 
 #: src-en/data/events_sector_og_iron.xml:1683
 msgid ""
@@ -2177,13 +2219,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(Взломщик) Получить удаленный доступ к их хранилищу данных."
 
 #: src-en/data/events_sector_og_iron.xml:1691
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Пока вы ведете беседу с сотрудниками аванпоста, вы настраиваете систему "
+"Взлома, чтобы получить доступ к их хранилищу данных и загрузить их недавнюю "
+"переписку. После завершения загрузки вы прощаетесь, имея на руках информацию "
+"о местонахождении прототипа. К сожалению, ваш взлом обнаруживают как раз в "
+"тот момент, когда вы уходите."
 
 #: src-en/data/events_sector_og_iron.xml:1694
 msgid ""
@@ -2195,23 +2242,27 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "(Продв. Взломщик) Получить удаленный доступ к их хранилищу данных."
 
 #: src-en/data/events_sector_og_iron.xml:1702
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"Пока вы ведете беседу с сотрудниками аванпоста, вы настраиваете систему "
+"Взлома, чтобы получить доступ к их хранилищу данных и загрузить их недавнюю "
+"переписку. После завершения загрузки вы прощаетесь, имея на руках информацию "
+"о местонахождении прототипа."
 
 #: src-en/data/events_sector_og_iron.xml:1707
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/text"
-msgstr ""
+msgstr "Действовать, не имея этой информации."
 
 #: src-en/data/events_sector_og_iron.xml:1709
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы удаляетесь от аванпоста и готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_iron.xml:1711
 msgid ""
@@ -2227,16 +2278,20 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/text"
 msgstr ""
+"Через мгновение аванпост принимает ваш вызов, и вы сразу же сталкиваетесь со "
+"стеной: \"Даже если бы мы могли вам сказать, мы бы этого не сделали\"."
 
 #: src-en/data/events_sector_og_iron.xml:1725
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Угрожать аванпосту, чтобы получить информацию."
 
 #: src-en/data/events_sector_og_iron.xml:1727
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
 msgstr ""
+"Аванпост фактически беззащитен перед вашим оружием, они быстро капитулируют "
+"перед вашими требованиями, загружая данные о прототипе."
 
 #: src-en/data/events_sector_og_iron.xml:1730
 msgid ""
@@ -2247,13 +2302,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(Взломщик) Получить удаленный доступ к их хранилищу данных."
 
 #: src-en/data/events_sector_og_iron.xml:1738
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вы настраиваете систему Взлома, чтобы получить доступ к их хранилищу данных "
+"и загрузить их недавние коммуникационные данные. После завершения загрузки "
+"вы прощаетесь, имея на руках местонахождение прототипа. К сожалению, ваш "
+"взлом обнаруживается как раз в тот момент, когда вы уходите, и вы замечаете, "
+"что они сообщают об этом ближайшим аванпоста Железного дозора."
 
 #: src-en/data/events_sector_og_iron.xml:1741
 msgid ""
@@ -2265,23 +2325,26 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "(Продв. Взломщик) Получить удаленный доступ к их хранилищу данных."
 
 #: src-en/data/events_sector_og_iron.xml:1749
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"Вы настраиваете систему Взлома, чтобы получить доступ к их хранилищу данных "
+"и загрузить их недавние коммуникационные данные. После завершения загрузки "
+"вы прощаетесь, имея на руках местонахождение прототипа."
 
 #: src-en/data/events_sector_og_iron.xml:1754
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/text"
-msgstr ""
+msgstr "Действовать, не имея этой информации."
 
 #: src-en/data/events_sector_og_iron.xml:1756
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Вы удаляетесь от аванпоста и готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_iron.xml:1758
 msgid ""
@@ -2306,12 +2369,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_iron.xml:1792
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение прототипа судна железного дозора."
 
 #: src-en/data/events_sector_og_iron.xml:1797
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/text"
 msgstr ""
+"Вы прибываете к маяку и обнаруживаете корабль Железного дозора на орбите "
+"рядом с пульсаром. Похоже, они тестируют свои системы вооружения на "
+"ближайшем астероиде."
 
 #: src-en/data/events_sector_og_iron.xml:1799
 msgid ""
@@ -2322,26 +2388,33 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/text"
 msgstr ""
+"Вы видите, как большая волна от пульсара проносится по прототипу, а ваши "
+"сенсоры показывают, что несколько систем на борту сразу выходят из строя из-"
+"за воздействия пульсара.\n"
+"Как будто этого мало, из-за ближайшего астероида появляется новый корабль. "
+"Похоже, это один из кораблей Нового рассвета, и он движется к прототипу."
 
 #: src-en/data/events_sector_og_iron.xml:1805
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Перейти к защитите прототипа Железного дозора."
 
 #: src-en/data/events_sector_og_iron.xml:1809
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/text"
 msgstr ""
+"Помочь кораблю Нового рассвета в атаке на тяжело вооруженный прототип. "
+"(СКОРО)"
 
 #: src-en/data/events_sector_og_iron.xml:1813
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Отступить на безопасное расстояние и не вмешиваться в бой."
 
 #: src-en/data/events_sector_og_iron.xml:1815
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "Вы удаляетесь от двух кораблей и готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_iron.xml:1818
 msgid ""
@@ -2357,6 +2430,11 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
 msgstr ""
+"Корабль Железного дозора в основном оправился от последствий атаки и "
+"связывается с вами. \"Мы благодарны вам за помощь, капитан. Без вашей помощи "
+"мы бы, наверное, не выжили. Возможно, пришло время более активно участвовать "
+"в вашей войне с повстанцами. Мы отправим чертежи прототипа в федерацию, "
+"возможно, они смогут их использовать\"."
 
 #: src-en/data/events_sector_og_iron.xml:1835
 msgid ""
