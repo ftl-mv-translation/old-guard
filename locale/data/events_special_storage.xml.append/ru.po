@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-24 19:44+0000\n"
+"PO-Revision-Date: 2025-12-25 05:15+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -100,7 +100,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:76
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/text"
-msgstr "Создать базу для лазерной турели."
+msgstr "Создать основание для лазерной турели."
 
 #: src-en/data/events_special_storage.xml.append:78
 msgid ""
@@ -115,7 +115,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:90
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/text"
-msgstr "Создать базу для ионной турели."
+msgstr "Создать основание для ионной турели."
 
 #: src-en/data/events_special_storage.xml.append:92
 msgid ""
@@ -130,7 +130,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/text"
-msgstr "Создать базу для ракетной турели."
+msgstr "Создать основание для ракетной турели."
 
 #: src-en/data/events_special_storage.xml.append:106
 msgid ""
@@ -145,7 +145,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/text"
-msgstr "Создать базу для точечной турели."
+msgstr "Создать основание для точечной турели."
 
 #: src-en/data/events_special_storage.xml.append:120
 msgid ""
@@ -160,7 +160,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:132
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/text"
-msgstr "Создать базу для микротурели."
+msgstr "Создать основание для микротурели."
 
 #: src-en/data/events_special_storage.xml.append:134
 msgid ""
