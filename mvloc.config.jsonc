@@ -15,6 +15,7 @@
 		
 		"data/events_sector_unexplored.xml.append",
 		"data/events_special_guards.xml.append",
+		"data/events_special_main.xml.append",
 		"data/events_special_jukebox.xml.append",
 		"data/events_special_lightspeed.xml.append",
 		"data/hyperspace.xml.append",
@@ -106,10 +107,10 @@
     "packaging": {
         "fullOriginal": [
 		    //assets1
-            "https://github.com/ftl-mv-translation/old-guard/raw/old-guard-english/FTL-Old-Guard-v1.4.zip",
+            "https://github.com/ftl-mv-translation/old-guard/raw/old-guard-english/FTL-Old-Guard-v1.6.zip",
 
         ],
         "prefix": "Old-Guard",
-        "version": "1.4"
+        "version": "1.6"
     }
 }

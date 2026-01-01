@@ -3,7 +3,7 @@
 <FTL>
 <text name="ship_unlock_og_two_wins">Win with any two layouts of the \1 to unlock the \2</text>  
 
-<text name="ship_PLAYER_SHIP_OG_RAIDER_unlock">YOU SHOULD NEVER SEE THIS</text>
+<text name="ship_PLAYER_SHIP_OG_RAIDER_unlock">Rescue an Iron Watch prototype under attack at a pulsar.</text>
 <text name="ship_PLAYER_SHIP_OG_RAIDER_2_unlock">Get to Sector 8 with The Type A to unlock this ship.</text>
 <text name="ship_PLAYER_SHIP_OG_RAIDER_3_unlock">Complete 2/3 of this ship class's Achievements to unlock this ship.</text>
 	
@@ -21,8 +21,12 @@
 
 <text name="og_turret">Turret Control</text>
 <text name="og_turret_installed">Turret Control System installed</text>
-<text name="og_turret_alt">Turret Control</text>
-<text name="og_turret_alt_installed">Turret Control System installed</text>
+<text name="og_turret_2">Turret Control</text>
+<text name="og_turret_2_installed">Turret Control System installed</text>
+<text name="og_turret_3">Turret Control</text>
+<text name="og_turret_3_installed">Turret Control System installed</text>
+<text name="og_turret_4">Turret Control</text>
+<text name="og_turret_4_installed">Turret Control System installed</text>
 <text name="og_turret_mini">Turret Control</text>
 <text name="og_turret_mini_installed">Turret Control System installed</text>
 <text name="og_turret_mini_2">Turret Control</text>
@@ -31,4 +35,6 @@
 <text name="og_turret_mini_3_installed">Turret Control System installed</text>
 <text name="og_turret_mini_4">Turret Control</text>
 <text name="og_turret_mini_4_installed">Turret Control System installed</text>
+<text name="og_turret_adaptive">Adaptive Turret Control</text>
+<text name="og_turret_adaptive_installed">Adaptive Turret Control System installed</text>
 </FTL>
