@@ -1,14 +1,24 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-04 05:09+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_sector_unexploredxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_unexplored.xml.append:7
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_OG_IRON_STORM\"]/text"
 msgstr ""
+"Un vaisseau de la Garde de Fer explore cette balise lorsque vous arrivez. À "
+"cause de la tempête ionique, ils se montrent prudents et gardent leurs armes "
+"actives, braquées dans votre direction."
 
 #: src-en/data/events_sector_unexplored.xml.append:11
 msgid ""
@@ -19,14 +29,16 @@ msgstr "Partir."
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_OG_IRON_STORM\"]/choice[@req=\"rep_comb_og_iron\"]/text"
 msgstr ""
+"(Réputation positive auprès de la Garde de Fer) Les saluer chaleureusement."
 
 #: src-en/data/events_sector_unexplored.xml.append:17
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_OG_IRON_STORM\"]/choice[@req=\"rep_comb_og_iron\"]/event/text"
 msgstr ""
+"Heureusement, ils vous reconnaissent rapidement grâce à votre bonne "
+"réputation. Ils vous proposent de partager avec vous leur carte du secteur."
 
 #: src-en/data/events_sector_unexplored.xml.append:22
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_OG_IRON_STORM\"]/choice[3]/text"
 msgstr "Attaquer !"
@@ -45,6 +57,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_ENCOUNTER_OG_IRON\"]/text"
 msgstr ""
+"Un vaisseau de la Garde de Fer est en train d’explorer cette balise lorsque "
+"vous arrivez ; il semble qu’ils ne prennent aucun risque ici et activent "
+"immédiatement leurs armes."
 
 #: src-en/data/events_sector_unexplored.xml.append:43
 msgid ""
@@ -63,18 +78,24 @@ msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_ENCOUNTER_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Heureusement, ils vous reconnaissent rapidement grâce à votre bonne "
+"réputation. Ils proposent de partager une partie de la ferraille qu’ils ont "
+"trouvée."
 
 #: src-en/data/events_sector_unexplored.xml.append:53
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_ENCOUNTER_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Les attaquer quand même."
 
 #: src-en/data/events_sector_unexplored.xml.append:55
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_ENCOUNTER_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
 msgstr ""
+"Vous mettez vos armes sous tension après avoir reçu la ferraille ; la Garde "
+"de Fer est manifestement outrée par votre trahison, à en juger par le nombre "
+"de jurons que vous entendez résonner sur les communications."
 
 #: src-en/data/events_sector_unexplored.xml.append:58
 msgid ""
