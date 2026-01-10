@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-01-10 15:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_ironxml/ru/>\n"
 "Language: ru\n"
@@ -2421,9 +2421,7 @@ msgstr "Перейти к защитите прототипа Железного
 #: src-en/data/events_sector_og_iron.xml:1831
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/text"
-msgstr ""
-"Помочь кораблю Нового рассвета в атаке на тяжело вооруженный прототип. "
-"(СКОРО)"
+msgstr "Помочь кораблю Нового рассвета в атаке на тяжело вооруженный прототип."
 
 #: src-en/data/events_sector_og_iron.xml:1834
 msgid ""
