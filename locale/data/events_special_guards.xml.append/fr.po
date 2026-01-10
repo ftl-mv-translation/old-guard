@@ -14,29 +14,59 @@ msgstr "Continuer..."
 #: src-en/data/events_special_guards.xml.append:14
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_MIND_AFFECTING_MORALITY\"]/mod:findLike/mod-"
-"append:choice/text"
+"append:choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_guards.xml.append:23
+#: src-en/data/events_special_guards.xml.append:18
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_MIND_AFFECTING_MORALITY\"]/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_guards.xml.append:27
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_CLOAK_MORALITY\"]/mod:findLike[1]/mod-"
-"append:choice/text"
+"append:choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_guards.xml.append:29
+#: src-en/data/events_special_guards.xml.append:31
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_CLOAK_MORALITY\"]/mod:findLike[1]/mod-"
+"append:choice[2]/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_guards.xml.append:37
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_CLOAK_MORALITY\"]/mod:findLike[2]/mod-"
-"append:choice/text"
+"append:choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_guards.xml.append:38
+#: src-en/data/events_special_guards.xml.append:41
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_CLOAK_MORALITY\"]/mod:findLike[2]/mod-"
+"append:choice[2]/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_guards.xml.append:50
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_ESCAPE_MORALITY\"]/mod:findLike[1]/mod-"
-"append:choice/text"
+"append:choice[1]/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_guards.xml.append:44
+#: src-en/data/events_special_guards.xml.append:54
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_ESCAPE_MORALITY\"]/mod:findLike[1]/mod-"
+"append:choice[2]/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_guards.xml.append:60
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_ESCAPE_MORALITY\"]/mod:findLike[2]/mod-"
-"append:choice/text"
+"append:choice[1]/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_guards.xml.append:64
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_ESCAPE_MORALITY\"]/mod:findLike[2]/mod-"
+"append:choice[2]/text"
 msgstr "Continuer..."

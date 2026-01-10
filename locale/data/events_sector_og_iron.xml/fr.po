@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-04 05:09+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/the-old-guard/"
-"dataevents_sector_og_ironxml/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_og_iron.xml:10
 msgid ""
@@ -1667,27 +1660,37 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_og_iron.xml:1479
+#: src-en/data/events_sector_og_iron.xml:1481
 msgid ""
-"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/text"
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1483
+#: src-en/data/events_sector_og_iron.xml:1484
 msgid ""
-"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/choice/text"
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1510
+#: src-en/data/events_sector_og_iron.xml:1491
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1495
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_og_iron.xml:1524
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_SHIP\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1515
+#: src-en/data/events_sector_og_iron.xml:1529
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1516
+#: src-en/data/events_sector_og_iron.xml:1530
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[2]"
 msgstr ""
@@ -1695,398 +1698,438 @@ msgstr ""
 "\"Quelle chance que nous nous rencontrions par hasard. Rien de personnel, "
 "mais vous avez des informations dont nous avons besoin !\""
 
-#: src-en/data/events_sector_og_iron.xml:1517
+#: src-en/data/events_sector_og_iron.xml:1531
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[3]"
 msgstr ""
 "Vous recevez un message du seul autre vaisseau qui se trouve à cette balise "
 ": \"Enfin ! Après des mois d'attente, quelqu'un tombe dans notre piège !\""
 
-#: src-en/data/events_sector_og_iron.xml:1518
+#: src-en/data/events_sector_og_iron.xml:1532
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[4]"
 msgstr ""
 "Vous avez à peine le temps d'enregistrer la fin du saut que votre vaisseau "
 "vous avertit de l'arrivée d'un vaisseau armé."
 
-#: src-en/data/events_sector_og_iron.xml:1522
+#: src-en/data/events_sector_og_iron.xml:1536
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1526
+#: src-en/data/events_sector_og_iron.xml:1540
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1532
+#: src-en/data/events_sector_og_iron.xml:1546
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1536
+#: src-en/data/events_sector_og_iron.xml:1550
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1556
+#: src-en/data/events_sector_og_iron.xml:1562
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/destroyed/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_og_iron.xml:1570
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/deadCrew/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_og_iron.xml:1578
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1558
+#: src-en/data/events_sector_og_iron.xml:1580
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1560
+#: src-en/data/events_sector_og_iron.xml:1582
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1563
+#: src-en/data/events_sector_og_iron.xml:1585
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1565
+#: src-en/data/events_sector_og_iron.xml:1587
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1568
+#: src-en/data/events_sector_og_iron.xml:1590
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1572
+#: src-en/data/events_sector_og_iron.xml:1594
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1576
+#: src-en/data/events_sector_og_iron.xml:1598
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1580
+#: src-en/data/events_sector_og_iron.xml:1602
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1582
+#: src-en/data/events_sector_og_iron.xml:1604
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1587
+#: src-en/data/events_sector_og_iron.xml:1609
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1589
+#: src-en/data/events_sector_og_iron.xml:1611
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1591
+#: src-en/data/events_sector_og_iron.xml:1613
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_sector_og_iron.xml:1595
+#: src-en/data/events_sector_og_iron.xml:1617
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_og_iron.xml:1607
+#: src-en/data/events_sector_og_iron.xml:1629
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1610
+#: src-en/data/events_sector_og_iron.xml:1632
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_sector_og_iron.xml:1614
+#: src-en/data/events_sector_og_iron.xml:1636
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_og_iron.xml:1619
+#: src-en/data/events_sector_og_iron.xml:1641
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1621
+#: src-en/data/events_sector_og_iron.xml:1643
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1626
+#: src-en/data/events_sector_og_iron.xml:1648
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1628
+#: src-en/data/events_sector_og_iron.xml:1650
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1633
+#: src-en/data/events_sector_og_iron.xml:1655
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1638
+#: src-en/data/events_sector_og_iron.xml:1660
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1640
+#: src-en/data/events_sector_og_iron.xml:1662
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1646
+#: src-en/data/events_sector_og_iron.xml:1668
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1652
+#: src-en/data/events_sector_og_iron.xml:1674
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1654
+#: src-en/data/events_sector_og_iron.xml:1676
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1656
+#: src-en/data/events_sector_og_iron.xml:1678
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_sector_og_iron.xml:1660
+#: src-en/data/events_sector_og_iron.xml:1682
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_og_iron.xml:1668
+#: src-en/data/events_sector_og_iron.xml:1690
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1673
+#: src-en/data/events_sector_og_iron.xml:1695
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1678
+#: src-en/data/events_sector_og_iron.xml:1700
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1680
+#: src-en/data/events_sector_og_iron.xml:1702
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1683
+#: src-en/data/events_sector_og_iron.xml:1705
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1689
+#: src-en/data/events_sector_og_iron.xml:1711
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1691
+#: src-en/data/events_sector_og_iron.xml:1713
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1694
+#: src-en/data/events_sector_og_iron.xml:1716
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1700
+#: src-en/data/events_sector_og_iron.xml:1722
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1702
+#: src-en/data/events_sector_og_iron.xml:1724
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1707
+#: src-en/data/events_sector_og_iron.xml:1729
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1709
+#: src-en/data/events_sector_og_iron.xml:1731
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1711
+#: src-en/data/events_sector_og_iron.xml:1733
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_sector_og_iron.xml:1715
+#: src-en/data/events_sector_og_iron.xml:1737
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_og_iron.xml:1723
+#: src-en/data/events_sector_og_iron.xml:1745
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1725
+#: src-en/data/events_sector_og_iron.xml:1747
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1727
+#: src-en/data/events_sector_og_iron.xml:1749
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1730
+#: src-en/data/events_sector_og_iron.xml:1752
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1736
+#: src-en/data/events_sector_og_iron.xml:1758
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1738
+#: src-en/data/events_sector_og_iron.xml:1760
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1741
+#: src-en/data/events_sector_og_iron.xml:1763
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1747
+#: src-en/data/events_sector_og_iron.xml:1769
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1749
+#: src-en/data/events_sector_og_iron.xml:1771
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1754
+#: src-en/data/events_sector_og_iron.xml:1776
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1756
+#: src-en/data/events_sector_og_iron.xml:1778
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1758
+#: src-en/data/events_sector_og_iron.xml:1780
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_sector_og_iron.xml:1762
+#: src-en/data/events_sector_og_iron.xml:1784
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_og_iron.xml:1775
+#: src-en/data/events_sector_og_iron.xml:1797
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/destroyed/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1784
+#: src-en/data/events_sector_og_iron.xml:1806
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/deadCrew/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1792
+#: src-en/data/events_sector_og_iron.xml:1814
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1797
+#: src-en/data/events_sector_og_iron.xml:1819
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1799
+#: src-en/data/events_sector_og_iron.xml:1821
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_og_iron.xml:1801
+#: src-en/data/events_sector_og_iron.xml:1823
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1805
+#: src-en/data/events_sector_og_iron.xml:1827
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1809
+#: src-en/data/events_sector_og_iron.xml:1831
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1813
+#: src-en/data/events_sector_og_iron.xml:1834
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1838
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_og_iron.xml:1844
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1815
+#: src-en/data/events_sector_og_iron.xml:1846
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1818
+#: src-en/data/events_sector_og_iron.xml:1849
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_sector_og_iron.xml:1822
+#: src-en/data/events_sector_og_iron.xml:1853
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_og_iron.xml:1832
+#: src-en/data/events_sector_og_iron.xml:1863
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_og_iron.xml:1835
+#: src-en/data/events_sector_og_iron.xml:1866
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_og_iron.xml:1874
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1877
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_og_iron.xml:1884
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1888
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/choice/text"
 msgstr "Continuer..."

@@ -27,3 +27,15 @@ msgstr ""
 "\n"
 "Безопасность в пространстве Железный дозор разнится, здесь можно встретить самые разные группы. Железный дозор - это объединение исследователей, ученых и пиратов, которые отправились в нецивилизованный космос либо из отчаяния, либо из любопытства.\n"
 "Внизу вашего Атласа вы замечаете небольшой логотип \"Г\"... спонсорство? На нем написано: \"Посетите местные торговые площадки Гектар Индастриз!\" Хм..."
+
+#: src-en/data/text_events.xml.append:18
+msgid "data/text_events.xml.append$//text[@name=\"atlas_og_dawn\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:28
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_iron\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:29
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_dawn\"]"
+msgstr ""

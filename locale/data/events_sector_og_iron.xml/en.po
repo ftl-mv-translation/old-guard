@@ -1896,33 +1896,48 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_sector_og_iron.xml:1479
+#: src-en/data/events_sector_og_iron.xml:1481
 msgid ""
-"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/text"
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/text"
+msgstr ""
+"With the guard ship dealt with you're able to access, loot and destroy the "
+"depot. It appears that the New Dawn were watching because it isn't very long"
+" before you receive a message. \"It appears you've already met with some "
+"other members of the New Dawn, We'll find you at the New Dawn forward "
+"operating base.\""
+
+#: src-en/data/events_sector_og_iron.xml:1484
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_iron.xml:1491
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/text"
 msgstr ""
 "With the guard ship dealt with you're able to access and loot and destroy "
 "the depot. It appears that the New Dawn were watching because it isn't very "
 "long before you receive a message. \"Find us at the New Dawn forward "
 "operating base, we'll talk there.\""
 
-#: src-en/data/events_sector_og_iron.xml:1483
+#: src-en/data/events_sector_og_iron.xml:1495
 msgid ""
-"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/choice/text"
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1510
+#: src-en/data/events_sector_og_iron.xml:1524
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_SHIP\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1515
+#: src-en/data/events_sector_og_iron.xml:1529
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[1]"
 msgstr ""
 "As you jump into the system a rogue Iron Watch ship advances on your "
 "position. They are refusing all hails. Prepare for a fight."
 
-#: src-en/data/events_sector_og_iron.xml:1516
+#: src-en/data/events_sector_og_iron.xml:1530
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[2]"
 msgstr ""
@@ -1930,21 +1945,21 @@ msgstr ""
 "good fortune that we happen to run into each other. Nothing personal, but "
 "you have some information we need!\""
 
-#: src-en/data/events_sector_og_iron.xml:1517
+#: src-en/data/events_sector_og_iron.xml:1531
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[3]"
 msgstr ""
 "The only other ship at this beacon messages you: \"Finally, after months of "
 "waiting, someone has fallen into our trap!\""
 
-#: src-en/data/events_sector_og_iron.xml:1518
+#: src-en/data/events_sector_og_iron.xml:1532
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[4]"
 msgstr ""
 "You barely have time to register jump completion before your ship warns you "
 "of an incoming ship with weapons hot."
 
-#: src-en/data/events_sector_og_iron.xml:1522
+#: src-en/data/events_sector_og_iron.xml:1536
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/text"
 msgstr ""
@@ -1953,12 +1968,12 @@ msgstr ""
 " designed to remain quite effective in the presence of pulsars, you're in "
 "for a bad time."
 
-#: src-en/data/events_sector_og_iron.xml:1526
+#: src-en/data/events_sector_og_iron.xml:1540
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1532
+#: src-en/data/events_sector_og_iron.xml:1546
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/text"
 msgstr ""
@@ -1966,24 +1981,34 @@ msgstr ""
 " will temporarily ionize your systems. A pirate, apparently oblivious to the"
 " danger of the pulsar, moves in to engage."
 
-#: src-en/data/events_sector_og_iron.xml:1536
+#: src-en/data/events_sector_og_iron.xml:1550
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1556
+#: src-en/data/events_sector_og_iron.xml:1562
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_iron.xml:1570
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_iron.xml:1578
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/text"
 msgstr ""
 "You've arrived at a rather desolate beacon, there is very little of note "
 "here apart from the Iron Watch outpost you detect in orbit around a nearby "
 "planet."
 
-#: src-en/data/events_sector_og_iron.xml:1558
+#: src-en/data/events_sector_og_iron.xml:1580
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1560
+#: src-en/data/events_sector_og_iron.xml:1582
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/text"
 msgstr ""
@@ -1991,12 +2016,12 @@ msgstr ""
 "unlike any Iron Watch ship you've seen before, it appears to be some type of"
 " new cruiser, possibly a prototype."
 
-#: src-en/data/events_sector_og_iron.xml:1563
+#: src-en/data/events_sector_og_iron.xml:1585
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1565
+#: src-en/data/events_sector_og_iron.xml:1587
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/text"
 msgstr ""
@@ -2004,74 +2029,74 @@ msgstr ""
 "minutes later when the ship undocks and jumps away before you can do "
 "anything."
 
-#: src-en/data/events_sector_og_iron.xml:1568
+#: src-en/data/events_sector_og_iron.xml:1590
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/text"
 msgstr "(Friendly Reputation) Inquire about the ship with the outpost."
 
-#: src-en/data/events_sector_og_iron.xml:1572
+#: src-en/data/events_sector_og_iron.xml:1594
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"0\"]/text"
 msgstr "(Neutral Reputation) Inquire about the ship with the outpost."
 
-#: src-en/data/events_sector_og_iron.xml:1576
+#: src-en/data/events_sector_og_iron.xml:1598
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"-999\"]/text"
 msgstr "(Negative Reputation) Inquire about the ship with the outpost."
 
-#: src-en/data/events_sector_og_iron.xml:1580
+#: src-en/data/events_sector_og_iron.xml:1602
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/text"
 msgstr "(Adv. Sensors) Scan the jump wake created by the ship."
 
-#: src-en/data/events_sector_og_iron.xml:1582
+#: src-en/data/events_sector_og_iron.xml:1604
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/event/text"
 msgstr ""
 "By scanning the radiation emitted by the jump you're able to triangulate the"
 " approximate destination for the prototype."
 
-#: src-en/data/events_sector_og_iron.xml:1587
+#: src-en/data/events_sector_og_iron.xml:1609
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/text"
 msgstr "Move on."
 
-#: src-en/data/events_sector_og_iron.xml:1589
+#: src-en/data/events_sector_og_iron.xml:1611
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/text"
 msgstr "You keep your distance and prepare for your next jump."
 
-#: src-en/data/events_sector_og_iron.xml:1591
+#: src-en/data/events_sector_og_iron.xml:1613
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_sector_og_iron.xml:1595
+#: src-en/data/events_sector_og_iron.xml:1617
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_sector_og_iron.xml:1607
+#: src-en/data/events_sector_og_iron.xml:1629
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/text"
 msgstr ""
 "It's a moment before the the outpost greets you, \"We're not really supposed"
 " to give out this information, but we'll make an exception for you.\""
 
-#: src-en/data/events_sector_og_iron.xml:1610
+#: src-en/data/events_sector_og_iron.xml:1632
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_sector_og_iron.xml:1614
+#: src-en/data/events_sector_og_iron.xml:1636
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_sector_og_iron.xml:1619
+#: src-en/data/events_sector_og_iron.xml:1641
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/text"
 msgstr ""
@@ -2079,24 +2104,24 @@ msgstr ""
 " with an immediate wall, \"I'm sorry, we can't provide any information on "
 "that ship.\""
 
-#: src-en/data/events_sector_og_iron.xml:1621
+#: src-en/data/events_sector_og_iron.xml:1643
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/text"
 msgstr "Would this change your mind?"
 
-#: src-en/data/events_sector_og_iron.xml:1626
+#: src-en/data/events_sector_og_iron.xml:1648
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/text"
 msgstr ""
 "The outpost recieves your scrap, \"While your donation is very kind, we "
 "still can't tell you anything about that ship.\""
 
-#: src-en/data/events_sector_og_iron.xml:1628
+#: src-en/data/events_sector_og_iron.xml:1650
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/text"
 msgstr "Offer a larger bribe."
 
-#: src-en/data/events_sector_og_iron.xml:1633
+#: src-en/data/events_sector_og_iron.xml:1655
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -2106,12 +2131,12 @@ msgstr ""
 "into...\" A moment later your crew pickups the location of a ship being "
 "broadcast on one of the public channels."
 
-#: src-en/data/events_sector_og_iron.xml:1638
+#: src-en/data/events_sector_og_iron.xml:1660
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/text"
 msgstr "Threaten the outpost for the information."
 
-#: src-en/data/events_sector_og_iron.xml:1640
+#: src-en/data/events_sector_og_iron.xml:1662
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -2119,37 +2144,37 @@ msgstr ""
 "capitulate to your demands, uploading the data on the prototype. They also "
 "kindly return your donation."
 
-#: src-en/data/events_sector_og_iron.xml:1646
+#: src-en/data/events_sector_og_iron.xml:1668
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1652
+#: src-en/data/events_sector_og_iron.xml:1674
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/text"
 msgstr "Move on without the information."
 
-#: src-en/data/events_sector_og_iron.xml:1654
+#: src-en/data/events_sector_og_iron.xml:1676
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/text"
 msgstr "You move away from the outpost and prepare for your next jump."
 
-#: src-en/data/events_sector_og_iron.xml:1656
+#: src-en/data/events_sector_og_iron.xml:1678
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_sector_og_iron.xml:1660
+#: src-en/data/events_sector_og_iron.xml:1682
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_sector_og_iron.xml:1668
+#: src-en/data/events_sector_og_iron.xml:1690
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/text"
 msgstr "Offer a larger bribe."
 
-#: src-en/data/events_sector_og_iron.xml:1673
+#: src-en/data/events_sector_og_iron.xml:1695
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
 msgstr ""
@@ -2159,30 +2184,30 @@ msgstr ""
 "into...\" A moment later your crew pickups the location of a ship being "
 "broadcast on one of the public channels."
 
-#: src-en/data/events_sector_og_iron.xml:1678
+#: src-en/data/events_sector_og_iron.xml:1700
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/text"
 msgstr "Threaten the outpost for the information."
 
-#: src-en/data/events_sector_og_iron.xml:1680
+#: src-en/data/events_sector_og_iron.xml:1702
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
 msgstr ""
 "The outpost is effectively defenseless against your weapons, they quickly "
 "capitulate to your demands, uploading the data on the prototype."
 
-#: src-en/data/events_sector_og_iron.xml:1683
+#: src-en/data/events_sector_og_iron.xml:1705
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1689
+#: src-en/data/events_sector_og_iron.xml:1711
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
 msgstr "(Hacking) Remotely access their data storage."
 
-#: src-en/data/events_sector_og_iron.xml:1691
+#: src-en/data/events_sector_og_iron.xml:1713
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
@@ -2193,19 +2218,19 @@ msgstr ""
 "the location of the prototype in hand. Unfortunately your hack is detected "
 "just as you're leaving."
 
-#: src-en/data/events_sector_og_iron.xml:1694
+#: src-en/data/events_sector_og_iron.xml:1716
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1700
+#: src-en/data/events_sector_og_iron.xml:1722
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
 msgstr "(Adv. Hacking) Remotely access their data storage."
 
-#: src-en/data/events_sector_og_iron.xml:1702
+#: src-en/data/events_sector_og_iron.xml:1724
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
@@ -2215,57 +2240,57 @@ msgstr ""
 "communications data. Once the download is complete, you bid farewell with "
 "the location of the prototype in hand."
 
-#: src-en/data/events_sector_og_iron.xml:1707
+#: src-en/data/events_sector_og_iron.xml:1729
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/text"
 msgstr "Move on without the information."
 
-#: src-en/data/events_sector_og_iron.xml:1709
+#: src-en/data/events_sector_og_iron.xml:1731
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/text"
 msgstr "You move away from the outpost and prepare for your next jump."
 
-#: src-en/data/events_sector_og_iron.xml:1711
+#: src-en/data/events_sector_og_iron.xml:1733
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_sector_og_iron.xml:1715
+#: src-en/data/events_sector_og_iron.xml:1737
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_sector_og_iron.xml:1723
+#: src-en/data/events_sector_og_iron.xml:1745
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/text"
 msgstr ""
 "It's a moment before the the outpost greets you, and when they do you're met"
 " with an immediate wall, \"Even if we could tell you we wouldn't.\""
 
-#: src-en/data/events_sector_og_iron.xml:1725
+#: src-en/data/events_sector_og_iron.xml:1747
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/text"
 msgstr "Threaten the outpost for the information."
 
-#: src-en/data/events_sector_og_iron.xml:1727
+#: src-en/data/events_sector_og_iron.xml:1749
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
 msgstr ""
 "The outpost is effectively defenseless against your weapons, they quickly "
 "capitulate to your demands, uploading the data on the prototype."
 
-#: src-en/data/events_sector_og_iron.xml:1730
+#: src-en/data/events_sector_og_iron.xml:1752
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1736
+#: src-en/data/events_sector_og_iron.xml:1758
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
 msgstr "(Hacking) Remotely access their data storage."
 
-#: src-en/data/events_sector_og_iron.xml:1738
+#: src-en/data/events_sector_og_iron.xml:1760
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
@@ -2276,19 +2301,19 @@ msgstr ""
 "your hack is detected just as you're leaving and you detect them reporting "
 "it to nearby Iron Watch outposts."
 
-#: src-en/data/events_sector_og_iron.xml:1741
+#: src-en/data/events_sector_og_iron.xml:1763
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1747
+#: src-en/data/events_sector_og_iron.xml:1769
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
 msgstr "(Adv. Hacking) Remotely access their data storage."
 
-#: src-en/data/events_sector_og_iron.xml:1749
+#: src-en/data/events_sector_og_iron.xml:1771
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
@@ -2297,42 +2322,42 @@ msgstr ""
 "download their recent communications data. Once the download is complete, "
 "you bid farewell with the location of the prototype in hand."
 
-#: src-en/data/events_sector_og_iron.xml:1754
+#: src-en/data/events_sector_og_iron.xml:1776
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/text"
 msgstr "Move on without the information."
 
-#: src-en/data/events_sector_og_iron.xml:1756
+#: src-en/data/events_sector_og_iron.xml:1778
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/text"
 msgstr "You move away from the outpost and prepare for your next jump."
 
-#: src-en/data/events_sector_og_iron.xml:1758
+#: src-en/data/events_sector_og_iron.xml:1780
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_sector_og_iron.xml:1762
+#: src-en/data/events_sector_og_iron.xml:1784
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_sector_og_iron.xml:1775
+#: src-en/data/events_sector_og_iron.xml:1797
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/destroyed/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1784
+#: src-en/data/events_sector_og_iron.xml:1806
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/deadCrew/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1792
+#: src-en/data/events_sector_og_iron.xml:1814
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/beaconType/unvisitedTooltip"
 msgstr "Location of the prototype Iron Watch vessel."
 
-#: src-en/data/events_sector_og_iron.xml:1797
+#: src-en/data/events_sector_og_iron.xml:1819
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/text"
 msgstr ""
@@ -2340,51 +2365,64 @@ msgstr ""
 "the pulsar here, it appears they're testing their weapon systems on a nearby"
 " asteroid."
 
-#: src-en/data/events_sector_og_iron.xml:1799
+#: src-en/data/events_sector_og_iron.xml:1821
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_og_iron.xml:1801
+#: src-en/data/events_sector_og_iron.xml:1823
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/text"
 msgstr ""
 "As you watch a large wave from the pulsar sweeps across the prototype, your sensors indicate several of the systems onboard are immediately disabled by the pulsar.\n"
 "If that's not bad enough a new ship reveals itself from behind a nearby asteroid, It appears to be one of those New Dawn ships, and it's moving in on the prototype."
 
-#: src-en/data/events_sector_og_iron.xml:1805
+#: src-en/data/events_sector_og_iron.xml:1827
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[1]/text"
 msgstr "Move in and defend the Iron Watch prototype."
 
-#: src-en/data/events_sector_og_iron.xml:1809
+#: src-en/data/events_sector_og_iron.xml:1831
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/text"
 msgstr ""
 "Aid the New Dawn ship in it's attack on the heavily armed prototype. (COMING"
 " SOON)"
 
-#: src-en/data/events_sector_og_iron.xml:1813
+#: src-en/data/events_sector_og_iron.xml:1834
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"You turn you attention to the prototype, unfortunately by the time you're "
+"ready the ship has almost fully recovered from the pulsar hit. You're not "
+"alone though, you have the support of the New Dawn ship."
+
+#: src-en/data/events_sector_og_iron.xml:1838
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_iron.xml:1844
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/text"
 msgstr "Retreat to a safe distance and stay out of the fight."
 
-#: src-en/data/events_sector_og_iron.xml:1815
+#: src-en/data/events_sector_og_iron.xml:1846
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/text"
 msgstr "You move away from the two ships and prepare for your next jump."
 
-#: src-en/data/events_sector_og_iron.xml:1818
+#: src-en/data/events_sector_og_iron.xml:1849
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_sector_og_iron.xml:1822
+#: src-en/data/events_sector_og_iron.xml:1853
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_sector_og_iron.xml:1832
+#: src-en/data/events_sector_og_iron.xml:1863
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
 msgstr ""
@@ -2394,7 +2432,38 @@ msgstr ""
 "presence in your war with the rebellion. We'll send the blueprints for the "
 "prototype along to the federation, perhaps they'll be able to use it.\""
 
-#: src-en/data/events_sector_og_iron.xml:1835
+#: src-en/data/events_sector_og_iron.xml:1866
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_iron.xml:1874
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/text"
+msgstr ""
+"The New Dawn ship is still wary of you even after the fight. You watch as "
+"they move up to the wreck and carefully extract a single component, you're "
+"not what it is, but with that done they back away from the wreck, "
+"uninterested in the rest of it. You recieve a simple thank you before they "
+"leave."
+
+#: src-en/data/events_sector_og_iron.xml:1877
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_og_iron.xml:1884
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/text"
+msgstr ""
+"The New Dawn ship is still wary of you even after the fight. You watch as "
+"they move up to the wreck and carefully extract a single component, you're "
+"not what it is, but with that done they back away from the wreck, "
+"uninterested in the rest of it. \"Captain, if you ever make it to the New "
+"Dawn Forward Operating Base I'll ensure you get through unopposed, try and "
+"find me once you're there.\""
+
+#: src-en/data/events_sector_og_iron.xml:1888
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/choice/text"
 msgstr "Continue..."

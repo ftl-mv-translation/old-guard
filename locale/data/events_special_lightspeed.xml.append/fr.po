@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-04 05:09+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/the-old-guard/"
-"dataevents_special_lightspeedxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:4
 msgid ""
@@ -24,73 +17,119 @@ msgid ""
 "append:choice[2]/text"
 msgstr "Se diriger vers le secteur de la Garde de Fer."
 
-#: src-en/data/events_special_lightspeed.xml.append:15
+#: src-en/data/events_special_lightspeed.xml.append:12
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:19
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[1]/text"
 msgstr "Se diriger vers le secteur de la Garde de Fer."
 
-#: src-en/data/events_special_lightspeed.xml.append:19
+#: src-en/data/events_special_lightspeed.xml.append:23
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[2]/text"
 msgstr "Se diriger vers le secteur de la Garde de Fer."
 
-#: src-en/data/events_special_lightspeed.xml.append:35
+#: src-en/data/events_special_lightspeed.xml.append:27
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:40
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:44
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:52
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[1]/text"
+msgstr "Confirmer le saut."
+
+#: src-en/data/events_special_lightspeed.xml.append:54
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[1]/event/text"
+msgstr ""
+"Vous vous préparez à sauter vers les nouvelles coordonnées et changez votre "
+"plan de vol par conséquent."
+
+#: src-en/data/events_special_lightspeed.xml.append:59
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_lightspeed.xml.append:65
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[2]/text"
+msgstr "Laisser tomber."
+
+#: src-en/data/events_special_lightspeed.xml.append:74
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_ASTROMETRICS\"]/mod-"
 "append:choice/text"
 msgstr "Se rendre dans un secteur contrôlé par la Garde de Fer."
 
-#: src-en/data/events_special_lightspeed.xml.append:44
+#: src-en/data/events_special_lightspeed.xml.append:83
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_OG_IRON\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_lightspeed.xml.append:51
+#: src-en/data/events_special_lightspeed.xml.append:90
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"OG_IRON_WARP\"]/choice[1]/text"
 msgstr "Quitter l'hypervitesse."
 
-#: src-en/data/events_special_lightspeed.xml.append:55
+#: src-en/data/events_special_lightspeed.xml.append:94
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"OG_IRON_WARP\"]/choice[@req=\"COORDS\"]/text"
 msgstr "Changer de destination."
 
-#: src-en/data/events_special_lightspeed.xml.append:62
+#: src-en/data/events_special_lightspeed.xml.append:101
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[1]/text"
 msgstr "Confirmer le saut."
 
-#: src-en/data/events_special_lightspeed.xml.append:64
+#: src-en/data/events_special_lightspeed.xml.append:103
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[1]/event/text"
 msgstr ""
 "Vous vous préparez à sauter vers les nouvelles coordonnées et changez votre "
 "plan de vol par conséquent."
 
-#: src-en/data/events_special_lightspeed.xml.append:68
+#: src-en/data/events_special_lightspeed.xml.append:107
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_lightspeed.xml.append:74
+#: src-en/data/events_special_lightspeed.xml.append:113
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[2]/text"
 msgstr "Laisser tomber."
 
-#: src-en/data/events_special_lightspeed.xml.append:84
+#: src-en/data/events_special_lightspeed.xml.append:123
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_SALE_OG_IRON\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_lightspeed.xml.append:91
+#: src-en/data/events_special_lightspeed.xml.append:130
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/text"
 msgstr "Quitter l'hypervitesse."
 
-#: src-en/data/events_special_lightspeed.xml.append:93
+#: src-en/data/events_special_lightspeed.xml.append:132
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/text"
@@ -107,19 +146,19 @@ msgstr ""
 "une joyeuse mélodie est jouée à travers votre ordinateur, suivie du slogan "
 "\"Satisfaction garantie, car vous ne reverrez pas votre argent !\""
 
-#: src-en/data/events_special_lightspeed.xml.append:96
+#: src-en/data/events_special_lightspeed.xml.append:135
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_lightspeed.xml.append:102
+#: src-en/data/events_special_lightspeed.xml.append:141
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"1\"]/text"
 msgstr "Quitter l'hypervitesse."
 
-#: src-en/data/events_special_lightspeed.xml.append:104
+#: src-en/data/events_special_lightspeed.xml.append:143
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"1\"]/event/text"
@@ -128,13 +167,28 @@ msgstr ""
 "accueillis par la même publicité qu'avant. On dirait que c'est un autre "
 "secteur commercial Hektar."
 
-#: src-en/data/events_special_lightspeed.xml.append:106
+#: src-en/data/events_special_lightspeed.xml.append:145
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_lightspeed.xml.append:112
+#: src-en/data/events_special_lightspeed.xml.append:151
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"COORDS\"]/text"
+msgstr "Changer de destination."
+
+#: src-en/data/events_special_lightspeed.xml.append:160
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_OG_DAWN_UNIQUE\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_lightspeed.xml.append:168
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"OG_DAWN_UNIQUE_WARP\"]/choice[1]/text"
+msgstr "Quitter l'hypervitesse."
+
+#: src-en/data/events_special_lightspeed.xml.append:172
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"OG_DAWN_UNIQUE_WARP\"]/choice[@req=\"COORDS\"]/text"
 msgstr "Changer de destination."

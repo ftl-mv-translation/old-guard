@@ -8,7 +8,13 @@ msgstr ""
 #: src-en/data/events_special_jukebox.xml.append:4
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
-"append:choice/text"
+"append:choice[1]/text"
 msgstr ""
 "[style[color:F64B2D]]OG: Железный дозор[[/style]]\n"
 "Композитор: Lizzard"
+
+#: src-en/data/events_special_jukebox.xml.append:12
+msgid ""
+"data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
+"append:choice[2]/text"
+msgstr ""

@@ -94,3 +94,28 @@ msgstr ""
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_GUARD\"]/class"
 msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:743
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_LEGION_ASSAULT_TURRET\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:770
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_NORMAL\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:798
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_CHALLENGE\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:826
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_EXTREME\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:854
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_CHAOS\"]/class"
+msgstr ""

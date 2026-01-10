@@ -12,3 +12,15 @@ msgstr ""
 #: src-en/data/text_events.xml.append:9
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_iron_hektar\"]"
 msgstr ""
+
+#: src-en/data/text_events.xml.append:18
+msgid "data/text_events.xml.append$//text[@name=\"atlas_og_dawn\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:28
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_iron\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:29
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_dawn\"]"
+msgstr ""

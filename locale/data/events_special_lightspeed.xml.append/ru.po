@@ -17,73 +17,119 @@ msgid ""
 "append:choice[2]/text"
 msgstr "Перейти в сектор Железного дозора."
 
-#: src-en/data/events_special_lightspeed.xml.append:15
+#: src-en/data/events_special_lightspeed.xml.append:12
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:19
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[1]/text"
 msgstr "Перейти в сектор Железного дозора."
 
-#: src-en/data/events_special_lightspeed.xml.append:19
+#: src-en/data/events_special_lightspeed.xml.append:23
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[2]/text"
 msgstr "Перейти в сектор Железного дозора."
 
-#: src-en/data/events_special_lightspeed.xml.append:35
+#: src-en/data/events_special_lightspeed.xml.append:27
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:40
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:44
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:52
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[1]/text"
+msgstr "Продолжить прыжок."
+
+#: src-en/data/events_special_lightspeed.xml.append:54
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[1]/event/text"
+msgstr ""
+"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
+"соответствующим образом."
+
+#: src-en/data/events_special_lightspeed.xml.append:59
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_lightspeed.xml.append:65
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[2]/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_lightspeed.xml.append:74
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_ASTROMETRICS\"]/mod-"
 "append:choice/text"
 msgstr "Перейти в сектор, контролируемый Железным дозором."
 
-#: src-en/data/events_special_lightspeed.xml.append:44
+#: src-en/data/events_special_lightspeed.xml.append:83
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_OG_IRON\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:51
+#: src-en/data/events_special_lightspeed.xml.append:90
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"OG_IRON_WARP\"]/choice[1]/text"
 msgstr "Выйти из гиперскоростного режима."
 
-#: src-en/data/events_special_lightspeed.xml.append:55
+#: src-en/data/events_special_lightspeed.xml.append:94
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"OG_IRON_WARP\"]/choice[@req=\"COORDS\"]/text"
 msgstr "Изменить точку назначения."
 
-#: src-en/data/events_special_lightspeed.xml.append:62
+#: src-en/data/events_special_lightspeed.xml.append:101
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[1]/text"
 msgstr "Продолжить прыжок."
 
-#: src-en/data/events_special_lightspeed.xml.append:64
+#: src-en/data/events_special_lightspeed.xml.append:103
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[1]/event/text"
 msgstr ""
 "Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
 "соответствующим образом."
 
-#: src-en/data/events_special_lightspeed.xml.append:68
+#: src-en/data/events_special_lightspeed.xml.append:107
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:74
+#: src-en/data/events_special_lightspeed.xml.append:113
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[2]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_lightspeed.xml.append:84
+#: src-en/data/events_special_lightspeed.xml.append:123
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_SALE_OG_IRON\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:91
+#: src-en/data/events_special_lightspeed.xml.append:130
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/text"
 msgstr "Выйти из гиперскоростного режима."
 
-#: src-en/data/events_special_lightspeed.xml.append:93
+#: src-en/data/events_special_lightspeed.xml.append:132
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/text"
@@ -100,19 +146,19 @@ msgstr ""
 "веселая рекламная мелодия, за которой следует девиз \"Удовлетворение "
 "гарантировано, потому что вы не получите свои деньги обратно!\""
 
-#: src-en/data/events_special_lightspeed.xml.append:96
+#: src-en/data/events_special_lightspeed.xml.append:135
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:102
+#: src-en/data/events_special_lightspeed.xml.append:141
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"1\"]/text"
 msgstr "Выйти из гиперскоростного режима."
 
-#: src-en/data/events_special_lightspeed.xml.append:104
+#: src-en/data/events_special_lightspeed.xml.append:143
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"1\"]/event/text"
@@ -120,13 +166,28 @@ msgstr ""
 "Не успеваете вы выйти из режима гиперскорости, как вас снова встречает та же"
 " реклама. Похоже это еще один рыночный сектор \"Гектара\"."
 
-#: src-en/data/events_special_lightspeed.xml.append:106
+#: src-en/data/events_special_lightspeed.xml.append:145
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:112
+#: src-en/data/events_special_lightspeed.xml.append:151
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"COORDS\"]/text"
+msgstr "Изменить точку назначения."
+
+#: src-en/data/events_special_lightspeed.xml.append:160
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_OG_DAWN_UNIQUE\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_lightspeed.xml.append:168
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"OG_DAWN_UNIQUE_WARP\"]/choice[1]/text"
+msgstr "Выйти из гиперскоростного режима."
+
+#: src-en/data/events_special_lightspeed.xml.append:172
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"OG_DAWN_UNIQUE_WARP\"]/choice[@req=\"COORDS\"]/text"
 msgstr "Изменить точку назначения."

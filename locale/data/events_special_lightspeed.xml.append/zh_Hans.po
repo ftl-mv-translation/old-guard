@@ -17,108 +17,170 @@ msgid ""
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_lightspeed.xml.append:15
+#: src-en/data/events_special_lightspeed.xml.append:12
 msgid ""
-"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
-"append:choice[1]/text"
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
+"append:choice[3]/text"
 msgstr ""
 
 #: src-en/data/events_special_lightspeed.xml.append:19
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:23
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_lightspeed.xml.append:35
+#: src-en/data/events_special_lightspeed.xml.append:27
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:40
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:44
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:52
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[1]/text"
+msgstr "确定调整航径。"
+
+#: src-en/data/events_special_lightspeed.xml.append:54
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[1]/event/text"
+msgstr "你准备跃迁至新坐标处，并相应地调整航径。"
+
+#: src-en/data/events_special_lightspeed.xml.append:59
+#, fuzzy
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[1]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_lightspeed.xml.append:65
+#, fuzzy
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OG_DAWN\"]/choice[2]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_lightspeed.xml.append:74
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_ASTROMETRICS\"]/mod-"
 "append:choice/text"
 msgstr ""
 
-#: src-en/data/events_special_lightspeed.xml.append:44
+#: src-en/data/events_special_lightspeed.xml.append:83
 #, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_OG_IRON\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_special_lightspeed.xml.append:51
+#: src-en/data/events_special_lightspeed.xml.append:90
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"OG_IRON_WARP\"]/choice[1]/text"
 msgstr "进入低速航行。"
 
-#: src-en/data/events_special_lightspeed.xml.append:55
+#: src-en/data/events_special_lightspeed.xml.append:94
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"OG_IRON_WARP\"]/choice[@req=\"COORDS\"]/text"
 msgstr "调整航径。"
 
-#: src-en/data/events_special_lightspeed.xml.append:62
+#: src-en/data/events_special_lightspeed.xml.append:101
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[1]/text"
 msgstr "确定调整航径。"
 
-#: src-en/data/events_special_lightspeed.xml.append:64
+#: src-en/data/events_special_lightspeed.xml.append:103
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[1]/event/text"
 msgstr "你准备跃迁至新坐标处，并相应地调整航径。"
 
-#: src-en/data/events_special_lightspeed.xml.append:68
+#: src-en/data/events_special_lightspeed.xml.append:107
 #, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_special_lightspeed.xml.append:74
+#: src-en/data/events_special_lightspeed.xml.append:113
 #, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ASTROMETRIC_WARP_OG_IRON\"]/choice[2]/text"
 msgstr "算了。"
 
-#: src-en/data/events_special_lightspeed.xml.append:84
+#: src-en/data/events_special_lightspeed.xml.append:123
 #, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_SALE_OG_IRON\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_special_lightspeed.xml.append:91
+#: src-en/data/events_special_lightspeed.xml.append:130
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/text"
 msgstr "进入低速航行。"
 
-#: src-en/data/events_special_lightspeed.xml.append:93
+#: src-en/data/events_special_lightspeed.xml.append:132
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 "当你还未进入低速航行时，就收到了一条不寻常的广告：\"尊敬的赫克塔公司顾客！我是比利·赫克塔，赫克塔公司的CEO。作为我们全新的回头客计划的一部分，我们十分荣幸地向您介绍全新推出的'物值稳赚无悔(U.W.U.)积分'！每当您惠顾一次赫克塔(tm)商店，我们热心友善的客户服务舰将为您入账1点U.W.U.积分！积累足够的积分后您将参与我们的回馈活动！购物愉快！\"广告播放完毕，一声铃铛声从你的电脑内传出，后面跟着公司口号\"保证满意，因为概不退款！\""
 
-#: src-en/data/events_special_lightspeed.xml.append:96
+#: src-en/data/events_special_lightspeed.xml.append:135
 #, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_special_lightspeed.xml.append:102
+#: src-en/data/events_special_lightspeed.xml.append:141
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"1\"]/text"
 msgstr "进入低速航行。"
 
-#: src-en/data/events_special_lightspeed.xml.append:104
+#: src-en/data/events_special_lightspeed.xml.append:143
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"1\"]/event/text"
 msgstr "当你还未完成减速退出超光速巡航时，又收到了一条与之前一样的广告。看起来这又是一个赫克塔公司商场星区。"
 
-#: src-en/data/events_special_lightspeed.xml.append:106
+#: src-en/data/events_special_lightspeed.xml.append:145
 #, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_special_lightspeed.xml.append:112
+#: src-en/data/events_special_lightspeed.xml.append:151
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"SALE_OG_IRON_WARP\"]/choice[@req=\"COORDS\"]/text"
+msgstr "调整航径。"
+
+#: src-en/data/events_special_lightspeed.xml.append:160
+#, fuzzy
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_OG_DAWN_UNIQUE\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_lightspeed.xml.append:168
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"OG_DAWN_UNIQUE_WARP\"]/choice[1]/text"
+msgstr "进入低速航行。"
+
+#: src-en/data/events_special_lightspeed.xml.append:172
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"OG_DAWN_UNIQUE_WARP\"]/choice[@req=\"COORDS\"]/text"
 msgstr "调整航径。"
