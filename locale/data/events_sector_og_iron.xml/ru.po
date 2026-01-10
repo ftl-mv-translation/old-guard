@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-01-10 15:01+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_ironxml/ru/>\n"
 "Language: ru\n"
@@ -1946,13 +1946,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_iron.xml:1491
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/text"
 msgstr ""
 "После того, как вы справились с сторожевым кораблем, вы можете получить "
 "доступ к складу, разграбить его и уничтожить. Похоже, что Новый рассвет "
-"наблюдал за вами, потому что вскоре вы получаете сообщение: \"Найдите нас на"
-" передовой оперативной базе Нового рассвета, там мы поговорим\"."
+"наблюдал за вами, потому что вскоре вы получаете сообщение: \"Найдите нас на "
+"передовой оперативной базе Нового рассвета, там мы поговорим\"."
 
 #: src-en/data/events_sector_og_iron.xml:1495
 msgid ""
