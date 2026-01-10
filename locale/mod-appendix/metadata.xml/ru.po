@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-10 18:56+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-01-11 01:05+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "mod-appendixmetadataxml/ru/>\n"
 "Language: ru\n"
@@ -18,9 +18,10 @@ msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr "The Old Guard (Перевод в процессе)"
 
 #: src-en/mod-appendix/metadata.xml:6
-#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
 "Добавляет новую систему управления турелями и корабли, оснащенные ею. "
 "Добавляет Железный дозор - группу исследователей, ученых и пиратов, которые "
-"образовали организацию на границе исследованного космоса."
+"образовали организацию на границе исследованного космоса.\n"
+"Добавляет Новый рассвет - отколовшуюся группу Железного дозора, недовольную "
+"нынешним курсом фракции и стремящуюся изменить его силой."
