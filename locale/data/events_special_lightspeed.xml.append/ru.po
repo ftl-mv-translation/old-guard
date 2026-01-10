@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-10 15:01+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-01-11 01:05+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_lightspeedxmlappend/ru/>\n"
 "Language: ru\n"
@@ -53,13 +53,13 @@ msgstr "Перейти в сектор Нового рассвета."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Перейти на передовую оперативную базу Нового рассвета."
 
 #: src-en/data/events_special_lightspeed.xml.append:44
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Передовая оперативная база Нового рассвета остается позади вас."
 
 #: src-en/data/events_special_lightspeed.xml.append:52
 msgid ""
