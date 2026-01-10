@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-01-10 15:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -158,8 +158,8 @@ msgstr ""
 "[ПЕРЕЗАРЯДКА: 30с  ДЛИТЕЛЬНОСТЬ: 15с]\n"
 "\t\t\t\tДает следующие эффекты:\n"
 "\t\t\t\t-Избегает нацеливания со стороны экипажа.\n"
-"\t\t\t\t-Урон уменьшается на 25%\n"
-"\t\t\t\t-Скорость саботажа уменьшается на 50%\n"
+"\t\t\t\t-Урон увеличивается на 50%\n"
+"\t\t\t\t-Скорость саботажа увеличивается на 25%\n"
 "\t\t\t\t-Пассивно восстанавливает перезарядку Маскировки.\n"
 "\t\t\t\t-Продолжительность Маскировки сокращается при следующих действиях:\n"
 "\t\t\t\t\t-Атака - 1x\n"
@@ -197,7 +197,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:780
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/header"
-msgstr ""
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml.append:784
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/name"
@@ -210,7 +210,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:787
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:801
 msgid ""
