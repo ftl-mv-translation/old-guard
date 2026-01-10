@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-10 15:01+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-01-11 01:05+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -446,8 +446,8 @@ msgstr "OG: Выбрать турель 2"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_2_START\"]/text"
 msgstr ""
-"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы сбросить настройки.\n"
-"\n"
+"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы "
+"сбросить настройки.\n"
 "\t\t\tВ настоящее время выбирается горячая клавиша: Выбрать турель 2"
 
 #: src-en/data/events_special_storage.xml.append:377
@@ -460,8 +460,8 @@ msgstr "OG: Выбрать турель 3"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_3_START\"]/text"
 msgstr ""
-"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы сбросить настройки.\n"
-"\n"
+"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы "
+"сбросить настройки.\n"
 "\t\t\tВ настоящее время выбирается горячая клавиша: Выбрать турель 3"
 
 #: src-en/data/events_special_storage.xml.append:384
@@ -474,8 +474,8 @@ msgstr "OG: Выбрать турель 4"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_4_START\"]/text"
 msgstr ""
-"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы сбросить настройки.\n"
-"\n"
+"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы "
+"сбросить настройки.\n"
 "\t\t\tВ настоящее время выбирается горячая клавиша: Выбрать турель 4"
 
 #: src-en/data/events_special_storage.xml.append:391
@@ -488,8 +488,8 @@ msgstr "OG: Выбрать турель 5"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_5_START\"]/text"
 msgstr ""
-"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы сбросить настройки.\n"
-"\n"
+"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы "
+"сбросить настройки.\n"
 "\t\t\tВ настоящее время выбирается горячая клавиша: Выбрать турель 5"
 
 #: src-en/data/events_special_storage.xml.append:398
@@ -502,8 +502,8 @@ msgstr "OG: Выбрать турель 6"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_6_START\"]/text"
 msgstr ""
-"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы сбросить настройки.\n"
-"\n"
+"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы "
+"сбросить настройки.\n"
 "\t\t\tВ настоящее время выбирается горячая клавиша: Выбрать турель 6"
 
 #: src-en/data/events_special_storage.xml.append:405
@@ -516,8 +516,8 @@ msgstr "OG: Выбрать турель 7"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_7_START\"]/text"
 msgstr ""
-"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы сбросить настройки.\n"
-"\n"
+"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы "
+"сбросить настройки.\n"
 "\t\t\tВ настоящее время выбирается горячая клавиша: Выбрать турель 7"
 
 #: src-en/data/events_special_storage.xml.append:412
@@ -530,8 +530,8 @@ msgstr "OG: Выбрать турель 8"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_8_START\"]/text"
 msgstr ""
-"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы сбросить настройки.\n"
-"\n"
+"Нажмите любую клавишу, чтобы выбрать горячую клавишу, нажмите Escape, чтобы "
+"сбросить настройки.\n"
 "\t\t\tВ настоящее время выбирается горячая клавиша: Выбрать турель 8"
 
 #: src-en/data/events_special_storage.xml.append:421
@@ -544,7 +544,7 @@ msgstr "Повторно включить руководство по управ
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Взломщик МВ-приводов) Вызвать МВ-судно Old Guard."
 
 #: src-en/data/events_special_storage.xml.append:443
 msgid ""
@@ -556,7 +556,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:445
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Класс \"Рейдер\" В - выпадает Легкая зарядная турель"
 
 #: src-en/data/events_special_storage.xml.append:447
 msgid ""
@@ -575,22 +575,28 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Грузовой ящик) Открыть грузовой ящик."
 
 #: src-en/data/events_special_storage.xml.append:467
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/text"
 msgstr ""
+"Вы уверены, что хотите это сделать? Вряд ли люди, которым вы это "
+"доставляете, будут вам благодарны после этого."
 
 #: src-en/data/events_special_storage.xml.append:469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/text"
-msgstr ""
+msgstr "Сделать это!"
 
 #: src-en/data/events_special_storage.xml.append:471
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/event/text"
 msgstr ""
+"Вы открываете ящик и обнаруживаете в нем беспорядочную кучу компонентов и "
+"деталей. Единственное, что можно использовать, - это наполовину разобранный "
+"Предварительное питание турели, который вы можете вернуть в рабочее "
+"состояние. Остальное для вас бесполезно."
 
 #: src-en/data/events_special_storage.xml.append:477
 msgid ""
