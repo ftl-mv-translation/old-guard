@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-10 15:01+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-01-11 01:05+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_ironxml/ru/>\n"
 "Language: ru\n"
@@ -1939,6 +1939,11 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/text"
 msgstr ""
+"После того, как вы справились с сторожевым кораблем, вы можете получить "
+"доступ к складу, разграбить его и уничтожить. Похоже, что Новый рассвет "
+"наблюдал за вами, потому что вскоре вы получаете сообщение: \"Похоже, вы уже "
+"встретились с некоторыми другими членами Нового рассвета. Мы будем ждать вас "
+"на передовой оперативной базе Нового рассвета\"."
 
 #: src-en/data/events_sector_og_iron.xml:1484
 msgid ""
@@ -1946,7 +1951,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_iron.xml:1491
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/text"
 msgstr ""
@@ -2427,6 +2431,9 @@ msgstr "Помочь кораблю Нового рассвета в атаке 
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы обращаете внимание на прототип, но, к сожалению, к тому времени, когда вы "
+"готовы, корабль почти полностью восстановился после воздействия пульсара. "
+"Однако вы не одиноки, у вас есть поддержка корабля Нового рассвета."
 
 #: src-en/data/events_sector_og_iron.xml:1838
 msgid ""
@@ -2472,6 +2479,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/text"
 msgstr ""
+"Корабль Нового рассвета по-прежнему относится к вам с осторожностью даже "
+"после сражения. Вы наблюдаете, как они подлетают к обломкам и осторожно "
+"извлекают один компонент. Вы не знаете, что это такое, но, сделав это, они "
+"удаляются от обломков, не проявляя интереса к остальным. Перед уходом они "
+"просто благодарят вас."
 
 #: src-en/data/events_sector_og_iron.xml:1877
 msgid ""
@@ -2482,6 +2494,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/text"
 msgstr ""
+"Корабль Нового рассвета по-прежнему относится к вам с осторожностью даже "
+"после сражения. Вы наблюдаете, как они подлетают к обломкам и осторожно "
+"извлекают один компонент. Вы не знаете, что это такое, но, сделав это, они "
+"удаляются от обломков, не проявляя интереса к остальным. \"Капитан, если вы "
+"когда-нибудь доберетесь до передовой оперативной базы Нового рассвета, я "
+"обеспечу вам беспрепятственный проход. Попытайтесь найти меня, когда будете "
+"там\"."
 
 #: src-en/data/events_sector_og_iron.xml:1888
 msgid ""
