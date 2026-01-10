@@ -88,7 +88,7 @@ msgstr "New Dawn Transport"
 #: src-en/data/autoBlueprints.xml.append:681
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_RAIDER\"]/class"
-msgstr "New Dawn Raider"
+msgstr "New Dawn Cruiser"
 
 #: src-en/data/autoBlueprints.xml.append:712
 msgid ""
