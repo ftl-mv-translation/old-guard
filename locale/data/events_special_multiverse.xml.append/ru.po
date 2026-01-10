@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-10 15:01+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-01-11 01:05+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_multiversexmlappend/ru/>\n"
 "Language: ru\n"
@@ -17,6 +17,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_NORMAL\"]/text"
 msgstr ""
+"Из туннеля появляется огромный крейсер Железного дозора! Должно быть, это "
+"какое-то редкое исследовательское судно, которое решило путешествовать по "
+"Мультивселенной!"
 
 #: src-en/data/events_special_multiverse.xml.append:43
 msgid ""
@@ -26,7 +29,7 @@ msgstr "Приготовиться к бою!"
 #: src-en/data/events_special_multiverse.xml.append:45
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_NORMAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Корабль поворачивается, чтобы вступить с вами в бой."
 
 #: src-en/data/events_special_multiverse.xml.append:48
 msgid ""
@@ -52,6 +55,9 @@ msgstr "Посещенное место. Ничего интересного."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHALLENGE\"]/text"
 msgstr ""
+"Из туннеля появляется огромный крейсер Железного дозора! Должно быть, это "
+"какое-то редкое исследовательское судно, которое решило путешествовать по "
+"Мультивселенной!"
 
 #: src-en/data/events_special_multiverse.xml.append:76
 msgid ""
@@ -61,7 +67,7 @@ msgstr "Приготовиться к бою!"
 #: src-en/data/events_special_multiverse.xml.append:78
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHALLENGE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Корабль поворачивается, чтобы вступить с вами в бой."
 
 #: src-en/data/events_special_multiverse.xml.append:81
 msgid ""
@@ -77,6 +83,9 @@ msgstr "Использовать благословение, чтобы избе
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_EXTREME\"]/text"
 msgstr ""
+"Из туннеля появляется огромный крейсер Железного дозора! Должно быть, это "
+"какое-то редкое исследовательское судно, которое решило путешествовать по "
+"Мультивселенной!"
 
 #: src-en/data/events_special_multiverse.xml.append:104
 msgid ""
@@ -86,7 +95,7 @@ msgstr "Приготовиться к бою!"
 #: src-en/data/events_special_multiverse.xml.append:106
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_EXTREME\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Корабль поворачивается, чтобы вступить с вами в бой."
 
 #: src-en/data/events_special_multiverse.xml.append:109
 msgid ""
@@ -102,6 +111,9 @@ msgstr "Использовать благословение, чтобы избе
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHAOS\"]/text"
 msgstr ""
+"Из туннеля появляется огромный крейсер Железного дозора! Должно быть, это "
+"какое-то редкое исследовательское судно, которое решило путешествовать по "
+"Мультивселенной!"
 
 #: src-en/data/events_special_multiverse.xml.append:137
 msgid ""
@@ -111,7 +123,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_multiverse.xml.append:139
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHAOS\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Корабль поворачивается, чтобы вступить с вами в бой."
 
 #: src-en/data/events_special_multiverse.xml.append:142
 msgid ""
