@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-10 15:01+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -285,6 +293,7 @@ msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/short
 msgstr "Солдат Рассвета"
 
 #: src-en/data/blueprints.xml.append:345
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[1]"
 msgstr ""
@@ -419,11 +428,12 @@ msgid ""
 msgstr "Имп. лаз."
 
 #: src-en/data/blueprints.xml.append:516
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/desc"
 msgstr ""
-"Стандартная лазерная турель. Недорогой и эффективный компромисс между атакой"
-" и защитой."
+"Стандартная лазерная турель. Недорогой и эффективный компромисс между атакой "
+"и защитой."
 
 #: src-en/data/blueprints.xml.append:535
 msgid ""
@@ -454,6 +464,7 @@ msgid ""
 msgstr "Стар. имп. лаз."
 
 #: src-en/data/blueprints.xml.append:558
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/desc"
 msgstr ""
@@ -643,11 +654,12 @@ msgid ""
 msgstr "Роевая рак."
 
 #: src-en/data/blueprints.xml.append:811
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/desc"
 msgstr ""
-"Выпускает рой небольших быстрых ракет, способных наводиться на цель, отлично"
-" подходит для защиты, но неэффективна против вражеских систем."
+"Выпускает рой небольших быстрых ракет, способных наводиться на цель, отлично "
+"подходит для защиты, но неэффективна против вражеских систем."
 
 #: src-en/data/blueprints.xml.append:830
 msgid ""
@@ -707,6 +719,7 @@ msgid ""
 msgstr "Оскол."
 
 #: src-en/data/blueprints.xml.append:896
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
 msgstr ""
@@ -792,6 +805,7 @@ msgid ""
 msgstr "Л. лаз."
 
 #: src-en/data/blueprints.xml.append:1001
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/desc"
 msgstr ""
@@ -875,6 +889,7 @@ msgid ""
 msgstr "€ Тяж. лаз."
 
 #: src-en/data/blueprints.xml.append:1107
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/desc"
 msgstr ""
@@ -893,6 +908,7 @@ msgid ""
 msgstr "€ Заж. ион."
 
 #: src-en/data/blueprints.xml.append:1129
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/desc"
 msgstr ""
@@ -911,6 +927,7 @@ msgid ""
 msgstr "€ Четыр. рак."
 
 #: src-en/data/blueprints.xml.append:1151
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/desc"
 msgstr ""
@@ -928,6 +945,7 @@ msgid ""
 msgstr "€ Оскол."
 
 #: src-en/data/blueprints.xml.append:1173
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
@@ -945,6 +963,7 @@ msgid ""
 msgstr "€ Точечный луч"
 
 #: src-en/data/blueprints.xml.append:1195
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/desc"
 msgstr ""
@@ -962,6 +981,7 @@ msgid ""
 msgstr "€ Микролаз."
 
 #: src-en/data/blueprints.xml.append:1217
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/desc"
 msgstr ""
@@ -980,6 +1000,7 @@ msgid ""
 msgstr "€ Л. лаз."
 
 #: src-en/data/blueprints.xml.append:1239
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
 msgstr ""
@@ -997,6 +1018,7 @@ msgid ""
 msgstr "€ Микро точ."
 
 #: src-en/data/blueprints.xml.append:1261
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/desc"
 msgstr ""
@@ -1692,6 +1714,7 @@ msgid ""
 msgstr "Аяччо"
 
 #: src-en/data/blueprints.xml.append:3403
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/desc"
 msgstr ""
