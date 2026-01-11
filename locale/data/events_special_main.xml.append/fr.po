@@ -1,14 +1,23 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-12 02:45+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_special_mainxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_main.xml.append:13
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/text"
 msgstr ""
+"Votre vaisseau possède un ou plusieurs systèmes de contrôle des tourelles. "
+"Souhaitez-vous voir un court tutoriel sur leur utilisation ?"
 
 #: src-en/data/events_special_main.xml.append:15
 msgid ""
@@ -19,6 +28,9 @@ msgstr ""
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_2\"]/text"
 msgstr ""
+"Le fonctionnement des tourelles est similaire à celui des armes. Elles "
+"peuvent être sélectionnées depuis la barre de raccourcis système en cliquant "
+"sur la case correspondante ou en utilisant le raccourci clavier associé."
 
 #: src-en/data/events_special_main.xml.append:19
 msgid ""
@@ -29,6 +41,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_3\"]/text"
 msgstr ""
+"Les raccourcis des tourelles peuvent être attribués dans le menu "
+"Interchanger et correspondent au numéro affiché à côté du système de "
+"tourelles dans votre barre de raccourcis système."
 
 #: src-en/data/events_special_main.xml.append:23
 msgid ""
@@ -39,6 +54,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_4\"]/text"
 msgstr ""
+"Chaque tourelle peut basculer entre deux modes grâce au bouton situé en bas "
+"à droite de l'icône de la tourelle."
 
 #: src-en/data/events_special_main.xml.append:27
 msgid ""
@@ -49,6 +66,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_5\"]/text"
 msgstr ""
+"En mode offensif, les tourelles doivent être ciblées manuellement, soit "
+"contre le vaisseau ennemi, soit contre les projectiles ou les drones "
+"adverses. Vous pouvez cibler des projectiles des deux côtés du champ de "
+"bataille, mais la tourelle ne fera feu sur eux qu'une fois qu'ils auront "
+"atteint votre côté de la zone de combat."
 
 #: src-en/data/events_special_main.xml.append:31
 msgid ""
@@ -59,6 +81,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_6\"]/text"
 msgstr ""
+"En mode défensif, les tourelles cibleront automatiquement les projectiles et "
+"les drones. C'est ici que les améliorations internes du contrôle des "
+"tourelles deviennent les plus utiles : la vitesse de rotation et la vélocité "
+"des projectiles accrues permettent aux tourelles de réagir plus rapidement "
+"aux menaces ennemies."
 
 #: src-en/data/events_special_main.xml.append:35
 msgid ""
@@ -69,33 +96,41 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/text"
 msgstr ""
+"Les tourelles possèdent leur propre bouton de tir automatique ; celui-ci "
+"permet de changer le réglage par défaut pour l'ensemble des tourelles. Lors "
+"de la sélection d'une tourelle, maintenir la touche \"Ctrl\" enfoncée "
+"inverse le réglage de tir automatique pour cette tourelle spécifique."
 
 #: src-en/data/events_special_main.xml.append:39
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/choice[1]/text"
-msgstr ""
+msgstr "Bien reçu !"
 
 #: src-en/data/events_special_main.xml.append:43
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/choice[2]/text"
-msgstr ""
+msgstr "Bien reçu et ne plus me montrer !"
 
 #: src-en/data/events_special_main.xml.append:45
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/choice[2]/event/text"
 msgstr ""
+"Le tutoriel des tourelles a été désactivé. Vous pouvez le réactiver dans le "
+"menu Interchanger."
 
 #: src-en/data/events_special_main.xml.append:62
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Non !"
 
 #: src-en/data/events_special_main.xml.append:66
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[3]/text"
-msgstr ""
+msgstr "Non et ne plus me montrer !"
 
 #: src-en/data/events_special_main.xml.append:68
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[3]/event/text"
 msgstr ""
+"Le tutoriel des tourelles a été désactivé. Vous pouvez le réactiver dans le "
+"menu Interchanger."
