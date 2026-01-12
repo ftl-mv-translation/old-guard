@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-11 01:05+0000\n"
+"PO-Revision-Date: 2026-01-12 02:45+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_dawnxml/ru/>\n"
@@ -118,11 +118,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_START_OG_DAWN_UNIQUE\"]/text[1]"
 msgstr ""
+"То, что раньше было обычным поселением Железного дозора, теперь стало домом "
+"для военных Нового рассвета. Все, кто противостоял этой фракции, уже давно "
+"исчезли, но фракция отчаянно нуждается в поддержке, особенно в поддержке "
+"такого могущественного Ренегата, как вы."
 
 #: src-en/data/events_sector_og_dawn.xml:88
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_START_OG_DAWN_UNIQUE\"]/text[2]"
 msgstr ""
+"Новый рассвет - это отколовшаяся от Железного дозора» группа, в которую "
+"вошли бывшие члены Железного дозора, чтобы создать свои собственные "
+"вооруженные силы для борьбы с Железным дозором. Однако Новый рассвет "
+"отчаянно нуждается в поддержке, особенно в поддержке такого могущественного "
+"Ренегата, как вы."
 
 #: src-en/data/events_sector_og_dawn.xml:102
 msgid ""
