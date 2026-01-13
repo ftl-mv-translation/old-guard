@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-14 04:02+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_sector_og_dawnxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_og_dawn.xml:10
 msgid ""
@@ -388,6 +396,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_DAWN_COMBAT\"]/text"
 msgstr ""
+"[РЕПУТАЦИЯ ПОНИЖЕНА 2X - НОВЫЙ РАССВЕТ]\n"
+"\tВаши действия здесь не лучшим образом отразятся в глазах Новоого Рассвета. "
+"Если раньше вы заработали репутацию, то теперь они могут перестать "
+"чувствовать себя комфортно в вашем присутствии.\n"
+"За ваши особо вопиющие действия ваша репутация была уменьшена в два раза."
 
 #: src-en/data/events_sector_og_dawn.xml:295
 msgid ""
@@ -489,91 +502,106 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/text"
 msgstr ""
+"Торговец из Нового рассвета обосновался в ближайшем форпосте. Иногда туда "
+"заглядывают покупатели, но у вас будет достаточно времени, чтобы проникнуть "
+"внутрь, не привлекая к себе лишнего внимания."
 
 #: src-en/data/events_sector_og_dawn.xml:412
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/text"
-msgstr ""
+msgstr "Заглянуть к торговцу."
 
 #: src-en/data/events_sector_og_dawn.xml:414
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/text"
 msgstr ""
+"Вы поднимаетесь на аванпост и обнаруживаете широкий ассортимент товаров, "
+"которые там продаются: обычные вещи, ящики с топливом, дрон-комплекты и "
+"боеголовки, но у одной из стен вы видите необычную турель, запертую за "
+"пуленепробиваемым стеклом. Надпись гласит: "
+"\"Оборудование Нового рассвета: обращайтесь к кассе\"."
 
 #: src-en/data/events_sector_og_dawn.xml:417
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Спросить про оборудование Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:419
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Торговец, невысокий человек, отвечает: \"Ах, глаз у вас наметанный, да? Это "
+"подлинная турель производства Нового рассвета... Постойте, вы же не из "
+"Нового рассвета, правда? Или из тех повстанцев?\""
 
 #: src-en/data/events_sector_og_dawn.xml:421
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Нет, а что?"
 
 #: src-en/data/events_sector_og_dawn.xml:423
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Ничего особого, просто любопытство. В любом случае, как я уже говорил, это "
+"подлинная турель Нового рассвета, одно из самых мощных устройств, которые "
+"можно найти\". Торговец запрашивает за нее высокую цену, но это явно хорошее "
+"оборудование."
 
 #: src-en/data/events_sector_og_dawn.xml:425
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Купить турель."
 
 #: src-en/data/events_sector_og_dawn.xml:429
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "(Член экипажа-Новый рассвет) Тихо сообщить о нем Новому рассвету."
 
 #: src-en/data/events_sector_og_dawn.xml:433
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "(Член экипажа-повстанец) Тихо сообщить о нем Новому рассвету."
 
 #: src-en/data/events_sector_og_dawn.xml:437
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "(Член экипажа-Новый рассвет) Спросить его, откуда у него эта турель."
 
 #: src-en/data/events_sector_og_dawn.xml:441
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "(Член экипажа-повстанец) Спросить его, откуда у него эта турель."
 
 #: src-en/data/events_sector_og_dawn.xml:445
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "Не обращать внимания на предложение и просто заняться покупками."
 
 #: src-en/data/events_sector_og_dawn.xml:451
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CREW_OG_DAWN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Новый рассвет) Мы из Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:455
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_REBEL_WITHOUT_OG_DAWN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-повстанец) Мы на стороне повстанцев."
 
 #: src-en/data/events_sector_og_dawn.xml:461
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания и просто заняться покупками."
 
 #: src-en/data/events_sector_og_dawn.xml:467
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на торговца."
 
 #: src-en/data/events_sector_og_dawn.xml:469
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы не хотите привлекать внимание сторонников повстанцев."
 
 #: src-en/data/events_sector_og_dawn.xml:471
 msgid ""
@@ -589,31 +617,41 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/text"
 msgstr ""
+"Торговец, теперь нервно потея, продолжает: \"Как я уже говорил, это НЕ "
+"подлинная турель Нового рассвета, а скорее... э-э... копия, да, копия, она "
+"совершенно не функционирует. Это просто предмет для коллекционеров, вам она "
+"не будет интересна\"."
 
 #: src-en/data/events_sector_og_dawn.xml:485
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[1]/text"
 msgstr ""
+"Торговец уводит разговор в сторону от турели, вам понадобится дополнительная "
+"информация, чтобы прижать его."
 
 #: src-en/data/events_sector_og_dawn.xml:489
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(Продв. Сенсоры) Дистанционное сканирование турели."
 
 #: src-en/data/events_sector_og_dawn.xml:491
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/text"
 msgstr ""
+"Ваше сканирование показало, что на самом деле это не копия, а настоящая "
+"турель Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:493
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сообщить о торговце Новому рассвету."
 
 #: src-en/data/events_sector_og_dawn.xml:495
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REPORT\"]/text"
 msgstr ""
+"Вы тихо сообщаете о торговце в местные власти, используя собранную "
+"информацию, и до их прибытия успеваете сделать несколько покупок."
 
 #: src-en/data/events_sector_og_dawn.xml:497
 msgid ""
@@ -623,132 +661,153 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_dawn.xml:503
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Предложить ему компенсацию за \"изъятие\" турели Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:505
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_PURCHASE_100\"]/text"
 msgstr ""
+"После того, как вы заверяете его, что Новый рассвет не узнает об этом, он с "
+"радостью передает ее вам это по хорошей цене."
 
 #: src-en/data/events_sector_og_dawn.xml:513
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Угрожать, что вы сообщите о нем, если он не снизит цену."
 
 #: src-en/data/events_sector_og_dawn.xml:515
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/text"
 msgstr ""
+"Торговец соглашается на более низкую цену. Хотя, как ни странно, он не "
+"выглядел слишком напуганным вашими угрозами."
 
 #: src-en/data/events_sector_og_dawn.xml:517
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[1]/text"
 msgstr ""
+"Выплатить ему согласованную сумму за \"изъятие\" турели Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:519
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_PURCHASE_80\"]/text"
 msgstr ""
+"После того, как вы заверяете его, что Новый рассвет не узнает об этом, он с "
+"радостью передает ее вам это по хорошей цене."
 
 #: src-en/data/events_sector_og_dawn.xml:527
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[2]/text"
-msgstr ""
+msgstr "Угрожать, что вы сообщите о нем, если он снова не снизит цену."
 
 #: src-en/data/events_sector_og_dawn.xml:529
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[2]/event/text"
 msgstr ""
+"Вы снова принимаете жесткий тон и угрожаете торговцу, но на этот раз он еще "
+"меньше обеспокоен. В конце концов, вы смотрите на турель и понимаете, что ее "
+"нет. Торговец сумел спрятать ее, пока вы были отвлечены, и, не имея ничего, "
+"о чем можно было бы сообщить, ваши угрозы остаются бесплодными."
 
 #: src-en/data/events_sector_og_dawn.xml:533
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[3]/text"
-msgstr ""
+msgstr "Вежливо отказаться и просто заняться покупками."
 
 #: src-en/data/events_sector_og_dawn.xml:539
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Не обращать внимания и просто заняться покупками."
 
 #: src-en/data/events_sector_og_dawn.xml:545
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
 msgstr ""
+"(Член экипажа-Железный дозор) Ваш техник Железного дозора понимает, что "
+"турель не является копией."
 
 #: src-en/data/events_sector_og_dawn.xml:547
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
 msgstr ""
+"Ваш техник тихонько сообщает вам, что торговец лжет, утверждая, что это "
+"копия. Может быть, вы сможете использовать это в своих интересах?"
 
 #: src-en/data/events_sector_og_dawn.xml:549
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сообщить о торговце Новому рассвету."
 
 #: src-en/data/events_sector_og_dawn.xml:553
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Предложить ему компенсацию за \"изъятие\" турели Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:557
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Угрожать, что вы сообщите о нем, если он не снизит цену."
 
 #: src-en/data/events_sector_og_dawn.xml:561
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Не обращать внимания и просто заняться покупками."
 
 #: src-en/data/events_sector_og_dawn.xml:567
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[4]/text"
-msgstr ""
+msgstr "Не обращать внимания и просто заняться покупками."
 
 #: src-en/data/events_sector_og_dawn.xml:573
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/text"
 msgstr ""
+"\"Я, э-э, нашел ее поблизости, она просто дрейфовала, да, она просто "
+"дрейфовала в космосе, и я ее поднял, ничего незаконного\"."
 
 #: src-en/data/events_sector_og_dawn.xml:575
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[1]/text"
-msgstr ""
+msgstr "Сообщить о торговце Новому рассвету."
 
 #: src-en/data/events_sector_og_dawn.xml:579
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[2]/text"
-msgstr ""
+msgstr "Предложить ему компенсацию за \"изъятие\" турели Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:583
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[3]/text"
-msgstr ""
+msgstr "Угрожать, что вы сообщите о нем, если он не снизит цену."
 
 #: src-en/data/events_sector_og_dawn.xml:587
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[4]/text"
-msgstr ""
+msgstr "Не обращать внимания и просто заняться покупками."
 
 #: src-en/data/events_sector_og_dawn.xml:601
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/text"
 msgstr ""
+"Вы прибыли к маяку и обнаружили обломки корабля Нового рассвета. Ничто в "
+"этом районе не указывает на то, что здесь произошло сражение. Скорее всего, "
+"обломки появились из-за астероидного поля. Если вы хотите осмотреть обломки, "
+"вам нужно войти в астероидное поле."
 
 #: src-en/data/events_sector_og_dawn.xml:603
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[1]/text"
-msgstr ""
+msgstr "Обыскать поле обломков."
 
 #: src-en/data/events_sector_og_dawn.xml:607
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на обломки."
 
 #: src-en/data/events_sector_og_dawn.xml:609
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы остаетесь в безопасности и готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_dawn.xml:611
 msgid ""
@@ -764,70 +823,101 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[1]/text"
 msgstr ""
+"Вы обыскиваете поле обломков, но, похоже, здесь нет ничего ценного. К "
+"сожалению, поле астероидов одновременно рассеяно и плотно спрессовано, "
+"поэтому вам придется избегать повреждений, пока вы заряжаете свой ССД!"
 
 #: src-en/data/events_sector_og_dawn.xml:628
 msgid ""
 "data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[2]/text"
 msgstr ""
+"Вы обыскиваете поле обломков, но, похоже, здесь нет ничего ценного. К "
+"сожалению, поле астероидов одновременно рассеяно и плотно спрессовано, "
+"поэтому вам придется избегать повреждений, пока вы заряжаете свой ССД!"
 
 #: src-en/data/events_sector_og_dawn.xml:632
 msgid ""
 "data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[3]/text"
 msgstr ""
+"Вы обыскиваете поле обломков. Среди в основном бесполезного хлама вам "
+"удается обнаружить скрытый запас боеголовок в большом грузовом контейнере, "
+"который уцелел."
 
 #: src-en/data/events_sector_og_dawn.xml:637
 msgid ""
 "data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[4]/text"
 msgstr ""
+"Вы обыскиваете поле обломков. Хотя большая часть из них представляет собой "
+"бесполезный хлам, вам удается найти небольшое количество полезных ресурсов."
 
 #: src-en/data/events_sector_og_dawn.xml:642
 msgid ""
 "data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/text"
 msgstr ""
+"Вы обыскиваете поле обломков. Сами по себе они, в основном, представляет "
+"собой бесполезный хлам. Однако среди непримечательных обломков вы находите "
+"то, что похоже на спасательную капсулу с маркировкой, совпадающей с "
+"маркировкой корабля."
 
 #: src-en/data/events_sector_og_dawn.xml:645
 msgid ""
 "data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/choice[1]/text"
-msgstr ""
+msgstr "Подобрать спасательную капсулу."
 
 #: src-en/data/events_sector_og_dawn.xml:647
 msgid ""
 "data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/choice[1]/event/text"
 msgstr ""
+"Из спасательной капсулы выходит одинокий солдат Нового рассвета. \"...Я "
+"думал, что мне конец. Это астероидное поле оказалось гораздо опаснее, чем мы "
+"ожидали... Мне повезло, что я остался жив\"."
 
 #: src-en/data/events_sector_og_dawn.xml:652
 msgid ""
 "data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на спасательную капсулу."
 
 #: src-en/data/events_sector_og_dawn.xml:665
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/text"
 msgstr ""
+"К ближайшему аванпосту Нового рассвета пристыкован большой транспортный "
+"корабль, принадлежащий Новому рассвету. Ваше сканирование показывает, что "
+"транспорт необычно пуст."
 
 #: src-en/data/events_sector_og_dawn.xml:668
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Связаться с транспортом."
 
 #: src-en/data/events_sector_og_dawn.xml:670
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"\"Ренегат Федерации? Не думал, что увижу здесь таких, как вы. Не "
+"беспокойтесь, здесь нет повстанцев, нам не нужно быть врагами\".\n"
+"Капитан транспорта делает паузу, обдумывая что-то.\n"
+"\"Скажите, у вас нет лишних припасов? Мы должны были забрать припасы из "
+"этого аванпоста, но, судя по всему, они так и не получили их с последнего "
+"транспорта\".\n"
+"\"Мы с удовольствием заплатим вам излишками оборудования или персоналом\"."
 
 #: src-en/data/events_sector_og_dawn.xml:675
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Обменять одного из их солдат на припасы."
 
 #: src-en/data/events_sector_og_dawn.xml:677
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Вы пристыковываетесь к транспорту и передаете груз, вас встречает новый член "
+"экипажа: \"Честно говоря, я всегда хотел работать на настоящем военном "
+"корабле. Транспортник - это, конечно, безопасно, но там очень скучно\"."
 
 #: src-en/data/events_sector_og_dawn.xml:686
 msgid ""
@@ -839,13 +929,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Обменять одного из их солдат на припасы."
 
 #: src-en/data/events_sector_og_dawn.xml:694
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"Вы пристыковываетесь к транспорту и передаете груз, вас встречает новый член "
+"экипажа: \"Честно говоря, я всегда хотел работать на настоящем военном "
+"корабле. Транспортник - это, конечно, безопасно, но там очень скучно\"."
 
 #: src-en/data/events_sector_og_dawn.xml:703
 msgid ""
@@ -858,12 +951,18 @@ msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[3]/text"
 msgstr ""
+"Попросить их замолвить за вас словечко перед остальными членами Нового "
+"рассвета в обмен на припасы."
 
 #: src-en/data/events_sector_og_dawn.xml:711
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[3]/event/text"
 msgstr ""
+"Вы пристыковываетесь к транспортному кораблю и передаете грузы. Капитан "
+"транспортного корабля приветствует вас: \"Знаете, эти повстанцы "
+"действительно представили Федерацию в ужасном свете, но вы, похоже, не такие "
+"уж плохие\"."
 
 #: src-en/data/events_sector_og_dawn.xml:719
 msgid ""
@@ -875,13 +974,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[4]/text"
-msgstr ""
+msgstr "\"Извините, у нас нет лишних припасов\"."
 
 #: src-en/data/events_sector_og_dawn.xml:727
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[4]/event/text"
-msgstr ""
+msgstr "Вы желаете им удачи и готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_dawn.xml:729
 msgid ""
@@ -899,25 +998,30 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "Связаться с транспортом."
 
 #: src-en/data/events_sector_og_dawn.xml:743
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/text"
 msgstr ""
+"\"Федеративная мразь, не подходите ближе, мы не хотим неприятностей, но не "
+"против разорвать ваш корабль в клочья\"."
 
 #: src-en/data/events_sector_og_dawn.xml:745
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Отправить им некоторые припасы в знак доброй воли."
 
 #: src-en/data/events_sector_og_dawn.xml:747
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[1]/event/text"
 msgstr ""
+"Транспорт осторожно забирает припасы, не сводя с вас прицелов своих турелей. "
+"\"Хм, полагаю, не все из вас такие уж ужасные, удачи вам, капитан\". С этими "
+"словами транспортник осторожно отступает в безопасное место на аванпосте."
 
 #: src-en/data/events_sector_og_dawn.xml:755
 msgid ""
@@ -929,13 +1033,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Подождать, пока они покинут аванпост, прежде чем атаковать."
 
 #: src-en/data/events_sector_og_dawn.xml:763
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[2]/event/text"
 msgstr ""
+"В конце концов транспорт завершает свою работу с аванпостом и начинает "
+"отправляться в путь. Как только он выходит из зоны досягаемости аванпоста, "
+"вы осторожно перехватываете его, открывая огонь из оружия."
 
 #: src-en/data/events_sector_og_dawn.xml:766
 msgid ""
@@ -947,7 +1054,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Не обращать на них внимания."
 
 #: src-en/data/events_sector_og_dawn.xml:774
 msgid ""
@@ -970,12 +1077,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_og_dawn.xml:788
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/text"
-msgstr ""
+msgstr "Подождать, пока они покинут аванпост, прежде чем атаковать."
 
 #: src-en/data/events_sector_og_dawn.xml:790
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/event/text"
 msgstr ""
+"В конце концов транспорт завершает свою работу с аванпостом и начинает "
+"отправляться в путь. Как только он выходит из зоны досягаемости аванпоста, "
+"вы осторожно перехватываете его, открывая огонь из оружия."
 
 #: src-en/data/events_sector_og_dawn.xml:793
 msgid ""
@@ -985,7 +1095,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_dawn.xml:799
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[4]/text"
-msgstr ""
+msgstr "Не обращать на них внимания."
 
 #: src-en/data/events_sector_og_dawn.xml:801
 msgid ""
@@ -1006,66 +1116,81 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/text"
 msgstr ""
+"Вы прибываете к маяку и сталкиваетесь с крупным коммуникационным аванпостом. "
+"Вы обнаруживаете большое количество зашифрованных сообщений, отправляемых в "
+"адрес флота повстанцев. Аванпост, по всей видимости, практически не защищен. "
+"Вы можете уничтожить его для получения добычи, не нанеся более нескольких "
+"единиц урона корпусу."
 
 #: src-en/data/events_sector_og_dawn.xml:818
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Связаться с аванпостом."
 
 #: src-en/data/events_sector_og_dawn.xml:820
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"\"Ах, Ренегат Федерации, о котором мы слышали, не беспокойтесь, повстанцы не "
+"знают, что вы здесь. Пока что\"."
 
 #: src-en/data/events_sector_og_dawn.xml:822
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Попросить аванпост задержать флот повстанцев."
 
 #: src-en/data/events_sector_og_dawn.xml:824
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
 msgstr ""
+"\"Хммм, пожалуй, можно, только бы это не привело к моему разоблачению\"."
 
 #: src-en/data/events_sector_og_dawn.xml:829
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/choice[2]/text"
 msgstr ""
+"Попросить аванпост направить флот через определенную точку, чтобы вы могли "
+"устроить там засаду."
 
 #: src-en/data/events_sector_og_dawn.xml:831
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Хммм, пожалуй, можно, только бы это не привело к моему разоблачению\"."
 
 #: src-en/data/events_sector_og_dawn.xml:841
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Связаться с аванпостом."
 
 #: src-en/data/events_sector_og_dawn.xml:843
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"\"Вы, вы - Ренегат Федерации! Назовите мне хотя бы одну вескую причину, по "
+"которой я не должен немедленно доложить о вас флоту!\""
 
 #: src-en/data/events_sector_og_dawn.xml:845
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Предложить припасы в качестве взятки."
 
 #: src-en/data/events_sector_og_dawn.xml:847
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"\"Хммм, пожалуй, я могу вас отпустить, только убирайтесь отсюда, пока "
+"повстанцы не узнали\"."
 
 #: src-en/data/events_sector_og_dawn.xml:849
 msgid ""
@@ -1078,18 +1203,21 @@ msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[@req=\"LIST_CREW_OG_DAWN\"]/text"
 msgstr ""
+"(Член экипажа-Новый рассвет) Просить аванпост задержать флот повстанцев."
 
 #: src-en/data/events_sector_og_dawn.xml:857
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[@req=\"LIST_CREW_OG_DAWN\"]/event/text"
 msgstr ""
+"\"Хммм, пожалуй, могу, только надеюсь, что это не приведет к моему "
+"разоблачению\"."
 
 #: src-en/data/events_sector_og_dawn.xml:862
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[@req=\"LIST_REBEL_WITHOUT_OG_DAWN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-повстанец) Попросить аванпост задержать флот повстанцев."
 
 #: src-en/data/events_sector_og_dawn.xml:864
 msgid ""
@@ -1097,18 +1225,22 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[@req=\"LIST_REBEL_WITHOUT_OG_DAWN\"]/event/text"
 msgstr ""
+"\"Хммм, пожалуй, могу, только надеюсь, что это не приведет к моему "
+"разоблачению\"."
 
 #: src-en/data/events_sector_og_dawn.xml:869
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Сказать им, что вы как раз собирались уходить."
 
 #: src-en/data/events_sector_og_dawn.xml:871
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[4]/event/text"
 msgstr ""
+"Они решают не сообщать о вас, вы держитесь на расстоянии и готовитесь к "
+"следующему прыжку."
 
 #: src-en/data/events_sector_og_dawn.xml:873
 msgid ""
@@ -1127,16 +1259,22 @@ msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
+"Аванпост отказывается от любых попыток установить контакт из-за вашей плохой "
+"репутации."
 
 #: src-en/data/events_sector_og_dawn.xml:889
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/text"
-msgstr ""
+msgstr "Разобрать его на лом и припасы."
 
 #: src-en/data/events_sector_og_dawn.xml:891
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/event/text"
 msgstr ""
+"Вы открываете огонь по аванпосту, он быстро разрушается под вашим оружием, "
+"его слабые турели наносят вам лишь небольшой урон. К сожалению, он успел "
+"предупредить повстанческий флот о вашем местоположении, прежде чем был "
+"уничтожен."
 
 #: src-en/data/events_sector_og_dawn.xml:895
 msgid ""
@@ -1187,16 +1325,27 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/text"
 msgstr ""
+"Вы прибываете к маяку и сталкиваетесь лицом к лицу с кораблем Нового "
+"рассвета и кораблем повстанцев. Вы сразу же готовитесь к предстоящей битве, "
+"но вскоре понимаете, что корабли не заинтересованы в вас, а нацелены друг на "
+"друга.\n"
+"Из того, что вы слышите по общему каналу связи, вы понимаете, что капитан "
+"Нового рассвета устал слушать приказы этих \"глупых капитанов повстанцев, "
+"которые не могут отличить задницу слизня от собственной матери\". А капитан "
+"повстанцев весьма недоволен неподчинением корабля Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:970
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/text"
-msgstr ""
+msgstr "Вступить в бой с кораблем Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:972
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/text"
 msgstr ""
+"Вы активируете оружие и направляетесь к кораблю Нового рассвета. У вас есть "
+"минута, чтобы еще раз обдумать свое решение. Вы можете сбежать и избежать "
+"сражения, если уйдете сейчас."
 
 #: src-en/data/events_sector_og_dawn.xml:975
 msgid ""
@@ -1206,12 +1355,14 @@ msgstr "Атаковать!"
 #: src-en/data/events_sector_og_dawn.xml:979
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Избежать сражения."
 
 #: src-en/data/events_sector_og_dawn.xml:982
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Вы разворачиваетесь и убегаете, два корабля снова обращают внимание друг на "
+"друга, а вы готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_dawn.xml:984
 msgid ""
@@ -1226,12 +1377,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_og_dawn.xml:996
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/text"
-msgstr ""
+msgstr "Вступить в бой с кораблем повстанцев."
 
 #: src-en/data/events_sector_og_dawn.xml:998
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/text"
 msgstr ""
+"Вы активируете оружие и направляетесь к кораблю повстанцев. У вас есть "
+"минута, чтобы еще раз обдумать свое решение. Вы можете сбежать и избежать "
+"сражения, если сейчас же отступите."
 
 #: src-en/data/events_sector_og_dawn.xml:1001
 msgid ""
@@ -1241,12 +1395,14 @@ msgstr "Атаковать!"
 #: src-en/data/events_sector_og_dawn.xml:1005
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Избежать сражения."
 
 #: src-en/data/events_sector_og_dawn.xml:1008
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"Вы разворачиваетесь и убегаете, два корабля снова обращают внимание друг на "
+"друга, а вы готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_dawn.xml:1010
 msgid ""
@@ -1261,7 +1417,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_og_dawn.xml:1022
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[3]/text"
-msgstr ""
+msgstr "Воспользоваться замешательством, чтобы сбежать и избежать конфликта."
 
 #: src-en/data/events_sector_og_dawn.xml:1024
 msgid ""
@@ -1282,46 +1438,65 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/text"
 msgstr ""
+"После того, как с кораблем повстанцев было покончено, корабль Нового "
+"рассвета не предпринимает никаких действий, чтобы вступить с вами в бой, вы "
+"не знаете что они задумали."
 
 #: src-en/data/events_sector_og_dawn.xml:1041
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Связаться с кораблем Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:1043
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"\"Ах, Ренегат Федерации, о которой мы слышали. Я действительно начинаю "
+"думать, что этот союз с повстанцами был огромной ошибкой, эти парни просто "
+"ужасны\".\n"
+"Капитан на мгновение задумывается.\n"
+"\"Вот, возьмите эти припасы. Изначально мы должны были доставить их на "
+"ближайший аванпост повстанцев, но я сомневаюсь, что они заметят, что они так "
+"и не прибыли\"."
 
 #: src-en/data/events_sector_og_dawn.xml:1050
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Связаться с кораблем Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:1052
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Вы, вы Ренегат Федерации. Наверное, я должен сейчас вас уничтожить, но с "
+"другой стороны, я должен был выполнить приказ того идиота, и посмотрите, чем "
+"это закончилось. Кстати, спасибо, что разобрались с ними, благодаря вам мои "
+"руки остались чистыми, я обязательно замолвлю за вас хорошее словечко. С "
+"этими словами корабль улетает, явно стремясь уйти подальше от всего этого."
 
 #: src-en/data/events_sector_og_dawn.xml:1057
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
+"Корабль отказывается от любых попыток установить контакт из-за вашей плохой "
+"репутации."
 
 #: src-en/data/events_sector_og_dawn.xml:1061
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[4]/text"
-msgstr ""
+msgstr "Вступить в бой с кораблем Нового рассвета."
 
 #: src-en/data/events_sector_og_dawn.xml:1063
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[4]/event/text"
 msgstr ""
+"Корабль Нового рассвета явно удивлен вашим решением вступить в бой, и в "
+"ответ включает оружие."
 
 #: src-en/data/events_sector_og_dawn.xml:1066
 msgid ""
@@ -1337,16 +1512,19 @@ msgstr "Не обращать внимания на корабль."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/text"
 msgstr ""
+"После того, как с кораблем Нового рассвета было покончено, корабль "
+"повстанцев не предпринимает никаких действий, чтобы вступить с вами в бой, "
+"но, похоже, и благодарности от него ждать не стоит."
 
 #: src-en/data/events_sector_og_dawn.xml:1081
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/choice[1]/text"
-msgstr ""
+msgstr "Вступить в бой с кораблем повстанцев."
 
 #: src-en/data/events_sector_og_dawn.xml:1085
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/choice[2]/text"
-msgstr ""
+msgstr "Воспользоваться хрупким миром и отступите, чтобы избежать конфликта."
 
 #: src-en/data/events_sector_og_dawn.xml:1088
 msgid ""
@@ -1464,7 +1642,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Не обращать на них внимания."
 
 #: src-en/data/events_sector_og_dawn.xml:1157
 msgid ""
@@ -1636,7 +1814,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Не обращать на них внимания."
 
 #: src-en/data/events_sector_og_dawn.xml:1268
 msgid ""
@@ -1913,7 +2091,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"3\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Не обращать на них внимания."
 
 #: src-en/data/events_sector_og_dawn.xml:1505
 msgid ""
@@ -1957,7 +2135,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_dawn.xml:1534
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[4]/text"
-msgstr ""
+msgstr "Не обращать на них внимания."
 
 #: src-en/data/events_sector_og_dawn.xml:1536
 msgid ""
