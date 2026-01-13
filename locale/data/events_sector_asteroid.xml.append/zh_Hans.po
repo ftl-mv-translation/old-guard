@@ -1,22 +1,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-13 12:45+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/dataevents_sector_asteroidxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_asteroid.xml.append:8
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ASTEROID\"]/text"
-msgstr "当你抵达信标时，一艘铁幕守望的舰船正在此地进行探索。看起来他们在此地不愿冒任"
-"何风险，立刻激活了武器系统。"
+msgstr "当你抵达信标时，一艘铁幕守望的舰船正在此地进行探索。看起来他们在此地不愿冒任何风险，立刻激活了武器系统。"
 
 #: src-en/data/events_sector_asteroid.xml.append:11
 msgid ""
@@ -34,8 +26,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ASTEROID\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/text"
-msgstr "幸运的是，由于你的良好声望，他们很快认出了你。他们提出与你平分一部分找到的打"
-"捞物。"
+msgstr "幸运的是，由于你的良好声望，他们很快认出了你。他们提出与你平分一部分找到的打捞物。"
 
 #: src-en/data/events_sector_asteroid.xml.append:21
 msgid ""
@@ -47,8 +38,7 @@ msgstr "不管了，攻击他们。"
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ENCOUNTER_OG_IRON_ASTEROID\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
-msgstr "在接收打捞物后，你立刻启动了武器系统。从通讯频道中传来的咒骂数量判断，铁幕守"
-"望显然对你的背叛行为暴跳如雷。"
+msgstr "在接收打捞物后，你立刻启动了武器系统。从通讯频道中传来的咒骂数量判断，铁幕守望显然对你的背叛行为暴跳如雷。"
 
 #: src-en/data/events_sector_asteroid.xml.append:26
 msgid ""

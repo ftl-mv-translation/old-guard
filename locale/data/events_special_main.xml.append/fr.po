@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-12 02:45+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/the-old-guard/"
-"dataevents_special_mainxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_main.xml.append:13
 msgid ""
@@ -29,8 +22,8 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_2\"]/text"
 msgstr ""
 "Le fonctionnement des tourelles est similaire à celui des armes. Elles "
-"peuvent être sélectionnées depuis la barre de raccourcis système en cliquant "
-"sur la case correspondante ou en utilisant le raccourci clavier associé."
+"peuvent être sélectionnées depuis la barre de raccourcis système en cliquant"
+" sur la case correspondante ou en utilisant le raccourci clavier associé."
 
 #: src-en/data/events_special_main.xml.append:19
 msgid ""
@@ -81,10 +74,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_6\"]/text"
 msgstr ""
-"En mode défensif, les tourelles cibleront automatiquement les projectiles et "
-"les drones. C'est ici que les améliorations internes du contrôle des "
-"tourelles deviennent les plus utiles : la vitesse de rotation et la vélocité "
-"des projectiles accrues permettent aux tourelles de réagir plus rapidement "
+"En mode défensif, les tourelles cibleront automatiquement les projectiles et"
+" les drones. C'est ici que les améliorations internes du contrôle des "
+"tourelles deviennent les plus utiles : la vitesse de rotation et la vélocité"
+" des projectiles accrues permettent aux tourelles de réagir plus rapidement "
 "aux menaces ennemies."
 
 #: src-en/data/events_special_main.xml.append:35

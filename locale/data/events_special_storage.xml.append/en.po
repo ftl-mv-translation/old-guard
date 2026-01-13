@@ -583,3 +583,11 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[2]/text"
 msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:483
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_SCRAMBLER\"]/mod-"
+"append:choice/text"
+msgstr ""
+"[Additional Effects: Enemy Turrets are scrambled, making them far less "
+"accurate in defense]."

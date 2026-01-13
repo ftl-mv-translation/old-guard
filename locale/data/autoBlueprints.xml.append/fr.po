@@ -40,82 +40,82 @@ msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_TRANSPORT\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:333
+#: src-en/data/autoBlueprints.xml.append:332
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_RAIDER\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:363
+#: src-en/data/autoBlueprints.xml.append:362
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_GUARD\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:489
+#: src-en/data/autoBlueprints.xml.append:488
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_SCOUT\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:514
+#: src-en/data/autoBlueprints.xml.append:513
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_INFILTRATOR\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:540
+#: src-en/data/autoBlueprints.xml.append:539
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_OUTRIDER\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:566
+#: src-en/data/autoBlueprints.xml.append:565
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_BOMBER\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:593
+#: src-en/data/autoBlueprints.xml.append:592
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_CORVETTE\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:621
+#: src-en/data/autoBlueprints.xml.append:620
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_FIGHTER\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:650
+#: src-en/data/autoBlueprints.xml.append:649
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_TRANSPORT\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:681
+#: src-en/data/autoBlueprints.xml.append:679
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_RAIDER\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:712
+#: src-en/data/autoBlueprints.xml.append:710
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_GUARD\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:743
+#: src-en/data/autoBlueprints.xml.append:741
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_LEGION_ASSAULT_TURRET\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:770
+#: src-en/data/autoBlueprints.xml.append:768
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_NORMAL\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:798
+#: src-en/data/autoBlueprints.xml.append:796
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_CHALLENGE\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:826
+#: src-en/data/autoBlueprints.xml.append:824
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_EXTREME\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:854
+#: src-en/data/autoBlueprints.xml.append:852
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_CHAOS\"]/class"
 msgstr ""

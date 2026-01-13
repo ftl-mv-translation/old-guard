@@ -1,22 +1,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-13 12:45+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/dataevents_special_multiversexmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_multiverse.xml.append:40
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_NORMAL\"]/text"
-msgstr "从隧道中驶出的，是一艘铁幕守望设计的巨型星舰！这一定是某种稀有的探索舰，它的"
-"船员竟自主承担起了穿越多元宇宙的使命！"
+msgstr "从隧道中驶出的，是一艘铁幕守望设计的巨型星舰！这一定是某种稀有的探索舰，它的船员竟自主承担起了穿越多元宇宙的使命！"
 
 #: src-en/data/events_special_multiverse.xml.append:43
 msgid ""
@@ -51,8 +43,7 @@ msgstr "已探索的信标，没什么值得注意。"
 #: src-en/data/events_special_multiverse.xml.append:73
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHALLENGE\"]/text"
-msgstr "一艘铁幕守望设计的巨型星舰，正从隧道中驶出！这必定是一艘罕见的探索舰，其乘员"
-"竟自发肩负起了穿越多元宇宙的使命！"
+msgstr "一艘铁幕守望设计的巨型星舰，正从隧道中驶出！这必定是一艘罕见的探索舰，其乘员竟自发肩负起了穿越多元宇宙的使命！"
 
 #: src-en/data/events_special_multiverse.xml.append:76
 msgid ""
@@ -77,8 +68,7 @@ msgstr "使用你的祝福来避免战斗。"
 #: src-en/data/events_special_multiverse.xml.append:101
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_EXTREME\"]/text"
-msgstr "一艘铁幕守望设计的巨型星舰，正从隧道中驶出！这必定是一艘罕见的探索舰，其乘员"
-"竟自发肩负起了穿越多元宇宙的使命！"
+msgstr "一艘铁幕守望设计的巨型星舰，正从隧道中驶出！这必定是一艘罕见的探索舰，其乘员竟自发肩负起了穿越多元宇宙的使命！"
 
 #: src-en/data/events_special_multiverse.xml.append:104
 msgid ""
@@ -103,8 +93,7 @@ msgstr "使用你的祝福来避免战斗。"
 #: src-en/data/events_special_multiverse.xml.append:133
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHAOS\"]/text"
-msgstr "一艘铁幕守望设计的巨型星舰，正从隧道中驶出！这必定是一艘罕见的探索舰，其乘员"
-"竟自发肩负起了穿越多元宇宙的使命！"
+msgstr "一艘铁幕守望设计的巨型星舰，正从隧道中驶出！这必定是一艘罕见的探索舰，其乘员竟自发肩负起了穿越多元宇宙的使命！"
 
 #: src-en/data/events_special_multiverse.xml.append:137
 msgid ""

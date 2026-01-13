@@ -19,7 +19,7 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "REFLECTIVE PLATING:\n"
-"Halves the damage of beams hitting this ship, rounding down."
+"Halves the damage of beams hitting this ship, rounding down, but not below 1."
 
 #: src-en/data/hyperspace.xml.append:121
 msgid ""
@@ -43,7 +43,7 @@ msgid ""
 "append:shipIcon[5]/tooltip"
 msgstr ""
 "NEW DAWN TURRETS:\n"
-"This enemy possesses New Dawn turrets, when hit by these rooms will be temporarily made vunerable and recieve +1 system damage when hit, however these turrets also render their corresponding systems vunerable aswell."
+"This enemy possesses New Dawn turrets, when hit by these, rooms will be temporarily made vunerable and recieve +1 system damage when hit, however these turrets also render their corresponding systems vunerable aswell."
 
 #: src-en/data/hyperspace.xml.append:177
 msgid ""
@@ -98,8 +98,8 @@ msgstr "Rebel Allegiance"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/description"
 msgstr ""
-"Reach Sector 8 without recruiting a single non-human crew onto a Spearhead-"
-"Class vessel."
+"Reach Sector 8 without jumping to a new beacon with a single non-human crew "
+"onboard a Spearhead-Class vessel."
 
 #: src-en/data/hyperspace.xml.append:264
 msgid ""

@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-13 12:45+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/dataevents_special_storagexmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -91,8 +84,7 @@ msgstr "选择制作材料。"
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/text"
-msgstr "在制造炮塔时，可以用炮塔基座替代防御无人机。然而，如果你有可用的防御无人机，"
-"使用它们通常比使用炮塔基座更便宜。"
+msgstr "在制造炮塔时，可以用炮塔基座替代防御无人机。然而，如果你有可用的防御无人机，使用它们通常比使用炮塔基座更便宜。"
 
 #: src-en/data/events_special_storage.xml.append:76
 msgid ""
@@ -545,8 +537,7 @@ msgstr "掠夺者 C 型 - 掉落：轻型充能炮塔"
 #: src-en/data/events_special_storage.xml.append:447
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
-"面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:455
 msgid ""
@@ -573,10 +564,15 @@ msgstr "动手吧！"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/event/text"
 msgstr ""
-"你打开货箱，发现里面是一堆杂乱无章的组件和零件，唯一能用的只有一个被拆了一半"
-"的炮塔预热充能器。你设法让它恢复了工作状态，剩下的东西对你来说毫无用处。"
+"你打开货箱，发现里面是一堆杂乱无章的组件和零件，唯一能用的只有一个被拆了一半的炮塔预热充能器。你设法让它恢复了工作状态，剩下的东西对你来说毫无用处。"
 
 #: src-en/data/events_special_storage.xml.append:477
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[2]/text"
 msgstr "算了。"
+
+#: src-en/data/events_special_storage.xml.append:483
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_SCRAMBLER\"]/mod-"
+"append:choice/text"
+msgstr ""

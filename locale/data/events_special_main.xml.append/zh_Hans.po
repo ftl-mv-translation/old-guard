@@ -1,22 +1,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-13 12:45+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/dataevents_special_mainxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_main.xml.append:13
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/text"
-msgstr "检测到你的舰船上安装了一个或多个炮塔操控系统，是否要查看其使用方法的简短教程"
-"？"
+msgstr "检测到你的舰船上安装了一个或多个炮塔操控系统，是否要查看其使用方法的简短教程？"
 
 #: src-en/data/events_special_main.xml.append:15
 msgid ""
@@ -36,8 +28,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:21
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_3\"]/text"
-msgstr "炮塔快捷键可以在切换菜单中进行分配，它们与系统快捷栏上炮塔系统旁的数字编号相"
-"对应。"
+msgstr "炮塔快捷键可以在切换菜单中进行分配，它们与系统快捷栏上炮塔系统旁的数字编号相对应。"
 
 #: src-en/data/events_special_main.xml.append:23
 msgid ""
@@ -58,8 +49,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_5\"]/text"
 msgstr ""
-"在进攻模式下，炮塔必须手动锁定目标，目标可以是敌舰、敌方射弹或敌方无人机。你"
-"可以锁定战场任意一侧的射弹，但炮塔只会在射弹抵达你舰船所在的半场时才会开火。"
+"在进攻模式下，炮塔必须手动锁定目标，目标可以是敌舰、敌方射弹或敌方无人机。你可以锁定战场任意一侧的射弹，但炮塔只会在射弹抵达你舰船所在的半场时才会开火。"
 
 #: src-en/data/events_special_main.xml.append:31
 msgid ""
@@ -69,8 +59,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:33
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_6\"]/text"
-msgstr "在防御模式下，炮塔会自动锁定射弹和无人机。此时，炮塔操控系统的内部升级将更为"
-"有用，额外的旋转速度与射弹速度能使炮塔更快地应对敌方威胁。"
+msgstr "在防御模式下，炮塔会自动锁定射弹和无人机。此时，炮塔操控系统的内部升级将更为有用，额外的旋转速度与射弹速度能使炮塔更快地应对敌方威胁。"
 
 #: src-en/data/events_special_main.xml.append:35
 msgid ""
@@ -80,8 +69,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:37
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/text"
-msgstr "炮塔拥有独立的自动开火按钮，此按钮将切换所有炮塔的默认自动开火设置。当选中一"
-"个炮塔时，按住Control键可以反转该炮塔的自动开火设置。"
+msgstr "炮塔拥有独立的自动开火按钮，此按钮将切换所有炮塔的默认自动开火设置。当选中一个炮塔时，按住Control键可以反转该炮塔的自动开火设置。"
 
 #: src-en/data/events_special_main.xml.append:39
 msgid ""
