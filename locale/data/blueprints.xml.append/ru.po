@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-13 13:45+0000\n"
+"PO-Revision-Date: 2026-01-14 04:02+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
@@ -383,7 +383,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/desc"
 msgstr ""
 "Может использоваться для создания:\n"
-"[Точечная турель]"
+"[Точечная лучевая турель]"
 
 #: src-en/data/blueprints.xml.append:469
 msgid ""
@@ -628,47 +628,53 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:771
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/title"
-msgstr ""
+msgstr "Турель с ускорителем частиц"
 
 #: src-en/data/blueprints.xml.append:772
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/short"
-msgstr ""
+msgstr "Уск. частиц"
 
 #: src-en/data/blueprints.xml.append:773
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/desc"
 msgstr ""
+"Выпускает скоростные болты, которые наносят серьезный урон системам. Не "
+"наносит вреда экипажу и корпусу и не может уничтожить слои щитов."
 
 #: src-en/data/blueprints.xml.append:792
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/title"
-msgstr ""
+msgstr "Турель Гатлинга"
 
 #: src-en/data/blueprints.xml.append:793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/short"
-msgstr ""
+msgstr "Гатлинг"
 
 #: src-en/data/blueprints.xml.append:794
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/desc"
 msgstr ""
+"Турель Гатлинга очень долго разогревается, но в конце концов она обрушит ад "
+"на ваших противников!"
 
 #: src-en/data/blueprints.xml.append:813
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/title"
-msgstr ""
+msgstr "Турель \"Пробудитель разломов\""
 
 #: src-en/data/blueprints.xml.append:814
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/short"
-msgstr ""
+msgstr "Пробуд."
 
 #: src-en/data/blueprints.xml.append:815
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/desc"
 msgstr ""
+"Мощное оружие войны, которое раньше имел только Сильван, а теперь и вы. Вы "
+"жадный, кровожадный предатель."
 
 #: src-en/data/blueprints.xml.append:837
 msgid ""
@@ -708,17 +714,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:879
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/title"
-msgstr ""
+msgstr "Энергетическая пушечная турель"
 
 #: src-en/data/blueprints.xml.append:880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/short"
-msgstr ""
+msgstr "Энерг. пуш."
 
 #: src-en/data/blueprints.xml.append:881
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/desc"
 msgstr ""
+"Энергетические турели могут выводить из строя системы, а также наносить "
+"повреждения корпусу."
 
 #: src-en/data/blueprints.xml.append:903
 msgid ""
@@ -810,17 +818,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1009
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/title"
-msgstr ""
+msgstr "Облучающая осколочная турель"
 
 #: src-en/data/blueprints.xml.append:1010
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/short"
-msgstr ""
+msgstr "Обл. оск."
 
 #: src-en/data/blueprints.xml.append:1011
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/desc"
 msgstr ""
+"Выпускает 4 радиоактивных снаряда, которые наносят обычный урон корпусу, а "
+"также высокий урон экипажу и иногда разрушают корпус настолько, что в нем "
+"образуется пробоина."
 
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
@@ -860,17 +871,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/title"
-msgstr ""
+msgstr "Цепная точечная лучевая турель"
 
 #: src-en/data/blueprints.xml.append:1076
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/short"
-msgstr ""
+msgstr "Цеп. точ."
 
 #: src-en/data/blueprints.xml.append:1077
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/desc"
 msgstr ""
+"Это точечное лучевое оружие наносит умеренный урон, но быстро увеличивает "
+"скорость стрельбы, пока не становится разрушительным для врагов с опущенными "
+"щитами."
 
 #: src-en/data/blueprints.xml.append:1099
 msgid ""
@@ -1266,17 +1280,17 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:1786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/title"
-msgstr ""
+msgstr "Лазер"
 
 #: src-en/data/blueprints.xml.append:1787
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/short"
-msgstr ""
+msgstr "Лазер"
 
 #: src-en/data/blueprints.xml.append:1788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
@@ -1326,17 +1340,17 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:1954
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/title"
-msgstr ""
+msgstr "Ион"
 
 #: src-en/data/blueprints.xml.append:1955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/short"
-msgstr ""
+msgstr "Ион"
 
 #: src-en/data/blueprints.xml.append:1956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2000
 msgid ""
@@ -1431,17 +1445,17 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:2243
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/title"
-msgstr ""
+msgstr "Осколки"
 
 #: src-en/data/blueprints.xml.append:2244
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/short"
-msgstr ""
+msgstr "Оскол."
 
 #: src-en/data/blueprints.xml.append:2245
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2292
 msgid ""
@@ -1994,12 +2008,11 @@ msgid ""
 msgstr "Отражающее покрытие"
 
 #: src-en/data/blueprints.xml.append:4270
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/desc"
 msgstr ""
 "Уменьшает урон от лучей, попадающих в этот корабль, в два раза, с "
-"округлением в меньшую сторону."
+"округлением в меньшую сторону, но не ниже 1."
 
 #: src-en/data/blueprints.xml.append:4278
 msgid ""
