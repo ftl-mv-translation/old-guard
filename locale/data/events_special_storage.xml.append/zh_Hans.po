@@ -1,23 +1,29 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-13 12:45+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-old-guard/dataevents_special_storagexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "炮塔操控。"
 
 #: src-en/data/events_special_storage.xml.append:11
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/text"
-msgstr ""
+msgstr "使用你的炮塔操控系统进行一些操作。"
 
 #: src-en/data/events_special_storage.xml.append:13
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[1]/text"
 msgstr "算了。"
@@ -25,20 +31,19 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:17
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[2]/text"
-msgstr ""
+msgstr "炮塔制造。"
 
 #: src-en/data/events_special_storage.xml.append:21
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"og_turret_adaptive\"]/text"
-msgstr ""
+msgstr "重新部署你的自适应炮塔插槽。"
 
 #: src-en/data/events_special_storage.xml.append:27
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/text"
-msgstr ""
+msgstr "安装哪一门炮塔？"
 
 #: src-en/data/events_special_storage.xml.append:29
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/choice/text"
 msgstr "算了。"
@@ -46,20 +51,19 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:35
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/text"
-msgstr ""
+msgstr "替换炮塔？"
 
 #: src-en/data/events_special_storage.xml.append:37
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/choice/text"
-msgstr ""
+msgstr "保持为空。"
 
 #: src-en/data/events_special_storage.xml.append:50
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/text"
-msgstr ""
+msgstr "可用蓝图。"
 
 #: src-en/data/events_special_storage.xml.append:52
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice[1]/text"
 msgstr "算了。"
@@ -67,15 +71,14 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:56
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice[2]/text"
-msgstr ""
+msgstr "制造炮塔基座。"
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT\"]/text"
-msgstr ""
+msgstr "需求："
 
 #: src-en/data/events_special_storage.xml.append:64
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT\"]/choice/text"
 msgstr "算了。"
@@ -83,15 +86,15 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:70
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT_STEP\"]/text"
-msgstr ""
+msgstr "选择制作材料。"
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/text"
-msgstr ""
+msgstr "在制造炮塔时，可以用炮塔基座替代防御无人机。然而，如果你有可用的防御无人机，"
+"使用它们通常比使用炮塔基座更便宜。"
 
 #: src-en/data/events_special_storage.xml.append:76
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[1]/text"
 msgstr "算了。"
@@ -99,15 +102,14 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:80
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/text"
-msgstr ""
+msgstr "建造激光炮塔基座。"
 
 #: src-en/data/events_special_storage.xml.append:82
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "炮塔基座制造完成。"
 
 #: src-en/data/events_special_storage.xml.append:88
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -115,15 +117,14 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:94
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/text"
-msgstr ""
+msgstr "建造离子炮塔基座。"
 
 #: src-en/data/events_special_storage.xml.append:96
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "炮塔基座制造完成。"
 
 #: src-en/data/events_special_storage.xml.append:102
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/event/choice/text"
 msgstr "继续。"
@@ -131,15 +132,14 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:108
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/text"
-msgstr ""
+msgstr "建造导弹炮塔基座。"
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/event/text"
-msgstr ""
+msgstr "炮塔基座制造完成。"
 
 #: src-en/data/events_special_storage.xml.append:116
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/event/choice/text"
 msgstr "继续。"
@@ -147,15 +147,14 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:122
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/text"
-msgstr ""
+msgstr "建造光点炮塔基座。"
 
 #: src-en/data/events_special_storage.xml.append:124
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/event/text"
-msgstr ""
+msgstr "炮塔基座制造完成。"
 
 #: src-en/data/events_special_storage.xml.append:130
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/event/choice/text"
 msgstr "继续。"
@@ -163,15 +162,14 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:136
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/text"
-msgstr ""
+msgstr "建造微型炮塔基座。"
 
 #: src-en/data/events_special_storage.xml.append:138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/event/text"
-msgstr ""
+msgstr "炮塔基座制造完成。"
 
 #: src-en/data/events_special_storage.xml.append:144
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/event/choice/text"
 msgstr "继续。"
@@ -180,7 +178,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "炮塔操控。"
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
@@ -191,62 +189,61 @@ msgstr "你要安装什么升级？"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "极限超频动力。 [不可用：你已达到此升级的最大数量]"
 
 #: src-en/data/events_special_storage.xml.append:165
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "极限超频动力等级 2。[费用: 35~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "极限超频动力等级 1。[费用: 35~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:173
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "弹道加速器。 [不可用：你已达到此升级的最大数量]"
 
 #: src-en/data/events_special_storage.xml.append:177
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "弹道加速器等级2。[费用: 30~, 5}]"
 
 #: src-en/data/events_special_storage.xml.append:181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "弹道加速器等级1。[费用: 30~, 5}]"
 
 #: src-en/data/events_special_storage.xml.append:185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "手操灵敏度。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:189
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "手操灵敏度。[费用: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_BUY\"]/text"
-msgstr ""
+msgstr "扩展电路。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SHOW\"]/text"
-msgstr ""
+msgstr "扩展电路。[费用: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:201
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[11]/text"
 msgstr "算了。"
@@ -255,11 +252,13 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/text"
 msgstr ""
+"你即将安装极限超频动力升级。\n"
+"[效果：炮塔旋转速度提升50%。可安装2次。]"
 
 #: src-en/data/events_special_storage.xml.append:209
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/text"
-msgstr ""
+msgstr "执行升级。[费用: 35~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:211
 msgid ""
@@ -267,7 +266,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:217
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -283,13 +281,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:228
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:234
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -298,11 +294,13 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/text"
 msgstr ""
+"你即将安装弹道加速器升级。\n"
+"\t[效果：炮塔射弹飞行速度提升50%。可安装2次。]"
 
 #: src-en/data/events_special_storage.xml.append:248
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/text"
-msgstr ""
+msgstr "执行升级。[成本: 30~, 5}]"
 
 #: src-en/data/events_special_storage.xml.append:250
 msgid ""
@@ -310,7 +308,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:256
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -326,13 +323,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:267
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:273
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -341,11 +336,13 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/text"
 msgstr ""
+"你即将安装手操灵敏度升级。\n"
+"\t[效果：炮塔在手动瞄准时获得180点旋转速度。]"
 
 #: src-en/data/events_special_storage.xml.append:287
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/text"
-msgstr ""
+msgstr "执行升级。[成本: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:289
 msgid ""
@@ -353,7 +350,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:295
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -369,13 +365,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:306
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:312
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -384,11 +378,13 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/text"
 msgstr ""
+"你即将安装扩展电路升级。\n"
+"[效果：拓展自适应炮塔的插槽，使其可装配所有尺寸的炮塔。]"
 
 #: src-en/data/events_special_storage.xml.append:326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/text"
-msgstr ""
+msgstr "执行升级。[费用: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:328
 msgid ""
@@ -396,7 +392,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:334
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -412,13 +407,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:345
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:351
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -427,145 +420,163 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "选择 1 号炮塔："
 
 #: src-en/data/events_special_storage.xml.append:365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_1_START\"]/text"
 msgstr ""
+"按任意键设置快捷键，按ESC键重置。\n"
+"\t\t\t正在设置快捷键：选择 1 号炮塔"
 
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "选择2号炮塔："
 
 #: src-en/data/events_special_storage.xml.append:372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_2_START\"]/text"
 msgstr ""
+"按任意键设置快捷键，按ESC键重置。\n"
+"\t\t\t正在设置快捷键：选择 2 号炮塔"
 
 #: src-en/data/events_special_storage.xml.append:377
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "选择 3 号炮塔："
 
 #: src-en/data/events_special_storage.xml.append:379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_3_START\"]/text"
 msgstr ""
+"按任意键设置快捷键，按ESC键重置。\n"
+"\t\t\t正在设置快捷键：选择 3 号炮塔"
 
 #: src-en/data/events_special_storage.xml.append:384
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "选择 4 号炮塔："
 
 #: src-en/data/events_special_storage.xml.append:386
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_4_START\"]/text"
 msgstr ""
+"按任意键设置快捷键，按ESC键重置。\n"
+"\t\t\t正在设置快捷键：选择 4 号炮塔"
 
 #: src-en/data/events_special_storage.xml.append:391
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "选择 5 号炮塔："
 
 #: src-en/data/events_special_storage.xml.append:393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_5_START\"]/text"
 msgstr ""
+"按任意键设置快捷键，按ESC键重置。\n"
+"\t\t\t正在设置快捷键：选择 5 号炮塔"
 
 #: src-en/data/events_special_storage.xml.append:398
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "选择 6 号炮塔："
 
 #: src-en/data/events_special_storage.xml.append:400
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_6_START\"]/text"
 msgstr ""
+"按任意键设置快捷键，按ESC键重置。\n"
+"\t\t\t正在设置快捷键：选择 6 号炮塔"
 
 #: src-en/data/events_special_storage.xml.append:405
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "选择 7 号炮塔："
 
 #: src-en/data/events_special_storage.xml.append:407
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_7_START\"]/text"
 msgstr ""
+"按任意键设置快捷键，按ESC键重置。\n"
+"\t\t\t正在设置快捷键：选择 7 号炮塔"
 
 #: src-en/data/events_special_storage.xml.append:412
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "选择 8 号炮塔："
 
 #: src-en/data/events_special_storage.xml.append:414
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_8_START\"]/text"
 msgstr ""
+"按任意键设置快捷键，按ESC键重置。\n"
+"\t\t\t正在设置快捷键：选择 8 号炮塔"
 
 #: src-en/data/events_special_storage.xml.append:421
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "重新启用炮塔操控教程。"
 
 #: src-en/data/events_special_storage.xml.append:431
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(多元劫持器) 召唤一艘多元昔日卫队舰船。"
 
 #: src-en/data/events_special_storage.xml.append:443
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/text"
-msgstr ""
+msgstr "你查看了当前可召唤的舰船列表。召唤一个多元boss需要消耗 7{。"
 
 #: src-en/data/events_special_storage.xml.append:445
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/text"
-msgstr ""
+msgstr "掠夺者 C 型 - 掉落：轻型充能炮塔"
 
 #: src-en/data/events_special_storage.xml.append:447
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:455
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[2]/text"
-msgstr ""
+msgstr "算了，还是做点别的吧。"
 
 #: src-en/data/events_special_storage.xml.append:462
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(货物箱) 打开货物箱。"
 
 #: src-en/data/events_special_storage.xml.append:467
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/text"
-msgstr ""
+msgstr "你确定要这么做吗？这么做的话，委托你送货的人恐怕不会高兴。"
 
 #: src-en/data/events_special_storage.xml.append:469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/text"
-msgstr ""
+msgstr "动手吧！"
 
 #: src-en/data/events_special_storage.xml.append:471
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/event/text"
 msgstr ""
+"你打开货箱，发现里面是一堆杂乱无章的组件和零件，唯一能用的只有一个被拆了一半"
+"的炮塔预热充能器。你设法让它恢复了工作状态，剩下的东西对你来说毫无用处。"
 
 #: src-en/data/events_special_storage.xml.append:477
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[2]/text"
 msgstr "算了。"
