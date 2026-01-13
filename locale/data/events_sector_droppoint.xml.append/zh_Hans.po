@@ -1,14 +1,22 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-13 12:45+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-old-guard/dataevents_sector_droppointxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_droppoint.xml.append:7
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/text"
-msgstr ""
+msgstr "你惊讶地发现一艘铁幕守望的舰船出现在如此人口稠密的星区，他们通常只活动于文明"
+"空间的边缘地带。"
 
 #: src-en/data/events_sector_droppoint.xml.append:10
 msgid ""
@@ -18,30 +26,29 @@ msgstr "联系该盟卫战舰。"
 #: src-en/data/events_sector_droppoint.xml.append:12
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“我们的导航系统坏了，看来是迷路了。您能为我们指引一下出口信标的方向吗？”"
 
 #: src-en/data/events_sector_droppoint.xml.append:14
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "指引他们前往出口。"
 
 #: src-en/data/events_sector_droppoint.xml.append:16
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "他们对你表示了感谢，并捐赠了一些补给品，随后便离开了。"
 
 #: src-en/data/events_sector_droppoint.xml.append:22
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr ""
+msgstr "(工程师船员) 主动提出修理他们的导航系统。"
 
 #: src-en/data/events_sector_droppoint.xml.append:24
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON_REPAIR\"]/text"
-msgstr ""
+msgstr "他们对你的帮助感激不尽，并捐赠了一些补给品以表谢意。"
 
 #: src-en/data/events_sector_droppoint.xml.append:28
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON_REPAIR\"]/choice/text"
 msgstr "继续。"
@@ -49,10 +56,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_droppoint.xml.append:34
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGI\"]/text"
-msgstr ""
+msgstr "(半械船员) 主动提出修理他们的导航系统。"
 
 #: src-en/data/events_sector_droppoint.xml.append:40
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/text"
 msgstr "无视这艘舰船。"
@@ -60,7 +66,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_sector_droppoint.xml.append:42
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你为下一次跳跃做好了准备。"
 
 #: src-en/data/events_sector_droppoint.xml.append:44
 msgid ""
