@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:21+0000\n"
+"PO-Revision-Date: 2026-01-14 04:22+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -689,6 +689,11 @@ msgstr "就在周围购物。"
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/text"
 msgstr ""
+"你抵达信标，发现了一艘铁幕守望的舰船。船长显得相当烦躁，你能从公共频道听到他"
+"的咆哮。\n"
+"\t“你说那不是炮塔是什么意思？！”你能隐约听到他的某个船员正试图解释一些船长显"
+"然无法理解的东西。\n"
+"\t“所以我们是被骗了？！那个阴险的奸商，噢——要是再让我看见他，他就死定了！”"
 
 #: src-en/data/events_sector_og_iron.xml:590
 msgid ""
