@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:40+0000\n"
+"PO-Revision-Date: 2026-01-14 04:41+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -995,12 +995,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_iron.xml:852
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "通过附近的铁幕守望前哨报告此次袭击。"
 
 #: src-en/data/events_sector_og_iron.xml:854
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你联系了当地的铁幕守望当局，告知了他们袭击事件。片刻之后，一艘铁幕守望的舰船"
+"抵达。“很抱歉让你目睹了这一切，舰长。这类袭击事件正日益恶化。我这里有一些补给"
+"本是给受袭者的，但看来他们已经用不上了，不如由你收下吧。”"
 
 #: src-en/data/events_sector_og_iron.xml:858
 #, fuzzy
