@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:02+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-01-14 10:47+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -44,7 +44,7 @@ msgid ""
 "append:shipIcon[4]/tooltip"
 msgstr ""
 "ПРЕДВАРИТЕЛЬНОЕ ПИТАНИЕ ТУРЕЛИ:\n"
-"Турели этого врага будут полностью заряжены в начале боя."
+"Турели этого врага будут наполовину заряжены в начале боя."
 
 #: src-en/data/hyperspace.xml.append:131
 msgid ""
