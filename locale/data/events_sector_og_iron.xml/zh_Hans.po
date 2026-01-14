@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:26+0000\n"
+"PO-Revision-Date: 2026-01-14 04:30+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -757,17 +757,17 @@ msgstr "你跟在铁幕守望舰船的后方，进入了小行星带。“我们
 #: src-en/data/events_sector_og_iron.xml:633
 msgid ""
 "data/events_sector_og_iron.xml$//triggeredEvent[@name=\"OG_IRON_FOR_SCIENCE_TURRET\"]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "铁幕守望炮塔校准剩余时间。"
 
 #: src-en/data/events_sector_og_iron.xml:641
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/text"
-msgstr ""
+msgstr "无视该请求。"
 
 #: src-en/data/events_sector_og_iron.xml:643
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你避开了那艘铁幕守望的舰船，并为下一次跳跃做好准备。"
 
 #: src-en/data/events_sector_og_iron.xml:645
 msgid ""
@@ -782,7 +782,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_iron.xml:657
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/text"
-msgstr ""
+msgstr "“收到请回复，收到请回复！出大事了，我们的炮塔全部失灵了。”"
 
 #: src-en/data/events_sector_og_iron.xml:659
 msgid ""
@@ -792,27 +792,29 @@ msgstr "(能量供给船员) 让你的船员超载他们的系统。"
 #: src-en/data/events_sector_og_iron.xml:663
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"battery\"]/text"
-msgstr ""
+msgstr "(备用电池) 使用你的额外能量过载他们的系统。"
 
 #: src-en/data/events_sector_og_iron.xml:667
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[3]/text"
-msgstr ""
+msgstr "你无能为力……"
 
 #: src-en/data/events_sector_og_iron.xml:681
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS_ION\"]/text"
-msgstr ""
+msgstr "你成功为他们的炮塔恢复了电力。"
 
 #: src-en/data/events_sector_og_iron.xml:685
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS\"]/text"
-msgstr ""
+msgstr "“我们这边搞定了，多谢帮忙，舰长。”该舰船发送了一些补给品，作为你护卫任务的报"
+"酬。"
 
 #: src-en/data/events_sector_og_iron.xml:691
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_BLAST\"]/text"
-msgstr ""
+msgstr "你眼睁睁看着一颗巨大的小行星撕裂了那艘铁幕守望的舰船。它碎裂成一团残骸，迅速"
+"消散在小行星带中。你在离开前，设法收集了一部分残骸。"
 
 #: src-en/data/events_sector_og_iron.xml:710
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/text"
