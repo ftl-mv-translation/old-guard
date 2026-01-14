@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 10:47+0000\n"
+"PO-Revision-Date: 2026-01-15 04:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_addon_iconxmlappend/zh_Hans/>\n"
@@ -75,20 +75,20 @@ msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_FISH_DISABLED\"]/hover-"
 "text"
 msgstr ""
-"FTL：钓鱼\n"
+"FTL：鱼贯星海\n"
 "\t点击查看更多信息。"
 
 #: src-en/data/events_addon_icon.xml.append:40
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_FISH_DISABLED\"]/text"
 msgstr ""
-"FTL：钓鱼\n"
+"FTL：鱼贯星海\n"
 "开发者：Arc\n"
 "当前状态：已禁用\n"
 "\t\t\n"
 "在FTL里钓鱼，我还能说什么呢？超过60种鱼类，每一种都有独特的用途和效果。\n"
 "\t\t\n"
-"要启用钓鱼模组，请前往多元宇宙论坛并访问模组专区！。"
+"要启用鱼贯星海模组，请前往多元宇宙论坛并访问模组专区！。"
 
 #: src-en/data/events_addon_icon.xml.append:49
 msgid ""
