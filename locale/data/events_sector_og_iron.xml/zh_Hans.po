@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:32+0000\n"
+"PO-Revision-Date: 2026-01-14 04:36+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -830,7 +830,7 @@ msgstr "调查。"
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/event/text"
 msgstr "这艘船似乎已被洗劫一空，除少数几个区域外，几乎没有什么可打捞的了。你尽己所能"
-"收集了一些物品，随后便返回了自己的舰船"
+"收集了一些物品，随后便返回了自己的舰船。"
 
 #: src-en/data/events_sector_og_iron.xml:719
 #, fuzzy
@@ -841,7 +841,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_sector_og_iron.xml:721
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你避开了那艘铁幕守望的舰船，并为下一次跳跃做好准备。"
 
 #: src-en/data/events_sector_og_iron.xml:723
 msgid ""
@@ -856,27 +856,28 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_iron.xml:750
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/text"
-msgstr ""
+msgstr "铁幕守望的舰船分崩离析。你迅速尝试联系那艘民用船只。"
 
 #: src-en/data/events_sector_og_iron.xml:753
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "联系民用船只。"
 
 #: src-en/data/events_sector_og_iron.xml:758
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/text"
-msgstr ""
+msgstr "未在铁幕守望的舰船上检测到更多生命迹象。你迅速尝试联系那艘民用船只。"
 
 #: src-en/data/events_sector_og_iron.xml:761
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "联系民用船只。"
 
 #: src-en/data/events_sector_og_iron.xml:769
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一艘铁幕守望的舰船正在追击一艘民用船。看来在这片铁幕守望的领"
+"空里，规则一定特别宽松，以至于他们自己的舰船都开始转向海盗行径了。"
 
 #: src-en/data/events_sector_og_iron.xml:771
 msgid ""
@@ -886,7 +887,7 @@ msgstr "援救平民船。"
 #: src-en/data/events_sector_og_iron.xml:773
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动了武器系统，并开始逼近攻击。"
 
 #: src-en/data/events_sector_og_iron.xml:776
 #, fuzzy
@@ -918,6 +919,9 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/text"
 msgstr ""
+"你抵达信标，发现一艘铁幕守望的舰船正在追击一艘民用船。看来铁幕守望正在利用此"
+"地的脉冲星环境对平民下手。尽管在铁幕守望的大部分领空这都是非法的，但这艘船似"
+"乎并不担心被抓到。"
 
 #: src-en/data/events_sector_og_iron.xml:803
 msgid ""
