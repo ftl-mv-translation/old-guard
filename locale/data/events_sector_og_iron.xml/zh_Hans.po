@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:19+0000\n"
+"PO-Revision-Date: 2026-01-14 04:21+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -637,7 +637,7 @@ msgstr "交易。"
 #: src-en/data/events_sector_og_iron.xml:528
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "(心灵控制) “协商”一个更低的价格。"
 
 #: src-en/data/events_sector_og_iron.xml:530
 msgid ""
@@ -652,7 +652,7 @@ msgstr "交易。"
 #: src-en/data/events_sector_og_iron.xml:542
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
-msgstr ""
+msgstr "(铁幕守望船员) 协商一个更低的价格。"
 
 #: src-en/data/events_sector_og_iron.xml:544
 msgid ""
@@ -667,7 +667,7 @@ msgstr "交易。"
 #: src-en/data/events_sector_og_iron.xml:555
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/text"
-msgstr ""
+msgstr "攻击空间站！"
 
 #: src-en/data/events_sector_og_iron.xml:557
 msgid ""
