@@ -345,7 +345,7 @@ local function add_stat_text(desc, currentTurret, chargeMax)
 		desc = desc.."\nChances de feu : "..math.floor(damage.fireChance * 10).."%"
 	end
 	if damage.breachChance > 0 then
-		desc = desc.."\nChances de trou dans la coque : "..math.floor(damage.breachChance * 10).."% (Adjusted: "..math.floor((100 - 10 * damage.fireChance) * (damage.breachChance/10)).."%)"
+		desc = desc.."\nChances de brèche : "..math.floor(damage.breachChance * 10).."% (Adjusted: "..math.floor((100 - 10 * damage.fireChance) * (damage.breachChance/10)).."%)"
 	end
 	if damage.stunChance > 0 then
 		desc = desc.."\nChance d'étourdissement : "..math.floor(damage.stunChance * 10).."% ("..math.floor((damage.iStun > 0 and damage.iStun) or 3).." seconds long)"
