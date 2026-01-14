@@ -515,7 +515,7 @@ msgstr "铁幕守望的舰船发生爆炸，舱内所有生命随之消逝。你
 #: src-en/data/events_sector_og_iron.xml:394
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[4]"
-msgstr ""
+msgstr "舰船爆炸时，一座炮塔被抛射入虚空之中，同时将有价值的碎片抛向四面八方。"
 
 #: src-en/data/events_sector_og_iron.xml:402
 msgid ""
