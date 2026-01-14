@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:13+0000\n"
+"PO-Revision-Date: 2026-01-14 04:15+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -509,7 +509,8 @@ msgstr "铁幕守望舰船的船体在太空中解体四散。你随即飞近，
 #: src-en/data/events_sector_og_iron.xml:393
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[3]"
-msgstr ""
+msgstr "铁幕守望的舰船发生爆炸，舱内所有生命随之消逝。你的船员在打捞舰船碎片时，避开"
+"了他们的遗骸。"
 
 #: src-en/data/events_sector_og_iron.xml:394
 msgid ""
