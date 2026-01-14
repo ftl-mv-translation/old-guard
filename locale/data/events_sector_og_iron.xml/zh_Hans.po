@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:38+0000\n"
+"PO-Revision-Date: 2026-01-14 04:40+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -983,7 +983,8 @@ msgstr "搜刮民用船只的残骸。"
 #: src-en/data/events_sector_og_iron.xml:842
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你刚靠近并开始搜刮民用船残骸，一艘铁幕守望的舰船便抵达了信标。他们似乎认为你"
+"应对这起 事件负责，立刻开始逼近并发动攻击。"
 
 #: src-en/data/events_sector_og_iron.xml:846
 #, fuzzy
