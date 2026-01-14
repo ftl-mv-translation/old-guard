@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:36+0000\n"
+"PO-Revision-Date: 2026-01-14 04:38+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -931,7 +931,7 @@ msgstr "援救平民船。"
 #: src-en/data/events_sector_og_iron.xml:805
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动了武器系统，并开始逼近攻击。"
 
 #: src-en/data/events_sector_og_iron.xml:808
 #, fuzzy
@@ -961,7 +961,8 @@ msgstr "跳过。"
 
 #: src-en/data/events_sector_og_iron.xml:833
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一艘陌生的新黎明舰船正在攻击一艘民用船，他们似乎尚未察觉到你"
+"的存在。"
 
 #: src-en/data/events_sector_og_iron.xml:835
 msgid ""
@@ -971,12 +972,13 @@ msgstr "援救平民船。"
 #: src-en/data/events_sector_og_iron.xml:837
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/text"
-msgstr ""
+msgstr "在你来得及采取任何行动之前，民用船便爆炸了。新黎明的舰船注意到了你，随即转身"
+"逃跑，顷刻间便已跳跃离开。"
 
 #: src-en/data/events_sector_og_iron.xml:840
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "搜刮民用船只的残骸。"
 
 #: src-en/data/events_sector_og_iron.xml:842
 msgid ""
