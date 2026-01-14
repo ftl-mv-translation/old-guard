@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:08+0000\n"
+"PO-Revision-Date: 2026-01-14 04:09+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -456,6 +456,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/text"
 msgstr ""
+"[恶名提升 - 铁幕守望]\n"
+"你在此地的行为，无论是否合理，都不会给铁幕守望及其公民留下好印象。持续进行此"
+"类行动，你可能会开始招致铁幕守望及其盟友的负面反应。"
 
 #: src-en/data/events_sector_og_iron.xml:351
 #, fuzzy
