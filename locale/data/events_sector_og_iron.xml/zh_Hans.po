@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:22+0000\n"
+"PO-Revision-Date: 2026-01-14 04:23+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -698,12 +698,15 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:590
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/text"
-msgstr ""
+msgstr "继续监听。"
 
 #: src-en/data/events_sector_og_iron.xml:592
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/event/text"
 msgstr ""
+"最终，船长的怒火达到了顶点，下令将那所谓的“炮塔”扔出气闸。“我不想再看见它，马"
+"上带我们离开这里！”随着这道命令，铁幕守望的舰船跳跃离开了。现在，你有时间打捞"
+"起那个“炮塔”并亲自检查，结果发现它只是一个简单的防御无人机。"
 
 #: src-en/data/events_sector_og_iron.xml:596
 msgid ""
