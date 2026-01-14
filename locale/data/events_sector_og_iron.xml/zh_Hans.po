@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:15+0000\n"
+"PO-Revision-Date: 2026-01-14 04:16+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
@@ -525,7 +525,8 @@ msgstr "\"你的杀戮欲…总有一天会成为你的致命弱点，变元者�
 #: src-en/data/events_sector_og_iron.xml:403
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[2]"
-msgstr ""
+msgstr "铁幕守望的船长一言不发地倒在地上，双眼逐渐失去神采，最终窒息而亡。你打捞了他"
+"们舰船的船体。"
 
 #: src-en/data/events_sector_og_iron.xml:404
 msgid ""
