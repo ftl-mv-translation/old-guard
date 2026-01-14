@@ -1,0 +1,2034 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:4
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION_ENEMY\"]/title"
+msgstr "Moteurs Overclockés"
+
+#: src-en/data/blueprints.xml.append:5
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:11
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION\"]/title"
+msgstr "Moteurs Overclockés"
+
+#: src-en/data/blueprints.xml.append:12
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/title"
+msgstr "Moteurs Overclockés [X]"
+
+#: src-en/data/blueprints.xml.append:20
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/desc"
+msgstr ""
+"Les tourelles tournent 50 % plus vite.\n"
+"\t\n"
+"\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes si vous avez le système de salle des clones modifié."
+
+#: src-en/data/blueprints.xml.append:30
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_SPEED\"]/title"
+msgstr "Accélérateurs"
+
+#: src-en/data/blueprints.xml.append:31
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_SPEED\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:38
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/title"
+msgstr "Accélérateurs [X]"
+
+#: src-en/data/blueprints.xml.append:39
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/desc"
+msgstr ""
+"Les projectiles de tourelles se déplacent 50 % plus vite.\n"
+"\t\n"
+"\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes si vous avez le système de salle des clones modifié."
+
+#: src-en/data/blueprints.xml.append:49
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_MANUAL\"]/title"
+msgstr "Dextérité Manuelle"
+
+#: src-en/data/blueprints.xml.append:50
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_MANUAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:57
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/title"
+msgstr "Dextérité Manuelle [X]"
+
+#: src-en/data/blueprints.xml.append:58
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/desc"
+msgstr ""
+"Les tourelles gagnent 180 vitesses de rotation lorsqu'elles sont ciblées manuellement.\n"
+"\t\n"
+"\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes si vous avez le système de salle des clones modifié."
+
+#: src-en/data/blueprints.xml.append:68
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/title"
+msgstr "Circuit étendu"
+
+#: src-en/data/blueprints.xml.append:69
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:76
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/title"
+msgstr "Circuit étendu [X]"
+
+#: src-en/data/blueprints.xml.append:77
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
+msgstr ""
+"Étend l'emplacement de la tourelle adaptative pour accepter toutes les tailles de tourelles.\n"
+"\t\n"
+"\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes si vous avez le système de salle des clones modifié."
+
+#: src-en/data/blueprints.xml.append:87
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
+msgstr "Contrôle de tourelle"
+
+#: src-en/data/blueprints.xml.append:88
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:105
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_2\"]/title"
+msgstr "Contrôle de tourelle"
+
+#: src-en/data/blueprints.xml.append:106
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:123
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_3\"]/title"
+msgstr "Contrôle de tourelle"
+
+#: src-en/data/blueprints.xml.append:124
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:141
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_4\"]/title"
+msgstr "Contrôle de tourelle"
+
+#: src-en/data/blueprints.xml.append:142
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:159
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:160
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:174
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:175
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:189
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:190
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:204
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:205
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:219
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/title"
+msgstr "Contrôle de Tourelle Adaptative"
+
+#: src-en/data/blueprints.xml.append:220
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
+msgstr ""
+"Alimente la tourelle de votre vaisseau. L'amélioration réduit le temps de "
+"charge de la tourelle. La position de la tourelle peut être modifiée en "
+"dehors des combats pour mieux s'adapter au vaisseau, et peut être améliorée "
+"en un emplacement de grande tourelle."
+
+#: src-en/data/blueprints.xml.append:240
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/title"
+msgstr "Caisse de fret de la Nouvelle Aube"
+
+#: src-en/data/blueprints.xml.append:241
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/short"
+msgstr "Caisse de fret"
+
+#: src-en/data/blueprints.xml.append:242
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/desc"
+msgstr ""
+"Une caisse de fret inhabituelle, vous ne savez pas ce qu'elle contient, et "
+"si vous aviez le temps, vous pourriez probablement l'ouvrir, mais les "
+"personnes à qui vous la livrez ne seraient pas contentes."
+
+#: src-en/data/blueprints.xml.append:259
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/title"
+msgstr "Laser perforant MK I"
+
+#: src-en/data/blueprints.xml.append:260
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/short"
+msgstr "Perforation I"
+
+#: src-en/data/blueprints.xml.append:262
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/desc"
+msgstr ""
+"Arme de butin spéciale. Consultez l'infobulle dans l'inventaire pour "
+"vérifier les améliorations par rapport à la version de base."
+
+#: src-en/data/blueprints.xml.append:301
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/desc"
+msgstr ""
+"Un technicien de la Garde de Fer qualifié en réparations.\n"
+"\n"
+"\tStatistiques Humain héritées : légère résistance à la suffocation, apprend les compétences plus rapidement"
+
+#: src-en/data/blueprints.xml.append:305
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/title"
+msgstr "Pillard de la Garde de Fer"
+
+#: src-en/data/blueprints.xml.append:306
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/short"
+msgstr "Pillard"
+
+#: src-en/data/blueprints.xml.append:309
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[1]"
+msgstr ""
+"Fournit 2 points d'énergie au système occupé en présence d'un pulsar ou "
+"d'une tempête ionique"
+
+#: src-en/data/blueprints.xml.append:310
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[2]"
+msgstr "Révèle les pièces adjacentes dans une nébuleuse"
+
+#: src-en/data/blueprints.xml.append:311
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[3]"
+msgstr "Vitesse de réparation x1,25"
+
+#: src-en/data/blueprints.xml.append:312
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[4]"
+msgstr "Subit 0,6x dégâts du feu"
+
+#: src-en/data/blueprints.xml.append:337
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/desc"
+msgstr ""
+"Un Soldat de la Nouvelle Aube, équipé d'un dispositif de camouflage personnel dont la charge est drainée par les actions effectuées.\n"
+"\n"
+"\tStatistiques Humain héritées : légère résistance à la suffocation, apprend les compétences plus rapidement"
+
+#: src-en/data/blueprints.xml.append:341
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/title"
+msgstr "Soldat de la Nouvelle Aube"
+
+#: src-en/data/blueprints.xml.append:342
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/short"
+msgstr "Soldat de l'Aube"
+
+#: src-en/data/blueprints.xml.append:345
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[1]"
+msgstr ""
+"Capacité active : Se camoufle pour se cacher de l'équipage ennemi, augmente "
+"les dégâts en étant camouflé, la durée du camouflage diminue en fonction des"
+" actions effectuées plutôt que du temps."
+
+#: src-en/data/blueprints.xml.append:346
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:379
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/title"
+msgstr "Base de tourelle laser"
+
+#: src-en/data/blueprints.xml.append:380
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/short"
+msgstr "Base laser"
+
+#: src-en/data/blueprints.xml.append:381
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/desc"
+msgstr ""
+"Peut être utilisé pour fabriquer :\n"
+"[Tourelle Laser Rafale]\n"
+"[Tourelle Laser Lourde]\n"
+"[???]\n"
+"[???]"
+
+#: src-en/data/blueprints.xml.append:403
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/title"
+msgstr "Base de tourelle ionique"
+
+#: src-en/data/blueprints.xml.append:404
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/short"
+msgstr "Base ionique"
+
+#: src-en/data/blueprints.xml.append:405
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/desc"
+msgstr ""
+"Peut être utilisé pour fabriquer :\n"
+"[Tourelle à Barrage Ionique]\n"
+"[Tourelle Ion Incendiaire]"
+
+#: src-en/data/blueprints.xml.append:425
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/title"
+msgstr "Base de tourelle à missiles"
+
+#: src-en/data/blueprints.xml.append:426
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/short"
+msgstr "Base à missiles"
+
+#: src-en/data/blueprints.xml.append:427
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/desc"
+msgstr ""
+"Peut être utilisé pour fabriquer :\n"
+"[Tourelle Lance-Missiles Essaim]\n"
+"[Tourelle Quadri-Missile]\n"
+"[Tourelle Flak]"
+
+#: src-en/data/blueprints.xml.append:448
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/title"
+msgstr "Base de tourelle à Focalisation"
+
+#: src-en/data/blueprints.xml.append:449
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/short"
+msgstr "Base de Focalisation"
+
+#: src-en/data/blueprints.xml.append:450
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/desc"
+msgstr ""
+"Peut être utilisé pour fabriquer :\n"
+"[Tourelle Aiguillon]"
+
+#: src-en/data/blueprints.xml.append:469
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/title"
+msgstr "Base de micro-tourelle"
+
+#: src-en/data/blueprints.xml.append:470
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/short"
+msgstr "Micro-Base"
+
+#: src-en/data/blueprints.xml.append:471
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/desc"
+msgstr ""
+"Peut être utilisé pour fabriquer :\n"
+"[Micro Tourelle Laser]\n"
+"[Tourelle Laser Légère]\n"
+"[Micro Tourelle Ionique]\n"
+"[Micro Tourelle Aiguillon]"
+
+#: src-en/data/blueprints.xml.append:494
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/title"
+msgstr "Tourelle ???"
+
+#: src-en/data/blueprints.xml.append:495
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:496
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/desc"
+msgstr ""
+"Vous aurez besoin de plus de composants d'artisanat pour déchiffrer ce plan."
+
+#: src-en/data/blueprints.xml.append:518
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/title"
+msgstr "Tourelle Laser Rafale"
+
+#: src-en/data/blueprints.xml.append:519
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/short"
+msgstr "L. Rafale"
+
+#: src-en/data/blueprints.xml.append:520
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/desc"
+msgstr ""
+"Tourelle Laser Rafale standard. Un juste milieu bon marché et efficace entre"
+" l'attaque et la défense."
+
+#: src-en/data/blueprints.xml.append:539
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/title"
+msgstr "Tourelle Laser Lourde"
+
+#: src-en/data/blueprints.xml.append:540
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/short"
+msgstr "L. Lourde"
+
+#: src-en/data/blueprints.xml.append:541
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/desc"
+msgstr ""
+"Les tourelles laser lourdes sont de médiocres tourelles défensives en raison"
+" de leur lente vitesse de rotation et de leurs dégâts élevés par tir, mais "
+"elles sont excellentes contre les vaisseaux ennemis."
+
+#: src-en/data/blueprints.xml.append:560
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/title"
+msgstr "Tourelle Laser Rafale Rouillée"
+
+#: src-en/data/blueprints.xml.append:561
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/short"
+msgstr "L. Rafale R."
+
+#: src-en/data/blueprints.xml.append:562
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/desc"
+msgstr ""
+"Tourelle Laser Rafale standard. Un juste milieu bon marché et efficace entre"
+" l'attaque et la défense. Très ancienne et à la visée moins précise."
+
+#: src-en/data/blueprints.xml.append:581
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/title"
+msgstr "Tourelle Laser Chargeur Léger"
+
+#: src-en/data/blueprints.xml.append:582
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/short"
+msgstr "C. Léger"
+
+#: src-en/data/blueprints.xml.append:583
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/desc"
+msgstr ""
+"Une tourelle laser légère spécialisée, extrêmement efficace pour défendre le"
+" vaisseau grâce à son nombre élevé de charges et sa vitesse de rotation "
+"rapide."
+
+#: src-en/data/blueprints.xml.append:602
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/title"
+msgstr "Tourelle Laser Chargeur Léger Chaotique"
+
+#: src-en/data/blueprints.xml.append:603
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/short"
+msgstr "C. Léger™"
+
+#: src-en/data/blueprints.xml.append:604
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/desc"
+msgstr ""
+"Une tourelle laser légère spécialisée, extrêmement efficace pour défendre le vaisseau grâce à son nombre élevé de charges et sa vitesse de rotation rapide.\n"
+"La variante chaotique tourne 5 fois plus vite et peut cibler n'importe quel projectile."
+
+#: src-en/data/blueprints.xml.append:624
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/title"
+msgstr "Tourelle Augure"
+
+#: src-en/data/blueprints.xml.append:625
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/short"
+msgstr "Augure"
+
+#: src-en/data/blueprints.xml.append:626
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/desc"
+msgstr ""
+"Une tourelle laser incroyablement puissante fabriquée par les Obélisques qui"
+" peut causer beaucoup plus de ravages que votre tourelle moyenne."
+
+#: src-en/data/blueprints.xml.append:645
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/title"
+msgstr "Tourelle Vindicatrice"
+
+#: src-en/data/blueprints.xml.append:646
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:647
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:666
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/title"
+msgstr "Tourelle Laser Zénithal"
+
+#: src-en/data/blueprints.xml.append:667
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/short"
+msgstr "L. Zénithal"
+
+#: src-en/data/blueprints.xml.append:668
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/desc"
+msgstr ""
+"Une tourelle laser mortelle alimentée à l'Éther qui inflige des dégâts "
+"massifs, même par rapport aux tourelles laser lourdes standards."
+
+#: src-en/data/blueprints.xml.append:687
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/title"
+msgstr "Tourelle Laser Irradiante"
+
+#: src-en/data/blueprints.xml.append:688
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/short"
+msgstr "L. Rad."
+
+#: src-en/data/blueprints.xml.append:689
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/desc"
+msgstr ""
+"Une tourelle laser spécialisée qui inflige des dégâts biologiques élevés et "
+"handicape l'équipage, mais pas de dégâts aux systèmes ou à la coque. Cette "
+"tourelle est également extrêmement efficace en défense pour abattre les "
+"lasers ennemis."
+
+#: src-en/data/blueprints.xml.append:708
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/title"
+msgstr "Tourelle Laser Perforant"
+
+#: src-en/data/blueprints.xml.append:709
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/short"
+msgstr "L. Perforant"
+
+#: src-en/data/blueprints.xml.append:710
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/desc"
+msgstr ""
+"Une tourelle laser spécialisée capable de perforer des couches de boucliers "
+"supplémentaires."
+
+#: src-en/data/blueprints.xml.append:729
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/title"
+msgstr "Tourelle Laser anti-coque"
+
+#: src-en/data/blueprints.xml.append:730
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/short"
+msgstr "L. Coque"
+
+#: src-en/data/blueprints.xml.append:731
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/desc"
+msgstr ""
+"Une tourelle laser militaire spécialement conçue qui inflige plus de dégâts "
+"aux pièces sans systèmes."
+
+#: src-en/data/blueprints.xml.append:750
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/title"
+msgstr "Tourelle Vulcain en chaîne"
+
+#: src-en/data/blueprints.xml.append:751
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/short"
+msgstr "Vulcain"
+
+#: src-en/data/blueprints.xml.append:752
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/desc"
+msgstr ""
+"Cette tourelle laser met beaucoup de temps à chauffer. Chaque fois qu'elle "
+"tire, elle réduit le temps de recharge, finissant par pouvoir abattre "
+"n'importe quelle quantité de boucliers."
+
+#: src-en/data/blueprints.xml.append:771
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/title"
+msgstr "Tourelle Accélérateur de Particules"
+
+#: src-en/data/blueprints.xml.append:772
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/short"
+msgstr "A. Particules"
+
+#: src-en/data/blueprints.xml.append:773
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/desc"
+msgstr ""
+"Tire des boulons profilés qui infligent de lourds dégâts aux systèmes. Ne "
+"blesse ni l'équipage ni la coque, et ne peut pas abaisser les boucliers."
+
+#: src-en/data/blueprints.xml.append:792
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/title"
+msgstr "Tourelle Gatling"
+
+#: src-en/data/blueprints.xml.append:793
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/short"
+msgstr "Gatling"
+
+#: src-en/data/blueprints.xml.append:794
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/desc"
+msgstr ""
+"La tourelle Gatling met très longtemps à chauffer, mais elle finira par "
+"déchaîner l'enfer sur votre opposition !"
+
+#: src-en/data/blueprints.xml.append:813
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/title"
+msgstr "Tourelle 'Éventre-Espace'"
+
+#: src-en/data/blueprints.xml.append:814
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/short"
+msgstr "'Éventre-Espace'"
+
+#: src-en/data/blueprints.xml.append:815
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/desc"
+msgstr ""
+"Une puissante arme de guerre portée auparavant seulement par Sylvan, mais "
+"maintenant par vous aussi. Vous, traître cupide et meurtrier."
+
+#: src-en/data/blueprints.xml.append:837
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/title"
+msgstr "Tourelle Barrage Ionique"
+
+#: src-en/data/blueprints.xml.append:838
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:839
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/desc"
+msgstr ""
+"Les tourelles ioniques sont excellentes pour la suppression des drones et "
+"peuvent désactiver les systèmes sans causer de dégâts à la coque. Celle-ci "
+"se charge et tire très rapidement."
+
+#: src-en/data/blueprints.xml.append:858
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_2\"]/title"
+msgstr "Tourelle Ion Incendiaire"
+
+#: src-en/data/blueprints.xml.append:859
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_2\"]/short"
+msgstr "I. Incendiaire"
+
+#: src-en/data/blueprints.xml.append:860
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_2\"]/desc"
+msgstr ""
+"Les tourelles ioniques sont excellentes pour la suppression des drones et "
+"peuvent désactiver les systèmes sans causer de dégâts à la coque. Celle-ci "
+"déclenche des incendies dans le système qu'elle touche."
+
+#: src-en/data/blueprints.xml.append:879
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/title"
+msgstr "Tourelle Canon Énergétique"
+
+#: src-en/data/blueprints.xml.append:880
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/short"
+msgstr "C. Énergétique"
+
+#: src-en/data/blueprints.xml.append:881
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/desc"
+msgstr ""
+"Les tourelles énergétiques peuvent désactiver les systèmes tout en causant "
+"des dégâts à la coque."
+
+#: src-en/data/blueprints.xml.append:903
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/title"
+msgstr "Tourelle Lance-Missiles Essaim"
+
+#: src-en/data/blueprints.xml.append:904
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/short"
+msgstr "M. Essaim"
+
+#: src-en/data/blueprints.xml.append:905
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/desc"
+msgstr ""
+"Tire un essaim de petits missiles rapides capables de cibler leur cible, "
+"excellente défense mais peu efficace contre les systèmes ennemis."
+
+#: src-en/data/blueprints.xml.append:924
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/title"
+msgstr "Tourelle Quadri-Missile"
+
+#: src-en/data/blueprints.xml.append:925
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/short"
+msgstr "M. Quadri"
+
+#: src-en/data/blueprints.xml.append:926
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/desc"
+msgstr ""
+"Lent à charger mais capable d'infliger des dégâts élevés au vaisseau ennemi,"
+" efficace contre les drones ennemis et les projectiles solides."
+
+#: src-en/data/blueprints.xml.append:945
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/title"
+msgstr "Tourelle Lance-Bulbes Lourde"
+
+#: src-en/data/blueprints.xml.append:946
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/short"
+msgstr "L. Bulbes L."
+
+#: src-en/data/blueprints.xml.append:947
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/desc"
+msgstr ""
+"Cette arme utilise les bulbes de plantes géantes de la planète natale des "
+"Orchidées comme munitions. Les bulbes se comportent comme des missiles, mais"
+" leur coût en munitions est également réduit de moitié."
+
+#: src-en/data/blueprints.xml.append:965
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/title"
+msgstr "Tourelle Lance-Bulbes Solaire"
+
+#: src-en/data/blueprints.xml.append:966
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/short"
+msgstr "L. Bulbes S."
+
+#: src-en/data/blueprints.xml.append:967
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/desc"
+msgstr ""
+"Cette arme utilise les bulbes de plantes géantes de la planète natale des "
+"Orchidées comme munitions. Cette arme à bulbe modifiée crée des incendies au"
+" lieu de brèches."
+
+#: src-en/data/blueprints.xml.append:989
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/title"
+msgstr "Tourelle Flak"
+
+#: src-en/data/blueprints.xml.append:990
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/short"
+msgstr "Flak"
+
+#: src-en/data/blueprints.xml.append:991
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
+msgstr ""
+"Une puissante tourelle Flak, capable de lancer une volée incroyable à la "
+"fois en défense et en attaque."
+
+#: src-en/data/blueprints.xml.append:1009
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/title"
+msgstr "Tourelle Flak Irradiée"
+
+#: src-en/data/blueprints.xml.append:1010
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/short"
+msgstr "Flak Rad."
+
+#: src-en/data/blueprints.xml.append:1011
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/desc"
+msgstr ""
+"Tire 4 projectiles radioactifs qui infligent des dégâts normaux à la coque "
+"ainsi que des dégâts élevés à l'équipage et érodent parfois la coque "
+"suffisamment pour créer une brèche."
+
+#: src-en/data/blueprints.xml.append:1033
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/title"
+msgstr "Tourelle Aiguillon"
+
+#: src-en/data/blueprints.xml.append:1034
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1035
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/desc"
+msgstr ""
+"Les tourelles Aiguillon s'avèrent extrêmement efficaces contre les missiles "
+"ennemis grâce à leur temps d'interception presque instantané."
+
+#: src-en/data/blueprints.xml.append:1054
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/title"
+msgstr "Tourelle Aiguillon Irradiante"
+
+#: src-en/data/blueprints.xml.append:1055
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/short"
+msgstr "P. Rad."
+
+#: src-en/data/blueprints.xml.append:1056
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/desc"
+msgstr ""
+"Une puissante tourelle Aiguillon modifiée qui inflige des dégâts massifs à "
+"l'équipage et handicape l'équipage ennemi, mais pas de dégâts à la coque. "
+"Perfore 2 boucliers."
+
+#: src-en/data/blueprints.xml.append:1075
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/title"
+msgstr "Tourelle Aiguillon en chaîne"
+
+#: src-en/data/blueprints.xml.append:1076
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/short"
+msgstr "P. Chaîne"
+
+#: src-en/data/blueprints.xml.append:1077
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/desc"
+msgstr ""
+"Cette arme Aiguillon n'inflige qu'une quantité modérée de dégâts, mais "
+"augmente rapidement sa cadence de tir jusqu'à devenir dévastatrice sur les "
+"ennemis dont les boucliers sont tombés."
+
+#: src-en/data/blueprints.xml.append:1099
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/title"
+msgstr "Micro Tourelle Laser"
+
+#: src-en/data/blueprints.xml.append:1100
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/short"
+msgstr "Micro L."
+
+#: src-en/data/blueprints.xml.append:1101
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/desc"
+msgstr ""
+"Cette tourelle laser est peu susceptible de pouvoir faire face à un vaisseau"
+" ennemi seule, mais sa vitesse de rotation élevée en fait une unité "
+"défensive."
+
+#: src-en/data/blueprints.xml.append:1120
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/title"
+msgstr "Ancienne Micro Tourelle Laser"
+
+#: src-en/data/blueprints.xml.append:1121
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/short"
+msgstr "A. Micro L."
+
+#: src-en/data/blueprints.xml.append:1122
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/desc"
+msgstr ""
+"Cette tourelle laser est peu susceptible de pouvoir faire face à un vaisseau"
+" ennemi seule, mais sa vitesse de rotation élevée en fait une unité "
+"défensive."
+
+#: src-en/data/blueprints.xml.append:1141
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/title"
+msgstr "Tourelle Laser Légère"
+
+#: src-en/data/blueprints.xml.append:1142
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/short"
+msgstr "L. Légère"
+
+#: src-en/data/blueprints.xml.append:1143
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/desc"
+msgstr ""
+"Incapable d'infliger des dégâts aux systèmes, cette tourelle laser légère "
+"est bien mieux adaptée à la suppression des boucliers et à la défense."
+
+#: src-en/data/blueprints.xml.append:1165
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/title"
+msgstr "Micro Tourelle Ionique"
+
+#: src-en/data/blueprints.xml.append:1166
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/short"
+msgstr "Micro I."
+
+#: src-en/data/blueprints.xml.append:1167
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/desc"
+msgstr ""
+"Cette tourelle ionique est une défense efficace contre les drones tout en "
+"étant capable de soutenir l'offensive des vaisseaux."
+
+#: src-en/data/blueprints.xml.append:1189
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/title"
+msgstr "Micro Tourelle Aiguillon"
+
+#: src-en/data/blueprints.xml.append:1190
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/short"
+msgstr "Micro P."
+
+#: src-en/data/blueprints.xml.append:1191
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/desc"
+msgstr ""
+"Cette petite tourelle Aiguillon nécessite un soutien pour endommager le "
+"vaisseau ennemi, mais reste efficace contre les missiles ennemis."
+
+#: src-en/data/blueprints.xml.append:1213
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/title"
+msgstr "Micro Tourelle Flak"
+
+#: src-en/data/blueprints.xml.append:1214
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/short"
+msgstr "Micro F."
+
+#: src-en/data/blueprints.xml.append:1215
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/desc"
+msgstr ""
+"Une petite tourelle Flak, peut accumuler une volée à tirer en défense et en "
+"attaque."
+
+#: src-en/data/blueprints.xml.append:1237
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/title"
+msgstr "Micro Tourelle à Missiles"
+
+#: src-en/data/blueprints.xml.append:1238
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/short"
+msgstr "Micro M."
+
+#: src-en/data/blueprints.xml.append:1239
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/desc"
+msgstr ""
+"Cette petite tourelle à missiles est coûteuse à tirer mais offre un soutien "
+"offensif et défensif puissant."
+
+#: src-en/data/blueprints.xml.append:1261
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/title"
+msgstr "Tourelle Laser Lourde de l'Aube"
+
+#: src-en/data/blueprints.xml.append:1262
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/short"
+msgstr "€ L. Lourde"
+
+#: src-en/data/blueprints.xml.append:1263
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/desc"
+msgstr ""
+"Les tourelles laser lourdes sont de médiocres tourelles défensives en raison de leur lente vitesse de rotation et de leurs dégâts élevés par tir, mais elles sont excellentes contre les vaisseaux ennemis.\n"
+"La variante Nouvelle Aube applique un effet de statut aux pièces touchées qui les fait subir +1 dégâts au système. Cependant, les systèmes de tourelles équipés de tourelles Nouvelle Aube subissent de la même manière +1 dégâts au système lorsqu'ils sont touchés."
+
+#: src-en/data/blueprints.xml.append:1283
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/title"
+msgstr "Tourelle Ion Incendiaire de l'Aube"
+
+#: src-en/data/blueprints.xml.append:1284
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/short"
+msgstr "€ I. Incendiaire"
+
+#: src-en/data/blueprints.xml.append:1285
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/desc"
+msgstr ""
+"Les tourelles ioniques sont excellentes pour la suppression des drones et peuvent désactiver les systèmes sans causer de dégâts à la coque. Celle-ci déclenche des incendies dans le système qu'elle touche.\n"
+"La variante Nouvelle Aube applique un effet de statut aux pièces touchées qui les fait subir +1 dégâts au système. Cependant, les systèmes de tourelles équipés de tourelles Nouvelle Aube subissent de la même manière +1 dégâts au système lorsqu'ils sont touchés."
+
+#: src-en/data/blueprints.xml.append:1305
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/title"
+msgstr "Tourelle Quadri-Missile de l'Aube"
+
+#: src-en/data/blueprints.xml.append:1306
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/short"
+msgstr "€ M. Quadri"
+
+#: src-en/data/blueprints.xml.append:1307
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/desc"
+msgstr ""
+"Lent à charger mais capable d'infliger des dégâts élevés au vaisseau ennemi, efficace contre les drones ennemis et les projectiles solides.\n"
+"La variante Nouvelle Aube applique un effet de statut aux pièces touchées qui les fait subir +1 dégâts au système. Cependant, les systèmes de tourelles équipés de tourelles Nouvelle Aube subissent de la même manière +1 dégâts au système lorsqu'ils sont touchés."
+
+#: src-en/data/blueprints.xml.append:1327
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/title"
+msgstr "Tourelle Flak de l'Aube"
+
+#: src-en/data/blueprints.xml.append:1328
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/short"
+msgstr "€ Flak"
+
+#: src-en/data/blueprints.xml.append:1329
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
+msgstr ""
+"Une puissante tourelle Flak, capable de lancer une volée incroyable à la fois en défense et en attaque.\n"
+"La variante Nouvelle Aube applique un effet de statut aux pièces touchées qui les fait subir +1 dégâts au système. Cependant, les systèmes de tourelles équipés de tourelles Nouvelle Aube subissent de la même manière +1 dégâts au système lorsqu'ils sont touchés."
+
+#: src-en/data/blueprints.xml.append:1349
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/title"
+msgstr "Tourelle Aiguillon de l'Aube"
+
+#: src-en/data/blueprints.xml.append:1350
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/short"
+msgstr "€ Aiguillon"
+
+#: src-en/data/blueprints.xml.append:1351
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/desc"
+msgstr ""
+"Les tourelles Aiguillon s'avèrent extrêmement efficaces contre les missiles ennemis grâce à leur temps d'interception presque instantané.\n"
+"La variante Nouvelle Aube applique un effet de statut aux pièces touchées qui les fait subir +1 dégâts au système. Cependant, les systèmes de tourelles équipés de tourelles Nouvelle Aube subissent de la même manière +1 dégâts au système lorsqu'ils sont touchés."
+
+#: src-en/data/blueprints.xml.append:1371
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/title"
+msgstr "Micro Tourelle Laser de l'Aube"
+
+#: src-en/data/blueprints.xml.append:1372
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/short"
+msgstr "€ Micro L."
+
+#: src-en/data/blueprints.xml.append:1373
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/desc"
+msgstr ""
+"Cette tourelle laser est peu susceptible de pouvoir faire face à un vaisseau ennemi seule, mais sa vitesse de rotation élevée en fait une unité défensive.\n"
+"La variante Nouvelle Aube applique un effet de statut aux pièces touchées qui les fait subir +1 dégâts au système. Cependant, les systèmes de tourelles équipés de tourelles Nouvelle Aube subissent de la même manière +1 dégâts au système lorsqu'ils sont touchés."
+
+#: src-en/data/blueprints.xml.append:1393
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/title"
+msgstr "Tourelle Laser Légère de l'Aube"
+
+#: src-en/data/blueprints.xml.append:1394
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/short"
+msgstr "€ L. Légère"
+
+#: src-en/data/blueprints.xml.append:1395
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
+msgstr ""
+"Incapable d'infliger des dégâts aux systèmes, cette tourelle laser légère est bien mieux adaptée à la suppression des boucliers et à la défense.\n"
+"La variante Nouvelle Aube applique un effet de statut aux pièces touchées qui les fait subir +1 dégâts au système. Cependant, les systèmes de tourelles équipés de tourelles Nouvelle Aube subissent de la même manière +1 dégâts au système lorsqu'ils sont touchés."
+
+#: src-en/data/blueprints.xml.append:1415
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/title"
+msgstr "Micro Tourelle Aiguillon de l'Aube"
+
+#: src-en/data/blueprints.xml.append:1416
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/short"
+msgstr "€ Micro P."
+
+#: src-en/data/blueprints.xml.append:1417
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/desc"
+msgstr ""
+"Cette petite tourelle Aiguillon nécessite un soutien pour endommager le vaisseau ennemi, mais reste efficace contre les missiles ennemis.\n"
+"La variante Nouvelle Aube applique un effet de statut aux pièces touchées qui les fait subir +1 dégâts au système. Cependant, les systèmes de tourelles équipés de tourelles Nouvelle Aube subissent de la même manière +1 dégâts au système lorsqu'ils sont touchés."
+
+#: src-en/data/blueprints.xml.append:1438
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1439
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1440
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1475
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1476
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1477
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1512
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1513
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1514
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1552
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1553
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1554
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1600
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1601
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1602
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1635
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1636
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1637
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1678
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1679
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1680
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1714
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1715
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1716
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1751
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1752
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1753
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1786
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1787
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1788
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1825
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/title"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:1826
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/short"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:1827
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1868
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/title"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:1869
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/short"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:1870
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1911
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/title"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:1912
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/short"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:1913
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1954
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/title"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:1955
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/short"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:1956
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2000
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2001
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2002
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2040
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2041
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2042
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2079
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2080
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2081
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2119
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2120
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2121
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2159
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2160
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2161
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2203
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/title"
+msgstr "Flak"
+
+#: src-en/data/blueprints.xml.append:2204
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/short"
+msgstr "Flak"
+
+#: src-en/data/blueprints.xml.append:2205
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2243
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/title"
+msgstr "Flak"
+
+#: src-en/data/blueprints.xml.append:2244
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/short"
+msgstr "Flak"
+
+#: src-en/data/blueprints.xml.append:2245
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2292
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/title"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2293
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/short"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2294
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2316
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/title"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2317
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/short"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2318
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2340
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/title"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2341
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/short"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2342
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2364
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/title"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2365
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/short"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2366
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2388
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/title"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2389
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/short"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2390
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2423
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/title"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2424
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/short"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2425
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2455
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2456
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2457
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2492
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2493
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2494
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2529
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2530
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2531
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2569
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/title"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:2570
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/short"
+msgstr "Ion"
+
+#: src-en/data/blueprints.xml.append:2571
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2612
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2613
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2614
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2652
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/title"
+msgstr "Flak"
+
+#: src-en/data/blueprints.xml.append:2653
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/short"
+msgstr "Flak"
+
+#: src-en/data/blueprints.xml.append:2654
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2691
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/title"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2692
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/short"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2693
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2715
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/title"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2716
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/short"
+msgstr "Focalisation"
+
+#: src-en/data/blueprints.xml.append:2717
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2742
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_GUARD\"]/title"
+msgstr "Vaisseau de la Garde de Fer"
+
+#: src-en/data/blueprints.xml.append:2743
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_GUARD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2749
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_DAWN\"]/title"
+msgstr "Vaisseau de la Nouvelle Aube"
+
+#: src-en/data/blueprints.xml.append:2750
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2756
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/class"
+msgstr "Classe Pillard"
+
+#: src-en/data/blueprints.xml.append:2757
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/name"
+msgstr "Le Guêpe"
+
+#: src-en/data/blueprints.xml.append:2758
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/desc"
+msgstr ""
+"Les vaisseaux de classe Pillard se définissent par leurs tourelles montées "
+"au centre, cependant la tourelle de ce vaisseau a connu des jours meilleurs."
+" Avec une tourelle améliorée en place, ce vaisseau représentera une menace "
+"sérieuse pour la flotte rebelle."
+
+#: src-en/data/blueprints.xml.append:2837
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/class"
+msgstr "Classe Pillard"
+
+#: src-en/data/blueprints.xml.append:2838
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/name"
+msgstr "Le Frelon"
+
+#: src-en/data/blueprints.xml.append:2839
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/desc"
+msgstr ""
+"Ce vaisseau de classe Pillard est équipé d'un puissant canon laser et d'un "
+"drone rapide, lui permettant de déchirer les vaisseaux ennemis, cependant "
+"ses capacités défensives sont plutôt limitées par rapport aux autres "
+"vaisseaux de sa classe."
+
+#: src-en/data/blueprints.xml.append:2918
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/class"
+msgstr "Classe Pillard"
+
+#: src-en/data/blueprints.xml.append:2919
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/name"
+msgstr "Le Mouchard"
+
+#: src-en/data/blueprints.xml.append:2920
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/desc"
+msgstr ""
+"Avec un puissant équipage d'abordage et une tourelle mortelle pour les "
+"systèmes et l'équipage, ce vaisseau se spécialise dans le fait de laisser la"
+" coque de l'ennemi intacte."
+
+#: src-en/data/blueprints.xml.append:2998
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/class"
+msgstr "Classe Exécuteur"
+
+#: src-en/data/blueprints.xml.append:2999
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/name"
+msgstr "Le Bastion"
+
+#: src-en/data/blueprints.xml.append:3000
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/desc"
+msgstr ""
+"Les vaisseaux de classe Exécuteur sont armés de quatre tourelles séparées, "
+"la spécialisation défensive puissante ou l'impressionnante volée du vaisseau"
+" sera déterminée par les tourelles installées."
+
+#: src-en/data/blueprints.xml.append:3087
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/class"
+msgstr "Classe Fer de Lance"
+
+#: src-en/data/blueprints.xml.append:3088
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/name"
+msgstr "Le Soleil Approchant"
+
+#: src-en/data/blueprints.xml.append:3090
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/desc"
+msgstr ""
+"Un croiseur avancé conçu par la Nouvelle Aube en alliance avec la rébellion."
+" Sa principale puissance offensive est la puissante tourelle au centre du "
+"vaisseau."
+
+#: src-en/data/blueprints.xml.append:3167
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/class"
+msgstr "Classe Fer de Lance"
+
+#: src-en/data/blueprints.xml.append:3168
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/name"
+msgstr "Le Rayon Divin"
+
+#: src-en/data/blueprints.xml.append:3170
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
+msgstr ""
+"Cette variante du croiseur de classe Fer de Lance utilise des tourelles pour"
+" se protéger et ses armes pour l'attaque. Utiliser vos tourelles pour "
+"l'attaque sera risqué sans aucun autre système défensif sur lequel compter."
+
+#: src-en/data/blueprints.xml.append:3253
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/class"
+msgstr "Classe Fer de Lance"
+
+#: src-en/data/blueprints.xml.append:3254
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/name"
+msgstr "L'Emblème Ardent"
+
+#: src-en/data/blueprints.xml.append:3256
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/desc"
+msgstr ""
+"Armé jusqu'aux dents, ce vaisseau est entièrement axé sur le combat. Produit"
+" d'une conception rebelle, le vaisseau utilise des malformes pour éliminer "
+"le besoin d'oxygène, et un drone médical à la place d'un système médical."
+
+#: src-en/data/blueprints.xml.append:3340
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/class"
+msgstr "Classe Colosse"
+
+#: src-en/data/blueprints.xml.append:3341
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/name"
+msgstr "La Forteresse"
+
+#: src-en/data/blueprints.xml.append:3343
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/desc"
+msgstr ""
+"Avec une batterie de quatre tourelles principales séparées, ce vaisseau est "
+"capable d'affronter n'importe quel ennemi."
+
+#: src-en/data/blueprints.xml.append:3433
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/class"
+msgstr "Classe Colosse"
+
+#: src-en/data/blueprints.xml.append:3434
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/name"
+msgstr "L'Invulnérable"
+
+#: src-en/data/blueprints.xml.append:3436
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/desc"
+msgstr ""
+"Ce vaisseau ne peut pas installer de boucliers ni de camouflage, et doit "
+"donc compter sur ses tourelles pour sa défense."
+
+#: src-en/data/blueprints.xml.append:3528
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/class"
+msgstr "Classe Colosse"
+
+#: src-en/data/blueprints.xml.append:3529
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/name"
+msgstr "L'Empire"
+
+#: src-en/data/blueprints.xml.append:3531
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/desc"
+msgstr ""
+"Un ancien vaisseau de combat découvert dans les profondeurs de l'espace. Une"
+" équipe d'ingénieurs a travaillé à le restaurer à sa gloire d'antan."
+
+#: src-en/data/blueprints.xml.append:3606
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/class"
+msgstr "Croiseur Kestrel de Fer"
+
+#: src-en/data/blueprints.xml.append:3607
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/name"
+msgstr "Supraluminique"
+
+#: src-en/data/blueprints.xml.append:3608
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/desc"
+msgstr ""
+"Un croiseur emblématique de modèle Kestrel, ce vaisseau est polyvalent et "
+"bien adapté aux capitaines expérimentés et inexpérimentés."
+
+#: src-en/data/blueprints.xml.append:3688
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/class"
+msgstr "Croiseur Rebelle de Fer"
+
+#: src-en/data/blueprints.xml.append:3689
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/name"
+msgstr "Ajaccio"
+
+#: src-en/data/blueprints.xml.append:3691
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/desc"
+msgstr ""
+"Utilisant une technologie de tourelle de la Garde de Fer rétro-ingénierie et"
+" un armement similaire à celui du vaisseau amiral, ce puissant croiseur "
+"frappe fort."
+
+#: src-en/data/blueprints.xml.append:3771
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/class"
+msgstr "Croiseur d'Innovation de Fer"
+
+#: src-en/data/blueprints.xml.append:3772
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/name"
+msgstr "C.U.R.A."
+
+#: src-en/data/blueprints.xml.append:3774
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/desc"
+msgstr ""
+"Alimenté par un noyau d'IA Rebelle neutralisé, ce vaisseau transporte un "
+"équipement prototype utilisé pour créer des surtensions."
+
+#: src-en/data/blueprints.xml.append:3858
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/class"
+msgstr "Croiseur Séparatiste de Fer"
+
+#: src-en/data/blueprints.xml.append:3859
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/name"
+msgstr "La Solitude"
+
+#: src-en/data/blueprints.xml.append:3861
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/desc"
+msgstr ""
+"Un Engi Séparatiste solitaire pilote ce vaisseau sans l'aide d'un équipage "
+"étendu, mais avec la compagnie de ses drones personnels, il peut y arriver."
+
+#: src-en/data/blueprints.xml.append:3942
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/class"
+msgstr "Porte-Mort Angélique de Fer"
+
+#: src-en/data/blueprints.xml.append:3943
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/name"
+msgstr "Lucifer"
+
+#: src-en/data/blueprints.xml.append:3945
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/desc"
+msgstr ""
+"Les Anges sont parmi les meilleurs mercenaires de la galaxie. Ce vaisseau "
+"furtif doit compter sur son équipage mortel pour tuer rapidement l'ennemi "
+"avant qu'il ne subisse trop de dégâts."
+
+#: src-en/data/blueprints.xml.append:4020
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/class"
+msgstr "Croiseur Rocailleux de Fer"
+
+#: src-en/data/blueprints.xml.append:4021
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/name"
+msgstr "Bastion"
+
+#: src-en/data/blueprints.xml.append:4023
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/desc"
+msgstr ""
+"Semblable à ses concepteurs, ce béhémoth super-dense utilise la force brute "
+"pour submerger ses ennemis."
+
+#: src-en/data/blueprints.xml.append:4106
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/class"
+msgstr "Croiseur Pacificateur de Fer"
+
+#: src-en/data/blueprints.xml.append:4107
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/name"
+msgstr "Lazarus"
+
+#: src-en/data/blueprints.xml.append:4109
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/desc"
+msgstr ""
+"Un design de vaisseau Zoltan élégant et à la pointe de la technologie. Ce "
+"modèle est emblématique car c'est le propre croiseur personnel de Devorak "
+"Rei."
+
+#: src-en/data/blueprints.xml.append:4184
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/class"
+msgstr "Croiseur Chevalier de Fer"
+
+#: src-en/data/blueprints.xml.append:4185
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/name"
+msgstr "Le Corbeau Noir"
+
+#: src-en/data/blueprints.xml.append:4187
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/desc"
+msgstr ""
+"Ce petit croiseur a peut-être peu de coque, mais il reste le vaisseau amiral"
+" des KoN. Ce n'est pas la taille qui compte, mais la façon de s'en servir."
+
+#: src-en/data/blueprints.xml.append:4269
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/title"
+msgstr "Blindage Réflecteur"
+
+#: src-en/data/blueprints.xml.append:4270
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/desc"
+msgstr ""
+"Réduit de moitié les dégâts des rayons frappant ce vaisseau, arrondi à "
+"l'inférieur, mais pas en dessous de 1."
+
+#: src-en/data/blueprints.xml.append:4278
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE_WEAK\"]/title"
+msgstr "Pré-chargeur de Tourelle"
+
+#: src-en/data/blueprints.xml.append:4279
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE_WEAK\"]/desc"
+msgstr ""
+"La moitié des charges de la tourelle sont immédiatement disponibles après un"
+" saut SPL."
+
+#: src-en/data/blueprints.xml.append:4286
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE\"]/title"
+msgstr "Pré-chargeur d'Armes de Tourelle"
+
+#: src-en/data/blueprints.xml.append:4287
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE\"]/desc"
+msgstr "Les tourelles sont immédiatement disponibles après un saut SPL."
+
+#: src-en/data/blueprints.xml.append:4294
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_DAWN_INITIATE\"]/title"
+msgstr "Initié de la Nouvelle Aube"
+
+#: src-en/data/blueprints.xml.append:4295
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"OG_DAWN_INITIATE\"]/desc"
+msgstr ""

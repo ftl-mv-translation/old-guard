@@ -1,0 +1,3302 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_og_dawn.xml:10
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DESTROY\"]/text"
+msgstr ""
+"Vous avez vaincu la garde de la Nouvelle Aube. Quoi qu'il y ait eu dans leur"
+" cargaison a certainement été détruit, mais vous pouvez au moins récupérer "
+"quelques provisions du vaisseau."
+
+#: src-en/data/events_sector_og_dawn.xml:13
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:18
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DEADCREW\"]/text"
+msgstr ""
+"Vous avez vaincu la garde de la Nouvelle Aube. Sans équipage à bord pour "
+"vous arrêter, vous pouvez fouiller leur cargaison. Vous trouvez une arme à "
+"ramener au vaisseau, et passez à la ferraille de leur coque."
+
+#: src-en/data/events_sector_og_dawn.xml:22
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:34
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/text"
+msgstr ""
+"En tuant la garde de la Nouvelle Aube, vous les avez sans doute incités à "
+"envoyer des renforts pour vous traquer. Faites attention où vous mettez les "
+"pieds en explorant le secteur."
+
+#: src-en/data/events_sector_og_dawn.xml:43
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:47
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:55
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:56
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:57
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:59
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/text"
+msgstr ""
+"Un vaisseau de la Nouvelle Aube se rapproche pour attaquer ! D'après le "
+"regard vengeur dans les yeux de leur capitaine, c'est sans doute le vaisseau"
+" envoyé par la garde pour vous pourchasser !"
+
+#: src-en/data/events_sector_og_dawn.xml:63
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:71
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:72
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:73
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:75
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/text"
+msgstr ""
+"Un vaisseau de la Nouvelle Aube se rapproche pour attaquer ! D'après le "
+"regard vengeur dans les yeux de leur capitaine, c'est sans doute le vaisseau"
+" envoyé par la garde pour vous pourchasser !"
+
+#: src-en/data/events_sector_og_dawn.xml:81
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:87
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_START_OG_DAWN_UNIQUE\"]/text[1]"
+msgstr ""
+"Ce qui était auparavant un simple établissement de la Garde de Fer est "
+"devenu le foyer de l'armée de la Nouvelle Aube. Quiconque s'est opposé à la "
+"faction a disparu depuis longtemps, mais la faction a désespérément besoin "
+"de soutien, surtout d'un puissant renégat comme vous."
+
+#: src-en/data/events_sector_og_dawn.xml:88
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_START_OG_DAWN_UNIQUE\"]/text[2]"
+msgstr ""
+"La Nouvelle Aube est un groupe dissident de la Garde de Fer, les anciens "
+"membres de la Garde de Fer sont venus ici pour organiser leurs forces "
+"militaires contre la Garde de Fer. La Nouvelle Aube a cependant "
+"désespérément besoin de soutien, surtout d'un puissant renégat comme vous."
+
+#: src-en/data/events_sector_og_dawn.xml:102
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"START_OG_DAWN_UNIQUE\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:106
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"START_OG_DAWN_UNIQUE\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:110
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"START_OG_DAWN_UNIQUE\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:115
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/text"
+msgstr ""
+"Au lieu de déployer immédiatement leurs armes contre vous, la garde vous "
+"contacte par les communications. \"Écoutez, de bonnes rumeurs circulent à "
+"votre sujet, mais je ne veux pas me mettre du mauvais côté de la rébellion "
+"juste sur de bonnes rumeurs, alors si vous pouviez m'envoyer un peu de "
+"ferraille, nous pourrions tous les deux obtenir ce que nous voulons.\""
+
+#: src-en/data/events_sector_og_dawn.xml:117
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:119
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:122
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:128
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[2]/text"
+msgstr "Payer le pot-de-vin."
+
+#: src-en/data/events_sector_og_dawn.xml:130
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[2]/event/text"
+msgstr ""
+"Le garde hoche la tête et examine la ferraille un bref instant. \"Très bien,"
+" si quelqu'un demande, vous êtes passé pendant le quart précédent.\""
+
+#: src-en/data/events_sector_og_dawn.xml:135
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:141
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"LIST_CREW_OG_DAWN\"]/text"
+msgstr "(Membre d'équipage Nouvelle Aube) Demander le passage libre."
+
+#: src-en/data/events_sector_og_dawn.xml:143
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"LIST_CREW_OG_DAWN\"]/event/text"
+msgstr ""
+"\"Oh, je n'étais pas au courant, nous avons ici des provisions à disposition"
+" pour aider des gens comme vous.\""
+
+#: src-en/data/events_sector_og_dawn.xml:148
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"LIST_CREW_REBEL_ALL\"]/text"
+msgstr "(Membre d'équipage Rebelle) Demander le passage libre."
+
+#: src-en/data/events_sector_og_dawn.xml:150
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"LIST_CREW_REBEL_ALL\"]/event/text"
+msgstr ""
+"\"Je suppose qu'il n'y a pas de risque si vous avez des rebelles à bord, "
+"très bien.\""
+
+#: src-en/data/events_sector_og_dawn.xml:154
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:158
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_CONTROL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:162
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_AFFECT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:166
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:170
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:174
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:180
+msgid "data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/text"
+msgstr ""
+"Le garde vous contacte. \"Hé, ce n'est rien de personnel mais la rébellion a"
+" un problème avec vous et maintenant ça me pose un problème à moi.\""
+
+#: src-en/data/events_sector_og_dawn.xml:183
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[1]/text"
+msgstr "Préparez-vous à combattre !"
+
+#: src-en/data/events_sector_og_dawn.xml:185
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[1]/event/text"
+msgstr ""
+"Vous vous précipitez vers des positions défensives alors que le garde "
+"s'approche de manière menaçante."
+
+#: src-en/data/events_sector_og_dawn.xml:188
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:194
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[2]/text"
+msgstr "Essayez de les soudoyer."
+
+#: src-en/data/events_sector_og_dawn.xml:196
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[2]/event/text"
+msgstr "Vous espérez que cela suffira à les satisfaire..."
+
+#: src-en/data/events_sector_og_dawn.xml:201
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:203
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[2]/event/choice/event/text"
+msgstr ""
+"\"Drôle, je ne me souviens plus qui m'a donné cette ferraille... Maintenant,"
+" dépêchez-vous avant que je ne change d'avis.\""
+
+#: src-en/data/events_sector_og_dawn.xml:209
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:213
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_CONTROL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:217
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_AFFECT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:221
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:225
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:229
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:234
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_CRIMINAL\"]/text"
+msgstr ""
+"Il semble que vous soyez devenu assez célèbre ici, car le poste de garde est"
+" immédiatement passé en alerte maximale, il n'y a plus moyen d'éviter le "
+"combat maintenant."
+
+#: src-en/data/events_sector_og_dawn.xml:237
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_CRIMINAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:244
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN\"]/text"
+msgstr ""
+"[RÉPUTATION AUGMENTÉE - NOUVELLE AUBE]\n"
+"\tVos actions ici ont amélioré votre réputation au sein de la Nouvelle Aube, au détriment de votre réputation auprès de la Garde de Fer. Certains membres pourraient être plus enclins à interagir avec vous.\n"
+"\n"
+"[MAUVAISE RÉPUTATION AUGMENTÉE - GÉNÉRAL]\n"
+"Vos actions ici, justifiables ou non, ne seront pas bien perçues par la Fédération ou ses citoyens. Continuez à agir ainsi et vous pourriez commencer à voir des réactions négatives de la part de la Fédération et de ses alliés."
+
+#: src-en/data/events_sector_og_dawn.xml:253
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_DOUBLE_OG_DAWN\"]/text"
+msgstr ""
+"[RÉPUTATION AUGMENTÉE X2 - NOUVELLE AUBE]\n"
+"\tVos actions ici ont amélioré votre réputation au sein de la Nouvelle Aube, au détriment de votre réputation auprès de la Garde de Fer. Certains membres pourraient être plus enclins à interagir avec vous.\n"
+"\tPour vos actions exceptionnelles, votre réputation a été augmentée deux fois.\n"
+"\n"
+"[MAUVAISE RÉPUTATION AUGMENTÉE - GÉNÉRAL]\n"
+"Vos actions ici, justifiables ou non, ne seront pas bien perçues par la Fédération ou ses citoyens. Continuez à agir ainsi et vous pourriez commencer à voir des réactions négatives de la part de la Fédération et de ses alliés."
+
+#: src-en/data/events_sector_og_dawn.xml:263
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN_COMBAT\"]/text"
+msgstr ""
+"[RÉPUTATION AUGMENTÉE - NOUVELLE AUBE]\n"
+"\tVos actions ici ont amélioré votre réputation au sein de la Nouvelle Aube, au détriment de votre réputation auprès de la Garde de Fer. Certains membres pourraient être plus enclins à interagir avec vous.\n"
+"\n"
+"[MAUVAISE RÉPUTATION AUGMENTÉE - GÉNÉRAL]\n"
+"Vos actions ici, justifiables ou non, ne seront pas bien perçues par la Fédération ou ses citoyens. Continuez à agir ainsi et vous pourriez commencer à voir des réactions négatives de la part de la Fédération et de ses alliés."
+
+#: src-en/data/events_sector_og_dawn.xml:271
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN_COMBAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:276
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_OG_DAWN\"]/text"
+msgstr ""
+"[RÉPUTATION DIMINUÉE - NOUVELLE AUBE]\n"
+"\tVos actions ici auront un impact négatif sur la Nouvelle Aube. Ils pourraient ne plus se sentir à l'aise avec vous, si vous aviez précédemment acquis une réputation."
+
+#: src-en/data/events_sector_og_dawn.xml:281
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_OG_DAWN_COMBAT\"]/text"
+msgstr ""
+"[RÉPUTATION DIMINUÉE - NOUVELLE AUBE]\n"
+"\tVos actions ici auront un impact négatif sur la Nouvelle Aube. Ils pourraient ne plus se sentir à l'aise avec vous, si vous aviez précédemment acquis une réputation."
+
+#: src-en/data/events_sector_og_dawn.xml:285
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_OG_DAWN_COMBAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:290
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_DAWN_COMBAT\"]/text"
+msgstr ""
+"[RÉPUTATION DIMINUÉE X2 - NOUVELLE AUBE]\n"
+"\tVos actions ici auront un impact négatif sur la Nouvelle Aube. Ils pourraient ne plus se sentir à l'aise avec vous, si vous aviez précédemment acquis une réputation.\n"
+"Pour vos actions particulièrement flagrantes, votre réputation a été diminuée deux fois."
+
+#: src-en/data/events_sector_og_dawn.xml:295
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_DAWN_COMBAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:305
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"FINISH_BEACON_OG_DAWN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:309
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"FINISH_BEACON_OG_DAWN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:313
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"FINISH_BEACON_OG_DAWN\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:325
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[1]"
+msgstr ""
+"Le capitaine de la Garde de Fer lâche une dernière injure alors que le "
+"vaisseau est anéanti."
+
+#: src-en/data/events_sector_og_dawn.xml:326
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[2]"
+msgstr ""
+"La coque du vaisseau de la Garde de Fer est dispersée dans l'espace. Vous "
+"vous précipitez pour récupérer les débris."
+
+#: src-en/data/events_sector_og_dawn.xml:327
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[3]"
+msgstr ""
+"Le vaisseau de la Garde de Fer explose, éteignant toutes les vies à "
+"l'intérieur. Votre équipage évite les débris pendant qu'il récupère les "
+"morceaux du vaisseau."
+
+#: src-en/data/events_sector_og_dawn.xml:328
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[4]"
+msgstr ""
+"L'une des tourelles est projetée dans l'espace vide alors que le vaisseau "
+"explose, projetant des débris précieux dans toutes les directions."
+
+#: src-en/data/events_sector_og_dawn.xml:336
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:337
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[2]"
+msgstr ""
+"Sans un mot, le capitaine de la Garde de Fer tombe au sol, haletant, tandis "
+"que la vie s'éteint dans ses yeux. Vous récupérez la coque de leur vaisseau."
+
+#: src-en/data/events_sector_og_dawn.xml:338
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[3]"
+msgstr ""
+"\"Vous le regretterez ! Le karma revient toujours aux gens comme vous. "
+"Maudits renégats... La Garde de Fer aurait été mieux avec la Rébellion...\""
+
+#: src-en/data/events_sector_og_dawn.xml:342
+msgid "data/events_sector_og_dawn.xml$//event[@name=\"ESCAPE_OG_DAWN\"]/text"
+msgstr ""
+"Les scans montrent que le vaisseau de la Garde de Fer essaie de s'échapper. "
+"Détruisez-le avant qu'il ne s'enfuie !"
+
+#: src-en/data/events_sector_og_dawn.xml:355
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[1]"
+msgstr ""
+"Le vaisseau de la Garde de Fer vous a échappé, vous abandonnant à la balise."
+
+#: src-en/data/events_sector_og_dawn.xml:356
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[2]"
+msgstr ""
+"Vos tentatives de destruction du vaisseau de la Garde de Fer ont échoué, et "
+"le vaisseau s'est échappé."
+
+#: src-en/data/events_sector_og_dawn.xml:359
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GOTAWAY_OG_DAWN_REMAINS\"]/text"
+msgstr ""
+"Le vaisseau de la Garde de Fer a peut-être échappé, mais tout ne s'est pas "
+"mal passé. Une traînée de ferraille de l'épave a été laissée derrière, que "
+"vous ramassez."
+
+#: src-en/data/events_sector_og_dawn.xml:410
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/text"
+msgstr ""
+"Un marchand de la Nouvelle Aube s'est installé à un avant-poste proche, un "
+"client occasionnel visite l'avant-poste, mais vous avez suffisamment de "
+"temps pour entrer sans attirer l'attention indésirable."
+
+#: src-en/data/events_sector_og_dawn.xml:412
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/text"
+msgstr "Allez voir le marchand."
+
+#: src-en/data/events_sector_og_dawn.xml:414
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/text"
+msgstr ""
+"Vous entrez dans l'avant-poste pour découvrir une grande variété d'articles "
+"en vente, les articles habituels sont là, des caisses de carburant, des "
+"pièces de drones et des missiles, mais contre un mur, vous trouvez une "
+"tourelle inhabituelle exposée, enfermée derrière un verre pare-balles. "
+"\"Équipement excédentaire Nouvelle Aube : Demander au comptoir\""
+
+#: src-en/data/events_sector_og_dawn.xml:417
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/text"
+msgstr "Renseignez-vous sur l'équipement excédentaire de la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:419
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Le marchand, un humain de petite taille, répond ; \"Ahhh, vous avez l'œil "
+"aiguisé, hein. C'est une véritable tourelle produite par la Nouvelle Aube - "
+"Hé, attendez, vous n'êtes pas avec la Nouvelle Aube, n'est-ce pas ? Ou ces "
+"rebelles ?\""
+
+#: src-en/data/events_sector_og_dawn.xml:421
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Non, pourquoi ?"
+
+#: src-en/data/events_sector_og_dawn.xml:423
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"\"Non, sans raison, j'étais juste curieux. Bref, comme je disais, c'est une "
+"véritable tourelle de la Nouvelle Aube, l'un des équipements les plus "
+"puissants que vous puissiez trouver.\" Le marchand en fixe un prix élevé, "
+"mais c'est clairement un bon équipement."
+
+#: src-en/data/events_sector_og_dawn.xml:425
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Achetez la tourelle."
+
+#: src-en/data/events_sector_og_dawn.xml:429
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+"(Membre d'équipage Nouvelle Aube) Le signaler discrètement à la Nouvelle "
+"Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:433
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[3]/text"
+msgstr ""
+"(Membre d'équipage Rebelle) Le signaler discrètement à la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:437
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[4]/text"
+msgstr ""
+"(Membre d'équipage Nouvelle Aube) Le confronter sur la façon dont il a "
+"acquis la tourelle."
+
+#: src-en/data/events_sector_og_dawn.xml:441
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[5]/text"
+msgstr ""
+"(Membre d'équipage Rebelle) Le confronter sur la façon dont il a acquis la "
+"tourelle."
+
+#: src-en/data/events_sector_og_dawn.xml:445
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[6]/text"
+msgstr "Ignorez l'offre et faites juste vos achats."
+
+#: src-en/data/events_sector_og_dawn.xml:451
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CREW_OG_DAWN\"]/text"
+msgstr "(Membre d'équipage Nouvelle Aube) Nous sommes avec la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:455
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_REBEL_WITHOUT_OG_DAWN\"]/text"
+msgstr "(Membre d'équipage Rebelle) Nous sommes avec la rébellion."
+
+#: src-en/data/events_sector_og_dawn.xml:461
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[2]/text"
+msgstr "Ignorez-le et faites juste vos achats."
+
+#: src-en/data/events_sector_og_dawn.xml:467
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/text"
+msgstr "Ignorez le marchand."
+
+#: src-en/data/events_sector_og_dawn.xml:469
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/event/text"
+msgstr ""
+"Vous ne cherchez pas à attirer l'attention des sympathisants rebelles."
+
+#: src-en/data/events_sector_og_dawn.xml:471
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:475
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:483
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/text"
+msgstr ""
+"Le marchand, suant nerveusement, poursuit : \"Comme je disais, ce n'est PAS "
+"une véritable tourelle de la Nouvelle Aube, mais plutôt un euh... une, "
+"Réplique, oui une réplique, elle ne fonctionne pas du tout. C'est simplement"
+" une pièce de collection, ça ne vous intéresserait pas.\""
+
+#: src-en/data/events_sector_og_dawn.xml:485
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[1]/text"
+msgstr ""
+"Le marchand détourne la conversation de la tourelle, vous aurez besoin "
+"d'informations supplémentaires pour aller plus loin."
+
+#: src-en/data/events_sector_og_dawn.xml:489
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/text"
+msgstr "(Capteurs de pointe) Scannez la tourelle à distance."
+
+#: src-en/data/events_sector_og_dawn.xml:491
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/text"
+msgstr ""
+"Vos scans indiquent qu'il ne s'agit pas d'une réplique mais d'une véritable "
+"tourelle de la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:493
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[1]/text"
+msgstr "Signalez le marchand à la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:495
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REPORT\"]/text"
+msgstr ""
+"Vous signalez discrètement le marchand aux autorités locales en utilisant "
+"les informations que vous avez recueillies, avant qu'elles n'arrivent, vous "
+"pouvez faire quelques achats."
+
+#: src-en/data/events_sector_og_dawn.xml:497
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REPORT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:503
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[2]/text"
+msgstr ""
+"Proposez de le dédommager pour avoir \"saisi\" la tourelle de la Nouvelle "
+"Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:505
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_PURCHASE_100\"]/text"
+msgstr ""
+"Après que vous lui ayez assuré que la Nouvelle Aube ne le découvrirait pas, "
+"il est heureux de vous la céder à bon prix."
+
+#: src-en/data/events_sector_og_dawn.xml:513
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[3]/text"
+msgstr "Menacez de le signaler s'il ne baisse pas le prix."
+
+#: src-en/data/events_sector_og_dawn.xml:515
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/text"
+msgstr ""
+"Le marchand accepte l'accord pour un prix moins cher. Bien qu'étrangement, "
+"il n'ait pas semblé trop effrayé par vos menaces."
+
+#: src-en/data/events_sector_og_dawn.xml:517
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[1]/text"
+msgstr ""
+"Compensez-le du montant convenu pour avoir \"saisi\" la tourelle de la "
+"Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:519
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_PURCHASE_80\"]/text"
+msgstr ""
+"Après que vous lui ayez assuré que la Nouvelle Aube ne le découvrirait pas, "
+"il est heureux de vous la céder à bon prix."
+
+#: src-en/data/events_sector_og_dawn.xml:527
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[2]/text"
+msgstr "Menacez de le signaler s'il ne baisse pas le prix à nouveau."
+
+#: src-en/data/events_sector_og_dawn.xml:529
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[2]/event/text"
+msgstr ""
+"Vous adoptez un ton sévère et menacez de nouveau le marchand, mais cette "
+"fois-ci, le marchand est encore moins inquiet. Finalement, vous regardez la "
+"tourelle pour vous rendre compte qu'elle a disparu, le marchand a réussi à "
+"la cacher sans que vous vous en rendiez compte, et sans rien à signaler, vos"
+" menaces tombent à plat."
+
+#: src-en/data/events_sector_og_dawn.xml:533
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[3]/text"
+msgstr "Déclinez poliment et faites juste vos achats."
+
+#: src-en/data/events_sector_og_dawn.xml:539
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[4]/text"
+msgstr "Ignorez-le et faites juste vos achats."
+
+#: src-en/data/events_sector_og_dawn.xml:545
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr ""
+"(Membre d'équipage Garde de Fer) Votre technicien de la Garde de Fer "
+"reconnaît que la tourelle n'est pas une réplique."
+
+#: src-en/data/events_sector_og_dawn.xml:547
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr ""
+"Votre technicien révèle discrètement que le marchand ment sur le fait qu'il "
+"s'agit d'une réplique, peut-être pouvez-vous utiliser cela à votre avantage "
+"?"
+
+#: src-en/data/events_sector_og_dawn.xml:549
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[1]/text"
+msgstr "Signalez le marchand à la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:553
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[2]/text"
+msgstr ""
+"Proposez de le dédommager pour avoir \"saisi\" la tourelle de la Nouvelle "
+"Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:557
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[3]/text"
+msgstr "Menacez de le signaler s'il ne baisse pas le prix."
+
+#: src-en/data/events_sector_og_dawn.xml:561
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[4]/text"
+msgstr "Ignorez-le et faites juste vos achats."
+
+#: src-en/data/events_sector_og_dawn.xml:567
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[4]/text"
+msgstr "Ignorez-le et faites juste vos achats."
+
+#: src-en/data/events_sector_og_dawn.xml:573
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/text"
+msgstr ""
+"\"Je l'ai euh, euh, trouvée à proximité, juste en flottant, oui elle "
+"flottait juste dans l'espace et je l'ai ramassée, rien d'illégal.\""
+
+#: src-en/data/events_sector_og_dawn.xml:575
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[1]/text"
+msgstr "Signalez le marchand à la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:579
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[2]/text"
+msgstr ""
+"Proposez de le dédommager pour avoir \"saisi\" la tourelle de la Nouvelle "
+"Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:583
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[3]/text"
+msgstr "Menacez de le signaler s'il ne baisse pas le prix."
+
+#: src-en/data/events_sector_og_dawn.xml:587
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[4]/text"
+msgstr "Ignorez-le et faites juste vos achats."
+
+#: src-en/data/events_sector_og_dawn.xml:601
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/text"
+msgstr ""
+"Vous êtes arrivé à la balise pour découvrir l'épave d'un vaisseau de la "
+"Nouvelle Aube. Il n'y a rien dans la zone qui indique qu'une bataille a eu "
+"lieu ici, au lieu de cela, il semble que l'épave ait été créée par le champ "
+"d'astéroïdes ici, si vous voulez chercher les débris, vous devrez entrer "
+"dans le champ d'astéroïdes."
+
+#: src-en/data/events_sector_og_dawn.xml:603
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[1]/text"
+msgstr "Fouillez le champ de débris."
+
+#: src-en/data/events_sector_og_dawn.xml:607
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/text"
+msgstr "Ignorez l'épave."
+
+#: src-en/data/events_sector_og_dawn.xml:609
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/event/text"
+msgstr "Vous restez hors de danger et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:611
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:615
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:624
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[1]/text"
+msgstr ""
+"Vous fouillez le champ de débris, mais il semble qu'il n'y ait rien de "
+"valeur ici. Malheureusement, le champ d'astéroïdes est à la fois lâche et "
+"dense, vous devrez donc éviter les dégâts pendant que vous chargez votre "
+"générateur SPL !"
+
+#: src-en/data/events_sector_og_dawn.xml:628
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[2]/text"
+msgstr ""
+"Vous fouillez le champ de débris, mais il semble qu'il n'y ait rien de "
+"valeur ici. Malheureusement, le champ d'astéroïdes est à la fois lâche et "
+"dense, vous devrez donc éviter les dégâts pendant que vous chargez votre "
+"générateur SPL !"
+
+#: src-en/data/events_sector_og_dawn.xml:632
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[3]/text"
+msgstr ""
+"Vous fouillez le champ de débris. Au milieu des débris en grande partie sans"
+" valeur, vous parvenez à dénicher une réserve cachée de missiles dans un "
+"grand conteneur de fret qui a survécu."
+
+#: src-en/data/events_sector_og_dawn.xml:637
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[4]/text"
+msgstr ""
+"Vous fouillez le champ de débris. Bien qu'une grande partie soit des débris "
+"sans valeur, vous parvenez à récupérer une petite quantité de ressources "
+"utiles."
+
+#: src-en/data/events_sector_og_dawn.xml:642
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/text"
+msgstr ""
+"Vous fouillez le champ de débris. Le matériel lui-même est principalement "
+"des débris sans valeur. Cependant, au milieu des débris insignifiants, vous "
+"trouvez ce qui semble être une capsule de sauvetage avec des marques "
+"correspondant à celles du vaisseau."
+
+#: src-en/data/events_sector_og_dawn.xml:645
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/choice[1]/text"
+msgstr "Prenez la capsule de sauvetage."
+
+#: src-en/data/events_sector_og_dawn.xml:647
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/choice[1]/event/text"
+msgstr ""
+"Hors de la capsule de sauvetage, un Soldat de la Nouvelle Aube solitaire "
+"trébuche. \"...Je pensais que j'étais foutu. Ce champ d'astéroïdes était "
+"bien plus dangereux que prévu... J'ai de la chance d'être en vie.\""
+
+#: src-en/data/events_sector_og_dawn.xml:652
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/choice[2]/text"
+msgstr "Ignorer la capsule de sauvetage."
+
+#: src-en/data/events_sector_og_dawn.xml:665
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/text"
+msgstr ""
+"Un grand transporteur appartenant à la Nouvelle Aube est amarré à un avant-"
+"poste de la Nouvelle Aube à proximité. Vos scans indiquent que le "
+"transporteur est étrangement vide."
+
+#: src-en/data/events_sector_og_dawn.xml:668
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/text"
+msgstr "Contacter le transporteur."
+
+#: src-en/data/events_sector_og_dawn.xml:670
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"\"Un Renégat de la Fédération ? Je ne pensais pas voir de votre espèce par ici, ne vous inquiétez pas, il n'y a pas de rebelles dans les parages, nous n'avons pas à être ennemis.\"\n"
+"Le Capitaine du transporteur s'interrompt, réfléchissant à quelque chose.\n"
+"\"Dites, vous n'auriez pas de ressources de rechange sur vous, nous devions en collecter auprès de cet avant-poste, mais apparemment ils n'en ont jamais reçu du dernier transporteur.\"\n"
+"\"Nous serions heureux de vous payer avec du surplus d'équipement ou du personnel.\""
+
+#: src-en/data/events_sector_og_dawn.xml:675
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "Demander un de leurs soldats en échange de ressources."
+
+#: src-en/data/events_sector_og_dawn.xml:677
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr ""
+"Vous vous amarrez au transporteur et remettez les ressources. Votre nouveau "
+"membre d'équipage vous accueille : \"Pour être honnête, j'ai toujours voulu "
+"travailler sur un vrai vaisseau de guerre, le transporteur est sûr et tout, "
+"mais ça devient vraiment ennuyeux.\""
+
+#: src-en/data/events_sector_og_dawn.xml:686
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:692
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "Demander un de leurs soldats en échange de ressources."
+
+#: src-en/data/events_sector_og_dawn.xml:694
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[2]/event/text"
+msgstr ""
+"Vous vous amarrez au transporteur et remettez les ressources. Votre nouveau "
+"membre d'équipage vous accueille : \"Pour être honnête, j'ai toujours voulu "
+"travailler sur un vrai vaisseau de guerre, le transporteur est sûr et tout, "
+"mais ça devient vraiment ennuyeux.\""
+
+#: src-en/data/events_sector_og_dawn.xml:703
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:709
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[3]/text"
+msgstr ""
+"Leur demander de parler en bien de vous auprès du reste de la Nouvelle Aube "
+"en échange de ressources."
+
+#: src-en/data/events_sector_og_dawn.xml:711
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[3]/event/text"
+msgstr ""
+"Vous vous amarrez au transporteur et remettez les ressources. Le Capitaine "
+"du transporteur vous accueille : \"Vous savez, ces rebelles ont vraiment "
+"fait passer la Fédération pour horrible, mais vous ne semblez vraiment pas "
+"si mal.\""
+
+#: src-en/data/events_sector_og_dawn.xml:719
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:725
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/text"
+msgstr "\"Désolés, nous ne pouvons pas épargner de ressources supplémentaires.\""
+
+#: src-en/data/events_sector_og_dawn.xml:727
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/text"
+msgstr ""
+"Vous leur souhaitez bonne chance et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:729
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:733
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:741
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr "Contacter le transporteur."
+
+#: src-en/data/events_sector_og_dawn.xml:743
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/text"
+msgstr ""
+"\"Racaille de la Fédération, ne vous approchez pas, nous ne cherchons pas "
+"les ennuis, mais nous ne sommes pas contre l'idée de déchirer votre vaisseau"
+" en lambeaux.\""
+
+#: src-en/data/events_sector_og_dawn.xml:745
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[1]/text"
+msgstr "Éjecter quelques ressources vers eux en signe de bonne volonté."
+
+#: src-en/data/events_sector_og_dawn.xml:747
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[1]/event/text"
+msgstr ""
+"Le transporteur ramasse soigneusement les ressources, gardant ses tourelles "
+"pointées sur vous. \"Hmmph, je suppose que tous ne sont pas horribles, bonne"
+" chance Capitaine.\" Sur ce, le transporteur se retire prudemment vers la "
+"sécurité de l'avant-poste."
+
+#: src-en/data/events_sector_og_dawn.xml:755
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:761
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[2]/text"
+msgstr "Attendre qu'ils quittent l'avant-poste avant d'attaquer."
+
+#: src-en/data/events_sector_og_dawn.xml:763
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[2]/event/text"
+msgstr ""
+"Finalement, le transporteur termine ses affaires avec l'avant-poste et "
+"commence à partir. Une fois hors de portée de l'avant-poste, vous "
+"l'interceptez avec les canons en pleine puissance."
+
+#: src-en/data/events_sector_og_dawn.xml:766
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:772
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[3]/text"
+msgstr "Les ignorer."
+
+#: src-en/data/events_sector_og_dawn.xml:774
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[3]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:776
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:780
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:788
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/text"
+msgstr "Attendre qu'ils quittent l'avant-poste avant d'attaquer."
+
+#: src-en/data/events_sector_og_dawn.xml:790
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/event/text"
+msgstr ""
+"Finalement, le transporteur termine ses affaires avec l'avant-poste et "
+"commence à partir. Une fois hors de portée de l'avant-poste, vous "
+"l'interceptez avec les canons en pleine puissance."
+
+#: src-en/data/events_sector_og_dawn.xml:793
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:799
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[4]/text"
+msgstr "Les ignorer."
+
+#: src-en/data/events_sector_og_dawn.xml:801
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[4]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:803
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:807
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:815
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/text"
+msgstr ""
+"Vous arrivez à la balise face à un grand avant-poste de communications. Vous"
+" détectez un grand nombre de communications chiffrées envoyées vers la "
+"flotte rebelle. L'avant-poste semble presque indéfendu, vous pourriez le "
+"détruire pour la ferraille sans subir plus de quelques points de dégâts à la"
+" coque."
+
+#: src-en/data/events_sector_og_dawn.xml:818
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr "Contacter l'avant-poste."
+
+#: src-en/data/events_sector_og_dawn.xml:820
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"\"Ahh, le Renégat de la Fédération dont nous avons entendu parler, ne vous "
+"inquiétez pas, la rébellion ne sait pas que vous êtes ici. Pas encore.\""
+
+#: src-en/data/events_sector_og_dawn.xml:822
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/text"
+msgstr "Demander à l'avant-poste de retarder la flotte rebelle."
+
+#: src-en/data/events_sector_og_dawn.xml:824
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/text"
+msgstr ""
+"\"Hmmph, je suppose que nous pouvons, j'espère juste que cela ne sera pas "
+"retracé jusqu'à moi.\""
+
+#: src-en/data/events_sector_og_dawn.xml:829
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/text"
+msgstr ""
+"Demander à l'avant-poste de dérouter la flotte par une position spécifique "
+"afin que vous puissiez y tendre un piège."
+
+#: src-en/data/events_sector_og_dawn.xml:831
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/text"
+msgstr ""
+"\"Hmmph, je suppose que nous pouvons, j'espère juste que cela ne sera pas "
+"retracé jusqu'à moi.\""
+
+#: src-en/data/events_sector_og_dawn.xml:841
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/text"
+msgstr "Contacter l'avant-poste."
+
+#: src-en/data/events_sector_og_dawn.xml:843
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"\"Vous, vous êtes un Renégat de la Fédération ! Donnez-moi une bonne raison "
+"pour que je ne vous signale pas à la flotte tout de suite !\""
+
+#: src-en/data/events_sector_og_dawn.xml:845
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "Offrir des ressources comme pot-de-vin."
+
+#: src-en/data/events_sector_og_dawn.xml:847
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr ""
+"\"Hmmph, je suppose que je peux vous laisser partir, quittez les lieux avant"
+" que la rébellion ne le découvre.\""
+
+#: src-en/data/events_sector_og_dawn.xml:849
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:855
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[@req=\"LIST_CREW_OG_DAWN\"]/text"
+msgstr ""
+"(Membre d'équipage Nouvelle Aube) Demander à l'avant-poste de retarder la "
+"flotte rebelle."
+
+#: src-en/data/events_sector_og_dawn.xml:857
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[@req=\"LIST_CREW_OG_DAWN\"]/event/text"
+msgstr ""
+"\"Hmmph, je suppose que je peux le faire, j'espère juste que ça ne sera pas "
+"retracé jusqu'à moi.\""
+
+#: src-en/data/events_sector_og_dawn.xml:862
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[@req=\"LIST_REBEL_WITHOUT_OG_DAWN\"]/text"
+msgstr ""
+"(Membre d'équipage rebelle) Demander à l'avant-poste de retarder la flotte "
+"rebelle."
+
+#: src-en/data/events_sector_og_dawn.xml:864
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and "
+"@lvl=\"0\"]/event/choice[@req=\"LIST_REBEL_WITHOUT_OG_DAWN\"]/event/text"
+msgstr ""
+"\"Hmmph, je suppose que je peux le faire, j'espère juste que ça ne sera pas "
+"retracé jusqu'à moi.\""
+
+#: src-en/data/events_sector_og_dawn.xml:869
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/text"
+msgstr "Leur dire que vous étiez sur le point de partir."
+
+#: src-en/data/events_sector_og_dawn.xml:871
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/text"
+msgstr ""
+"Ils décident de ne pas vous signaler, vous gardez vos distances et vous vous"
+" préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:873
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:877
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:885
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+"L'avant-poste refuse toute tentative de contact en raison de votre mauvaise "
+"réputation."
+
+#: src-en/data/events_sector_og_dawn.xml:889
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/text"
+msgstr "Le démolir pour la ferraille et les provisions."
+
+#: src-en/data/events_sector_og_dawn.xml:891
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/event/text"
+msgstr ""
+"Vous ouvrez le feu sur l'avant-poste, il se désintègre rapidement sous vos "
+"armes, ses tourelles sous-alimentées ne vous infligent que quelques dégâts. "
+"Malheureusement, il a pu alerter la flotte rebelle de votre position avant "
+"d'être détruit."
+
+#: src-en/data/events_sector_og_dawn.xml:895
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:901
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:903
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[5]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:905
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[5]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:909
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[5]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:934
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_REBEL_INFIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:942
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_REBEL_INFIGHT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:952
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_REBEL_OG_DAWN_INFIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:960
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_REBEL_OG_DAWN_INFIGHT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:967
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/text"
+msgstr ""
+"Vous arrivez à la balise face à face avec un vaisseau de la Nouvelle Aube et un vaisseau rebelle, vous vous préparez immédiatement à la bataille imminente avant de réaliser que les vaisseaux ne s'intéressent pas à vous, mais qu'ils ont en fait leurs armes braquées l'un sur l'autre.\n"
+"Par les communications publiques, vous comprenez que le capitaine de la Nouvelle Aube en a marre d'avoir à écouter les ordres de ces \"capitaines rebelles stupides qui ne sauraient pas différencier le cul d'une limace de leur propre mère\". Et le capitaine rebelle est plutôt mécontent de l'insubordination du vaisseau de la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:970
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/text"
+msgstr "Attaquer le vaisseau de la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:972
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/text"
+msgstr ""
+"Vous armez vos armes et vous engagez le vaisseau de la Nouvelle Aube, vous "
+"avez un moment pour reconsidérer votre décision, vous pourriez vous échapper"
+" maintenant et éviter le combat si vous partiez tout de suite."
+
+#: src-en/data/events_sector_og_dawn.xml:975
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:979
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/text"
+msgstr "Éviter le combat."
+
+#: src-en/data/events_sector_og_dawn.xml:982
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"Vous faites demi-tour et vous enfuyez, les deux vaisseaux se reconcentrent "
+"l'un sur l'autre pendant que vous vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:984
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:988
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:996
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/text"
+msgstr "Attaquer le vaisseau rebelle."
+
+#: src-en/data/events_sector_og_dawn.xml:998
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/text"
+msgstr ""
+"Vous armez vos armes et vous engagez le vaisseau rebelle, vous avez un "
+"moment pour reconsidérer votre décision, vous pourriez vous échapper "
+"maintenant et éviter le combat si vous partiez tout de suite."
+
+#: src-en/data/events_sector_og_dawn.xml:1001
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1005
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/text"
+msgstr "Éviter le combat."
+
+#: src-en/data/events_sector_og_dawn.xml:1008
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/event/text"
+msgstr ""
+"Vous faites demi-tour et vous enfuyez, les deux vaisseaux se reconcentrent "
+"l'un sur l'autre pendant que vous vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1010
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1014
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1022
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[3]/text"
+msgstr "Profiter de la confusion pour vous échapper et éviter tout conflit."
+
+#: src-en/data/events_sector_og_dawn.xml:1024
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[3]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1026
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1030
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1038
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/text"
+msgstr ""
+"Le vaisseau rebelle éliminé, le vaisseau de la Nouvelle Aube ne fait aucun "
+"mouvement pour vous attaquer, vous n'êtes pas sûr de sa prochaine action."
+
+#: src-en/data/events_sector_og_dawn.xml:1041
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr "Contacter le vaisseau de la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:1043
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"\"Ahh, le Renégat de la Fédération dont nous entendons parler, je commence vraiment à penser que cette alliance avec la rébellion était une énorme erreur, ces types sont affreux.\"\n"
+"Le Capitaine marque une pause, pensif.\n"
+"\"Tenez, prenez ces provisions, nous devions les livrer à l'avant-poste rebelle voisin, mais je doute qu'ils remarquent un jour qu'elles ne sont jamais arrivées.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1050
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/text"
+msgstr "Contacter le vaisseau de la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:1052
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"\"Vous, vous êtes un Renégat de la Fédération. Je suis probablement censé "
+"vous tirer dessus maintenant, mais d'un autre côté, j'étais censé suivre les"
+" ordres de cet idiot et regardez ce que ça a donné. Merci de vous en être "
+"occupé, d'ailleurs, ça me garde les mains propres, je ne manquerai pas de "
+"répandre la bonne parole à votre sujet.\" Sur ce, le vaisseau s'éloigne en "
+"sautant, manifestement désireux de s'éloigner de toute cette histoire."
+
+#: src-en/data/events_sector_og_dawn.xml:1057
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+"Le vaisseau refuse toute tentative de contact en raison de votre mauvaise "
+"réputation."
+
+#: src-en/data/events_sector_og_dawn.xml:1061
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[4]/text"
+msgstr "Attaquer le vaisseau de la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:1063
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[4]/event/text"
+msgstr ""
+"Le vaisseau de la Nouvelle Aube est clairement surpris de vous voir les "
+"attaquer, ils allument leurs armes en réponse."
+
+#: src-en/data/events_sector_og_dawn.xml:1066
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1072
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1078
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/text"
+msgstr ""
+"Le vaisseau de la Nouvelle Aube éliminé, le vaisseau rebelle ne fait aucun "
+"mouvement pour vous attaquer, mais il ne semble pas non plus que vous "
+"devriez vous attendre à des remerciements."
+
+#: src-en/data/events_sector_og_dawn.xml:1081
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/choice[1]/text"
+msgstr "Attaquer le vaisseau rebelle."
+
+#: src-en/data/events_sector_og_dawn.xml:1085
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/choice[2]/text"
+msgstr "Profiter de cette paix fragile pour reculer et éviter tout conflit."
+
+#: src-en/data/events_sector_og_dawn.xml:1088
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/choice[2]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1096
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/text"
+msgstr ""
+"Vous êtes arrivé à la balise inaperçu. Cette zone de l'espace est "
+"relativement inhabitée à cause du pulsar, seul un vaisseau de la Nouvelle "
+"Aube apparaît sur les capteurs, et il semble qu'ils ne vous aient pas encore"
+" détecté."
+
+#: src-en/data/events_sector_og_dawn.xml:1098
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1100
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"\"Ah, le célèbre Renégat qui visite notre secteur, j'ai entendu de bonnes "
+"choses à votre sujet. Je ne suppose pas que vous pourriez m'aider, j'ai été "
+"envoyé ici pour traquer un vaisseau de la Garde de Fer renégat, mais je ne "
+"peux pas le trouver. J'apprécierais votre aide dans la recherche.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1102
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1105
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/text"
+msgstr ""
+"Vous acceptez d'aider et vous séparez du vaisseau de la Nouvelle Aube. Après"
+" quelques minutes de recherche, le vaisseau de la Nouvelle Aube disparaît au"
+" loin, au-delà de la portée de vos capteurs. Quelques minutes plus tard "
+"seulement, le vaisseau de la Garde de Fer apparaît, révélé derrière un "
+"astéroïde grand et lent. Ils déduisent correctement que vous faites partie "
+"de l'équipe de chasse et ne vous donnent aucune chance, préparez-vous au "
+"combat."
+
+#: src-en/data/events_sector_og_dawn.xml:1107
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1113
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1115
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/text"
+msgstr ""
+"Vous vous précipitez pour prendre le dessus, malheureusement le vaisseau "
+"vous remarque et peut se préparer à la bataille."
+
+#: src-en/data/events_sector_og_dawn.xml:1118
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1124
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1126
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1128
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1132
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1140
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1142
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/text"
+msgstr ""
+"\"Vous n'êtes pas celui que je cherche, restez en dehors de mon chemin et "
+"nous n'aurons aucun problème.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1144
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1146
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/text"
+msgstr ""
+"Vous vous précipitez pour prendre le dessus, malheureusement le vaisseau "
+"vous remarque et peut se préparer à la bataille."
+
+#: src-en/data/events_sector_og_dawn.xml:1149
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1155
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/text"
+msgstr "Les ignorer."
+
+#: src-en/data/events_sector_og_dawn.xml:1157
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1159
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1163
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1171
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+"Établir le contact ne ferait que les pousser à vous attaquer en raison de "
+"votre mauvaise réputation."
+
+#: src-en/data/events_sector_og_dawn.xml:1175
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1177
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[4]/event/text"
+msgstr ""
+"Vous vous précipitez pour prendre le dessus, malheureusement le vaisseau "
+"vous remarque et peut se préparer à la bataille."
+
+#: src-en/data/events_sector_og_dawn.xml:1180
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1186
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1188
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[5]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1190
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[5]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1194
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[5]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1203
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/text"
+msgstr ""
+"Vous êtes arrivé à la balise inaperçu, le seul vaisseau de la Nouvelle Aube "
+"à proximité ne vous a pas encore remarqué..."
+
+#: src-en/data/events_sector_og_dawn.xml:1205
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1207
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"\"Ah, Capitaine Renégat, je ne suppose pas que vous ayez des provisions "
+"supplémentaires sous la main, nous manquons de carburant et de pièces de "
+"drones, nous avons la ferraille pour vous compenser.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1209
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/text"
+msgstr "Accepter l'échange."
+
+#: src-en/data/events_sector_og_dawn.xml:1211
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/text"
+msgstr ""
+"Vous leur transférez les provisions et recevez leur ferraille, un bon vieil "
+"échange de ressources à l'ancienne."
+
+#: src-en/data/events_sector_og_dawn.xml:1218
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1224
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1226
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/text"
+msgstr ""
+"Vous vous précipitez pour prendre le dessus, malheureusement le vaisseau "
+"vous remarque et peut se préparer à la bataille."
+
+#: src-en/data/events_sector_og_dawn.xml:1229
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1235
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1237
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1239
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1243
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1251
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1253
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/text"
+msgstr ""
+"\"Je ne cherche pas le combat, restez en dehors de mon chemin et nous "
+"n'aurons aucun problème.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1255
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1257
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/text"
+msgstr ""
+"Vous vous précipitez pour prendre le dessus, malheureusement le vaisseau "
+"vous remarque et peut se préparer à la bataille."
+
+#: src-en/data/events_sector_og_dawn.xml:1260
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1266
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/text"
+msgstr "Les ignorer."
+
+#: src-en/data/events_sector_og_dawn.xml:1268
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1270
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1274
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1282
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+"Établir le contact ne ferait que les pousser à vous attaquer en raison de "
+"votre mauvaise réputation."
+
+#: src-en/data/events_sector_og_dawn.xml:1286
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1288
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[4]/event/text"
+msgstr ""
+"Vous vous précipitez pour prendre le dessus, malheureusement le vaisseau "
+"vous remarque et peut se préparer à la bataille."
+
+#: src-en/data/events_sector_og_dawn.xml:1291
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1297
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1299
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[5]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1301
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[5]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1305
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[5]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1331
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/text"
+msgstr ""
+"Vous êtes arrivé dans un champ d'astéroïdes, la balise de détresse provient "
+"d'un transporteur de la Nouvelle Aube en épave juste à côté de la balise."
+
+#: src-en/data/events_sector_og_dawn.xml:1333
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/text"
+msgstr "Enquêter sur l'épave."
+
+#: src-en/data/events_sector_og_dawn.xml:1337
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/text"
+msgstr ""
+"Vous vous approchez de l'épave, plusieurs conteneurs de cargaison se trouvent parmi les débris, mais ils semblent tous ouverts, quelqu'un est déjà passé par ici.\n"
+"Un instant plus tard, vous découvrez qui c'est : un éclaireur de la Nouvelle Aube se révèle derrière des astéroïdes, il est évident qu'ils ont subi des dégâts à leurs moteurs, comme en témoigne la fine traînée d'huile et d'autres fluides qui s'échappent derrière eux."
+
+#: src-en/data/events_sector_og_dawn.xml:1340
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1342
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Le capitaine du vaisseau semble frénétique : \"S'il vous plaît, Capitaine, "
+"vous devez nous aider, j'ai sauvé tous ceux que j'ai pu trouver, mais notre "
+"vaisseau ne tiendra pas beaucoup plus longtemps, je vous supplie de nous "
+"prendre, nous et notre cargaison, à bord et de nous sortir du champ "
+"d'astéroïdes, il y a un avant-poste à proximité.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1344
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1346
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Il faudra du temps pour charger tout le monde à bord et atteindre l'avant-"
+"poste, vous devrez survivre à l'astéroïde pendant environ 30 secondes."
+
+#: src-en/data/events_sector_og_dawn.xml:1350
+msgid ""
+"data/events_sector_og_dawn.xml$//triggeredEvent[@name=\"OG_DAWN_DISTRESS_ASTEROID_TRIGGEREDEVENT\"]/triggeredEventBox/tooltip"
+msgstr "Temps pour charger tout à bord."
+
+#: src-en/data/events_sector_og_dawn.xml:1357
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr "Attaquez-les !"
+
+#: src-en/data/events_sector_og_dawn.xml:1359
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"Au lieu de les écouter, vous activez immédiatement vos armes. Si l'un d'eux "
+"survit, ils ne feront plus autant confiance aux vaisseaux de la fédération à"
+" l'avenir."
+
+#: src-en/data/events_sector_og_dawn.xml:1362
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1368
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1370
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[3]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1372
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1376
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1384
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[2]/text"
+msgstr "Attaquez-les !"
+
+#: src-en/data/events_sector_og_dawn.xml:1386
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"Au lieu de les écouter, vous engagez immédiatement vos armes. Si certains "
+"d'entre eux survivent, ils ne feront plus autant confiance aux vaisseaux de "
+"la Fédération à l'avenir."
+
+#: src-en/data/events_sector_og_dawn.xml:1389
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1397
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[2]/text"
+msgstr "Ignorer l'épave."
+
+#: src-en/data/events_sector_og_dawn.xml:1399
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[2]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1401
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1405
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1413
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_LOADED\"]/text"
+msgstr ""
+"Vous parvenez à charger tout le monde à bord juste à temps, un instant plus "
+"tard un astéroïde frappe le vaisseau ennemi, provoquant un événement de "
+"dépressurisation rapide. Il ne faudra qu'un peu plus de temps pour atteindre"
+" l'avant-poste."
+
+#: src-en/data/events_sector_og_dawn.xml:1418
+msgid ""
+"data/events_sector_og_dawn.xml$//triggeredEvent[@name=\"OG_DAWN_DISTRESS_ASTEROID_TRIGGEREDEVENT2\"]/triggeredEventBox/tooltip"
+msgstr "Temps pour atteindre l'avant-poste."
+
+#: src-en/data/events_sector_og_dawn.xml:1425
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/text"
+msgstr ""
+"Vous y êtes parvenu, vous accostez à l'avant-poste et tout le monde descend "
+"avec succès. L'équipage du vaisseau est très reconnaissant. L'un des soldats"
+" de la Nouvelle Aube s'approche de vous : \"Pensez-vous que je pourrais "
+"rejoindre votre vaisseau en tant que membre de votre équipage, c'était assez"
+" ennuyeux de travailler sur l'escorte de transport, du moins jusqu'à ce que "
+"je pense que nous allions mourir.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1428
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/choice[1]/text"
+msgstr "Les accepter à bord."
+
+#: src-en/data/events_sector_og_dawn.xml:1430
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/choice[1]/event/text"
+msgstr "Votre nouveau membre d'équipage vous rejoint à bord du vaisseau."
+
+#: src-en/data/events_sector_og_dawn.xml:1433
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1439
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1454
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_PREIGN_QUEST\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1456
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_PREIGN_QUEST\"]/destroyed/choice/event/text"
+msgstr ""
+"En fouillant les restes du vaisseau, vous découvrez un étrange conteneur de "
+"fret. Il a même sa destination enregistrée sur le côté, vous le prenez à "
+"bord."
+
+#: src-en/data/events_sector_og_dawn.xml:1466
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_PREIGN_QUEST\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1468
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_PREIGN_QUEST\"]/deadCrew/choice/event/text"
+msgstr ""
+"En fouillant les restes du vaisseau, vous tombez sur un étrange conteneur de"
+" cargaison, il a même sa destination enregistrée sur le côté, vous le prenez"
+" à bord."
+
+#: src-en/data/events_sector_og_dawn.xml:1478
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/text"
+msgstr ""
+"La balise de détresse provient d'un bombardier de la Nouvelle Aube endommagé"
+" garé à proximité, vos scans indiquent que leurs moteurs sont gravement "
+"endommagés, ils n'iront nulle part de sitôt."
+
+#: src-en/data/events_sector_og_dawn.xml:1480
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1482
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/text"
+msgstr ""
+"\"Vous n'êtes pas de la Nouvelle Aube, mais j'ai entendu dire que vous "
+"aidiez les autres. Nous avons une cargaison importante à bord qui doit "
+"arriver à une base voisine, nous veillerons à ce que vous soyez bien "
+"compensé si vous la livrez là-bas.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1484
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[1]/text"
+msgstr "Accepter de livrer l'objet."
+
+#: src-en/data/events_sector_og_dawn.xml:1486
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[1]/event/text"
+msgstr ""
+"Ils vous transfèrent les coordonnées et la caisse de cargaison, ils vous "
+"donnent un avertissement rapide de ne pas l'ouvrir avant de vous envoyer en "
+"chemin."
+
+#: src-en/data/events_sector_og_dawn.xml:1492
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1494
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[2]/event/text"
+msgstr ""
+"Armes en main, vous prévoyez de prendre la cargaison et leur vaisseau par la"
+" force."
+
+#: src-en/data/events_sector_og_dawn.xml:1497
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1503
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[3]/text"
+msgstr "Les ignorer."
+
+#: src-en/data/events_sector_og_dawn.xml:1505
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[3]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1507
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1511
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1519
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+"Vos tentatives de contact sont immédiatement interrompues lorsqu'ils "
+"réalisent qui vous êtes, il semble qu'ils espéraient que l'un des leurs "
+"vienne à la rescousse."
+
+#: src-en/data/events_sector_og_dawn.xml:1523
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1525
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[3]/event/text"
+msgstr "Armes en main, vous prévoyez de prendre leur vaisseau par la force."
+
+#: src-en/data/events_sector_og_dawn.xml:1528
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1534
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[4]/text"
+msgstr "Les ignorer."
+
+#: src-en/data/events_sector_og_dawn.xml:1536
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[4]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1538
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1542
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1560
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/beaconType/unvisitedTooltip"
+msgstr "La destination prévue du conteneur de cargaison."
+
+#: src-en/data/events_sector_og_dawn.xml:1563
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/text"
+msgstr ""
+"Vous arrivez à la balise pour découvrir une grande installation militaire, "
+"la destination sur la caisse de cargaison spécifie un port d'accostage "
+"précis où se rendre."
+
+#: src-en/data/events_sector_og_dawn.xml:1565
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/text"
+msgstr "Accoster au port d'accostage spécifié."
+
+#: src-en/data/events_sector_og_dawn.xml:1567
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/text"
+msgstr ""
+"Votre vaisseau se glisse en place au port d'accostage. Vous vous dirigez "
+"vers l'installation militaire mais êtes arrêté juste à l'extérieur. \"Ce "
+"port d'accostage était désigné pour une livraison spéciale, veuillez "
+"déplacer votre vaisseau vers un autre port.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1569
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/text"
+msgstr "\"Oh, en fait, nous sommes l'équipage de livraison.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1571
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/text"
+msgstr "\"Oh, eh bien où est la Caisse de Cargaison alors ?\""
+
+#: src-en/data/events_sector_og_dawn.xml:1573
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/text"
+msgstr "(Caisse de Cargaison) Lui montrer la Caisse de Cargaison."
+
+#: src-en/data/events_sector_og_dawn.xml:1575
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/text"
+msgstr ""
+"\"Oh, vous ne mentiez pas, la voilà, veuillez l'apporter et suivez-me, ce n'est pas loin d'ici.\"\n"
+"\n"
+"Un instant plus tard, vous vous retrouvez dans un laboratoire d'apparence étrange, il y a plusieurs tables inoccupées autour de la pièce, mais vous êtes dirigé vers une légèrement plus grande au milieu."
+
+#: src-en/data/events_sector_og_dawn.xml:1579
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1581
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/text"
+msgstr ""
+"Un scientifique ou peut-être un ingénieur s'approche : \"Ah, excellent, il est là.\" Il ouvre la caisse et commence à fouiller dedans, cherchant quelque chose.\n"
+"\"Ah excellent, il était ici.\" Il en sort un appareil d'apparence étrange, vous le reconnaissez comme l'un des pré-énergiseurs de tourelle de la Nouvelle Aube, bien qu'il semble modifié. L'ingénieur l'emmène à la table et commence à le connecter à plusieurs autres composants de la table."
+
+#: src-en/data/events_sector_og_dawn.xml:1585
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1587
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/text"
+msgstr ""
+"Il tourne son attention vers vous, ne semblant pas vraiment se soucier à qui"
+" il parle. \"Je vous présente le PRÉ-CHARGEUR de tourelle, une version "
+"améliorée de notre pré-énergiseur réussi. Je suppose que l'assembler n'était"
+" pas nécessaire, mais j'aime avoir un prototype final, ça le rend complet."
+
+#: src-en/data/events_sector_og_dawn.xml:1589
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1592
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"Un instant plus tard, toute la station est secouée par une forte explosion, les sirènes et les alarmes commencent à retentir et les gens se précipitent. L'ingénieur se tourne vers une console proche, affichant rapidement les caméras extérieures de la station.\n"
+"Sur l'écran vidéo, vous pouvez distinguer un vaisseau d'apparence étrange, silhouetté contre l'étoile voisine. \"C'est exactement ce que je soupçonnais.\" L'ingénieur se tourne vers vous. \"Capitaine, quel type de vaisseau avez-vous ?\" \"Un croiseur, excellent, prenez le Pré-chargeur de tourelle, j'ai sauvegardé les plans dans un centre de données sécurisé, mais je ne peux pas risquer que le prototype physique tombe entre leurs mains, veuillez le prendre avec vous et partez d'ici, quoi que vous fassiez, ne le laissez pas tomber entre les mains de la Rébellion.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1596
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1599
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"Vous vous précipitez vers votre vaisseau, désespéré de l'éloigner de l'installation avant qu'il ne soit endommagé dans la confusion.\n"
+"Vous vous désamarrez de la station et commencez à dériver lorsque le vaisseau hostile tourne son attention vers vous, des avertissements s'allument dans le cockpit, vous alertant du danger, préparez-vous au combat."
+
+#: src-en/data/events_sector_og_dawn.xml:1602
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1616
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr "\"Ohh, euh nous ne l'avons plus.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1618
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"\"Bien, eh bien je vous recommande de partir avant que je ne doive vous jeter par le sas.\"\n"
+"Vous retournez rapidement à votre vaisseau et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1621
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1625
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1633
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[2]/text"
+msgstr "\"Oh pardon, nous allons partir alors.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1635
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"Vous éloignez votre vaisseau du port d'accostage et vous préparez pour votre"
+" prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1637
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1641
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1649
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[2]/text"
+msgstr "Ignorer l'installation."
+
+#: src-en/data/events_sector_og_dawn.xml:1651
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[2]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1653
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1657
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1665
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/text"
+msgstr ""
+"Le vaisseau rebelle a été vaincu, laissant derrière lui une grande quantité "
+"de ferraille, la tourelle inhabituelle montée sur le vaisseau a survécu avec"
+" seulement quelques bosses et égratignures mineures. Étonnamment, vous "
+"détectez toujours de faibles signes de vie à bord de l'épave alors que vous "
+"la démanteler..."
+
+#: src-en/data/events_sector_og_dawn.xml:1669
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1671
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/choice/event/text"
+msgstr ""
+"Vous vous approchez, ouvrant la soute pour trouver un soldat rebelle blessé."
+" Dès que vous vous approchez, il panique, attrape un morceau de métal "
+"tranchant et le plonge profondément dans sa poitrine. Un acte de suicide, "
+"probablement pour vous empêcher d'obtenir des informations... mais sur quoi "
+"?"
+
+#: src-en/data/events_sector_og_dawn.xml:1673
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/choice/event/choice/text"
+msgstr "Enquêter sur le vaisseau."
+
+#: src-en/data/events_sector_og_dawn.xml:1675
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/choice/event/choice/event/text"
+msgstr ""
+"Il semble que la plupart des données du vaisseau aient été purgées pendant "
+"le combat – une pratique étrange, mais il semble qu'ils connaissaient leur "
+"destin avant même le début du combat. Quoi qu'il en soit, ce vaisseau avait "
+"des ordres très clairs de ne rien laisser fuiter. Peut-être que ce ne sera "
+"pas la dernière fois que vous verrez un vaisseau comme celui-ci, bien que "
+"cela soit très incertain."
+
+#: src-en/data/events_sector_og_dawn.xml:1696
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_DAWN\"]/text[1]"
+msgstr ""
+"Alors que vous sautez dans le système, un vaisseau de la Nouvelle Aube "
+"avance sur votre position. Ils refusent tous les contacts. Préparez-vous au "
+"combat."
+
+#: src-en/data/events_sector_og_dawn.xml:1697
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_DAWN\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1698
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_DAWN\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1699
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_DAWN\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1705
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"ENCOUNTER_OG_DAWN_SHIP\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1717
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1725
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1736
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN_RUN\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1744
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN_RUN\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1754
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN_ESCORT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1763
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN_ESCORT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1774
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1782
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1794
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON_RUN\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1802
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON_RUN\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1812
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON_ESCORT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1821
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON_ESCORT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1828
+msgid "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/text"
+msgstr ""
+"Vous êtes arrivé à la balise face à face avec une paire de vaisseaux de la "
+"Garde de Fer, l'un est juste un chasseur commun, mais l'autre est un design "
+"inhabituel, un vaisseau plus grand de la taille d'un croiseur. Une vue "
+"inhabituelle dans ce secteur, la plupart de la Garde de Fer ayant été soit "
+"forcés de partir, soit ayant rejoint leurs dirigeants en se tournant vers la"
+" Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:1831
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1833
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"Au moment où vous établissiez le contact avec le vaisseau de la Garde de "
+"Fer, les alarmes retentissent sur vos consoles, un autre vaisseau est "
+"arrivé, et cette fois ce n'est pas la Garde de Fer. Le nouveau venu, un "
+"vaisseau de la Nouvelle Aube, ouvre immédiatement le feu sur le plus grand "
+"des deux vaisseaux de la Garde de Fer. Les vaisseaux de la Garde de Fer, "
+"auparavant neutres, se mettent immédiatement en défense, et supposant que "
+"vous êtes du côté du vaisseau de la Nouvelle Aube, le chasseur se sépare "
+"pour vous engager."
+
+#: src-en/data/events_sector_og_dawn.xml:1836
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1842
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1844
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/text"
+msgstr ""
+"Au moment où vous établissiez le contact avec le vaisseau de la Garde de "
+"Fer, les alarmes retentissent sur vos consoles, une autre paire de vaisseaux"
+" est arrivée, et cette fois ce n'est pas la Garde de Fer. Les nouveaux "
+"arrivants, une paire de vaisseaux de la Nouvelle Aube, ouvre immédiatement "
+"le feu sur le plus grand des deux vaisseaux de la Garde de Fer. Les "
+"vaisseaux de la Garde de Fer, auparavant neutres, se mettent immédiatement "
+"en défense face à l'attaque."
+
+#: src-en/data/events_sector_og_dawn.xml:1847
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/text"
+msgstr "Aider la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:1849
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/text"
+msgstr ""
+"Vous vous déplacez pour défendre le chasseur de la Nouvelle Aube, déjà "
+"endommagé et sur le point d'être vaincu. Vous vous glissez entre eux et leur"
+" adversaire, l'escorte de la Garde de Fer, armes en main."
+
+#: src-en/data/events_sector_og_dawn.xml:1852
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1858
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/text"
+msgstr "Aider la Garde de Fer."
+
+#: src-en/data/events_sector_og_dawn.xml:1860
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/text"
+msgstr ""
+"Vous vous déplacez pour défendre le vaisseau d'escorte de la Garde de Fer, "
+"déjà endommagé et sur le point d'être vaincu. Vous vous glissez entre eux et"
+" leur adversaire, le chasseur de la Nouvelle Aube, armes en main."
+
+#: src-en/data/events_sector_og_dawn.xml:1863
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1869
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[3]/text"
+msgstr "Profiter de la confusion pour s'échapper."
+
+#: src-en/data/events_sector_og_dawn.xml:1871
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[3]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1873
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1877
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1885
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1887
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/text"
+msgstr ""
+"Au moment où vous établissiez le contact avec le vaisseau de la Garde de "
+"Fer, les alarmes retentissent sur vos consoles, une autre paire de vaisseaux"
+" est arrivée, et cette fois ce n'est pas la Garde de Fer. Les nouveaux "
+"arrivants, une paire de vaisseaux de la Nouvelle Aube, ouvre immédiatement "
+"le feu sur le plus grand des deux vaisseaux de la Garde de Fer. Les "
+"vaisseaux de la Garde de Fer, auparavant neutres, se mettent immédiatement "
+"en défense face à l'attaque."
+
+#: src-en/data/events_sector_og_dawn.xml:1890
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[1]/text"
+msgstr "Aider la Garde de Fer."
+
+#: src-en/data/events_sector_og_dawn.xml:1892
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[1]/event/text"
+msgstr ""
+"Vous vous déplacez pour défendre le vaisseau d'escorte de la Garde de Fer, "
+"déjà endommagé et sur le point d'être vaincu. Vous vous glissez entre eux et"
+" leur adversaire, le chasseur de la Nouvelle Aube, armes en main."
+
+#: src-en/data/events_sector_og_dawn.xml:1895
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1901
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[2]/text"
+msgstr "Profiter de la confusion pour s'échapper."
+
+#: src-en/data/events_sector_og_dawn.xml:1903
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[2]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1905
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1909
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1917
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1919
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[4]/event/text"
+msgstr "Vous gardez vos distances et vous préparez pour votre prochain saut."
+
+#: src-en/data/events_sector_og_dawn.xml:1921
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1925
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1933
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_IRON\"]/text"
+msgstr ""
+"Les débris se dissipent autour de vous, il semble que le vaisseau d'escorte de la Nouvelle Aube que vous protégiez soit parti, s'enfuyant ou sautant. Les deux croiseurs principaux sont cependant toujours bloqués dans la bataille, tous deux endommagés et en fuite.\n"
+"Le croiseur de la Nouvelle Aube vous contacte : \"S'il vous plaît Capitaine, nous ne tiendrons pas beaucoup plus longtemps, intervenez et finissez le travail.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1944
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_IRON\"]/choice[1]/text"
+msgstr "Aider le croiseur de la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:1948
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_IRON\"]/choice[2]/text"
+msgstr "Abandonner le vaisseau de la Nouvelle Aube."
+
+#: src-en/data/events_sector_og_dawn.xml:1952
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_IRON\"]/choice[2]/event/text"
+msgstr ""
+"Vous gardez vos distances et peu de temps après, le vaisseau de la Nouvelle "
+"Aube explose, le vaisseau de la Garde de Fer, toujours clairement effrayé "
+"par vous dans son état endommagé, choisit de s'éloigner en sautant."
+
+#: src-en/data/events_sector_og_dawn.xml:1957
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN\"]/text"
+msgstr ""
+"Malgré un feu nourri, le vaisseau de la Garde de Fer a réussi à déclencher "
+"un saut d'urgence, glissant dans le vide juste au moment où ses systèmes "
+"commençaient à défaillir."
+
+#: src-en/data/events_sector_og_dawn.xml:1961
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:1963
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/text"
+msgstr ""
+"La bonne nouvelle est cependant que le croiseur de la Nouvelle Aube a réussi à survivre. \"Capitaine, c'est une bonne chose que vous soyez là, il est clair que nous aurions été condamnés sans votre aide, merci. Maintenant, ce que je suis sur le point de vous demander est contraire au protocole, mais il est clair que nous avons affaire à de redoutables adversaires ici, nous pourrions vraiment avoir besoin de votre aide.\"\n"
+"\"Récemment, nous avons récupéré des informations d'un transport de la Garde de Fer que nous avons capturé, il contenait des plans pour un cambriolage sur l'un de nos coffres de données. Nous savons qu'ils ont établi une base secrète quelque part à proximité en préparation du cambriolage, mais nous ne l'avons pas encore trouvée, nous espérions que l'un de ces vaisseaux avait cette information sur eux.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1966
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/choice[1]/text"
+msgstr ""
+"Accepter d'aider, et les diriger vers l'escorte de la Garde de Fer que vous "
+"avez vaincue plus tôt."
+
+#: src-en/data/events_sector_og_dawn.xml:1968
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/choice[1]/event/text"
+msgstr ""
+"Vous dirigez le croiseur pour enquêter sur l'escorte que vous avez détruite,"
+" ils commencent à fouiller l'épave à la recherche de consoles ou de systèmes"
+" intacts. Ce n'est que quelques minutes plus tard que vous recevez un "
+"contact de leur part : \"Aha, Capitaine nous l'avons trouvée, ils se sont en"
+" fait installés à l'intérieur d'un grand astéroïde dans le même système que "
+"le Coffre de données, malheureusement d'après le relevé de cargaison que "
+"nous avons trouvé, il semble qu'ils soient tout près d'être prêts, nous "
+"devons y arriver le plus vite possible, nous vous enverrons la position "
+"maintenant.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1973
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/choice[2]/text"
+msgstr "Décliner poliment, vous avez une mission plus importante à accomplir."
+
+#: src-en/data/events_sector_og_dawn.xml:1981
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_DAWN\"]/text"
+msgstr ""
+"Les débris se dissipent autour de vous, il semble que le vaisseau d'escorte de la Garde de Fer que vous protégiez soit parti, s'enfuyant ou sautant. Les deux croiseurs principaux sont cependant toujours bloqués dans la bataille, tous deux endommagés et en fuite.\n"
+"Le croiseur de la Garde de Fer vous contacte : \"S'il vous plaît Capitaine, nous ne tiendrons pas beaucoup plus longtemps, intervenez et finissez le travail.\""
+
+#: src-en/data/events_sector_og_dawn.xml:1992
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_DAWN\"]/choice[1]/text"
+msgstr "Aider le croiseur de la Garde de Fer."
+
+#: src-en/data/events_sector_og_dawn.xml:1996
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_DAWN\"]/choice[2]/text"
+msgstr "Abandonner le vaisseau de la Garde de Fer."
+
+#: src-en/data/events_sector_og_dawn.xml:2000
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_DAWN\"]/choice[2]/event/text"
+msgstr ""
+"Vous gardez vos distances et peu de temps après, le vaisseau de la Garde de "
+"Fer explose, le vaisseau de la Nouvelle Aube, toujours clairement effrayé "
+"par vous dans son état endommagé, choisit de s'éloigner en sautant."
+
+#: src-en/data/events_sector_og_dawn.xml:2005
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN\"]/text"
+msgstr ""
+"Malgré un feu nourri, le vaisseau de la Garde de Fer a réussi à déclencher "
+"un saut d'urgence, glissant dans le vide juste au moment où ses systèmes "
+"commençaient à défaillir."
+
+#: src-en/data/events_sector_og_dawn.xml:2009
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2011
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN_CONT\"]/text"
+msgstr ""
+"La bonne nouvelle est cependant que le croiseur de la Garde de Fer a réussi à survivre. \"Capitaine, c'est une bonne chose que vous soyez là, il est clair que nous aurions été condamnés sans votre aide, merci. Maintenant, je ne devrais pas vous dire cela, mais clairement nous avons besoin d'aide.\"\n"
+"\"Nous sommes en train de nous préparer à un raid sur un coffre de données de la Nouvelle Aube, capturer les informations qui y sont stockées sera une grande faveur dans la guerre, mais il est fortement défendu. Nous nous sommes préparés avec des provisions et de l'équipement près du coffre de données, cachés de leurs capteurs. Nous sommes presque prêts à partir, nous apprécierions donc votre aide pendant le raid.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2014
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN_CONT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2016
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN_CONT\"]/choice[1]/event/text"
+msgstr ""
+"\"Excellent ! J'ai hâte de bénéficier de ce soutien de feu supplémentaire "
+"pendant le raid, nous vous enverrons la position maintenant, bonne chance et"
+" à bientôt.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2021
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN_CONT\"]/choice[2]/text"
+msgstr "Décliner poliment, vous avez une mission plus importante à accomplir."
+
+#: src-en/data/events_sector_og_dawn.xml:2032
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/beaconType/unvisitedTooltip"
+msgstr "L'emplacement de la base secrète de la Garde de Fer."
+
+#: src-en/data/events_sector_og_dawn.xml:2035
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/text"
+msgstr ""
+"Vous êtes arrivé au point de rendez-vous, le croiseur de la Nouvelle Aube "
+"est déjà là. \"Vous êtes là Capitaine, nous pouvons partir alors, suivez-moi"
+" et préparez-vous au combat.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2037
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/text"
+msgstr "Suivre le croiseur."
+
+#: src-en/data/events_sector_og_dawn.xml:2039
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/text"
+msgstr ""
+"Vous suivez le croiseur, passant devant plusieurs grands astéroïdes flottant dans le vide. Vous ne réalisez même pas quand vous arrivez à la base de la Garde de Fer avant d'être juste devant elle, vous captez le plus faible signal sur vos capteurs au centre d'un grand astéroïde, protégé de la détection par l'épaisse couche de roche.\n"
+"Maintenant que vous savez où se trouve leur base, il ne vous faut pas longtemps pour localiser l'entrée, une grotte naturelle dans l'astéroïde qui mène vers l'intérieur."
+
+#: src-en/data/events_sector_og_dawn.xml:2042
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/text"
+msgstr "Suivre le croiseur à l'intérieur."
+
+#: src-en/data/events_sector_og_dawn.xml:2044
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"Vous finissez par déboucher dans un espace caverneux, plus petit que prévu "
+"mais rempli de conteneurs de cargaison et de quelques structures "
+"temporaires. Cependant, un scan rapide indique que la base est vide, "
+"abandonnée. Le vaisseau de la Nouvelle Aube, réalisant cela, rebrousse "
+"rapidement chemin, avec pleine puissance à ses moteurs. \"Capitaine, nous "
+"avons fait une erreur, ils sont déjà passés au coffre de données, je dois y "
+"retourner maintenant !\""
+
+#: src-en/data/events_sector_og_dawn.xml:2046
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2048
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"Une fois dehors, \"Nous retournons au coffre de données, je veux que vous "
+"restiez ici, au cas où ils auraient simplement déménagé ailleurs à "
+"proximité, ou pire, terminé leur mission et seraient sur le chemin du "
+"retour. Si quelqu'un apparaît, nous ne pouvons pas risquer qu'ils "
+"s'échappent avec les données, ne les laissez pas s'échapper.\" Sur ce, ils "
+"partent, se dirigeant vers le coffre de données."
+
+#: src-en/data/events_sector_og_dawn.xml:2050
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2052
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"Juste au moment où vous commenciez à vous ennuyer, un vaisseau apparaît sur vos capteurs, au début vous pensez que c'est le vaisseau de la Nouvelle Aube qui revient, mais il s'avère rapidement être un vaisseau de la Garde de Fer, le même vaisseau qui vous a échappé plus tôt.\n"
+"En vous voyant, ils activent également leurs armes, se préparant à attaquer. Vous remarquez cependant que leurs moteurs semblent endommagés, il semble qu'ils tentent un saut d'urgence pour s'échapper, mais cela prendra quelques minutes en raison des dégâts, c'est maintenant votre chance."
+
+#: src-en/data/events_sector_og_dawn.xml:2059
+msgid ""
+"data/events_sector_og_dawn.xml$//triggeredEvent[@name=\"OG_DAWN_HEIST_DAWN_TIMER\"]/triggeredEventBox/tooltip"
+msgstr ""
+"Temps avant que le croiseur de la Garde de Fer ne puisse exécuter un saut "
+"d'urgence."
+
+#: src-en/data/events_sector_og_dawn.xml:2064
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2076
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/text"
+msgstr ""
+"\"En fait, nous avons changé d'avis, nous préférerions éviter ce conflit.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2078
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/event/text"
+msgstr ""
+"Le Capitaine de la Nouvelle Aube est déçu et part de son côté, en espérant "
+"que son vaisseau sera suffisamment puissant seul."
+
+#: src-en/data/events_sector_og_dawn.xml:2080
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2084
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2093
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_FAIL\"]/text"
+msgstr ""
+"Le vaisseau s'éloigne en sautant, s'ils avaient les données, elles sont "
+"perdues maintenant, vous avez échoué. Vous attendez mais n'avez plus de "
+"nouvelles de la Nouvelle Aube, vous êtes à nouveau seul."
+
+#: src-en/data/events_sector_og_dawn.xml:2097
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/text"
+msgstr ""
+"Ce n'est que quelques minutes plus tard que le croiseur de la Nouvelle Aube arrive : \"Oh, merci aux dieux, vous avez réussi à les arrêter, nous avons vaincu le reste des vaisseaux au coffre de données, mais celui-ci a échappé à nos défenses, nous pensons qu'ils avaient les données volées sur eux, l'équipe de récupération est en route maintenant pour essayer de nettoyer tout ce qui a survécu. Nous ne pouvons pas vous remercier assez pour votre aide.\"\n"
+"\n"
+"\"L'une des choses qu'ils ont tenté de voler était les plans d'un nouveau croiseur que nous avons conçu, j'ai pris la liberté de télécharger le design moi-même pour vous, essayez de ne pas le laisser tomber entre de mauvaises mains. De plus, et peut-être plus immédiatement utile pour vous, j'ai une sélection d'équipement de la Nouvelle Aube, prenez ce qui vous plaît, je peux simplement le déclarer détruit dans la bataille.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2102
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[1]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2104
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[1]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner au coffre de données."
+
+#: src-en/data/events_sector_og_dawn.xml:2109
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[2]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2111
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[2]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner au coffre de données."
+
+#: src-en/data/events_sector_og_dawn.xml:2116
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[3]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2118
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[3]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner au coffre de données."
+
+#: src-en/data/events_sector_og_dawn.xml:2123
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[4]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2125
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[4]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner au coffre de données."
+
+#: src-en/data/events_sector_og_dawn.xml:2130
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[5]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2132
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[5]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner au coffre de données."
+
+#: src-en/data/events_sector_og_dawn.xml:2142
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/beaconType/unvisitedTooltip"
+msgstr "L'emplacement du coffre de données de la Nouvelle Aube à piller."
+
+#: src-en/data/events_sector_og_dawn.xml:2145
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/text"
+msgstr ""
+"Vous êtes arrivé au point de rendez-vous, le croiseur de la Garde de Fer est"
+" déjà là, aux côtés d'une petite flotte de vaisseaux militaires plus petits."
+" \"Vous êtes là Capitaine, nous pouvons partir alors, suivez-me et préparez-"
+"vous au combat.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2147
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/text"
+msgstr "Suivre le croiseur."
+
+#: src-en/data/events_sector_og_dawn.xml:2149
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/text"
+msgstr ""
+"Vous suivez le croiseur, le coffre de données apparaît rapidement sur vos capteurs, une grande station fortement défendue, elle a un immense panneau solaire à proximité qui l'alimente.\n"
+"Le croiseur de la Garde de Fer vous contacte : \"Restez avec moi, j'ai la force de raid principale à bord, les autres vaisseaux fourniront une couverture pour le raid, je veux que vous soyez là au cas où quelque chose d'inattendu se produirait.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2152
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/text"
+msgstr "\"Oui, nous serons là.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2154
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"Les petits vaisseaux engagent en premier, éloignant les défenseurs de la "
+"station, ainsi que touchant et désactivant de nombreuses tourelles "
+"construites sur la station. Tout semble bien se passer jusqu'à ce qu'un "
+"grand vaisseau de la Nouvelle Aube se révèle derrière la station, se "
+"dirigeant droit vers vous et le croiseur de la Garde de Fer. \"Vous devez "
+"arrêter ce vaisseau, nous sommes lourdement équipés en équipage et en "
+"matériel, nous ne sommes pas vraiment équipés pour le combat de vaisseau à "
+"vaisseau. Vous devez les empêcher de nous atteindre.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2159
+msgid ""
+"data/events_sector_og_dawn.xml$//triggeredEvent[@name=\"OG_DAWN_HEIST_IRON_TIMER\"]/triggeredEventBox/tooltip"
+msgstr ""
+"Temps avant que le vaisseau de la Nouvelle Aube ne soit à portée de tir du "
+"croiseur de la Garde de Fer."
+
+#: src-en/data/events_sector_og_dawn.xml:2164
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2172
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/text"
+msgstr ""
+"\"En fait, nous avons changé d'avis, nous préférerions éviter ce conflit.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2174
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/event/text"
+msgstr ""
+"Le Capitaine de la Nouvelle Aube est déçu et part de son côté, en espérant "
+"que son vaisseau sera suffisamment puissant seul."
+
+#: src-en/data/events_sector_og_dawn.xml:2176
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2180
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2189
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_FAIL\"]/text"
+msgstr ""
+"Le vaisseau de la Nouvelle Aube se détourne de vous et commence à tirer sur "
+"le vaisseau de la Garde de Fer, vous regardez ce dernier se désintégrer sous"
+" le feu continu, finissant par se briser, anéantissant tout espoir d'un raid"
+" réussi. Le reste de la force de la Garde de Fer tombe autour de vous, les "
+"défenses de la Nouvelle Aube se tournent vers vous, vous forçant à reculer, "
+"finalement vous êtes contraint de fuir, ou d'être détruit."
+
+#: src-en/data/events_sector_og_dawn.xml:2193
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/text"
+msgstr ""
+"Le vaisseau de la Nouvelle Aube vaincu, rien n'empêche votre force de "
+"terminer le raid. Le reste des défenses est nettoyé et le vaisseau de la "
+"Garde de Fer finit par se désengager de la station. \"C'est un succès, merci"
+" pour votre aide Capitaine, nous n'aurions pas pu le faire sans vous. J'ai "
+"pris la liberté d'extraire toutes les données qui pourraient vous être "
+"utiles, de plus nous avons capturé une sélection d'équipement de la Nouvelle"
+" Aube, prenez ce dont vous avez besoin.\""
+
+#: src-en/data/events_sector_og_dawn.xml:2197
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[1]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2199
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[1]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner à leur base."
+
+#: src-en/data/events_sector_og_dawn.xml:2204
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[2]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2206
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[2]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner à leur base."
+
+#: src-en/data/events_sector_og_dawn.xml:2211
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[3]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2213
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[3]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner à leur base."
+
+#: src-en/data/events_sector_og_dawn.xml:2218
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[4]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2220
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[4]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner à leur base."
+
+#: src-en/data/events_sector_og_dawn.xml:2225
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[5]/text"
+msgstr "Prendre :"
+
+#: src-en/data/events_sector_og_dawn.xml:2227
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[5]/event/text"
+msgstr ""
+"Vous choisissez l'une des tourelles de la Nouvelle Aube, après quoi le "
+"Capitaine vous remercie à nouveau avant de retourner à leur base."
+
+#: src-en/data/events_sector_og_dawn.xml:2237
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_TRANSPORT_LOOT\"]/escape/text"
+msgstr ""
+"Ils ont l'air de ne pas vouloir se battre. Ils essaient de s'échapper."
+
+#: src-en/data/events_sector_og_dawn.xml:2248
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2249
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2250
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2252
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/text"
+msgstr ""
+"Cette balise abrite un transport de la Nouvelle Aube. Il est fort probable "
+"que le vaisseau transporte une technologie spéciale. Si vous pouvez tuer son"
+" équipage, leur cargaison sera à vous."
+
+#: src-en/data/events_sector_og_dawn.xml:2255
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[1]/text"
+msgstr "Exiger la reddition de leurs biens."
+
+#: src-en/data/events_sector_og_dawn.xml:2257
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[1]/event/text"
+msgstr "Vous vous préparez à sécuriser leur cargaison par la force."
+
+#: src-en/data/events_sector_og_dawn.xml:2260
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2266
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[2]/text"
+msgstr "Éviter le vaisseau."
+
+#: src-en/data/events_sector_og_dawn.xml:2268
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[2]/event/text"
+msgstr ""
+"Ils restent hors de portée de vos armes, et finissent par s'éloigner en "
+"sautant."
+
+#: src-en/data/events_sector_og_dawn.xml:2270
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2274
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_dawn.xml:2281
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_CAPTURE_OG_DAWN\"]/text"
+msgstr ""
+"L'équipage est mort, vous laissant avec le vaisseau. Sa cargaison est à "
+"vous. À bord se trouve la technologie spéciale que vous attendiez, que vous "
+"ramenez à votre vaisseau."

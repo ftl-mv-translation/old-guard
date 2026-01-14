@@ -1,0 +1,598 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:5
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice/text"
+msgstr "Contrôle des tourelles."
+
+#: src-en/data/events_special_storage.xml.append:11
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/text"
+msgstr "Faire quelque chose avec votre système de Contrôle des tourelles."
+
+#: src-en/data/events_special_storage.xml.append:13
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:17
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[2]/text"
+msgstr "Fabrication de tourelles."
+
+#: src-en/data/events_special_storage.xml.append:21
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"og_turret_adaptive\"]/text"
+msgstr "Repositionner votre emplacement de tourelle adaptative."
+
+#: src-en/data/events_special_storage.xml.append:27
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/text"
+msgstr "Quelle tourelle installer ?"
+
+#: src-en/data/events_special_storage.xml.append:29
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:35
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/text"
+msgstr "Remplacer la tourelle ?"
+
+#: src-en/data/events_special_storage.xml.append:37
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/choice/text"
+msgstr "Laisser vide."
+
+#: src-en/data/events_special_storage.xml.append:50
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/text"
+msgstr "Plans disponibles."
+
+#: src-en/data/events_special_storage.xml.append:52
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:56
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice[2]/text"
+msgstr "Fabriquer une base de tourelle."
+
+#: src-en/data/events_special_storage.xml.append:62
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT\"]/text"
+msgstr "Requiert :"
+
+#: src-en/data/events_special_storage.xml.append:64
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:70
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT_STEP\"]/text"
+msgstr "Choisir un composant de fabrication."
+
+#: src-en/data/events_special_storage.xml.append:74
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/text"
+msgstr ""
+"Les bases de tourelles peuvent remplacer un drone de défense lors de la "
+"fabrication d'une tourelle, cependant il est souvent moins cher d'utiliser "
+"des drones de défense plutôt que des bases de tourelles si vous en avez."
+
+#: src-en/data/events_special_storage.xml.append:76
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:80
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/text"
+msgstr "Construire une base de tourelle laser."
+
+#: src-en/data/events_special_storage.xml.append:82
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/event/text"
+msgstr "Vous créez la base de tourelle."
+
+#: src-en/data/events_special_storage.xml.append:88
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:94
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/text"
+msgstr "Construire une base de tourelle ionique."
+
+#: src-en/data/events_special_storage.xml.append:96
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/event/text"
+msgstr "Vous créez la base de tourelle."
+
+#: src-en/data/events_special_storage.xml.append:102
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:108
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/text"
+msgstr "Construire une base de tourelle lance-missiles."
+
+#: src-en/data/events_special_storage.xml.append:110
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/event/text"
+msgstr "Vous créez la base de tourelle."
+
+#: src-en/data/events_special_storage.xml.append:116
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:122
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/text"
+msgstr "Construire une base de tourelle de focalisation."
+
+#: src-en/data/events_special_storage.xml.append:124
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/event/text"
+msgstr "Vous créez la base de tourelle."
+
+#: src-en/data/events_special_storage.xml.append:130
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:136
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/text"
+msgstr "Construire une base de micro-tourelle."
+
+#: src-en/data/events_special_storage.xml.append:138
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/event/text"
+msgstr "Vous créez la base de tourelle."
+
+#: src-en/data/events_special_storage.xml.append:144
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:153
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice/text"
+msgstr "Contrôle des tourelles."
+
+#: src-en/data/events_special_storage.xml.append:159
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:161
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+"Moteurs overclockés. [NON DISPONIBLE : Vous avez déjà atteint le niveau "
+"maximal de cette amélioration]"
+
+#: src-en/data/events_special_storage.xml.append:165
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
+" and @lvl=\"1\"]/text"
+msgstr "Moteurs surcadencés Niv. 1. [Coût : 35~, 3|]"
+
+#: src-en/data/events_special_storage.xml.append:169
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
+" and @lvl=\"0\"]/text"
+msgstr "Moteurs overclockés Niv. 1. [Coût : 35~, 3|]"
+
+#: src-en/data/events_special_storage.xml.append:173
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+"Accélérateurs. [NON DISPONIBLE : Vous avez déjà atteint le niveau maximal de"
+" cette amélioration]"
+
+#: src-en/data/events_special_storage.xml.append:177
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
+" and @lvl=\"1\"]/text"
+msgstr "Accélérateurs Niv. 1. [Coût : 30~, 5}]"
+
+#: src-en/data/events_special_storage.xml.append:181
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
+" and @lvl=\"0\"]/text"
+msgstr "Accélérateurs Niv. 1. [Coût : 30~, 5}]"
+
+#: src-en/data/events_special_storage.xml.append:185
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
+" and @lvl=\"1\"]/text"
+msgstr "Dextérité manuelle. [DÉJÀ INSTALLÉE]"
+
+#: src-en/data/events_special_storage.xml.append:189
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
+" and @lvl=\"0\"]/text"
+msgstr "Dextérité manuelle. [Coût : 30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:193
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_BUY\"]/text"
+msgstr "Circuit étendu. [DÉJÀ INSTALLÉE]"
+
+#: src-en/data/events_special_storage.xml.append:197
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SHOW\"]/text"
+msgstr "Circuit étendu. [Coût : 30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:201
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[11]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:206
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration Moteurs overclockés.\n"
+"\t[Effets : Les tourelles tournent 50 % plus vite. Peut être installée 2 fois.]"
+
+#: src-en/data/events_special_storage.xml.append:209
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/text"
+msgstr "Effectuer l'amélioration. [Coût : 35~, 3|]"
+
+#: src-en/data/events_special_storage.xml.append:211
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:217
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:223
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:225
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:228
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:234
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:245
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration Accélérateurs.\n"
+"\t[Effets : Les projectiles de tourelle se déplacent 50 % plus vite. Peut être installée 2 fois.]"
+
+#: src-en/data/events_special_storage.xml.append:248
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/text"
+msgstr "Effectuer l'amélioration. [Coût : 30~, 5}]"
+
+#: src-en/data/events_special_storage.xml.append:250
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:256
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:262
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:264
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:267
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:273
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:284
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration Dextérité manuelle.\n"
+"\t[Effets : Les tourelles gagnent 180 de vitesse de rotation lorsqu'elles sont ciblées manuellement.]"
+
+#: src-en/data/events_special_storage.xml.append:287
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/text"
+msgstr "Effectuer l'amélioration. [Coût : 30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:289
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:295
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:301
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:303
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:306
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:312
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:323
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration Circuit étendu.\n"
+"\t[Effets : Étend l'emplacement de la tourelle adaptative pour accepter toutes les tailles de tourelles.]"
+
+#: src-en/data/events_special_storage.xml.append:326
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/text"
+msgstr "Effectuer l'amélioration. [Coût : 30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:328
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:334
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:340
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:342
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:345
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:351
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:363
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[1]/text"
+msgstr "Original : Sélectionner la Tourelle 1"
+
+#: src-en/data/events_special_storage.xml.append:365
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_1_START\"]/text"
+msgstr ""
+"Appuyez sur n'importe quelle touche pour définir la touche, appuyez sur Échap pour réinitialiser.\n"
+"\t\t\tTouche actuellement définie : Sélectionner la Tourelle 1"
+
+#: src-en/data/events_special_storage.xml.append:370
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[2]/text"
+msgstr "Original : Sélectionner la Tourelle 2"
+
+#: src-en/data/events_special_storage.xml.append:372
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_2_START\"]/text"
+msgstr ""
+"Appuyez sur n'importe quelle touche pour définir la touche, appuyez sur Échap pour réinitialiser.\n"
+"\t\t\tTouche actuellement définie : Sélectionner la Tourelle 2"
+
+#: src-en/data/events_special_storage.xml.append:377
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[3]/text"
+msgstr "Original : Sélectionner la Tourelle 3"
+
+#: src-en/data/events_special_storage.xml.append:379
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_3_START\"]/text"
+msgstr ""
+"Appuyez sur n'importe quelle touche pour définir la touche, appuyez sur Échap pour réinitialiser.\n"
+"\t\t\tTouche actuellement définie : Sélectionner la Tourelle 3"
+
+#: src-en/data/events_special_storage.xml.append:384
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[4]/text"
+msgstr "Original : Sélectionner la Tourelle 4"
+
+#: src-en/data/events_special_storage.xml.append:386
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_4_START\"]/text"
+msgstr ""
+"Appuyez sur n'importe quelle touche pour définir la touche, appuyez sur Échap pour réinitialiser.\n"
+"\t\t\tTouche actuellement définie : Sélectionner la Tourelle 4"
+
+#: src-en/data/events_special_storage.xml.append:391
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[5]/text"
+msgstr "Original : Sélectionner la Tourelle 5"
+
+#: src-en/data/events_special_storage.xml.append:393
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_5_START\"]/text"
+msgstr ""
+"Appuyez sur n'importe quelle touche pour définir la touche, appuyez sur Échap pour réinitialiser.\n"
+"\t\t\tTouche actuellement définie : Sélectionner la Tourelle 5"
+
+#: src-en/data/events_special_storage.xml.append:398
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[6]/text"
+msgstr "Original : Sélectionner la Tourelle 6"
+
+#: src-en/data/events_special_storage.xml.append:400
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_6_START\"]/text"
+msgstr ""
+"Appuyez sur n'importe quelle touche pour définir la touche, appuyez sur Échap pour réinitialiser.\n"
+"\t\t\tTouche actuellement définie : Sélectionner la Tourelle 6"
+
+#: src-en/data/events_special_storage.xml.append:405
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[7]/text"
+msgstr "Original : Sélectionner la Tourelle 7"
+
+#: src-en/data/events_special_storage.xml.append:407
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_7_START\"]/text"
+msgstr ""
+"Appuyez sur n'importe quelle touche pour définir la touche, appuyez sur Échap pour réinitialiser.\n"
+"\t\t\tTouche actuellement définie : Sélectionner la Tourelle 7"
+
+#: src-en/data/events_special_storage.xml.append:412
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[8]/text"
+msgstr "Original : Sélectionner la Tourelle 8"
+
+#: src-en/data/events_special_storage.xml.append:414
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_8_START\"]/text"
+msgstr ""
+"Appuyez sur n'importe quelle touche pour définir la touche, appuyez sur Échap pour réinitialiser.\n"
+"\t\t\tTouche actuellement définie : Sélectionner la Tourelle 8"
+
+#: src-en/data/events_special_storage.xml.append:421
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice/text"
+msgstr "Réactiver le tutoriel du Contrôle des tourelles."
+
+#: src-en/data/events_special_storage.xml.append:431
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
+"append:choice/text"
+msgstr "(Piratage de générateur) Invoquer un vaisseau MV de la Vieille Garde."
+
+#: src-en/data/events_special_storage.xml.append:443
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/text"
+msgstr ""
+"Vous vérifiez quels vaisseaux peuvent être invoqués actuellement. Invoquer "
+"un boss MV coûtera 7{."
+
+#: src-en/data/events_special_storage.xml.append:445
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/text"
+msgstr "Classe Raider C - Lâche une Tourelle Chargeur Léger"
+
+#: src-en/data/events_special_storage.xml.append:447
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/event/text"
+msgstr ""
+"Vous mettez la machine à pleine puissance et regardez une faille s'ouvrir, "
+"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et une "
+"lumière verte clignotante suivie d'une série de coordonnées signifie que "
+"cela a fonctionné."
+
+#: src-en/data/events_special_storage.xml.append:455
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[2]/text"
+msgstr "Tant pis, faire autre chose."
+
+#: src-en/data/events_special_storage.xml.append:462
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
+"append:choice/text"
+msgstr "(Caisse de fret) Ouvrir la caisse de fret."
+
+#: src-en/data/events_special_storage.xml.append:467
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/text"
+msgstr ""
+"Êtes-vous sûr de vouloir faire cela ? Il est peu probable que les personnes "
+"à qui vous le livrez soient satisfaites de vous après cela."
+
+#: src-en/data/events_special_storage.xml.append:469
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/text"
+msgstr "Faites-le !"
+
+#: src-en/data/events_special_storage.xml.append:471
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/event/text"
+msgstr ""
+"Vous ouvrez la caisse et découvrez un fouillis de composants et de pièces, "
+"la seule chose utilisable est un Pré-énergiseur de Tourelle à moitié "
+"démantelé, que vous parvenez à remettre en état de marche, le reste vous est"
+" inutile."
+
+#: src-en/data/events_special_storage.xml.append:477
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:483
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_SCRAMBLER\"]/mod-"
+"append:choice/text"
+msgstr ""
+"[Effets supplémentaires : Les tourelles ennemies sont brouillées, ce qui les"
+" rend beaucoup moins précises en défense]."

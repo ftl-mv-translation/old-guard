@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/sector_data.xml.append:44
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[1]"
+msgstr "Secteur de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:45
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[2]"
+msgstr "Espace de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:46
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[3]"
+msgstr "Frontière de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:47
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[4]"
+msgstr "Territoire de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:48
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[5]"
+msgstr "Domaine de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:49
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[6]"
+msgstr "Mondes périphériques de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:50
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[7]"
+msgstr "Régions de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:51
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[8]"
+msgstr "Pièces de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:52
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[9]"
+msgstr "Dominion de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:53
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[10]"
+msgstr "Terres de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:54
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[11]"
+msgstr "Royaume de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:55
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[12]"
+msgstr "Secteur lointain de la Garde de Fer"
+
+#: src-en/data/sector_data.xml.append:123
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[1]"
+msgstr "Secteur de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:124
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[2]"
+msgstr "Espace de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:125
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[3]"
+msgstr "Frontière de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:126
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[4]"
+msgstr "Territoire de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:127
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[5]"
+msgstr "Domaine de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:128
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[6]"
+msgstr "Mondes périphériques de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:129
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[7]"
+msgstr "Régions de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:130
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[8]"
+msgstr "Pièces de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:131
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[9]"
+msgstr "Dominion de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:132
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[10]"
+msgstr "Terres de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:133
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[11]"
+msgstr "Royaume de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:134
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[12]"
+msgstr "Secteur lointain de la Garde de Fer [Soldes !]"
+
+#: src-en/data/sector_data.xml.append:202
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_DAWN_UNIQUE\"]/nameList/name"
+msgstr "Base d'opérations avancée de la Nouvelle Aube [!]"

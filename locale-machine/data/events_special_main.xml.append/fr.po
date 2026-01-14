@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:13
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:15
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[1]/text"
+msgstr "Oui !"
+
+#: src-en/data/events_special_main.xml.append:17
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:19
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:21
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:23
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:25
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:27
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_4\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:29
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:31
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_5\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:33
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:35
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_6\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:37
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:39
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:43
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:45
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:62
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:66
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:68
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[3]/event/text"
+msgstr ""
