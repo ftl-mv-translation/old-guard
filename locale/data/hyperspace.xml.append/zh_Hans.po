@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-13 13:45+0000\n"
+"PO-Revision-Date: 2026-01-14 04:02+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datahyperspace-xml-append/zh_Hans/>\n"
@@ -21,13 +21,12 @@ msgstr ""
 "敌方炮塔旋转速度提升100%。"
 
 #: src-en/data/hyperspace.xml.append:116
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
-"反射装甲:\n"
-"令击中本舰的光束伤害减半（向下取整）。"
+"反射装甲：\n"
+"令击中本舰的光束伤害减半（向下取整，但最低为1点）。"
 
 #: src-en/data/hyperspace.xml.append:121
 msgid ""
@@ -46,7 +45,6 @@ msgstr ""
 "该敌人的所有炮塔在战斗开始时处于半充能状态。"
 
 #: src-en/data/hyperspace.xml.append:131
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
 "append:shipIcon[5]/tooltip"
@@ -101,10 +99,10 @@ msgid ""
 msgstr "叛军效忠"
 
 #: src-en/data/hyperspace.xml.append:259
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/description"
-msgstr "驾驶一艘先锋级舰船，在不招募任何一名非人类船员的情况下，抵达第8星区。"
+msgstr "驾驶一艘先锋级舰船，在舰上仅有一名非人类船员的情况下，不得以其状态跳跃至任何"
+"新信标，并最终抵达第8星区。"
 
 #: src-en/data/hyperspace.xml.append:264
 msgid ""
