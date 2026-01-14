@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-13 13:45+0000\n"
+"PO-Revision-Date: 2026-01-14 04:02+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datablueprintsxmlappend/zh_Hans/>\n"
@@ -582,47 +582,48 @@ msgstr "这种激光炮塔需要长时间预热启动。每次开火都会减少
 #: src-en/data/blueprints.xml.append:771
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/title"
-msgstr ""
+msgstr "粒子加速器炮塔"
 
 #: src-en/data/blueprints.xml.append:772
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/short"
-msgstr ""
+msgstr "粒子加速器。"
 
 #: src-en/data/blueprints.xml.append:773
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/desc"
-msgstr ""
+msgstr "发射流线型粒子束，造成高额系统伤害。不会伤害船员或船体，且无法减少护盾。"
 
 #: src-en/data/blueprints.xml.append:792
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/title"
-msgstr ""
+msgstr "加特林炮塔"
 
 #: src-en/data/blueprints.xml.append:793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/short"
-msgstr ""
+msgstr "加特林"
 
 #: src-en/data/blueprints.xml.append:794
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/desc"
-msgstr ""
+msgstr "加特林炮塔需要很长的预热时间，但一旦启动，它终将向你的对手倾泻地狱般的火力！"
 
 #: src-en/data/blueprints.xml.append:813
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/title"
-msgstr ""
+msgstr "裂唤者炮塔"
 
 #: src-en/data/blueprints.xml.append:814
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/short"
-msgstr ""
+msgstr "裂唤者"
 
 #: src-en/data/blueprints.xml.append:815
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/desc"
-msgstr ""
+msgstr "一件先前仅由希尔凡携带的强大战争武器，如今也为你所用。你这个贪婪的、嗜杀的叛"
+"徒。"
 
 #: src-en/data/blueprints.xml.append:837
 msgid ""
@@ -657,17 +658,17 @@ msgstr "离子炮塔能出色地压制无人机，并可瘫痪系统而不造成
 #: src-en/data/blueprints.xml.append:879
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/title"
-msgstr ""
+msgstr "能量炮炮塔"
 
 #: src-en/data/blueprints.xml.append:880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/short"
-msgstr ""
+msgstr "能量炮。"
 
 #: src-en/data/blueprints.xml.append:881
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/desc"
-msgstr ""
+msgstr "能量炮炮塔能瘫痪系统，同时也会造成船体损伤。"
 
 #: src-en/data/blueprints.xml.append:903
 msgid ""
@@ -747,17 +748,18 @@ msgstr "一座威力强大的破片炮塔，能够积累惊人的齐射火力，
 #: src-en/data/blueprints.xml.append:1009
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/title"
-msgstr ""
+msgstr "辐射破片炮塔"
 
 #: src-en/data/blueprints.xml.append:1010
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/short"
-msgstr ""
+msgstr "辐射破片"
 
 #: src-en/data/blueprints.xml.append:1011
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/desc"
-msgstr ""
+msgstr "发射4枚放射性射破片，造成常规船体损伤与高额船员伤害，并有概率侵蚀船体形成破舱"
+"。"
 
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
@@ -792,17 +794,18 @@ msgstr "这款强大的改进型光点炮塔能对船员造成巨额伤害并致
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/title"
-msgstr ""
+msgstr "链式光点炮塔"
 
 #: src-en/data/blueprints.xml.append:1076
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/short"
-msgstr ""
+msgstr "链式光点。"
 
 #: src-en/data/blueprints.xml.append:1077
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/desc"
-msgstr ""
+msgstr "这款光点武器虽然单发伤害一般，但其射速会急速提升，直至能对护盾失效的敌人造成"
+"毁灭性打击。"
 
 #: src-en/data/blueprints.xml.append:1099
 msgid ""
@@ -1183,17 +1186,17 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/title"
-msgstr ""
+msgstr "激光"
 
 #: src-en/data/blueprints.xml.append:1787
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/short"
-msgstr ""
+msgstr "激光"
 
 #: src-en/data/blueprints.xml.append:1788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/desc"
-msgstr ""
+msgstr "开发人员信息"
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
@@ -1243,17 +1246,17 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1954
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/title"
-msgstr ""
+msgstr "离子"
 
 #: src-en/data/blueprints.xml.append:1955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/short"
-msgstr ""
+msgstr "离子"
 
 #: src-en/data/blueprints.xml.append:1956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/desc"
-msgstr ""
+msgstr "开发人员信息"
 
 #: src-en/data/blueprints.xml.append:2000
 msgid ""
@@ -1348,17 +1351,17 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:2243
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/title"
-msgstr ""
+msgstr "破片"
 
 #: src-en/data/blueprints.xml.append:2244
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/short"
-msgstr ""
+msgstr "破片"
 
 #: src-en/data/blueprints.xml.append:2245
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/desc"
-msgstr ""
+msgstr "开发人员信息"
 
 #: src-en/data/blueprints.xml.append:2292
 msgid ""
@@ -1862,10 +1865,9 @@ msgid ""
 msgstr "反射装甲"
 
 #: src-en/data/blueprints.xml.append:4270
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/desc"
-msgstr "令击中本舰的光束伤害减半（向下取整）。"
+msgstr "令击中本舰的光束伤害减半（向下取整，但最低为1）。"
 
 #: src-en/data/blueprints.xml.append:4278
 msgid ""
