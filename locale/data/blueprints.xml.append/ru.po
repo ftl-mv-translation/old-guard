@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-01-17 04:38+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -154,7 +154,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:159
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/title"
-msgstr "Управление микротурелью"
+msgstr "Управлен. микротурелью"
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
@@ -165,7 +165,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:174
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/title"
-msgstr "Управление микротурелью"
+msgstr "Управлен. микротурелью"
 
 #: src-en/data/blueprints.xml.append:175
 msgid ""
@@ -176,7 +176,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:189
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/title"
-msgstr "Управление микротурелью"
+msgstr "Управлен. микротурелью"
 
 #: src-en/data/blueprints.xml.append:190
 msgid ""
@@ -187,7 +187,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:204
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/title"
-msgstr "Управление микротурелью"
+msgstr "Управлен. микротурелью"
 
 #: src-en/data/blueprints.xml.append:205
 msgid ""
