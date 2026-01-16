@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 08:16+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-01-16 08:19+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1928,10 +1928,9 @@ msgid ""
 msgstr "Крейсер Железная Пустельга"
 
 #: src-en/data/blueprints.xml.append:3733
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/name"
-msgstr "Сверхсветовой"
+msgstr "Сверхпричинный"
 
 #: src-en/data/blueprints.xml.append:3734
 msgid ""
@@ -1947,10 +1946,9 @@ msgid ""
 msgstr "Крейсер Железных повстанцев"
 
 #: src-en/data/blueprints.xml.append:3815
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/name"
-msgstr "Аяччо"
+msgstr "Корсика"
 
 #: src-en/data/blueprints.xml.append:3817
 msgid ""
@@ -1966,10 +1964,9 @@ msgid ""
 msgstr "Крейсер Железных Инноваций"
 
 #: src-en/data/blueprints.xml.append:3898
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/name"
-msgstr "К.У.Р.А."
+msgstr "Железный Гигант"
 
 #: src-en/data/blueprints.xml.append:3900
 msgid ""
@@ -1984,10 +1981,9 @@ msgid ""
 msgstr "Крейсер Железных Сепаратистов"
 
 #: src-en/data/blueprints.xml.append:3985
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/name"
-msgstr "Одиночество"
+msgstr "Изоляция"
 
 #: src-en/data/blueprints.xml.append:3987
 msgid ""
@@ -2002,10 +1998,9 @@ msgid ""
 msgstr "Железный Ангельский вестник смерти"
 
 #: src-en/data/blueprints.xml.append:4069
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/name"
-msgstr "Люцифер"
+msgstr "Венера"
 
 #: src-en/data/blueprints.xml.append:4071
 msgid ""
@@ -2021,10 +2016,9 @@ msgid ""
 msgstr "Крейсер Железных валунов"
 
 #: src-en/data/blueprints.xml.append:4147
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/name"
-msgstr "Оплот"
+msgstr "Вал"
 
 #: src-en/data/blueprints.xml.append:4149
 msgid ""
@@ -2039,10 +2033,9 @@ msgid ""
 msgstr "Крейсер Железных Миротворцев"
 
 #: src-en/data/blueprints.xml.append:4233
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/name"
-msgstr "Лазарь"
+msgstr "Нищий"
 
 #: src-en/data/blueprints.xml.append:4235
 msgid ""
