@@ -356,7 +356,7 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 		<hiddenAug>SHIP_KESTREL</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>11</crewLimit>
-		<systemLimit>8</systemLimit>
+		<systemLimit>10</systemLimit>
 	</mod-append:customShip>
 
 	<mod-append:ship name="PLAYER_SHIP_OG_REBEL" b="false" c="false" >
