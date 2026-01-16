@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 08:21+0000\n"
+"PO-Revision-Date: 2026-01-16 08:27+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
@@ -731,12 +731,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/title"
-msgstr ""
+msgstr "Залповая кристаллическая турель"
 
 #: src-en/data/blueprints.xml.append:904
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/short"
-msgstr ""
+msgstr "Кристалл"
 
 #: src-en/data/blueprints.xml.append:905
 msgid ""
@@ -746,12 +746,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:924
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/title"
-msgstr ""
+msgstr "Элитная залповая кристаллическая турель"
 
 #: src-en/data/blueprints.xml.append:925
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/short"
-msgstr ""
+msgstr "€ Кристалл"
 
 #: src-en/data/blueprints.xml.append:926
 msgid ""
