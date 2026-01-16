@@ -186,7 +186,7 @@ local systemNameCheck = {}
 for _, sysName in ipairs(systemNameList) do
 	systemNameCheck[sysName] = true
 end
-local scrambler_radius = 48
+local scrambler_radius = 32
 
 local turret_directions = {
 	up = -1,
@@ -267,11 +267,11 @@ local turretBlueprintsList = mods.og.turretBlueprintsList
 local defence_types = {
 	DRONES = {[3] = true, [7] = true, name = "Drones"},
 	MISSILES = {[1] = true, [2] = true, [7] = true, name = "Tous les projectiles solides"},
-	DRONES_MISSILES = {[1] = true, [2] = true, [3] = true, [7] = true, name = "Tous les projectiles solides et les Drones"},
+	DRONES_MISSILES = {[1] = true, [2] = true, [3] = true, [7] = true, name = "Tous les projectiles solides et Drones"},
 	PROJECTILES = {[4] = true, name = "Projectiles non solides"},
-	DRONES_PROJECTILES = {[3] = true, [4] = true, name = "Projectiles non solides et les Drones"},
+	DRONES_PROJECTILES = {[3] = true, [4] = true, name = "Projectiles non solides et Drones"},
 	PROJECTILES_MISSILES = {[1] = true, [2] = true, [4] = true, [7] = true, name = "Tous les projectiles"},
-	ALL = {[1] = true, [2] = true, [3] = true, [4] = true, [7] = true, name = "TOUT"},
+	ALL = {[1] = true, [2] = true, [3] = true, [4] = true, [7] = true, name = "Tout"},
 }
 mods.og.chain_types = {
 	cooldown = 1,
@@ -292,17 +292,17 @@ local function add_stat_text(desc, currentTurret, chargeMax)
 			desc = desc.."/"
 		end
 	end
-	desc = desc.."\nCharges Maximales : "..math.floor(currentTurret.charges)
+	desc = desc.."\nCharges maximales: "..math.floor(currentTurret.charges)
 	desc = desc.."\nQuantité de charge : "..math.floor(currentTurret.charges_per_charge)
 	if currentTurret.ammo_consumption then
 		desc = desc.."\nCoût en missile : "..tostring(currentTurret.ammo_consumption)
 	end
 	if currentTurret.chain and currentTurret.chain.type == chain_types.cooldown then
 		chain_amount = math.floor(currentTurret.chain.amount * 100)
-		desc = desc.."\nEffet de chaîne : Réduction du temps de charge de "..chain_amount.."%"
+		desc = desc.."\nEffet de chaîne : Réduit le temps de recharge de "..chain_amount.."%"
 		local chain_count = math.floor(currentTurret.chain.count)
 		local chain_max_effect = math.floor(currentTurret.chain.amount * currentTurret.chain.count * 100)
-		desc = desc.."\nLimite de réduction de chaîne : "..chain_max_effect.."% ("..chain_count.." chains)"
+		desc = desc.."\nLimite de l'effet de chaîne : "..chain_max_effect.."% ("..chain_count.." chaine)"
 	end
 	desc = desc.."\n\nVitesse de rotation : "..math.floor(currentTurret.rotation_speed)
 	if currentTurret.shot_radius then
@@ -319,30 +319,44 @@ local function add_stat_text(desc, currentTurret, chargeMax)
 	local shotBlueprint = Hyperspace.Blueprints:GetWeaponBlueprint(currentTurret.blueprint)
 	local damage = shotBlueprint.damage
 	desc = desc.."\n"
-	if damage.iDamage > 0 then
-		desc = desc.."\nDégâts à la coque : "..math.floor(damage.iDamage)
+	local tempDamage = {iDamage = damage.iDamage, iSystemDamage = damage.iSystemDamage, iPersDamage = damage.iPersDamage, iIonDamage = damage.iIonDamage}
+	if currentTurret.fake_damage then
+		if currentTurret.fake_damage.iDamage then tempDamage.iDamage = tempDamage.iDamage + currentTurret.fake_damage.iDamage end
+		if currentTurret.fake_damage.iSystemDamage then tempDamage.iSystemDamage = tempDamage.iSystemDamage + currentTurret.fake_damage.iSystemDamage end
+		if currentTurret.fake_damage.iPersDamage then tempDamage.iPersDamage = tempDamage.iPersDamage + currentTurret.fake_damage.iPersDamage end
+		if currentTurret.fake_damage.iIonDamage then tempDamage.iIonDamage = tempDamage.iIonDamage + currentTurret.fake_damage.iIonDamage end
 	end
-	if damage.iSystemDamage + damage.iDamage > 0 then
-		desc = desc.."\nDégâts au système : "..math.floor(damage.iDamage + damage.iSystemDamage)
+	if tempDamage.iDamage > 0 then
+		desc = desc.."\nDégâts à la coque : "..math.floor(tempDamage.iDamage)
 	end
-	if damage.iPersDamage + damage.iDamage > 0 then
-		desc = desc.."\nDégâts à l'équipage : "..math.floor((damage.iDamage + damage.iPersDamage) * 15)
+	if tempDamage.iSystemDamage + tempDamage.iDamage > 0 then
+		desc = desc.."\nDégâts au système : "..math.floor(tempDamage.iDamage + tempDamage.iSystemDamage)
 	end
-	if damage.iIonDamage > 0 then
-		desc = desc.."\nDégâts Ioniques : "..math.floor(damage.iIonDamage)
+	if tempDamage.iPersDamage + tempDamage.iDamage > 0 then
+		desc = desc.."\nDégâts à l'équipage : "..math.floor((tempDamage.iDamage + tempDamage.iPersDamage) * 15)
+	end
+	if tempDamage.iIonDamage > 0 then
+		desc = desc.."\nDégâts Ionique : "..math.floor(tempDamage.iIonDamage)
 	end
 	if damage.iShieldPiercing ~= 0 then
-		desc = desc.."\nPerforation de bouclier : "..math.floor(damage.iShieldPiercing)
+		local tempPiercing = damage.iShieldPiercing
+		if currentTurret.blueprint_type == 3 then 
+			tempPiercing = tempPiercing - 1 
+			if currentTurret.fake_damage and currentTurret.fake_damage.iDamage then
+				tempPiercing = tempPiercing - currentTurret.fake_damage.iDamage
+			end
+		end
+		desc = desc.."\nSPerforation de bouclier : "..math.floor(tempPiercing)
 	end
 	if damage.bHullBuster then
-		desc = desc.."\nInflige 2× de dégâts aux pièces sans système"
+		desc = desc.."\nDoes 2x damage to systemless rooms"
 	end
 	desc = desc.."\n"
 	if damage.bLockdown then
 		desc = desc.."\nVerrouille les pièces à l'impact"
 	end
 	if damage.fireChance > 0 then
-		desc = desc.."\nChances de feu : "..math.floor(damage.fireChance * 10).."%"
+		desc = desc.."\nChances de Feu : "..math.floor(damage.fireChance * 10).."%"
 	end
 	if damage.breachChance > 0 then
 		desc = desc.."\nChances de brèche : "..math.floor(damage.breachChance * 10).."% (Adjusted: "..math.floor((100 - 10 * damage.fireChance) * (damage.breachChance/10)).."%)"
@@ -600,17 +614,17 @@ script.on_internal_event(Defines.InternalEvents.ON_TICK, function()
 			local shipId = 0
 			if system.table.tooltip_type == 1 then
 				Hyperspace.Mouse.bForceTooltip = true
-				Hyperspace.Mouse.tooltip = "Mettre la tourelle en mode offensif."
+				Hyperspace.Mouse.tooltip = "Régler la tourelle en mode offensif."
 			elseif system.table.tooltip_type == 2 then
 				Hyperspace.Mouse.bForceTooltip = true
-				Hyperspace.Mouse.tooltip = "Mettre la tourelle en mode défensif."
+				Hyperspace.Mouse.tooltip = "Régler la tourelle en mode défensif."
 			elseif system.table.tooltip_type == 0 then
 				Hyperspace.Mouse.bForceTooltip = true
 				local currentTurret = turrets[ turretBlueprintsList[ Hyperspace.playerVariables[shipId..sysName..systemBlueprintVarName] ] ]
 				Hyperspace.Mouse.tooltip = add_stat_text("", currentTurret, system:GetMaxPower())
 			elseif system.table.tooltip_type == 3 or system.table.tooltip_type == 3 then
 				Hyperspace.Mouse.bForceTooltip = true
-				Hyperspace.Mouse.tooltip = "Bascule entre activer/désactiver le tir automatique des tourelles.\n\nLEFT CTRL + VISÉE permet de forcer la tourelle à adopter le comportement inverse du paramètre actuel."
+				Hyperspace.Mouse.tooltip = "Utilisez ce bouton pour activer/désactiver le tir automatique des tourelles.\n\nLEFT CTRL + VISÉE peut forcer une tourelle à faire le contraire du réglage actuel"
 			end
 		end
 	end
@@ -1027,6 +1041,28 @@ script.on_render_event(Defines.RenderEvents.CHOICE_BOX, function() end, function
 	end
 end)
 
+local function get_charge_time(currentTurret, system)
+	local systemNameTemp = Hyperspace.ShipSystem.SystemIdToName(system.iSystemType)
+	local shipId = math.floor(system._shipObj.iShipId)
+	local shipManager = Hyperspace.ships(shipId)
+
+	local hasMannedBonus = (system.iActiveManned > 0 and 0.05) or 0
+	local chargeTime = currentTurret.charge_time[system:GetEffectivePower()]
+	if currentTurret.enemy_charge_time and shipId == 1 then
+		chargeTime = currentTurret.enemy_charge_time[system:GetEffectivePower()]
+	end
+	local chargeTimeReduction = 0
+	local chainAmount = Hyperspace.playerVariables[shipId..systemNameTemp..systemChainVarName]
+	if currentTurret.chain and currentTurret.chain.type == chain_types.cooldown then
+		for i = 1, chainAmount do
+			chargeTimeReduction = chargeTimeReduction + chargeTime * currentTurret.chain.amount
+		end
+	end
+	chargeTime = chargeTime - chargeTimeReduction
+	chargeTime = (chargeTime * (1 - (hasMannedBonus + system.iActiveManned * 0.05)))/(1 + shipManager:GetAugmentationValue("AUTO_COOLDOWN")/2)
+	return chargeTime
+end
+
 local sysArrow = Hyperspace.TutorialArrow(Hyperspace.Pointf(-50, -80), 90)
 sysArrow.arrow = Hyperspace.Resources:GetImageId("tutorial_arrow.png")
 local boxArrow = Hyperspace.TutorialArrow(Hyperspace.Pointf(4, -135), 90)
@@ -1061,17 +1097,7 @@ local function system_render(systemBox, ignoreStatus)
 		--print(turretBlueprintsList[ Hyperspace.playerVariables[shipId..systemId..systemBlueprintVarName] ].." "..tostring(shipId..systemId..systemBlueprintVarName))
 		local charges = Hyperspace.playerVariables[shipId..systemId..systemChargesVarName]
 		
-		local hasMannedBonus = (system.iActiveManned > 0 and 0.05) or 0
-		local chargeTime = currentTurret.charge_time[system:GetEffectivePower()]
-		local chargeTimeReduction = 0
-		local chainAmount = Hyperspace.playerVariables[shipId..systemId..systemChainVarName]
-		if currentTurret.chain and currentTurret.chain.type == chain_types.cooldown then
-			for i = 1, chainAmount do
-				chargeTimeReduction = chargeTimeReduction + chargeTime * currentTurret.chain.amount
-			end
-		end
-		chargeTime = chargeTime - chargeTimeReduction
-		chargeTime = chargeTime/(1 + hasMannedBonus + system.iActiveManned * 0.05)
+		local chargeTime = get_charge_time(currentTurret, system)
 
 		local chargeTimeDisplay = math.ceil(chargeTime)
 		local time = math.floor(0.5 + system.table.chargeTime * chargeTimeDisplay * 2)
@@ -1130,6 +1156,7 @@ local function system_render(systemBox, ignoreStatus)
 		end
 		Graphics.CSurface.GL_RenderPrimitiveWithColor(turretBoxInner, renderColour)
 
+		local chainAmount = Hyperspace.playerVariables[shipId..systemId..systemChainVarName]
 		if currentTurret.chain and chainAmount > 0 then
 			Graphics.CSurface.GL_RenderPrimitiveWithColor(turretBoxChain, renderColour)
 		elseif currentTurret.chain then
@@ -1636,17 +1663,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 					end
 				end
 			end
-			local hasMannedBonus = (system.iActiveManned > 0 and 0.05) or 0
-			local chargeTime = currentTurret.charge_time[system:GetEffectivePower()]
-			local chargeTimeReduction = 0
-			if currentTurret.chain and currentTurret.chain.type == chain_types.cooldown then
-				local chainAmount = Hyperspace.playerVariables[math.floor(shipManager.iShipId)..sysName..systemChainVarName]
-				for i = 1, chainAmount do
-					chargeTimeReduction = chargeTimeReduction + chargeTime * currentTurret.chain.amount
-				end
-			end
-			chargeTime = chargeTime - chargeTimeReduction
-			chargeTime = chargeTime/(1 + hasMannedBonus + system.iActiveManned * 0.05)
+			local chargeTime = get_charge_time(currentTurret, system)
 			
 			local otherManager = Hyperspace.ships(1 - shipManager.iShipId)
 			system.table.firingTime = system.table.firingTime - time_increment(true)
@@ -2009,6 +2026,14 @@ local function renderTurret(shipManager, ship, spaceManager, shipGraph, sysName)
 		if currentTurret.charge_image then
 			Graphics.CSurface.GL_RenderPrimitiveWithAlpha(currentTurret.charge_image, 1)
 		end
+		if currentTurret.chain and currentTurret.chain.image then
+			currentTurret.chain.image:SetCurrentFrame(currentTurret.chain.count - 1)
+			currentTurret.chain.image:OnRender(1, Graphics.GL_Color(1,1,1,1), false)
+		end
+		if currentTurret.glow then
+			currentTurret.glow:SetCurrentFrame(currentTurret.charges - 1)
+			currentTurret.glow:OnRender(1, Graphics.GL_Color(1,1,1,1), false)
+		end
 		Graphics.CSurface.GL_PopMatrix()
 	elseif Hyperspace.playerVariables[math.floor(shipManager.iShipId)..sysName..systemBlueprintVarName] >= 0 then
 		currentTurret = turrets[ turretBlueprintsList[ Hyperspace.playerVariables[math.floor(shipManager.iShipId)..sysName..systemBlueprintVarName] ] ]
@@ -2036,7 +2061,7 @@ local function renderTurret(shipManager, ship, spaceManager, shipGraph, sysName)
 			currentTurret.chain.image:SetCurrentFrame(chains - 1)
 			currentTurret.chain.image:OnRender(1, Graphics.GL_Color(1,1,1,1), false)
 		end
-		if currentTurret.glow and charges > 0 then
+		if currentTurret.glow and charges > 0 and (not currentTurret.hide_glow_firing or currentTurret.image.currentFrame <= 0) then
 			currentTurret.glow:SetCurrentFrame(charges - 1)
 			currentTurret.glow:OnRender(1, Graphics.GL_Color(1,1,1,1), false)
 		end
@@ -2044,19 +2069,9 @@ local function renderTurret(shipManager, ship, spaceManager, shipGraph, sysName)
 		local mousePosEnemy = worldToEnemyLocation(Hyperspace.Mouse.position)
 		local turretLocCorrected = {x = shipCorner.x + turretLoc.x, y = shipCorner.y + turretLoc.y}
 		if shipManager.iShipId == 1 and get_distance(mousePosEnemy, turretLocCorrected) <= 15 then
-			local s = "Charges: "..math.floor(charges).."/"..math.floor(currentTurret.charges)
+			local s = "Charge : "..math.floor(charges).."/"..math.floor(currentTurret.charges)
 			if Hyperspace.ships.player:HasSystem(7) and Hyperspace.ships.player:GetSystem(7):GetEffectivePower() >= 2 then
-				local hasMannedBonus = (system.iActiveManned > 0 and 0.05) or 0
-				local chargeTime = currentTurret.charge_time[system:GetEffectivePower()]
-				local chargeTimeReduction = 0
-				local chainAmount = Hyperspace.playerVariables[math.floor(shipManager.iShipId)..sysName..systemChainVarName]
-				if currentTurret.chain and currentTurret.chain.type == chain_types.cooldown then
-					for i = 1, chainAmount do
-						chargeTimeReduction = chargeTimeReduction + chargeTime * currentTurret.chain.amount
-					end
-				end
-				chargeTime = chargeTime - chargeTimeReduction
-				chargeTime = chargeTime/(1 + hasMannedBonus + system.iActiveManned * 0.05)
+				local chargeTime = get_charge_time(currentTurret, system)
 				s = s .. "\nTemps de charge : "..tostring(math.floor(0.5 + system.table.chargeTime * chargeTime * 10)/10).."/"..tostring(math.floor(0.5 + chargeTime * 10)/10)
 			end
 			Hyperspace.Mouse.tooltip = s
@@ -2332,7 +2347,7 @@ local key_names = {
 	SDLK_x = {index = 120, name = "x"},
 	SDLK_y = {index = 121, name = "y"},
 	SDLK_z = {index = 122, name = "z"},
-	SDLK_LAST = {index = 323, name = "Dernier"},
+	SDLK_LAST = {index = 323, name = "Dernière"},
 }
 
 local hotkeys = {
@@ -2388,7 +2403,7 @@ script.on_internal_event(Defines.InternalEvents.PRE_CREATE_CHOICEBOX, function(e
 			end
 		end
 		if key == -1 then
-			s = "Non défini"
+			s = "Non définie"
 		end
 		event:AddChoice(event, "Touche actuelle : "..s, emptyReq, false)
 	end
@@ -2454,9 +2469,9 @@ script.on_internal_event(Defines.InternalEvents.POST_CREATE_CHOICEBOX, function(
 					end
 				end
 				if key == -1 then
-					s = "Non défini"
+					s = "Non définie"
 				end
-				choice.text = choice.text.." (Actuellement, c’est la  \""..s.."\" touche)"
+				choice.text = choice.text.." (Il s’agit actuellement de \""..s.."\" la touche)"
 			end
 		end
 	end
