@@ -1057,12 +1057,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1350
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/title"
-msgstr "Dawn Quad Missile Turret"
+msgstr "Dawn Dual Missile Turret"
 
 #: src-en/data/blueprints.xml.append:1351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/short"
-msgstr "€ Quad M."
+msgstr "€ Dual M."
 
 #: src-en/data/blueprints.xml.append:1352
 msgid ""

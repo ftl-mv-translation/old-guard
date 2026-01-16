@@ -905,7 +905,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr "Request one of their soldiers in exchange for supplies."
+msgstr "Request one of their turrets in exchange for supplies."
 
 #: src-en/data/events_sector_og_dawn.xml:694
 msgid ""
@@ -913,8 +913,8 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
 "You dock with the transport and hand over the supplies, you're greeted by "
-"your new crew member, \"To be honest I always wanted to work on a real war "
-"ship, the transport is safe and all, but it gets real boring on there.\""
+"the transport's Captain, \"You know, those rebels really made the Federation"
+" sound awful, but you really don't seem that bad.\""
 
 #: src-en/data/events_sector_og_dawn.xml:703
 msgid ""
