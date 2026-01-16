@@ -111,10 +111,10 @@
     "packaging": {
         "fullOriginal": [
 		    //assets1
-            "https://github.com/ftl-mv-translation/old-guard/raw/old-guard-english/FTL-Old-Guard-v2.4.zip",
+            "https://github.com/ftl-mv-translation/old-guard/raw/old-guard-english/FTL-Old-Guard-v2.7.zip",
 
         ],
         "prefix": "Old-Guard",
-        "version": "2.4"
+        "version": "2.7"
     }
 }

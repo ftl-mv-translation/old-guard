@@ -50,12 +50,12 @@ table.insert(turretBlueprintsList, "OG_TURRET_FOCUS_MINI_DAWN")
 --1 = MISSILES, 2 = FLAK, 3 = DRONES, 4 = PROJECTILES, 5 = HACKING 
 local defence_types = {
 	DRONES = {[3] = true, [7] = true, name = "Drones"},
-	MISSILES = {[1] = true, [2] = true, [7] = true, name = "All Solid Projectiles"},
-	DRONES_MISSILES = {[1] = true, [2] = true, [3] = true, [7] = true, name = "All Solid Projectiles and Drones"},
-	PROJECTILES = {[4] = true, name = "Non-Solid Projectiles"},
-	DRONES_PROJECTILES = {[3] = true, [4] = true, name = "Non-Solid Projectiles and Drones"},
-	PROJECTILES_MISSILES = {[1] = true, [2] = true, [4] = true, [7] = true, name = "All Projectiles"},
-	ALL = {[1] = true, [2] = true, [3] = true, [4] = true, [7] = true, name = "All"},
+	MISSILES = {[1] = true, [2] = true, [7] = true, name = "Tous les projectiles solides"},
+	DRONES_MISSILES = {[1] = true, [2] = true, [3] = true, [7] = true, name = "Tous les projectiles solides et les Drones"},
+	PROJECTILES = {[4] = true, name = "Projectiles non solides"},
+	DRONES_PROJECTILES = {[3] = true, [4] = true, name = "Projectiles non solides et les Drones"},
+	PROJECTILES_MISSILES = {[1] = true, [2] = true, [4] = true, [7] = true, name = "Tous les projectiles"},
+	ALL = {[1] = true, [2] = true, [3] = true, [4] = true, [7] = true, name = "TOUT"},
 }
 local chain_types = mods.og.chain_types
 
