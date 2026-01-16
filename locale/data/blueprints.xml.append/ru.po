@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 08:19+0000\n"
+"PO-Revision-Date: 2026-01-16 08:21+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
@@ -1385,32 +1385,32 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:2044
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/title"
-msgstr ""
+msgstr "Лазер"
 
 #: src-en/data/blueprints.xml.append:2045
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/short"
-msgstr ""
+msgstr "Лазер"
 
 #: src-en/data/blueprints.xml.append:2046
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2084
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/title"
-msgstr ""
+msgstr "Лазер"
 
 #: src-en/data/blueprints.xml.append:2085
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/short"
-msgstr ""
+msgstr "Лазер"
 
 #: src-en/data/blueprints.xml.append:2086
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:2126
 msgid ""
@@ -2050,10 +2050,9 @@ msgid ""
 msgstr "Крейсер Железных Атаманов"
 
 #: src-en/data/blueprints.xml.append:4310
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/name"
-msgstr "Черный Ворон"
+msgstr "Серебряный ворон"
 
 #: src-en/data/blueprints.xml.append:4312
 msgid ""
