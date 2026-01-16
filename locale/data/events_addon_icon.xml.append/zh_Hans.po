@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-15 04:44+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/dataevents_addon_iconxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_addon_icon.xml.append:5
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_OG\"]/hover-text"
@@ -25,8 +18,7 @@ msgstr ""
 "开发者：Arc\n"
 "当前状态：已启用\n"
 "\t\t\n"
-"本模组专注于炮塔操控系统，新增了一种装备类型、2个新派系、新星区，以及一系列搭"
-"载该新系统的可玩舰船。\n"
+"本模组专注于炮塔操控系统，新增了一种装备类型、2个新派系、新星区，以及一系列搭载该新系统的可玩舰船。\n"
 "\t\t\n"
 "要启用昔日的星穹铁卫模组，请前往多元宇宙论坛并访问模组专区！。"
 

@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 04:02+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/datatext_eventsxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_events.xml.append:1
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_iron_generic\"]"
@@ -45,8 +38,7 @@ msgstr ""
 "叛军威胁等级：极高\n"
 "标记点：？？？\n"
 "\n"
-"作为新黎明的一处军事据点，他们在与铁幕守望的战斗中既缺补给也少盟友。尽管部分"
-"新黎明成员表示反对，他们已转而向叛军寻求帮助。"
+"作为新黎明的一处军事据点，他们在与铁幕守望的战斗中既缺补给也少盟友。尽管部分新黎明成员表示反对，他们已转而向叛军寻求帮助。"
 
 #: src-en/data/text_events.xml.append:28
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_iron\"]"
