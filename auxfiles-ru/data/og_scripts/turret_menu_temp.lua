@@ -199,9 +199,9 @@ hideName["GATLING"] = "Обрушивает всю свою адскую мощ�
 hideName["PRIME_LASER"] = "Стоит ему попасть, и ты - труп."
 hideName["DEFENSE_PRIME"] = "Архейн."
 hideName["COMBAT_PRIME"] = "Стоит ему попасть, и ты - труп."
-hideName["BEAM_HARDSCIFI"] = "НАСТОЯЩАЯ НАУКА"
+hideName["BEAM_HARDSCIFI"] = "РЕАЛЬНАЯ НАУКА"
 hideName["GATLING_SYLVAN"] = "Теперь оно и твое, скупой предатель и убийца"
-hideName["GATLING_SYLVAN_HONOR"] = "Теперь оно и твое, скупой предатель и убийца"
+hideName["GATLING_SYLVAN_HONOR"] = "Теперь оно и твое, задай повстанцам жару"
 
 mods.og.craftedWeapons = {}
 local craftedWeapons = mods.og.craftedWeapons
