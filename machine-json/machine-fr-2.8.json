@@ -1,7 +1,7 @@
 {
   "lang": "fr",
   "originalLang": "en",
-  "version": "2.4",
+  "version": "2.8",
   "translation": {
     "Iron Watch Scout": {
       "advanced": {
@@ -1360,6 +1360,72 @@
       "machine": "",
       "done": false
     },
+    "Crystal Burst Turret": {
+      "advanced": {
+        "9": {
+          "model": "gemini-2.5-flash",
+          "text": "Tourelle à Rafale de Cristal"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Crystal": {
+      "advanced": {
+        "9": {
+          "model": "gemini-2.5-flash",
+          "text": "Cristalien"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Modified projectile turret that fires 2 shield piercing crystals.": {
+      "advanced": {
+        "9": {
+          "model": "gemini-2.5-flash",
+          "text": "Tourelle à projectile modifiée qui tire 2 cristaux perforants de bouclier."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Elite Crystal Burst Turret": {
+      "advanced": {
+        "9": {
+          "model": "gemini-2.5-flash",
+          "text": "Tourelle à Rafale de Cristal d'Élite"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "€ Crystal": {
+      "advanced": {
+        "9": {
+          "model": "gemini-2.5-flash",
+          "text": "€ Cristalien"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Modified projectile turret that fires 2 shield piercing crystals. Elite variant that always applies lockdown and pierces 2 shields.": {
+      "advanced": {
+        "9": {
+          "model": "gemini-2.5-flash",
+          "text": "Tourelle à projectile modifiée qui tire 2 cristaux perforants de bouclier. Variante d'élite qui applique toujours le verrouillage et perfore 2 boucliers."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Swarm Missile Turret": {
       "advanced": {
         "9": {
@@ -1938,22 +2004,22 @@
       "machine": "",
       "done": false
     },
-    "Dawn Quad Missile Turret": {
+    "Dawn Dual Missile Turret": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Tourelle Quadri-Missile de l'Aube"
+          "text": "Tourelle à Double Missile de l'Aube"
         }
       },
       "deepl": "",
       "machine": "",
       "done": false
     },
-    "€ Quad M.": {
+    "€ Dual M.": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "€ M. Quadri"
+          "text": "€ Double M."
         }
       },
       "deepl": "",
@@ -2461,11 +2527,11 @@
       "machine": "",
       "done": false
     },
-    "Superluminal": {
+    "Supercausal": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Supraluminique"
+          "text": "Supercausal"
         }
       },
       "deepl": "",
@@ -2494,11 +2560,11 @@
       "machine": "",
       "done": false
     },
-    "Ajaccio": {
+    "Corsica": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Ajaccio"
+          "text": "Corsèque"
         }
       },
       "deepl": "",
@@ -2527,11 +2593,11 @@
       "machine": "",
       "done": false
     },
-    "C.U.R.A.": {
+    "The Iron Giant": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "C.U.R.A."
+          "text": "Le Géant de Fer"
         }
       },
       "deepl": "",
@@ -2560,11 +2626,11 @@
       "machine": "",
       "done": false
     },
-    "The Solitude": {
+    "The Isolation": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "La Solitude"
+          "text": "L'Isolation"
         }
       },
       "deepl": "",
@@ -2593,11 +2659,11 @@
       "machine": "",
       "done": false
     },
-    "Lucifer": {
+    "Venus": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Lucifer"
+          "text": "Vénus"
         }
       },
       "deepl": "",
@@ -2626,11 +2692,11 @@
       "machine": "",
       "done": false
     },
-    "Bulwark": {
+    "Rampart": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Bastion"
+          "text": "Rempart"
         }
       },
       "deepl": "",
@@ -2659,11 +2725,11 @@
       "machine": "",
       "done": false
     },
-    "Lazarus": {
+    "The Beggar": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Lazarus"
+          "text": "Le Mendiant"
         }
       },
       "deepl": "",
@@ -2692,11 +2758,11 @@
       "machine": "",
       "done": false
     },
-    "The Black Raven": {
+    "The Silver Raven": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Corbeau Noir"
+          "text": "Le Corbeau Argenté"
         }
       },
       "deepl": "",
@@ -3972,11 +4038,11 @@
       "machine": "",
       "done": false
     },
-    "Request they put in good word for you with the rest of the New Dawn in exchange for supplies.": {
+    "Request one of their turrets in exchange for supplies.": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Leur demander de parler en bien de vous auprès du reste de la Nouvelle Aube en échange de ressources."
+          "text": "Demander l'une de leurs tourelles en échange de ressources."
         }
       },
       "deepl": "",
@@ -3988,6 +4054,17 @@
         "9": {
           "model": "gemini-2.5-flash",
           "text": "Vous vous amarrez au transporteur et remettez les ressources. Le Capitaine du transporteur vous accueille : \"Vous savez, ces rebelles ont vraiment fait passer la Fédération pour horrible, mais vous ne semblez vraiment pas si mal.\""
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Request they put in good word for you with the rest of the New Dawn in exchange for supplies.": {
+      "advanced": {
+        "9": {
+          "model": "gemini-2.5-flash",
+          "text": "Leur demander de parler en bien de vous auprès du reste de la Nouvelle Aube en échange de ressources."
         }
       },
       "deepl": "",
@@ -8247,17 +8324,6 @@
         "9": {
           "model": "gemini-2.5-flash",
           "text": "Plans disponibles."
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Craft a turret base.": {
-      "advanced": {
-        "9": {
-          "model": "gemini-2.5-flash",
-          "text": "Fabriquer une base de tourelle."
         }
       },
       "deepl": "",

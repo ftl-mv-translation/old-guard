@@ -935,17 +935,17 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr "Demander un de leurs soldats en échange de ressources."
+msgstr "Demander l'une de leurs tourelles en échange de ressources."
 
 #: src-en/data/events_sector_og_dawn.xml:694
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
-"Vous vous amarrez au transporteur et remettez les ressources. Votre nouveau "
-"membre d'équipage vous accueille : \"Pour être honnête, j'ai toujours voulu "
-"travailler sur un vrai vaisseau de guerre, le transporteur est sûr et tout, "
-"mais ça devient vraiment ennuyeux.\""
+"Vous vous amarrez au transporteur et remettez les ressources. Le Capitaine "
+"du transporteur vous accueille : \"Vous savez, ces rebelles ont vraiment "
+"fait passer la Fédération pour horrible, mais vous ne semblez vraiment pas "
+"si mal.\""
 
 #: src-en/data/events_sector_og_dawn.xml:703
 msgid ""

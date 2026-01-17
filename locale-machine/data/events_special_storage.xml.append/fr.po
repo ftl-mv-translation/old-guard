@@ -58,13 +58,8 @@ msgstr "Plans disponibles."
 
 #: src-en/data/events_special_storage.xml.append:52
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice[1]/text"
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice/text"
 msgstr ""
-
-#: src-en/data/events_special_storage.xml.append:56
-msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice[2]/text"
-msgstr "Fabriquer une base de tourelle."
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
