@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-17 16:44+0000\n"
+"PO-Revision-Date: 2026-01-17 16:51+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -31,7 +31,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:17
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[2]/text"
-msgstr ""
+msgstr "Fabrication de tourelles."
 
 #: src-en/data/events_special_storage.xml.append:21
 msgid ""
