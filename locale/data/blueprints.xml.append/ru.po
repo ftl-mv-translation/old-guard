@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-28 19:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -31,12 +39,15 @@ msgid ""
 msgstr "Разогнанные моторы [В]"
 
 #: src-en/data/blueprints.xml.append:20
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/desc"
 msgstr ""
 "Турели вращаются на 50% быстрее.\n"
 "\n"
-"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из меню Встроенных улучшений, если у вас есть управление турелью."
+"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
+"но занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из меню Встроенных улучшений, если у вас есть управление турелью."
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
@@ -54,12 +65,15 @@ msgid ""
 msgstr "Ускорители [В]"
 
 #: src-en/data/blueprints.xml.append:39
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/desc"
 msgstr ""
 "Снаряды из турели летят на 50% быстрее.\n"
 "\n"
-"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из меню Встроенных улучшений, если у вас есть управление турелью."
+"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
+"но занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из меню Встроенных улучшений, если у вас есть управление турелью."
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
@@ -77,12 +91,15 @@ msgid ""
 msgstr "Ловкость рук [В]"
 
 #: src-en/data/blueprints.xml.append:58
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/desc"
 msgstr ""
 "Турели увеличивают скорость поворота на 180 градусов при ручном наведении.\n"
 "\n"
-"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из меню Встроенных улучшений, если у вас есть управление турелью."
+"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
+"но занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из меню Встроенных улучшений, если у вас есть управление турелью."
 
 #: src-en/data/blueprints.xml.append:68
 msgid ""
@@ -100,12 +117,16 @@ msgid ""
 msgstr "Расширенная схемотехника [В]"
 
 #: src-en/data/blueprints.xml.append:77
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
 msgstr ""
-"Увеличивает слот Адаптивной турели, чтобы он подходил для турелей всех размеров.\n"
+"Увеличивает слот Адаптивной турели, чтобы он подходил для турелей всех "
+"размеров.\n"
 "\n"
-"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из меню Встроенных улучшений, если у вас есть управление турелью."
+"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
+"но занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из меню Встроенных улучшений, если у вас есть управление турелью."
 
 #: src-en/data/blueprints.xml.append:87
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
@@ -193,6 +214,7 @@ msgid ""
 msgstr "Адаптивная турель"
 
 #: src-en/data/blueprints.xml.append:220
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
 msgstr ""
@@ -424,11 +446,12 @@ msgid ""
 msgstr "Имп. лаз."
 
 #: src-en/data/blueprints.xml.append:520
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/desc"
 msgstr ""
-"Стандартная лазерная турель. Недорогой и эффективный компромисс между атакой"
-" и защитой."
+"Стандартная лазерная турель. Недорогой и эффективный компромисс между атакой "
+"и защитой."
 
 #: src-en/data/blueprints.xml.append:539
 msgid ""
@@ -459,6 +482,7 @@ msgid ""
 msgstr "Стар. имп. лаз."
 
 #: src-en/data/blueprints.xml.append:562
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/desc"
 msgstr ""
@@ -836,6 +860,7 @@ msgid ""
 msgstr "Оскол."
 
 #: src-en/data/blueprints.xml.append:1036
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
 msgstr ""
@@ -1011,6 +1036,7 @@ msgid ""
 msgstr "Микрооск."
 
 #: src-en/data/blueprints.xml.append:1260
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/desc"
 msgstr ""
@@ -1095,11 +1121,16 @@ msgid ""
 msgstr "€ Оскол."
 
 #: src-en/data/blueprints.xml.append:1374
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
-"Мощная осколочная турель, способная производить невероятные залпы как в защите, так и в атаке.\n"
-"Вариант Нового рассвета накладывает на пораженные помещения статусный эффект, который приводит к увеличению урона системе на +1. Однако системы турелей, оснащенные турелями Нового рассвета, также получают +1 к урону системе при попадании."
+"Мощная осколочная турель, способная производить невероятные залпы как в "
+"защите, так и в атаке.\n"
+"Вариант Нового рассвета накладывает на пораженные помещения статусный "
+"эффект, который приводит к увеличению урона системе на +1. Однако системы "
+"турелей, оснащенные турелями Нового рассвета, также получают +1 к урону "
+"системе при попадании."
 
 #: src-en/data/blueprints.xml.append:1394
 msgid ""
@@ -1842,6 +1873,7 @@ msgid ""
 msgstr "Божественный Луч"
 
 #: src-en/data/blueprints.xml.append:3296
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
 msgstr ""
