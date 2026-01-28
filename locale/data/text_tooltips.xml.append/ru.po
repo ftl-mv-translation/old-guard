@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-28 19:53+0000\n"
+"PO-Revision-Date: 2026-01-28 19:55+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datatext_tooltipsxmlappend/ru/>\n"
@@ -159,42 +159,59 @@ msgstr ""
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chainCap\"]"
 msgstr ""
+"\\n"
+"Мин. перезарядка цепи: %d%% (после %d-го залпа)"
 
 #: src-en/data/text_tooltips.xml.append:33
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rotation\"]"
 msgstr ""
+"\\n"
+"\\n"
+"Скорость вращения: %d"
 
 #: src-en/data/text_tooltips.xml.append:34
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_radius\"]"
 msgstr ""
+"\\n"
+"Разброс выстрела: %d"
 
 #: src-en/data/text_tooltips.xml.append:35
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rate\"]"
 msgstr ""
+"\\n"
+"Скорость стрельбы:"
 
 #: src-en/data/text_tooltips.xml.append:36
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_target\"]"
 msgstr ""
+"\\n"
+"Цель снаряда: %s"
 
 #: src-en/data/text_tooltips.xml.append:38
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_damage\"]"
 msgstr ""
+"\\n"
+"Урон корпусу: %d"
 
 #: src-en/data/text_tooltips.xml.append:39
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_sysDamage\"]"
 msgstr ""
+"\\n"
+"Урон системам: %d"
 
 #: src-en/data/text_tooltips.xml.append:40
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
-msgstr ""
+msgstr "Урон экипажу: %d"
 
 #: src-en/data/text_tooltips.xml.append:41
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ionDamage\"]"
 msgstr ""
+"\\n"
+"Ионный урон: %d"
 
 #: src-en/data/text_tooltips.xml.append:42
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_pierce\"]"
