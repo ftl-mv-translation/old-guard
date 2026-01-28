@@ -47,16 +47,7 @@ table.insert(turretBlueprintsList, "OG_TURRET_LASER_MINI_DAWN_1")
 table.insert(turretBlueprintsList, "OG_TURRET_LASER_MINI_DAWN_2")
 table.insert(turretBlueprintsList, "OG_TURRET_FOCUS_MINI_DAWN")
 
---1 = MISSILES, 2 = FLAK, 3 = DRONES, 4 = PROJECTILES, 5 = HACKING 
-local defence_types = {
-	DRONES = {[3] = true, [7] = true, name = "Drones"},
-	MISSILES = {[1] = true, [2] = true, [7] = true, name = "All Solid Projectiles"},
-	DRONES_MISSILES = {[1] = true, [2] = true, [3] = true, [7] = true, name = "All Solid Projectiles and Drones"},
-	PROJECTILES = {[4] = true, name = "Non-Solid Projectiles"},
-	DRONES_PROJECTILES = {[3] = true, [4] = true, name = "Non-Solid Projectiles and Drones"},
-	PROJECTILES_MISSILES = {[1] = true, [2] = true, [4] = true, [7] = true, name = "All Projectiles"},
-	ALL = {[1] = true, [2] = true, [3] = true, [4] = true, [7] = true, name = "All"},
-}
+local defence_types = mods.og.defence_types
 local chain_types = mods.og.chain_types
 
 local turrets = mods.og.turrets
@@ -350,7 +341,8 @@ turrets["OG_TURRET_ENERGY_1"] = {
 	charges = 5,
 	charges_per_charge = 5,
 	rotation_speed = 180,
-	charge_time = {[0] = 24, 24, 20, 17, 14, 12, 10, 8.5, 7},
+	charge_time = {[0] = 20, 20, 17, 14, 12, 10, 8.5, 7, 6},
+	enemy_charge_time = {[0] = 24, 24, 20, 17, 14, 12, 10, 8.5, 7},
 }
 turrets["OG_TURRET_CRYSTAL_1"] = {
 	enemy_burst = 2,
@@ -807,9 +799,5 @@ for turretId, currentTurret in pairs(turrets) do
 		currentTurret.chain.image.position.x = -1 * currentTurret.glow.info.frameWidth/2
 		currentTurret.chain.image.position.y = -1 * currentTurret.glow.info.frameHeight/2
 		currentTurret.chain.image.tracker.loop = false
-	end
-	--print("CHARGE TIMES:"..turretId.." "..#currentTurret.charge_time)
-	if #currentTurret.charge_time < 8 then
-		print("INSUFFICIENT CHARGE TIMES:"..turretId)
 	end
 end

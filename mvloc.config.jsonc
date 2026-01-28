@@ -74,7 +74,7 @@
 		"//achievement/description",
 		"//achievement/secretDescription",
 		"//achievement/header",
-
+		"//mod-append:category/customTitle",
 
 
 		// sector
@@ -111,10 +111,10 @@
     "packaging": {
         "fullOriginal": [
 		    //assets1
-            "https://github.com/ftl-mv-translation/old-guard/raw/old-guard-english/FTL-Old-Guard-v2.8.zip",
+            "https://github.com/ftl-mv-translation/old-guard/raw/old-guard-english/FTL-Old-Guard-v2.10.zip",
 
         ],
         "prefix": "Old-Guard",
-        "version": "2.8"
+        "version": "2.10"
     }
 }
