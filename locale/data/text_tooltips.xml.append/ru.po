@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-28 19:55+0000\n"
+"PO-Revision-Date: 2026-01-28 20:00+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datatext_tooltipsxmlappend/ru/>\n"
@@ -216,59 +216,80 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:42
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_pierce\"]"
 msgstr ""
+"\\n"
+"Пробивание щита: %d"
 
 #: src-en/data/text_tooltips.xml.append:43
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_hullBust\"]"
 msgstr ""
+"\\n"
+"Двойной урон отсекам без систем"
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_lockdown\"]"
 msgstr ""
+"\\n"
+"Запирает отсеки при попадании"
 
 #: src-en/data/text_tooltips.xml.append:46
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_fireChance\"]"
 msgstr ""
+"\\n"
+"Вероятность возгорания: %d%%"
 
 #: src-en/data/text_tooltips.xml.append:47
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_breachChance\"]"
 msgstr ""
+"\\n"
+"Вероятность пробоины: %d%% (Скорректировано: %d%%)"
 
 #: src-en/data/text_tooltips.xml.append:48
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_stunChance\"]"
 msgstr ""
+"\\n"
+"Вероятность оглушения: %d%% (%d сек.)"
 
 #: src-en/data/text_tooltips.xml.append:49
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_effect\"]"
 msgstr ""
+"\\n"
+"Длительность эффекта: %d сек."
 
 #: src-en/data/text_tooltips.xml.append:51
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price\"]"
 msgstr ""
+"\\n"
+"\\n"
+"Покупка: %d~   -   nПродажа: %d~\\n"
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_power_increase\"]"
-msgstr ""
+msgstr "Быстрое время перезарядки"
 
 #: src-en/data/text_tooltips.xml.append:55
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_offence\"]"
-msgstr ""
+msgstr "Перевести турель в атакующий режим."
 
 #: src-en/data/text_tooltips.xml.append:56
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_defence\"]"
-msgstr ""
+msgstr "Перевести турель в оборонительный режим."
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_autoFire\"]"
 msgstr ""
+"Используйте эту кнопку, чтобы включать и выключать автоматический режим огня."
+"\\n"
+"\\n"
+"ЛЕВ. CTRL + ВЫБОР ЦЕЛИ меняет режим турели на противоположный"
 
 #: src-en/data/text_tooltips.xml.append:59
 msgid ""
