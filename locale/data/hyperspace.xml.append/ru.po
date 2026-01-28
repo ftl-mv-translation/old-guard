@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-28 20:19+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"datahyperspace-xml-append/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:111
 msgid ""
@@ -224,40 +232,40 @@ msgstr "СИСТЕМЫ ТУРЕЛЕЙ"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:customStore/category[1]/customTitle"
-msgstr ""
+msgstr "ОРУЖИЕ ДНЯ [СКИДКА 33%]"
 
 #: src-en/data/hyperspace.xml.append:863
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:customStore/category[2]/customTitle"
-msgstr ""
+msgstr "ДРОНЫ ДНЯ [СКИДКА 33%]"
 
 #: src-en/data/hyperspace.xml.append:883
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:customStore/category[3]/customTitle"
-msgstr ""
+msgstr "МОДУЛИ ДНЯ [СКИДКА 33%]"
 
 #: src-en/data/hyperspace.xml.append:903
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:customStore/category[4]/customTitle"
-msgstr ""
+msgstr "ТУРЕЛИ"
 
 #: src-en/data/hyperspace.xml.append:936
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:customStore/category[8]/customTitle"
-msgstr ""
+msgstr "ЭКИПАЖ"
 
 #: src-en/data/hyperspace.xml.append:944
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:customStore/category[9]/customTitle"
-msgstr ""
+msgstr "ОСНОВНЫЕ СИСТЕМЫ"
 
 #: src-en/data/hyperspace.xml.append:962
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:customStore/category[10]/customTitle"
-msgstr ""
+msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
