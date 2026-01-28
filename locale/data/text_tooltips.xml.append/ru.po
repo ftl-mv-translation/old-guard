@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-28 20:00+0000\n"
+"PO-Revision-Date: 2026-01-28 20:02+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datatext_tooltipsxmlappend/ru/>\n"
@@ -294,57 +294,59 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:59
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_charges\"]"
-msgstr ""
+msgstr "Заряды: %d/%d"
 
 #: src-en/data/text_tooltips.xml.append:60
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_time\"]"
 msgstr ""
+"\\n"
+"Время перезарядки: %.1f/%.1f"
 
 #: src-en/data/text_tooltips.xml.append:62
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones\"]"
-msgstr ""
+msgstr "Дроны"
 
 #: src-en/data/text_tooltips.xml.append:63
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_missiles\"]"
-msgstr ""
+msgstr "Все твердые снаряды"
 
 #: src-en/data/text_tooltips.xml.append:64
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_missiles\"]"
-msgstr ""
+msgstr "Все твердые снаряды и дроны"
 
 #: src-en/data/text_tooltips.xml.append:65
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles\"]"
-msgstr ""
+msgstr "Не твердые снаряды"
 
 #: src-en/data/text_tooltips.xml.append:66
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_projectiles\"]"
-msgstr ""
+msgstr "Не твердые снаряды и дроны"
 
 #: src-en/data/text_tooltips.xml.append:67
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles_missiles\"]"
-msgstr ""
+msgstr "Все снаряды"
 
 #: src-en/data/text_tooltips.xml.append:68
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_all\"]"
-msgstr ""
+msgstr "Все снаряды и дроны"
 
 #: src-en/data/text_tooltips.xml.append:70
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use\"]"
-msgstr ""
+msgstr "Использовать %s"
 
 #: src-en/data/text_tooltips.xml.append:71
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use_scrap\"]"
-msgstr ""
+msgstr "Использовать %s + $d~"
 
 #: src-en/data/text_tooltips.xml.append:72
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_finish\"]"
-msgstr ""
+msgstr "Вы следуете предоставленному чертежу и в итоге получаете новый предмет."
 
 #: src-en/data/text_tooltips.xml.append:73
 msgid ""
