@@ -135,12 +135,12 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_3\"]/description"
 msgstr "作为一艘巨像级舰船，将你所有的大型炮塔升级至5点能量。"
 
-#: src-en/data/hyperspace.xml.append:717
+#: src-en/data/hyperspace.xml.append:719
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/buttonText"
 msgstr "隐形"
 
-#: src-en/data/hyperspace.xml.append:718
+#: src-en/data/hyperspace.xml.append:720
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/tooltip"
 msgstr ""
@@ -155,54 +155,96 @@ msgstr ""
 "\t\t\t\t\t-维修，0.75倍速率\n"
 "\t\t\t\t\t-移动，0.25倍速率"
 
-#: src-en/data/hyperspace.xml.append:756
+#: src-en/data/hyperspace.xml.append:758
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[7]/mod-"
 "append:page/section/@text"
 msgstr "昔日卫队"
 
-#: src-en/data/hyperspace.xml.append:758
+#: src-en/data/hyperspace.xml.append:760
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_IRON\"]/name"
 msgstr "铁幕守望"
 
-#: src-en/data/hyperspace.xml.append:767
+#: src-en/data/hyperspace.xml.append:769
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_DAWN\"]/name"
 msgstr "新黎明"
 
-#: src-en/data/hyperspace.xml.append:776
+#: src-en/data/hyperspace.xml.append:778
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/name"
 msgstr "新黎明运输舰"
 
-#: src-en/data/hyperspace.xml.append:777
+#: src-en/data/hyperspace.xml.append:779
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/secretDescription"
 msgstr "从新黎明战利品运输舰上获取战利品。"
 
-#: src-en/data/hyperspace.xml.append:778
+#: src-en/data/hyperspace.xml.append:780
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/description"
 msgstr "从新黎明战利品运输舰上获取穿透激光 I。"
 
-#: src-en/data/hyperspace.xml.append:780
+#: src-en/data/hyperspace.xml.append:782
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/header"
 msgstr "战利品已获得"
 
-#: src-en/data/hyperspace.xml.append:784
+#: src-en/data/hyperspace.xml.append:786
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/name"
 msgstr "炮塔模块"
 
-#: src-en/data/hyperspace.xml.append:785
+#: src-en/data/hyperspace.xml.append:787
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/description"
 msgstr "击败掠夺者 C 型变元舰，并获取轻型充能炮塔。"
 
-#: src-en/data/hyperspace.xml.append:787
+#: src-en/data/hyperspace.xml.append:789
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/header"
 msgstr "变元星舰已被击败"
 
-#: src-en/data/hyperspace.xml.append:801
+#: src-en/data/hyperspace.xml.append:803
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
 "append:category/customTitle"
 msgstr "炮塔系统"
+
+#: src-en/data/hyperspace.xml.append:843
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"append:customStore/category[1]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:863
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"append:customStore/category[2]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:883
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"append:customStore/category[3]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:903
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"append:customStore/category[4]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:936
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"append:customStore/category[8]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:944
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"append:customStore/category[9]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:962
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"append:customStore/category[10]/customTitle"
+msgstr ""
