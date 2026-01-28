@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-28 20:04+0000\n"
+"PO-Revision-Date: 2026-01-28 20:07+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datatext_tooltipsxmlappend/ru/>\n"
@@ -204,7 +204,9 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:40
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
-msgstr "Урон экипажу: %d"
+msgstr ""
+"\\n"
+"Урон экипажу: %d"
 
 #: src-en/data/text_tooltips.xml.append:41
 msgid ""
@@ -361,41 +363,51 @@ msgstr "???"
 #: src-en/data/text_tooltips.xml.append:75
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_requires\"]"
-msgstr ""
+msgstr "%s, необходимо:"
 
 #: src-en/data/text_tooltips.xml.append:76
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_atleast\"]"
 msgstr ""
+"\\n"
+"  Как минимум %d:"
 
 #: src-en/data/text_tooltips.xml.append:77
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list\"]"
 msgstr ""
+"\\n"
+"    %s"
 
 #: src-en/data/text_tooltips.xml.append:78
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list_scrap\"]"
 msgstr ""
+"\\n"
+"    %s + %d~"
 
 #: src-en/data/text_tooltips.xml.append:79
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_craft\"]"
-msgstr ""
+msgstr "Создать этот предмет."
 
 #: src-en/data/text_tooltips.xml.append:80
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_unknown\"]"
-msgstr ""
+msgstr "Неизвестная турель"
 
 #: src-en/data/text_tooltips.xml.append:82
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate\"]"
-msgstr ""
+msgstr "Можно использовать для изготовления:"
 
 #: src-en/data/text_tooltips.xml.append:83
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_item\"]"
 msgstr ""
+"\\n"
+"[%s]"
 
 #: src-en/data/text_tooltips.xml.append:84
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_mystery\"]"
 msgstr ""
+"\\n"
+"[???]"
