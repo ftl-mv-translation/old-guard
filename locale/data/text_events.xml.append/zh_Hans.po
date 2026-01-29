@@ -47,3 +47,15 @@ msgstr "商店 [铁幕守望]"
 #: src-en/data/text_events.xml.append:29
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_dawn\"]"
 msgstr "商店 [新黎明]"
+
+#: src-en/data/text_events.xml.append:30
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_ship\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:31
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_base\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:32
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_vault\"]"
+msgstr ""

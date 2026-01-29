@@ -66,16 +66,14 @@
 		"//powerEffect/buttonText",
 		"//mod-append:shipIcon/tooltip",
 		"//powerEffect/tooltip",
-		"//customStore/category/customTitle",
-		"//mod:findLike/mod-append:category/customTitle",
 		"//mod-append:customShip/crew/*/@name",
 		"//mod-append:page/section/@text",
 		"//achievement/name",
 		"//achievement/description",
 		"//achievement/secretDescription",
 		"//achievement/header",
-
-
+		"//mod:findLike/mod:findLike/mod-append:category/customTitle",
+		"//mod:findLike/mod-append:customStore/category/customTitle",
 
 		// sector
 		"//sectorDescription/nameList/name",
@@ -111,10 +109,10 @@
     "packaging": {
         "fullOriginal": [
 		    //assets1
-            "https://github.com/ftl-mv-translation/old-guard/raw/old-guard-english/FTL-Old-Guard-v2.8.zip",
+            "https://github.com/ftl-mv-translation/old-guard/raw/old-guard-english/FTL-Old-Guard-v2.10.zip",
 
         ],
         "prefix": "Old-Guard",
-        "version": "2.8"
+        "version": "2.10"
     }
 }

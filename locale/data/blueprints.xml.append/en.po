@@ -36,7 +36,7 @@ msgid ""
 msgstr ""
 "Turrets Rotate 50% faster.\n"
 "\t\n"
-"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system."
+"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system."
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
@@ -59,7 +59,7 @@ msgid ""
 msgstr ""
 "Turret projectiles move 50% faster.\n"
 "\t\n"
-"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system."
+"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system."
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
@@ -82,7 +82,7 @@ msgid ""
 msgstr ""
 "Turrets gain 180 rotation speed when manually targetted.\n"
 "\t\n"
-"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system."
+"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system."
 
 #: src-en/data/blueprints.xml.append:68
 msgid ""
@@ -105,7 +105,7 @@ msgid ""
 msgstr ""
 "Expands the adaptive turret's slot to accept all sizes of turrets.\n"
 "\t\n"
-"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system."
+"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system."
 
 #: src-en/data/blueprints.xml.append:87
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
@@ -198,7 +198,7 @@ msgid ""
 msgstr ""
 "Powers your ship's turret. Upgrading lowers the charge time of the turret. "
 "Turret position can be altered outside of combat to best fit the ship, can "
-"be upgraded to a large turret slot."
+"be upgraded to a large turret slot in the internal upgrade menu."
 
 #: src-en/data/blueprints.xml.append:240
 msgid ""
@@ -426,7 +426,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/desc"
 msgstr ""
 "Standard Burst Laser Turret. A cheap and efficient middleground between "
-"offense and defence."
+"offence and defence."
 
 #: src-en/data/blueprints.xml.append:539
 msgid ""
@@ -460,7 +460,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/desc"
 msgstr ""
 "Standard Burst Laser Turret. A cheap and efficient middleground between "
-"offense and defence. Very old and has worse aim."
+"offence and defence. Very old and has worse aim."
 
 #: src-en/data/blueprints.xml.append:581
 msgid ""
@@ -830,7 +830,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
 msgstr ""
 "A powerful Flak turret, can build up an incredible volley to be fired in "
-"both defence and offense."
+"both defence and offence."
 
 #: src-en/data/blueprints.xml.append:1054
 msgid ""
@@ -967,7 +967,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/desc"
 msgstr ""
 "This Ion Turret is effective drone defence while still being able to support"
-" the ships offense."
+" the ships offence."
 
 #: src-en/data/blueprints.xml.append:1234
 msgid ""
@@ -1001,7 +1001,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/desc"
 msgstr ""
 "A small Flak turret, can build up a volley to be fired in both defence and "
-"offense."
+"offence."
 
 #: src-en/data/blueprints.xml.append:1282
 msgid ""
@@ -1085,7 +1085,7 @@ msgstr "€ Flak"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
-"A powerful Flak turret, can build up an incredible volley to be fired in both defence and offense.\n"
+"A powerful Flak turret, can build up an incredible volley to be fired in both defence and offence.\n"
 "New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
 
 #: src-en/data/blueprints.xml.append:1394
@@ -1831,7 +1831,7 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
 msgstr ""
 "This varient of the Spearhead-Class cruiser uses turrets to protect itself "
-"and it's weapons to provide offense. Using your turrets for offense will be "
+"and it's weapons to provide offence. Using your turrets for offence will be "
 "risky without any other defensive systems to rely on."
 
 #: src-en/data/blueprints.xml.append:3379

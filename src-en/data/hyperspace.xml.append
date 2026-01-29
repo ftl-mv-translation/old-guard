@@ -677,6 +677,8 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 	<bossShip>OGT_BOSS_IRON_CHALLENGE</bossShip>
 	<bossShip>OGT_BOSS_IRON_EXTREME</bossShip>
 	<bossShip>OGT_BOSS_IRON_CHAOS</bossShip>
+
+	<bossShip yOffset="210">OG_LEGION_ASSAULT_TURRET</bossShip>
 </events>
 <crew>
 	<race name="human_og_raider">

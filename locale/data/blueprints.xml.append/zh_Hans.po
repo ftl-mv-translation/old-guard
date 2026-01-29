@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-17 04:38+0000\n"
+"PO-Revision-Date: 2026-01-28 19:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datablueprintsxmlappend/zh_Hans/>\n"
@@ -38,12 +38,14 @@ msgid ""
 msgstr "极限超频动力[外]"
 
 #: src-en/data/blueprints.xml.append:20
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/desc"
 msgstr ""
 "炮塔旋转速度 +50%。\n"
 "\t\n"
-"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
+"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件"
+"槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
@@ -61,12 +63,14 @@ msgid ""
 msgstr "弹道加速器[外]"
 
 #: src-en/data/blueprints.xml.append:39
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/desc"
 msgstr ""
 "炮塔射弹速度提升50%。\n"
 "\t\n"
-"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
+"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件"
+"槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
@@ -84,12 +88,14 @@ msgid ""
 msgstr "手操灵敏度[外]"
 
 #: src-en/data/blueprints.xml.append:58
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/desc"
 msgstr ""
 "炮塔在手动瞄准时获得 180 的旋转速度。\n"
 "\t\n"
-"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
+"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件"
+"槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:68
 msgid ""
@@ -107,12 +113,14 @@ msgid ""
 msgstr "拓展电路[外]"
 
 #: src-en/data/blueprints.xml.append:77
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
 msgstr ""
 "拓展自适应炮塔的插槽，使其可装配所有尺寸的炮塔。\n"
 "\t\n"
-"[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
+"[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽"
+"位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:87
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
@@ -192,9 +200,11 @@ msgid ""
 msgstr "自适应炮塔操控"
 
 #: src-en/data/blueprints.xml.append:220
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
-msgstr "为舰船炮塔供能，升级可缩短其充能时间。炮塔可在非战斗状态下重新部署，以适配舰船的最佳布局，并能最终升级为大型炮塔插槽。"
+msgstr "为舰船炮塔供能，升级可缩短其充能时间。炮塔可在非战斗状态下重新部署，以适配舰"
+"船的最佳布局，并能最终升级为大型炮塔插槽。"
 
 #: src-en/data/blueprints.xml.append:240
 msgid ""
@@ -408,6 +418,7 @@ msgid ""
 msgstr "速射激光。"
 
 #: src-en/data/blueprints.xml.append:520
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/desc"
 msgstr "标准速射激光炮塔。这是一种廉价且高效的武器，在攻防之间取得了良好的平衡。"
@@ -438,9 +449,11 @@ msgid ""
 msgstr "老旧速射激光。"
 
 #: src-en/data/blueprints.xml.append:562
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/desc"
-msgstr "标准速射激光炮塔。这是一种廉价且高效的武器，在攻防之间取得了平衡，但型号老旧，瞄准精度较差。"
+msgstr "标准速射激光炮塔。这是一种廉价且高效的武器，在攻防之间取得了平衡，但型号老旧"
+"，瞄准精度较差。"
 
 #: src-en/data/blueprints.xml.append:581
 msgid ""
@@ -770,6 +783,7 @@ msgid ""
 msgstr "破片"
 
 #: src-en/data/blueprints.xml.append:1036
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
 msgstr "一座威力强大的破片炮塔，能够积累惊人的齐射火力，既可用于防御，也可用于进攻。"
@@ -890,6 +904,7 @@ msgid ""
 msgstr "微型离子。"
 
 #: src-en/data/blueprints.xml.append:1212
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/desc"
 msgstr "这款离子炮塔既能提供高效的无人机防御，又能有效支援舰船的进攻。"
@@ -920,6 +935,7 @@ msgid ""
 msgstr "微型破片。"
 
 #: src-en/data/blueprints.xml.append:1260
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/desc"
 msgstr "一座小型破片炮塔，能够积累齐射火力，既可用于防御，也可用于进攻。"
@@ -1003,11 +1019,14 @@ msgid ""
 msgstr "☆破片"
 
 #: src-en/data/blueprints.xml.append:1374
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
-"一座威力强大的破片炮塔，能够积累惊人的齐射火力，既可用于防御，也可用于进攻。\n"
-"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害。"
+"一座威力强大的破片炮塔，能够积累惊人的齐射火力，既可用于防御，也可用于进攻。"
+"\n"
+"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤害+"
+"1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害。"
 
 #: src-en/data/blueprints.xml.append:1394
 msgid ""
@@ -1734,9 +1753,11 @@ msgid ""
 msgstr "天启射线"
 
 #: src-en/data/blueprints.xml.append:3296
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
-msgstr "这款先锋级星舰的变体使用炮塔进行自身防御，同时依靠武器系统提供进攻火力。但请注意，若将所有炮塔用于进攻而缺乏其他防御系统，将非常冒险。"
+msgstr "这款先锋级星舰的变体使用炮塔进行自身防御，同时依靠武器系统提供进攻火力。但请"
+"注意，若将所有炮塔用于进攻而缺乏其他防御系统，将非常冒险。"
 
 #: src-en/data/blueprints.xml.append:3379
 msgid ""

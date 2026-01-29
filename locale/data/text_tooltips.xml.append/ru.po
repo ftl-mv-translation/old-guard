@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-28 20:07+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"datatext_tooltipsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_tooltips.xml.append:2
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
@@ -25,7 +33,7 @@ msgstr ""
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
-"ее. Сокращает время зарядки."
+"ее. Обслуживание экипажем сокращает время перезарядки."
 
 #: src-en/data/text_tooltips.xml.append:7
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_enemy\"]"
@@ -35,7 +43,7 @@ msgstr "Управление турелью: питает вражескую т�
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_2\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
-"ее. Сокращает время зарядки."
+"ее. Обслуживание экипажем сокращает время перезарядки."
 
 #: src-en/data/text_tooltips.xml.append:9
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_2_enemy\"]"
@@ -45,7 +53,7 @@ msgstr "Управление турелью: питает вражескую т�
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_3\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
-"ее. Сокращает время зарядки."
+"ее. Обслуживание экипажем сокращает время перезарядки."
 
 #: src-en/data/text_tooltips.xml.append:11
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_3_enemy\"]"
@@ -55,7 +63,7 @@ msgstr "Управление турелью: питает вражескую т�
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_4\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
-"ее. Сокращает время зарядки."
+"ее. Обслуживание экипажем сокращает время перезарядки."
 
 #: src-en/data/text_tooltips.xml.append:13
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_4_enemy\"]"
@@ -109,9 +117,297 @@ msgstr "Управление турелью: питает вражескую т�
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive\"]"
 msgstr ""
 "Управление турелью: щелкните по турели, чтобы выбрать ее режим или нацелить "
-"ее. Сокращает время зарядки."
+"ее. Обслуживание экипажем сокращает время перезарядки."
 
 #: src-en/data/text_tooltips.xml.append:23
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_enemy\"]"
 msgstr "Управление турелью: питает вражескую турель."
+
+#: src-en/data/text_tooltips.xml.append:27
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_time\"]"
+msgstr ""
+"Характеристики:\\n"
+"Время перезарядки:"
+
+#: src-en/data/text_tooltips.xml.append:28
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_charges\"]"
+msgstr ""
+"\\n"
+"Макс. очередь: %d"
+
+#: src-en/data/text_tooltips.xml.append:29
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_amount\"]"
+msgstr ""
+"\\n"
+"Выстрелов в очереди: %d"
+
+#: src-en/data/text_tooltips.xml.append:30
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ammo\"]"
+msgstr ""
+"\\n"
+"Потребление боеголовок: %d"
+
+#: src-en/data/text_tooltips.xml.append:31
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chain\"]"
+msgstr ""
+"\\n"
+"Эффект цепи: снижение времени перезарядки на %d%%"
+
+#: src-en/data/text_tooltips.xml.append:32
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chainCap\"]"
+msgstr ""
+"\\n"
+"Мин. перезарядка цепи: %d%% (после %d-го залпа)"
+
+#: src-en/data/text_tooltips.xml.append:33
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rotation\"]"
+msgstr ""
+"\\n"
+"\\n"
+"Скорость вращения: %d"
+
+#: src-en/data/text_tooltips.xml.append:34
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_radius\"]"
+msgstr ""
+"\\n"
+"Разброс выстрела: %d"
+
+#: src-en/data/text_tooltips.xml.append:35
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rate\"]"
+msgstr ""
+"\\n"
+"Скорость стрельбы:"
+
+#: src-en/data/text_tooltips.xml.append:36
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_target\"]"
+msgstr ""
+"\\n"
+"Цель снаряда: %s"
+
+#: src-en/data/text_tooltips.xml.append:38
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_damage\"]"
+msgstr ""
+"\\n"
+"Урон корпусу: %d"
+
+#: src-en/data/text_tooltips.xml.append:39
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_sysDamage\"]"
+msgstr ""
+"\\n"
+"Урон системам: %d"
+
+#: src-en/data/text_tooltips.xml.append:40
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
+msgstr ""
+"\\n"
+"Урон экипажу: %d"
+
+#: src-en/data/text_tooltips.xml.append:41
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ionDamage\"]"
+msgstr ""
+"\\n"
+"Ионный урон: %d"
+
+#: src-en/data/text_tooltips.xml.append:42
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_pierce\"]"
+msgstr ""
+"\\n"
+"Пробивание щита: %d"
+
+#: src-en/data/text_tooltips.xml.append:43
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_hullBust\"]"
+msgstr ""
+"\\n"
+"Двойной урон отсекам без систем"
+
+#: src-en/data/text_tooltips.xml.append:44
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_lockdown\"]"
+msgstr ""
+"\\n"
+"Запирает отсеки при попадании"
+
+#: src-en/data/text_tooltips.xml.append:46
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_fireChance\"]"
+msgstr ""
+"\\n"
+"Вероятность возгорания: %d%%"
+
+#: src-en/data/text_tooltips.xml.append:47
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_breachChance\"]"
+msgstr ""
+"\\n"
+"Вероятность пробоины: %d%% (Скорректировано: %d%%)"
+
+#: src-en/data/text_tooltips.xml.append:48
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_stunChance\"]"
+msgstr ""
+"\\n"
+"Вероятность оглушения: %d%% (%d сек.)"
+
+#: src-en/data/text_tooltips.xml.append:49
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_effect\"]"
+msgstr ""
+"\\n"
+"Длительность эффекта: %d сек."
+
+#: src-en/data/text_tooltips.xml.append:51
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price\"]"
+msgstr ""
+"\\n"
+"\\n"
+"Покупка: %d~   -   nПродажа: %d~\\n"
+
+#: src-en/data/text_tooltips.xml.append:53
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_power_increase\"]"
+msgstr "Быстрое время перезарядки"
+
+#: src-en/data/text_tooltips.xml.append:55
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_offence\"]"
+msgstr "Перевести турель в атакующий режим."
+
+#: src-en/data/text_tooltips.xml.append:56
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_defence\"]"
+msgstr "Перевести турель в оборонительный режим."
+
+#: src-en/data/text_tooltips.xml.append:57
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_autoFire\"]"
+msgstr ""
+"Используйте эту кнопку, чтобы включать и выключать автоматический режим огня."
+"\\n"
+"\\n"
+"ЛЕВ. CTRL + ВЫБОР ЦЕЛИ меняет режим турели на противоположный"
+
+#: src-en/data/text_tooltips.xml.append:59
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_charges\"]"
+msgstr "Заряды: %d/%d"
+
+#: src-en/data/text_tooltips.xml.append:60
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_time\"]"
+msgstr ""
+"\\n"
+"Время перезарядки: %.1f/%.1f"
+
+#: src-en/data/text_tooltips.xml.append:62
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones\"]"
+msgstr "Дроны"
+
+#: src-en/data/text_tooltips.xml.append:63
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_missiles\"]"
+msgstr "Все твердые снаряды"
+
+#: src-en/data/text_tooltips.xml.append:64
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_missiles\"]"
+msgstr "Все твердые снаряды и дроны"
+
+#: src-en/data/text_tooltips.xml.append:65
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles\"]"
+msgstr "Не твердые снаряды"
+
+#: src-en/data/text_tooltips.xml.append:66
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_projectiles\"]"
+msgstr "Не твердые снаряды и дроны"
+
+#: src-en/data/text_tooltips.xml.append:67
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles_missiles\"]"
+msgstr "Все снаряды"
+
+#: src-en/data/text_tooltips.xml.append:68
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_all\"]"
+msgstr "Все снаряды и дроны"
+
+#: src-en/data/text_tooltips.xml.append:70
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use\"]"
+msgstr "Использовать %s"
+
+#: src-en/data/text_tooltips.xml.append:71
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use_scrap\"]"
+msgstr "Использовать %s + $d~"
+
+#: src-en/data/text_tooltips.xml.append:72
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_finish\"]"
+msgstr "Вы следуете предоставленному чертежу и в итоге получаете новый предмет."
+
+#: src-en/data/text_tooltips.xml.append:73
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_blueprint\"]"
+msgstr "Чертеж:"
+
+#: src-en/data/text_tooltips.xml.append:74
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_mystery\"]"
+msgstr "???"
+
+#: src-en/data/text_tooltips.xml.append:75
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_requires\"]"
+msgstr "%s, необходимо:"
+
+#: src-en/data/text_tooltips.xml.append:76
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_atleast\"]"
+msgstr ""
+"\\n"
+"  Как минимум %d:"
+
+#: src-en/data/text_tooltips.xml.append:77
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list\"]"
+msgstr ""
+"\\n"
+"    %s"
+
+#: src-en/data/text_tooltips.xml.append:78
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list_scrap\"]"
+msgstr ""
+"\\n"
+"    %s + %d~"
+
+#: src-en/data/text_tooltips.xml.append:79
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_craft\"]"
+msgstr "Создать этот предмет."
+
+#: src-en/data/text_tooltips.xml.append:80
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_unknown\"]"
+msgstr "Неизвестная турель"
+
+#: src-en/data/text_tooltips.xml.append:82
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate\"]"
+msgstr "Можно использовать для изготовления:"
+
+#: src-en/data/text_tooltips.xml.append:83
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_item\"]"
+msgstr ""
+"\\n"
+"[%s]"
+
+#: src-en/data/text_tooltips.xml.append:84
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_mystery\"]"
+msgstr ""
+"\\n"
+"[???]"
