@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-28 20:19+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-01-29 00:17+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_ironxml/ru/>\n"
 "Language: ru\n"
@@ -1156,6 +1156,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE_SURRENDER\"]/text"
 msgstr ""
+"Вы разбираете обломки и собираете все, что можно, из его запасов, прежде чем "
+"готовиться к следующему прыжку."
 
 #: src-en/data/events_sector_og_iron.xml:916
 msgid ""
