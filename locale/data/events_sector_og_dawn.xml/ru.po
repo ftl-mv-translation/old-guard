@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-28 20:19+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-01-29 00:17+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_dawnxml/ru/>\n"
 "Language: ru\n"
@@ -376,6 +376,10 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN_SAFE\"]/text"
 msgstr ""
+"[РЕПУТАЦИЯ ПОВЫШЕНА - НОВЫЙ РАССВЕТ]\n"
+"\tВаши действия улучшили вашу репутацию среди Нового рассвета. За счет вашей "
+"репутации в Новом рассвете некоторые члены фракции могут быть более склонны "
+"к взаимодействию с вами."
 
 #: src-en/data/events_sector_og_dawn.xml:276
 msgid ""
@@ -1577,7 +1581,6 @@ msgid ""
 msgstr "Согласиться помочь."
 
 #: src-en/data/events_sector_og_dawn.xml:1128
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
@@ -2299,12 +2302,12 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_dawn.xml:1604
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/text"
 msgstr ""
-"Ученый или, возможно, инженер подходит и говорит: \"Отлично, оно здесь\". Он "
-"открывает контейнер и начинает в нем рыться, ища что-то.\n"
+"Ученый или, возможно, инженер подходит и говорит: "
+"\"Доставка прибыла, отлично\". Он открывает контейнер и начинает в нем "
+"рыться, ища что-то.\n"
 "\"А, отлично, оно было здесь\". Он вытаскивает странное устройство, которое "
 "вы узнаете как Предварительное питание турели Нового рассвета, хотя оно "
 "выглядит модифицированным. Инженер поднимает его на стол и начинает "
@@ -2343,7 +2346,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_dawn.xml:1622
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -2557,7 +2559,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_dawn.xml:1855
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Вы получали отчеты о кораблях Железного дозора поблизости."
 
 #: src-en/data/events_sector_og_dawn.xml:1857
 msgid "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/text"
@@ -2956,7 +2958,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_dawn.xml:2083
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -2966,7 +2967,7 @@ msgstr ""
 "ускользнул от вас.\n"
 "Увидев вас, они также активируют свое оружие, готовясь к атаке. Однако вы "
 "замечаете, что, похоже, их двигатели повреждены, и они пытаются совершить "
-"аварийный прыжок, чтобы сбежать, но из-за повреждений это займет несколько "
+"аварийный прыжок, чтобы сбежать. Из-за повреждений это займет несколько "
 "минут, и теперь у вас есть шанс."
 
 #: src-en/data/events_sector_og_dawn.xml:2090
@@ -3172,7 +3173,6 @@ msgstr ""
 "конце концов вы вынуждены бежать, чтобы не быть уничтоженными."
 
 #: src-en/data/events_sector_og_dawn.xml:2226
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/text"
 msgstr ""
