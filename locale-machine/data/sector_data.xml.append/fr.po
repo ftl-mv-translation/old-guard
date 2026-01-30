@@ -33,7 +33,7 @@ msgstr "Domaine Garde de Fer"
 #: src-en/data/sector_data.xml.append:49
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[6]"
-msgstr "Mondes Périphériques Garde de Fer"
+msgstr "Mondes périphériques de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:50
 msgid ""
@@ -53,7 +53,7 @@ msgstr "Dominion Garde de Fer"
 #: src-en/data/sector_data.xml.append:53
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[10]"
-msgstr "Terres Garde de Fer"
+msgstr "Terres de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:54
 msgid ""
@@ -63,7 +63,7 @@ msgstr "Royaume Garde de Fer"
 #: src-en/data/sector_data.xml.append:55
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[12]"
-msgstr "Secteur Lointain Garde de Fer"
+msgstr "Secteur lointain de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:123
 msgid ""
@@ -93,7 +93,7 @@ msgstr "Domaine Garde de Fer [Soldes !]"
 #: src-en/data/sector_data.xml.append:128
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[6]"
-msgstr "Mondes Périphériques Garde de Fer [Soldes !]"
+msgstr "Mondes périphériques de la Garde de Fer [Soldes !]"
 
 #: src-en/data/sector_data.xml.append:129
 msgid ""
@@ -113,7 +113,7 @@ msgstr "Dominion Garde de Fer [Soldes !]"
 #: src-en/data/sector_data.xml.append:132
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[10]"
-msgstr "Terres Garde de Fer [Soldes !]"
+msgstr "Terres de la Garde de Fer [Soldes !]"
 
 #: src-en/data/sector_data.xml.append:133
 msgid ""
@@ -123,9 +123,9 @@ msgstr "Royaume Garde de Fer [Soldes !]"
 #: src-en/data/sector_data.xml.append:134
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[12]"
-msgstr "Secteur Lointain Garde de Fer [Soldes !]"
+msgstr "Secteur lointain de la Garde de Fer [Soldes !]"
 
 #: src-en/data/sector_data.xml.append:202
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_DAWN_UNIQUE\"]/nameList/name"
-msgstr "Base Opérationnelle Avancée de la Nouvelle Aube [!]"
+msgstr "Base d'opérations avancée Nouvelle Aube [!]"

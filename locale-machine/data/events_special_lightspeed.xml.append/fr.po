@@ -45,13 +45,13 @@ msgstr "Procéder au Secteur Nouvelle Aube."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[1]/text"
-msgstr "Aller à la Base Opérationnelle Avancée de la Nouvelle Aube."
+msgstr "Aller à la base d'opérations avancée de la Nouvelle Aube."
 
 #: src-en/data/events_special_lightspeed.xml.append:44
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[2]/text"
-msgstr "La Base Opérationnelle Avancée de la Nouvelle Aube est derrière vous."
+msgstr "La base d'opérations avancée de la Nouvelle Aube est derrière vous."
 
 #: src-en/data/events_special_lightspeed.xml.append:52
 msgid ""
