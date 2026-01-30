@@ -9,9 +9,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_NORMAL\"]/text"
 msgstr ""
-"Du tunnel émerge un immense vaisseau croiseur, de conception Garde de Fer ! "
-"Ce doit être un rare vaisseau d'exploration, qui a pris sur lui de parcourir"
-" le Multivers !"
+"Du tunnel surgit un énorme vaisseau croiseur, de conception Garde de Fer ! "
+"Ce doit être un rare vaisseau d'exploration, qui s'est donné pour mission de"
+" voyager à travers le Multivers !"
 
 #: src-en/data/events_special_multiverse.xml.append:43
 msgid ""
@@ -21,7 +21,7 @@ msgstr "Préparez-vous au combat !"
 #: src-en/data/events_special_multiverse.xml.append:45
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_NORMAL\"]/choice[1]/event/text"
-msgstr "Le vaisseau se tourne pour vous attaquer."
+msgstr "Le vaisseau se tourne pour vous engager."
 
 #: src-en/data/events_special_multiverse.xml.append:48
 msgid ""
@@ -36,7 +36,7 @@ msgstr "Utiliser votre bénédiction pour éviter le combat."
 #: src-en/data/events_special_multiverse.xml.append:70
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr "C'est l'emplacement de signatures énergétiques anormales. [Pillard C]"
+msgstr "Ceci est l'emplacement de signatures d'énergie anormales. [Pillard C]"
 
 #: src-en/data/events_special_multiverse.xml.append:71
 msgid ""
@@ -47,9 +47,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHALLENGE\"]/text"
 msgstr ""
-"Du tunnel émerge un immense vaisseau croiseur, de conception Garde de Fer ! "
-"Ce doit être un rare vaisseau d'exploration, qui a pris sur lui de parcourir"
-" le Multivers !"
+"Du tunnel surgit un énorme vaisseau croiseur, de conception Garde de Fer ! "
+"Ce doit être un rare vaisseau d'exploration, qui s'est donné pour mission de"
+" voyager à travers le Multivers !"
 
 #: src-en/data/events_special_multiverse.xml.append:76
 msgid ""
@@ -59,7 +59,7 @@ msgstr "Préparez-vous au combat !"
 #: src-en/data/events_special_multiverse.xml.append:78
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHALLENGE\"]/choice[1]/event/text"
-msgstr "Le vaisseau se tourne pour vous attaquer."
+msgstr "Le vaisseau se tourne pour vous engager."
 
 #: src-en/data/events_special_multiverse.xml.append:81
 msgid ""
@@ -75,9 +75,9 @@ msgstr "Utiliser votre bénédiction pour éviter le combat."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_EXTREME\"]/text"
 msgstr ""
-"Du tunnel émerge un immense vaisseau croiseur, de conception Garde de Fer ! "
-"Ce doit être un rare vaisseau d'exploration, qui a pris sur lui de parcourir"
-" le Multivers !"
+"Du tunnel surgit un énorme vaisseau croiseur, de conception Garde de Fer ! "
+"Ce doit être un rare vaisseau d'exploration, qui s'est donné pour mission de"
+" voyager à travers le Multivers !"
 
 #: src-en/data/events_special_multiverse.xml.append:104
 msgid ""
@@ -87,7 +87,7 @@ msgstr "Préparez-vous au combat !"
 #: src-en/data/events_special_multiverse.xml.append:106
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_EXTREME\"]/choice[1]/event/text"
-msgstr "Le vaisseau se tourne pour vous attaquer."
+msgstr "Le vaisseau se tourne pour vous engager."
 
 #: src-en/data/events_special_multiverse.xml.append:109
 msgid ""
@@ -103,9 +103,9 @@ msgstr "Utiliser votre bénédiction pour éviter le combat."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHAOS\"]/text"
 msgstr ""
-"Du tunnel émerge un immense vaisseau croiseur, de conception Garde de Fer ! "
-"Ce doit être un rare vaisseau d'exploration, qui a pris sur lui de parcourir"
-" le Multivers !"
+"Du tunnel surgit un énorme vaisseau croiseur, de conception Garde de Fer ! "
+"Ce doit être un rare vaisseau d'exploration, qui s'est donné pour mission de"
+" voyager à travers le Multivers !"
 
 #: src-en/data/events_special_multiverse.xml.append:137
 msgid ""
@@ -115,7 +115,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:139
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHAOS\"]/choice[1]/event/text"
-msgstr "Le vaisseau se tourne pour vous attaquer."
+msgstr "Le vaisseau se tourne pour vous engager."
 
 #: src-en/data/events_special_multiverse.xml.append:142
 msgid ""
