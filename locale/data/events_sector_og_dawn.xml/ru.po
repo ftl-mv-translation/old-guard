@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-29 00:17+0000\n"
+"PO-Revision-Date: 2026-01-29 13:14+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_dawnxml/ru/>\n"
@@ -377,8 +377,8 @@ msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN_SAFE\"]/text"
 msgstr ""
 "[РЕПУТАЦИЯ ПОВЫШЕНА - НОВЫЙ РАССВЕТ]\n"
-"\tВаши действия улучшили вашу репутацию среди Нового рассвета. За счет вашей "
-"репутации в Новом рассвете некоторые члены фракции могут быть более склонны "
+"\tВаши действия улучшили вашу репутацию среди Нового рассвета за счет "
+"репутации Железного дозора. Некоторые члены фракции могут быть более склонны "
 "к взаимодействию с вами."
 
 #: src-en/data/events_sector_og_dawn.xml:276

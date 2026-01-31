@@ -23,7 +23,7 @@ msgstr ""
 "Niveau de menace rebelle : Très élevé\n"
 "Emplacements d'intérêt : ???\n"
 "\n"
-"Le bastion militaire de la Nouvelle Aube, à court de ressources et d'alliés dans leur lutte contre la Garde de Fer, ils se sont tournés vers la Rébellion pour obtenir de l'aide, malgré les protestations de certains membres de la Nouvelle Aube."
+"Le bastion militaire de la Nouvelle Aube, à court de provisions et d'alliés dans leur lutte contre la Garde de Fer, ils se sont tournés vers la rébellion pour obtenir de l'aide, malgré les protestations de certains membres de la Nouvelle Aube."
 
 #: src-en/data/text_events.xml.append:28
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_iron\"]"
@@ -32,3 +32,15 @@ msgstr "MAGASIN [GARDE DE FER]"
 #: src-en/data/text_events.xml.append:29
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_dawn\"]"
 msgstr "MAGASIN [NOUVELLE AUBE]"
+
+#: src-en/data/text_events.xml.append:30
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_ship\"]"
+msgstr "VAISSEAU [!]"
+
+#: src-en/data/text_events.xml.append:31
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_base\"]"
+msgstr "BASE CACHÉE [!]"
+
+#: src-en/data/text_events.xml.append:32
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_vault\"]"
+msgstr "CHAMBRE FORTE DE DONNÉES [!]"
