@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-28 20:07+0000\n"
+"PO-Revision-Date: 2026-02-01 06:09+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datatext_tooltipsxmlappend/ru/>\n"
@@ -180,7 +180,7 @@ msgstr ""
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rate\"]"
 msgstr ""
 "\\n"
-"Скорость стрельбы:"
+"Скорость стрельбы: ­"
 
 #: src-en/data/text_tooltips.xml.append:36
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_target\"]"
@@ -267,7 +267,7 @@ msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price\"]
 msgstr ""
 "\\n"
 "\\n"
-"Покупка: %d~   -   nПродажа: %d~\\n"
+"Покупка: %d~   -   Продажа: %d~\\n"
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid ""
