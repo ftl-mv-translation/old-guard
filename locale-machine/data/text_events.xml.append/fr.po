@@ -43,4 +43,4 @@ msgstr "BASE CACHÉE [!]"
 
 #: src-en/data/text_events.xml.append:32
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_vault\"]"
-msgstr "CHAMBRE FORTE DE DONNÉES [!]"
+msgstr "COFFRE_FORT_DE_DONNÉES [!]"
