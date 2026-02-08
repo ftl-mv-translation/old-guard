@@ -21,7 +21,7 @@ msgstr ""
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[3]/text"
-msgstr "Procéder au Secteur Nouvelle Aube."
+msgstr "Procéder au secteur Nouvelle Aube."
 
 #: src-en/data/events_special_lightspeed.xml.append:19
 msgid ""
@@ -39,7 +39,7 @@ msgstr ""
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[3]/text"
-msgstr "Procéder au Secteur Nouvelle Aube."
+msgstr "Procéder au secteur Nouvelle Aube."
 
 #: src-en/data/events_special_lightspeed.xml.append:40
 msgid ""

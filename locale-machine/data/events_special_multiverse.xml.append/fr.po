@@ -9,9 +9,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_NORMAL\"]/text"
 msgstr ""
-"Du tunnel surgit un énorme vaisseau croiseur, de conception Garde de Fer ! "
-"Ce doit être un rare vaisseau d'exploration, qui s'est donné pour mission de"
-" voyager à travers le Multivers !"
+"Du tunnel sort un énorme croiseur, de conception Garde de Fer ! Ce doit être"
+" un vaisseau d'exploration rare, qui a entrepris de voyager dans le "
+"Multivers !"
 
 #: src-en/data/events_special_multiverse.xml.append:43
 msgid ""
@@ -31,12 +31,13 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:63
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_NORMAL\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
-msgstr "Utiliser votre bénédiction pour éviter le combat."
+msgstr "Utilisez votre bénédiction pour éviter le combat."
 
 #: src-en/data/events_special_multiverse.xml.append:70
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr "Ceci est l'emplacement de signatures d'énergie anormales. [Pillard C]"
+msgstr ""
+"C'est l'emplacement de signatures énergétiques anormales. [Chasseur C]"
 
 #: src-en/data/events_special_multiverse.xml.append:71
 msgid ""
@@ -47,9 +48,9 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHALLENGE\"]/text"
 msgstr ""
-"Du tunnel surgit un énorme vaisseau croiseur, de conception Garde de Fer ! "
-"Ce doit être un rare vaisseau d'exploration, qui s'est donné pour mission de"
-" voyager à travers le Multivers !"
+"Du tunnel sort un énorme croiseur, de conception Garde de Fer ! Ce doit être"
+" un vaisseau d'exploration rare, qui a entrepris de voyager dans le "
+"Multivers !"
 
 #: src-en/data/events_special_multiverse.xml.append:76
 msgid ""
@@ -69,15 +70,15 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:96
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHALLENGE\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
-msgstr "Utiliser votre bénédiction pour éviter le combat."
+msgstr "Utilisez votre bénédiction pour éviter le combat."
 
 #: src-en/data/events_special_multiverse.xml.append:101
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_EXTREME\"]/text"
 msgstr ""
-"Du tunnel surgit un énorme vaisseau croiseur, de conception Garde de Fer ! "
-"Ce doit être un rare vaisseau d'exploration, qui s'est donné pour mission de"
-" voyager à travers le Multivers !"
+"Du tunnel sort un énorme croiseur, de conception Garde de Fer ! Ce doit être"
+" un vaisseau d'exploration rare, qui a entrepris de voyager dans le "
+"Multivers !"
 
 #: src-en/data/events_special_multiverse.xml.append:104
 msgid ""
@@ -97,15 +98,15 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:128
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_EXTREME\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
-msgstr "Utiliser votre bénédiction pour éviter le combat."
+msgstr "Utilisez votre bénédiction pour éviter le combat."
 
 #: src-en/data/events_special_multiverse.xml.append:133
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHAOS\"]/text"
 msgstr ""
-"Du tunnel surgit un énorme vaisseau croiseur, de conception Garde de Fer ! "
-"Ce doit être un rare vaisseau d'exploration, qui s'est donné pour mission de"
-" voyager à travers le Multivers !"
+"Du tunnel sort un énorme croiseur, de conception Garde de Fer ! Ce doit être"
+" un vaisseau d'exploration rare, qui a entrepris de voyager dans le "
+"Multivers !"
 
 #: src-en/data/events_special_multiverse.xml.append:137
 msgid ""
@@ -131,7 +132,7 @@ msgstr "*%$##@*%!"
 #: src-en/data/events_special_multiverse.xml.append:163
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OGT_BOSS_IRON_CHAOS\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
-msgstr "Utiliser votre bénédiction pour éviter le combat."
+msgstr "Utilisez votre bénédiction pour éviter le combat."
 
 #: src-en/data/events_special_multiverse.xml.append:174
 msgid ""
