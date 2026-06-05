@@ -1,0 +1,2859 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_og_dawn.xml:10
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DESTROY\"]/text"
+msgstr "ニュー・ドーンの守衛を倒した。貨物にあったものは確実に破壊されてしまっただろうが、少なくとも船体からいくらかの補給物資をサルベージできる。"
+
+#: src-en/data/events_sector_og_dawn.xml:13
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DESTROY\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:18
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DEADCREW\"]/text"
+msgstr "ニュー・ドーンの守衛を倒した。止めるクルーはもういない。貨物を調査し、兵器を入手して、船体はスクラップにする。"
+
+#: src-en/data/events_sector_og_dawn.xml:22
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_DEADCREW\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:34
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/text"
+msgstr "ニュー・ドーンの守衛を殺害したことで、彼らが援軍を差し向けて君を追い詰めるのは間違いない。宙域の探索には細心の注意を払え。"
+
+#: src-en/data/events_sector_og_dawn.xml:43
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:47
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FOLLOWUP\"]/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:55
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/beaconType/unvisitedTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_dawn.xml:56
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/beaconType/visitedTooltip"
+msgstr "探索済みの場所。もう興味を引くものはない。"
+
+#: src-en/data/events_sector_og_dawn.xml:57
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/beaconType/undiscoveredTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_dawn.xml:59
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/text"
+msgstr "ニュー・ドーンの艦が攻撃を仕掛けてきた！艦長の復讐に燃える眼差しからして、守衛が君を追跡させるために差し向けた艦に違いない！"
+
+#: src-en/data/events_sector_og_dawn.xml:63
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REINFORCEMENTS_OG_DAWN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:71
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/beaconType/unvisitedTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_dawn.xml:72
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/beaconType/visitedTooltip"
+msgstr "探索済みの場所。もう興味を引くものはない。"
+
+#: src-en/data/events_sector_og_dawn.xml:73
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/beaconType/undiscoveredTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_dawn.xml:75
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/text"
+msgstr "ニュー・ドーンの艦が攻撃を仕掛けてきた！艦長の復讐に燃える眼差しからして、守衛が君を追跡させるために差し向けた艦に違いない！"
+
+#: src-en/data/events_sector_og_dawn.xml:81
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_DAWN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:87
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_START_OG_DAWN_UNIQUE\"]/text[1]"
+msgstr ""
+"かつては他のアイアンウォッチ入植地と変わらなかった場所が、ニュー・ドーンの軍事拠点と化した。反対者は既に消え去ったが、派閥は支援を切実に求めている。君のような強力なレネゲイドなら特に。"
+
+#: src-en/data/events_sector_og_dawn.xml:88
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_START_OG_DAWN_UNIQUE\"]/text[2]"
+msgstr ""
+"ニュー・ドーンはアイアンウォッチの分派だ。かつてのメンバーがアイアンウォッチに対抗する軍事力を組織するためにここへ集まった。だが彼らは支援を切実に必要としている。君のような強力なレネゲイドなら特に。"
+
+#: src-en/data/events_sector_og_dawn.xml:102
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"START_OG_DAWN_UNIQUE\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:106
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"START_OG_DAWN_UNIQUE\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:110
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"START_OG_DAWN_UNIQUE\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:115
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/text"
+msgstr ""
+"即座に攻撃してくるのではなく、守衛が通信を送ってきた。「いいか、お前の噂は聞いている。だが噂だけで反乱軍を敵に回したくはない。スクラップを少しくれれば、お互い望み通りの結果を得られるはずだ」"
+
+#: src-en/data/events_sector_og_dawn.xml:117
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[1]/text"
+msgstr "賄賂を拒否し、戦って突破する！"
+
+#: src-en/data/events_sector_og_dawn.xml:119
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[1]/event/text"
+msgstr "艦をミュートにし、戦闘準備を整える。"
+
+#: src-en/data/events_sector_og_dawn.xml:122
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:128
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[2]/text"
+msgstr "賄賂を支払う。"
+
+#: src-en/data/events_sector_og_dawn.xml:130
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[2]/event/text"
+msgstr "守衛は頷き、スクラップを確認する。「よし、誰かに聞かれたら、前のシフトで通過したと言っておく」"
+
+#: src-en/data/events_sector_og_dawn.xml:135
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:141
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"LIST_CREW_OG_DAWN\"]/text"
+msgstr "(ニュー・ドーンクルー) 通行を免除するよう要請する。"
+
+#: src-en/data/events_sector_og_dawn.xml:143
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"LIST_CREW_OG_DAWN\"]/event/text"
+msgstr "「ああ、知らなかったよ。君たちのような人たちのために用意していた補給物資だ。持っていけ」"
+
+#: src-en/data/events_sector_og_dawn.xml:148
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"LIST_CREW_REBEL_ALL\"]/text"
+msgstr "(反乱軍クルー) 通行を免除するよう要請する。"
+
+#: src-en/data/events_sector_og_dawn.xml:150
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"LIST_CREW_REBEL_ALL\"]/event/text"
+msgstr "「反乱軍を乗せているならリスクはないだろう。わかった、通れ」"
+
+#: src-en/data/events_sector_og_dawn.xml:154
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"mind\"]/text"
+msgstr "(マインドコントロール) 守衛を説得して無視させる。"
+
+#: src-en/data/events_sector_og_dawn.xml:158
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_CONTROL\"]/text"
+msgstr "(マインドコントロール兵器) 守衛を説得して無視させる。"
+
+#: src-en/data/events_sector_og_dawn.xml:162
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_AFFECT\"]/text"
+msgstr "(精神干渉兵器) 守衛内に混乱を引き起こし、こっそり通り抜ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:166
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"cloaking\"]/text"
+msgstr "(クローキング) クロークして逃走を試みる。"
+
+#: src-en/data/events_sector_og_dawn.xml:170
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"engines\"]/text"
+msgstr "(改良型エンジン) 守衛からの逃走を試みる。"
+
+#: src-en/data/events_sector_og_dawn.xml:174
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_FRIENDLY\"]/choice[@req=\"pilot\"]/text"
+msgstr "(改良型操縦) オートパイロットを作動させて逃走を試みる。"
+
+#: src-en/data/events_sector_og_dawn.xml:180
+msgid "data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/text"
+msgstr "守衛が通信してくる。「やあ、個人的な恨みはないが、反乱軍がお前を問題視している。となると俺にとっても問題なんだ」"
+
+#: src-en/data/events_sector_og_dawn.xml:183
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[1]/text"
+msgstr "戦闘準備！"
+
+#: src-en/data/events_sector_og_dawn.xml:185
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[1]/event/text"
+msgstr "守衛が威嚇的に接近してくる中、防御ポジションへと急ぐ。"
+
+#: src-en/data/events_sector_og_dawn.xml:188
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:194
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[2]/text"
+msgstr "賄賂を渡して懐柔する。"
+
+#: src-en/data/events_sector_og_dawn.xml:196
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[2]/event/text"
+msgstr "これで満足してくれることを願う…"
+
+#: src-en/data/events_sector_og_dawn.xml:201
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:203
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[2]/event/choice/event/text"
+msgstr "「奇妙だな、誰がこのスクラップをくれたのか思い出せない… さあ、気が変わる前に早く行け」"
+
+#: src-en/data/events_sector_og_dawn.xml:209
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"LIST_CREW_OG_DAWN\"]/text"
+msgstr "(ニュー・ドーンクルー) 通行を免除するよう要請する。"
+
+#: src-en/data/events_sector_og_dawn.xml:211
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"LIST_CREW_OG_DAWN\"]/event/text"
+msgstr "「ああ、知らなかったよ。君たちのような人たちのために用意していた補給物資だ。持っていけ」"
+
+#: src-en/data/events_sector_og_dawn.xml:214
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"LIST_CREW_OG_DAWN\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:220
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"LIST_CREW_REBEL_ALL\"]/text"
+msgstr "(反乱軍クルー) 通行を免除するよう要請する。"
+
+#: src-en/data/events_sector_og_dawn.xml:222
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"LIST_CREW_REBEL_ALL\"]/event/text"
+msgstr "「反乱軍を乗せているならリスクはないだろう。わかった、通れ」"
+
+#: src-en/data/events_sector_og_dawn.xml:226
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"mind\"]/text"
+msgstr "(マインドコントロール) 守衛を説得して無視させる。"
+
+#: src-en/data/events_sector_og_dawn.xml:230
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_CONTROL\"]/text"
+msgstr "(マインドコントロール兵器) 守衛を説得して無視させる。"
+
+#: src-en/data/events_sector_og_dawn.xml:234
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_AFFECT\"]/text"
+msgstr "(精神干渉兵器) 守衛内に混乱を引き起こし、こっそり通り抜ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:238
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"cloaking\"]/text"
+msgstr "(クローキング) クロークして逃走を試みる。"
+
+#: src-en/data/events_sector_og_dawn.xml:242
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"engines\"]/text"
+msgstr "(改良型エンジン) 守衛からの逃走を試みる。"
+
+#: src-en/data/events_sector_og_dawn.xml:246
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN\"]/choice[@req=\"pilot\"]/text"
+msgstr "(改良型操縦) オートパイロットを作動させて逃走を試みる。"
+
+#: src-en/data/events_sector_og_dawn.xml:251
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_CRIMINAL\"]/text"
+msgstr "君はここで有名になりすぎたようだ。守衛ステーションは即座に厳戒態勢に入り、戦いは避けられない。"
+
+#: src-en/data/events_sector_og_dawn.xml:254
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GUARD_OG_DAWN_CRIMINAL\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:261
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN\"]/text"
+msgstr ""
+"[評判が向上 - ニュー・ドーン]\n"
+"\t今回の行動によりニュー・ドーン内での評判が上がった。代償としてアイアンウォッチでの評判は下がった。一部のメンバーが積極的に接触してくるかもしれない。\n"
+"\n"
+"[悪名が向上 - 一般]\n"
+"君の行動は、正当かどうかに関わらず、連邦や市民の目には良く映らない。このような行為を続ければ、連邦やその同盟者からの反感を買うことになるだろう。"
+
+#: src-en/data/events_sector_og_dawn.xml:270
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN_SAFE\"]/text"
+msgstr ""
+"[評判が向上 - ニュー・ドーン]\n"
+"\t今回の行動によりニュー・ドーン内での評判が上がった。代償としてアイアンウォッチでの評判は下がった。一部のメンバーが積極的に接触してくるかもしれない。"
+
+#: src-en/data/events_sector_og_dawn.xml:276
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_DOUBLE_OG_DAWN\"]/text"
+msgstr ""
+"[評判が大幅向上 - ニュー・ドーン]\n"
+"\t今回の行動によりニュー・ドーン内での評判が大幅に上がった。代償としてアイアンウォッチでの評判は下がった。その顕著な行動が評価され、評判が2倍上昇した。\n"
+"\n"
+"[悪名が向上 - 一般]\n"
+"君の行動は、正当かどうかに関わらず、連邦や市民の目には良く映らない。このような行為を続ければ、連邦やその同盟者からの反感を買うことになるだろう。"
+
+#: src-en/data/events_sector_og_dawn.xml:286
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN_COMBAT\"]/text"
+msgstr ""
+"[評判が向上 - ニュー・ドーン]\n"
+"\t今回の行動によりニュー・ドーン内での評判が上がった。代償としてアイアンウォッチでの評判は下がった。一部のメンバーが積極的に接触してくるかもしれない。\n"
+"\n"
+"[悪名が向上 - 一般]\n"
+"君の行動は、正当かどうかに関わらず、連邦や市民の目には良く映らない。このような行為を続ければ、連邦やその同盟者からの反感を買うことになるだろう。"
+
+#: src-en/data/events_sector_og_dawn.xml:294
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_UPDATE_OG_DAWN_COMBAT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:299
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_OG_DAWN\"]/text"
+msgstr ""
+"[評判が低下 - ニュー・ドーン]\n"
+"\t今回の行動はニュー・ドーン内での評価を下げるものだ。以前築いた信頼関係も失われる可能性がある。"
+
+#: src-en/data/events_sector_og_dawn.xml:304
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_OG_DAWN_COMBAT\"]/text"
+msgstr ""
+"[評判が低下 - ニュー・ドーン]\n"
+"\t今回の行動はニュー・ドーン内での評価を下げるものだ。以前築いた信頼関係も失われる可能性がある。"
+
+#: src-en/data/events_sector_og_dawn.xml:308
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_OG_DAWN_COMBAT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:313
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_DAWN_COMBAT\"]/text"
+msgstr ""
+"[評判が大幅低下 - ニュー・ドーン]\n"
+"\t今回の行動はニュー・ドーン内での評価を大幅に下げるものだ。以前築いた信頼関係も失われる可能性がある。悪質な行為のため、評判が2倍低下した。"
+
+#: src-en/data/events_sector_og_dawn.xml:318
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_DAWN_COMBAT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:328
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"FINISH_BEACON_OG_DAWN\"]/choice[1]/text"
+msgstr "探索する。"
+
+#: src-en/data/events_sector_og_dawn.xml:332
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"FINISH_BEACON_OG_DAWN\"]/choice[2]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:336
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"FINISH_BEACON_OG_DAWN\"]/choice[3]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:348
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[1]"
+msgstr "艦が消滅する際、アイアンウォッチの艦長は最期の罵声を吐いた。"
+
+#: src-en/data/events_sector_og_dawn.xml:349
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[2]"
+msgstr "アイアンウォッチの船体が宇宙空間に散らばる。残骸をサルベージするために急接近する。"
+
+#: src-en/data/events_sector_og_dawn.xml:350
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[3]"
+msgstr "アイアンウォッチの艦が爆発し、中の全員が消えた。君のクルーは残骸をサルベージしつつ、彼らの遺体を避けて作業する。"
+
+#: src-en/data/events_sector_og_dawn.xml:351
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[4]"
+msgstr "艦が爆発した弾みでタレットの一つが虚空へ飛び出し、貴重な破片が四方八方に飛び散る。"
+
+#: src-en/data/events_sector_og_dawn.xml:359
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[1]"
+msgstr "「君の殺戮への渇望は… いつか自らの身を滅ぼすぞ、レネゲイドよ。君こそが、連邦も… 反乱軍と変わらないという証拠だ…」"
+
+#: src-en/data/events_sector_og_dawn.xml:360
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[2]"
+msgstr "一言も発することなく、アイアンウォッチの艦長は地面に崩れ落ちた。息も絶え絶えに、瞳から光が消えていく。彼らの船体をサルベージする。"
+
+#: src-en/data/events_sector_og_dawn.xml:361
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[3]"
+msgstr ""
+"「後悔することになるぞ！因果応報だ、お前のような奴にはな。呪ってやる、レネゲイドどもめ… アイアンウォッチは反乱軍と組んでおけばよかったんだ…」"
+
+#: src-en/data/events_sector_og_dawn.xml:365
+msgid "data/events_sector_og_dawn.xml$//event[@name=\"ESCAPE_OG_DAWN\"]/text"
+msgstr "スキャン結果、アイアンウォッチの艦が逃走を試みている。逃げられる前に破壊しろ！"
+
+#: src-en/data/events_sector_og_dawn.xml:378
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[1]"
+msgstr "アイアンウォッチの艦は君の掌をすり抜け、ビーコンに君を置き去りにした。"
+
+#: src-en/data/events_sector_og_dawn.xml:379
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[2]"
+msgstr "アイアンウォッチの艦を破壊する試みは失敗し、敵は逃走した。"
+
+#: src-en/data/events_sector_og_dawn.xml:382
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"GOTAWAY_OG_DAWN_REMAINS\"]/text"
+msgstr "アイアンウォッチの艦には逃げられたが、すべてが無駄ではなかった。残骸から落ちたスクラップの軌跡を回収する。"
+
+#: src-en/data/events_sector_og_dawn.xml:433
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/text"
+msgstr "ニュー・ドーンの商人が近くの基地に店を構えている。時折客が訪れるが、人目を引かずに店に入る時間は十分にある。"
+
+#: src-en/data/events_sector_og_dawn.xml:435
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/text"
+msgstr "商人を確認する。"
+
+#: src-en/data/events_sector_og_dawn.xml:437
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/text"
+msgstr ""
+"基地に入ると多種多様な品が売られていた。燃料コンテナ、ドローンパーツ、ミサイルといった定番品に加え、壁側に防弾ガラスで厳重に守られた奇妙なタレットが展示されている。「ニュー・ドーン製余剰装備：カウンターで問い合わせ」"
+
+#: src-en/data/events_sector_og_dawn.xml:440
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/text"
+msgstr "ニュー・ドーン製余剰装備について尋ねる。"
+
+#: src-en/data/events_sector_og_dawn.xml:442
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"小柄な人間商人が答える。「あぁ、お目が高いね。あれは正真正銘、ニュー・ドーン製のタレットで…って、待てよ、君はニュー・ドーンの人間じゃないよな？反乱軍でもないよな？」"
+
+#: src-en/data/events_sector_og_dawn.xml:444
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "違うが、なぜだ？"
+
+#: src-en/data/events_sector_og_dawn.xml:446
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"「いや、理由なんてない、ただ気になっただけさ。とにかく、言った通りこれは本物のニュー・ドーン製タレットだ。手に入る中で最も強力な装備だよ」 "
+"商人は高値を付けているが、明らかに一級品だ。"
+
+#: src-en/data/events_sector_og_dawn.xml:448
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "タレットを購入する。"
+
+#: src-en/data/events_sector_og_dawn.xml:452
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr "(ニュー・ドーンクルー) ニュー・ドーンに密かに通報する。"
+
+#: src-en/data/events_sector_og_dawn.xml:456
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[3]/text"
+msgstr "(反乱軍クルー) ニュー・ドーンに密かに通報する。"
+
+#: src-en/data/events_sector_og_dawn.xml:460
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[4]/text"
+msgstr "(ニュー・ドーンクルー) タレットをどうやって入手したのか追及する。"
+
+#: src-en/data/events_sector_og_dawn.xml:464
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[5]/text"
+msgstr "(反乱軍クルー) タレットをどうやって入手したのか追及する。"
+
+#: src-en/data/events_sector_og_dawn.xml:468
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[6]/text"
+msgstr "オファーを無視して普通に買い物をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:474
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CREW_OG_DAWN\"]/text"
+msgstr "(ニュー・ドーンクルー) 我々はニュー・ドーンの者だ。"
+
+#: src-en/data/events_sector_og_dawn.xml:478
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_REBEL_WITHOUT_OG_DAWN\"]/text"
+msgstr "(反乱軍クルー) 我々は反乱軍の者だ。"
+
+#: src-en/data/events_sector_og_dawn.xml:484
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[1]/event/choice[2]/text"
+msgstr "無視して買い物をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:490
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/text"
+msgstr "商人を無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:492
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/event/text"
+msgstr "反乱軍シンパの注意を引くつもりはない。"
+
+#: src-en/data/events_sector_og_dawn.xml:494
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:498
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:506
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/text"
+msgstr ""
+"商人は冷や汗をかきながら続ける。「いや、つまりだ、あれは本物のニュー・ドーン製タレットじゃなくて、そう、レプリカだ。レプリカだよ。機能なんて全くない。ただのコレクターアイテムだ、興味ないだろ？」"
+
+#: src-en/data/events_sector_og_dawn.xml:508
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[1]/text"
+msgstr "商人がタレットの話題をそらそうとしている。追求するには追加情報が必要だ。"
+
+#: src-en/data/events_sector_og_dawn.xml:512
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/text"
+msgstr "(改良型センサー) 遠隔でタレットをスキャンする。"
+
+#: src-en/data/events_sector_og_dawn.xml:514
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/text"
+msgstr "スキャン結果、それはレプリカではなく本物のニュー・ドーン製タレットだと判明した。"
+
+#: src-en/data/events_sector_og_dawn.xml:516
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[1]/text"
+msgstr "商人をニュー・ドーンに通報する。"
+
+#: src-en/data/events_sector_og_dawn.xml:518
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REPORT\"]/text"
+msgstr "収集した情報をもとに商人を当局へ密かに通報する。彼らが到着する前に、買い物を済ませることができる。"
+
+#: src-en/data/events_sector_og_dawn.xml:520
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REPORT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:526
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[2]/text"
+msgstr "ニュー・ドーンのタレットを「差し押さえる」ための補償金を支払うと申し出る。"
+
+#: src-en/data/events_sector_og_dawn.xml:528
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_PURCHASE_100\"]/text"
+msgstr "ニュー・ドーンにはバレないと保証すると、彼は喜んで適正価格で譲ってくれた。"
+
+#: src-en/data/events_sector_og_dawn.xml:536
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[3]/text"
+msgstr "値下げしなければ通報すると脅す。"
+
+#: src-en/data/events_sector_og_dawn.xml:538
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/text"
+msgstr "商人は値下げに応じた。だが、脅しに対してあまり恐怖を感じていないようだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:540
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[1]/text"
+msgstr "合意した金額を支払い、ニュー・ドーンのタレットを「差し押さえる」。"
+
+#: src-en/data/events_sector_og_dawn.xml:542
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_PURCHASE_80\"]/text"
+msgstr "ニュー・ドーンにはバレないと保証すると、彼は喜んで適正価格で譲ってくれた。"
+
+#: src-en/data/events_sector_og_dawn.xml:550
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[2]/text"
+msgstr "再度、値下げしなければ通報すると脅す。"
+
+#: src-en/data/events_sector_og_dawn.xml:552
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[2]/event/text"
+msgstr ""
+"厳しく脅しをかけるが、商人はさらに動じない。ふとタレットの方を見ると、いつの間にか消えていた。いつの間にか隠されたのだ。通報の証拠もなく、脅しは無効に終わる。"
+
+#: src-en/data/events_sector_og_dawn.xml:556
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[3]/text"
+msgstr "丁寧に断り、買い物を済ませる。"
+
+#: src-en/data/events_sector_og_dawn.xml:562
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"sensors\"]/event/choice[4]/text"
+msgstr "無視して買い物をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:568
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr "(アイアンウォッチクルー) アイアンウォッチの技術者が、タレットがレプリカでないことを見抜く。"
+
+#: src-en/data/events_sector_og_dawn.xml:570
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr "技術者がこっそり、商人がレプリカだと言っているのは嘘だと教えてくれる。これを利用できるかもしれない。"
+
+#: src-en/data/events_sector_og_dawn.xml:572
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[1]/text"
+msgstr "商人をニュー・ドーンに通報する。"
+
+#: src-en/data/events_sector_og_dawn.xml:576
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[2]/text"
+msgstr "ニュー・ドーンのタレットを「差し押さえる」ための補償金を支払うと申し出る。"
+
+#: src-en/data/events_sector_og_dawn.xml:580
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[3]/text"
+msgstr "値下げしなければ通報すると脅す。"
+
+#: src-en/data/events_sector_og_dawn.xml:584
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice[4]/text"
+msgstr "無視して買い物をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:590
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/choice[4]/text"
+msgstr "無視して買い物をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:596
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/text"
+msgstr "「いや、その、近くに浮いていたんだよ。宇宙空間に浮かんでいたのを拾っただけで、違法なことなんてないさ」"
+
+#: src-en/data/events_sector_og_dawn.xml:598
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[1]/text"
+msgstr "商人をニュー・ドーンに通報する。"
+
+#: src-en/data/events_sector_og_dawn.xml:602
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[2]/text"
+msgstr "ニュー・ドーンのタレットを「差し押さえる」ための補償金を支払うと申し出る。"
+
+#: src-en/data/events_sector_og_dawn.xml:606
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[3]/text"
+msgstr "値下げしなければ通報すると脅す。"
+
+#: src-en/data/events_sector_og_dawn.xml:610
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_REVEALED\"]/choice[4]/text"
+msgstr "無視して買い物をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:624
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/text"
+msgstr ""
+"ビーコンに到着するとニュー・ドーンの艦の残骸を発見した。ここで戦闘があった痕跡はない。どうやらアステロイドフィールドで沈んだようだ。残骸を調査したければアステロイドフィールドに突入する必要がある。"
+
+#: src-en/data/events_sector_og_dawn.xml:626
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[1]/text"
+msgstr "残骸のフィールドを探索する。"
+
+#: src-en/data/events_sector_og_dawn.xml:630
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/text"
+msgstr "残骸を無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:632
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/event/text"
+msgstr "危険を避け、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:634
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:638
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:647
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[1]/text"
+msgstr ""
+"探索したが、価値のあるものは見つからなかった。不運なことに、ここはアステロイドが密集しており、FTLドライブをチャージする間、被弾を回避しなければならない！"
+
+#: src-en/data/events_sector_og_dawn.xml:651
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[2]/text"
+msgstr ""
+"探索したが、価値のあるものは見つからなかった。不運なことに、ここはアステロイドが密集しており、FTLドライブをチャージする間、被弾を回避しなければならない！"
+
+#: src-en/data/events_sector_og_dawn.xml:655
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[3]/text"
+msgstr "残骸を探索した。ほとんどがガラクタだったが、奇跡的に無事だった貨物コンテナからミサイルの隠しストックを見つけた。"
+
+#: src-en/data/events_sector_og_dawn.xml:660
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[4]/text"
+msgstr "残骸を探索した。多くはゴミだったが、なんとかいくらかの有用な資源をかき集めた。"
+
+#: src-en/data/events_sector_og_dawn.xml:665
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/text"
+msgstr "残骸を探索した。大部分はゴミだが、残骸の中にその艦のものと思われるマーキングがある脱出ポッドを見つけた。"
+
+#: src-en/data/events_sector_og_dawn.xml:668
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/choice[1]/text"
+msgstr "脱出ポッドを回収する。"
+
+#: src-en/data/events_sector_og_dawn.xml:670
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/choice[1]/event/text"
+msgstr ""
+"脱出ポッドから一人のニュー・ドーン兵士が這い出した。「…もうダメかと思った。あのアステロイドフィールドは予想以上に危険だったよ…生きててよかった」"
+
+#: src-en/data/events_sector_og_dawn.xml:675
+msgid ""
+"data/events_sector_og_dawn.xml$//eventList[@name=\"OG_DAWN_DEBRIS_FIELD_SEARCH\"]/event[5]/choice[2]/text"
+msgstr "脱出ポッドを無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:688
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/text"
+msgstr "近くのニュー・ドーン基地に、ニュー・ドーン所属の大型輸送船が停泊している。スキャンによると、その輸送船は不自然なほど空っぽだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:691
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/text"
+msgstr "輸送船に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:693
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"「連邦のレネゲイド？ここで会うとは思わなかったな。心配するな、反乱軍はいないし、敵同士である必要はない」 "
+"艦長は少し考え込む。「なあ、余分な補給物資はないか？この基地から物資を回収する予定だったんだが、前の輸送船から届いていないらしくてね。代わりに余剰装備か人員を提供してもいい」"
+
+#: src-en/data/events_sector_og_dawn.xml:698
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "補給物資と引き換えに兵士を一人要求する。"
+
+#: src-en/data/events_sector_og_dawn.xml:700
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr "輸送船にドッキングして補給物資を渡す。新クルーが挨拶する。「正直、本物の軍艦で働いてみたかったんだ。輸送船も安全だけど、あそこは退屈でね」"
+
+#: src-en/data/events_sector_og_dawn.xml:709
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:715
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "補給物資と引き換えにタレットを一つ要求する。"
+
+#: src-en/data/events_sector_og_dawn.xml:717
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[2]/event/text"
+msgstr ""
+"輸送船にドッキングして補給物資を渡す。艦長が挨拶する。「そうだな、反乱軍は連邦を酷い連中だと言っていたが、君たちはそれほど悪くないようだな」"
+
+#: src-en/data/events_sector_og_dawn.xml:726
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:732
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[3]/text"
+msgstr "補給物資と引き換えに、ニュー・ドーン全体に良い評判を広めるよう要求する。"
+
+#: src-en/data/events_sector_og_dawn.xml:734
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[3]/event/text"
+msgstr ""
+"輸送船にドッキングして補給物資を渡す。艦長が挨拶する。「そうだな、反乱軍は連邦を酷い連中だと言っていたが、君たちはそれほど悪くないようだな」"
+
+#: src-en/data/events_sector_og_dawn.xml:742
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:748
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/text"
+msgstr "「すまん、回せる補給物資はないんだ」"
+
+#: src-en/data/events_sector_og_dawn.xml:750
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/text"
+msgstr "彼らの幸運を祈り、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:752
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:756
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:764
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr "輸送船に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:766
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/text"
+msgstr "「連邦のゴミめ、これ以上近づくな。揉め事は起こしたくないが、お前の船をズタズタに引き裂くのは構わないぞ」"
+
+#: src-en/data/events_sector_og_dawn.xml:768
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[1]/text"
+msgstr "善意の印として、いくらかの補給物資を放出する。"
+
+#: src-en/data/events_sector_og_dawn.xml:770
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[1]/event/text"
+msgstr ""
+"輸送船はタレットを君に向けたまま、慎重に補給物資を回収する。「フン、お前ら全員が最悪というわけでもないようだな。頑張れよ、艦長」 "
+"そう言うと輸送船は基地の安全圏へと後退していった。"
+
+#: src-en/data/events_sector_og_dawn.xml:778
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:784
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[2]/text"
+msgstr "基地から離れるのを待ってから攻撃する。"
+
+#: src-en/data/events_sector_og_dawn.xml:786
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[2]/event/text"
+msgstr "輸送船は基地での用事を済ませ、出発した。基地の射程外に出たところで、君は銃をぶっ放して慎重に迎撃する。"
+
+#: src-en/data/events_sector_og_dawn.xml:789
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:795
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[3]/text"
+msgstr "無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:797
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[3]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:799
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:803
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:811
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/text"
+msgstr "基地から離れるのを待ってから攻撃する。"
+
+#: src-en/data/events_sector_og_dawn.xml:813
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/event/text"
+msgstr "輸送船は基地での用事を済ませ、出発した。基地の射程外に出たところで、君は銃をぶっ放して慎重に迎撃する。"
+
+#: src-en/data/events_sector_og_dawn.xml:816
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:822
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[4]/text"
+msgstr "無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:824
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[4]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:826
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[4]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:830
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[4]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:838
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/text"
+msgstr ""
+"ビーコンに到着すると、巨大な通信基地と対峙した。反乱軍艦隊に向けて大量の暗号通信が送られているのが探知された。基地はほぼ無防備で、少しの船体ダメージだけで破壊しサルベージできる。"
+
+#: src-en/data/events_sector_og_dawn.xml:841
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr "基地に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:843
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr "「ああ、噂の連邦レネゲイドか。安心しろ、反乱軍は君がここにいることを知らない。まだな」"
+
+#: src-en/data/events_sector_og_dawn.xml:845
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/text"
+msgstr "基地に反乱軍艦隊の足止めを要求する。"
+
+#: src-en/data/events_sector_og_dawn.xml:847
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/text"
+msgstr "「フン、やってやるさ。俺の仕業だとバレないことを願うよ」"
+
+#: src-en/data/events_sector_og_dawn.xml:852
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/text"
+msgstr "特定の場所に艦隊を誘導し、罠を仕掛けられるように要求する。"
+
+#: src-en/data/events_sector_og_dawn.xml:854
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/text"
+msgstr "「フン、やってやるさ。俺の仕業だとバレないことを願うよ」"
+
+#: src-en/data/events_sector_og_dawn.xml:864
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/text"
+msgstr "基地に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:866
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/text"
+msgstr "「貴様、連邦のレネゲイドだな！今すぐ艦隊に通報しない理由を一つ言ってみろ！」"
+
+#: src-en/data/events_sector_og_dawn.xml:868
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "賄賂として補給物資を差し出す。"
+
+#: src-en/data/events_sector_og_dawn.xml:870
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr "「フン、見逃してやる。反乱軍が知る前に、ここから消えろ」"
+
+#: src-en/data/events_sector_og_dawn.xml:872
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:878
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[@req=\"LIST_CREW_OG_DAWN\"]/text"
+msgstr "(ニュー・ドーンクルー) 基地に反乱軍艦隊の足止めを要求する。"
+
+#: src-en/data/events_sector_og_dawn.xml:880
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[@req=\"LIST_CREW_OG_DAWN\"]/event/text"
+msgstr "「フン、やってやるさ。俺の仕業だとバレないことを願うよ」"
+
+#: src-en/data/events_sector_og_dawn.xml:885
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[@req=\"LIST_REBEL_WITHOUT_OG_DAWN\"]/text"
+msgstr "(反乱軍クルー) 基地に反乱軍艦隊の足止めを要求する。"
+
+#: src-en/data/events_sector_og_dawn.xml:887
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and "
+"@lvl=\"0\"]/event/choice[@req=\"LIST_REBEL_WITHOUT_OG_DAWN\"]/event/text"
+msgstr "「フン、やってやるさ。俺の仕業だとバレないことを願うよ」"
+
+#: src-en/data/events_sector_og_dawn.xml:892
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/text"
+msgstr "すぐに出発すると伝える。"
+
+#: src-en/data/events_sector_og_dawn.xml:894
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/text"
+msgstr "彼らは通報しないことに決めた。距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:896
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:900
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/choice[4]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:908
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr "君の評判が悪いため、基地は一切の通信を拒否する。"
+
+#: src-en/data/events_sector_og_dawn.xml:912
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/text"
+msgstr "破壊してスクラップと物資を強奪する。"
+
+#: src-en/data/events_sector_og_dawn.xml:914
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/event/text"
+msgstr ""
+"基地に発砲すると、脆弱なタレットからの反撃も数発で終わり、基地はあっという間に崩壊した。残念ながら、破壊される前に反乱軍艦隊へ君の位置を通知されてしまった。"
+
+#: src-en/data/events_sector_og_dawn.xml:918
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:924
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[5]/text"
+msgstr "基地を無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:926
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[5]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:928
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[5]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:932
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[5]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:957
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_REBEL_INFIGHT\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:965
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_REBEL_INFIGHT\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:975
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_REBEL_OG_DAWN_INFIGHT\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:983
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_REBEL_OG_DAWN_INFIGHT\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:990
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/text"
+msgstr ""
+"ビーコンに到着するとニュー・ドーンの艦と反乱軍の艦が対峙していた。戦闘準備を整えるが、両艦とも君には興味がないようだ。通信から察するに、ニュー・ドーンの艦長は「スラッグのケツすら見分けられないバカな反乱軍艦長」の命令に従うことにうんざりしているらしく、反乱軍の艦長はニュー・ドーンの艦の不服従に苛立っている。"
+
+#: src-en/data/events_sector_og_dawn.xml:993
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/text"
+msgstr "ニュー・ドーンの艦を攻撃する。"
+
+#: src-en/data/events_sector_og_dawn.xml:995
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/text"
+msgstr "武器を起動しニュー・ドーン艦に接近する。まだ決断を再考する時間はある。今なら撤退して戦闘を回避することもできる。"
+
+#: src-en/data/events_sector_og_dawn.xml:998
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[1]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1002
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/text"
+msgstr "戦いを避ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:1005
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/event/text"
+msgstr "逃げ出すと、両艦は再び互いに注意を向けた。君は次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1007
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1011
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1019
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/text"
+msgstr "反乱軍の艦を攻撃する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1021
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/text"
+msgstr "武器を起動し反乱軍艦に接近する。まだ決断を再考する時間はある。今なら撤退して戦闘を回避することもできる。"
+
+#: src-en/data/events_sector_og_dawn.xml:1024
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[1]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1028
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/text"
+msgstr "戦いを避ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:1031
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/event/text"
+msgstr "逃げ出すと、両艦は再び互いに注意を向けた。君は次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1033
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1037
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[2]/event/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1045
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[3]/text"
+msgstr "混乱に乗じて逃走し、衝突を避ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:1047
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[3]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1049
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1053
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1061
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/text"
+msgstr "反乱軍艦を片付けたが、ニュー・ドーン艦は攻撃してこない。彼らの次の行動は不明だ。"
+
+#: src-en/data/events_sector_og_dawn.xml:1064
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr "ニュー・ドーン艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1066
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"「ああ、噂の連邦レネゲイドか。反乱軍との同盟は大きな間違いだった気がしてきた。こいつらは最低だ」 "
+"艦長は少し黙り込む。「これを持っていけ。反乱軍の基地へ届ける予定だった物資だが、着かなくても誰も気づかないだろう」"
+
+#: src-en/data/events_sector_og_dawn.xml:1073
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/text"
+msgstr "ニュー・ドーン艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1075
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"「お前は連邦のレネゲイドだな。撃つべきなんだろうが、あのバカの命令に従った結果がこれだ。排除してくれて礼を言う、手を汚さずに済んだ。お前のいい評判を広めておいてやる」"
+" そう言うと、艦はさっさとこの場を離れるようにジャンプしていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:1080
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr "君の評判が悪いため、艦は通信を拒否する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1084
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[4]/text"
+msgstr "ニュー・ドーン艦を攻撃する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1086
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[4]/event/text"
+msgstr "ニュー・ドーンの艦は突然の攻撃に驚いたようだが、応戦してくる。"
+
+#: src-en/data/events_sector_og_dawn.xml:1089
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[4]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1095
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_DAWN_FOLLOWUP\"]/choice[5]/text"
+msgstr "艦を無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1101
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/text"
+msgstr "ニュー・ドーン艦を片付けたが、反乱軍艦は攻撃してこない。かといって感謝も期待できそうにない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1104
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/choice[1]/text"
+msgstr "反乱軍艦を攻撃する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1108
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/choice[2]/text"
+msgstr "この不安定な休戦を利用して後退し、衝突を避ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:1111
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT_REBEL_FOLLOWUP\"]/choice[2]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1119
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/text"
+msgstr ""
+"ビーコンに気づかれずに到着した。パルサーのせいでこのあたりはあまり人がいない。ニュー・ドーンの艦が一隻だけ探知されたが、まだこちらには気づいていないようだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:1121
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1123
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"「おお、我々の宙域を訪れている有名なレネゲイドではないか。いい噂を聞いているよ。頼みがあるんだが、はぐれアイアンウォッチ艦を追っているんだが、見つからなくてね。捜索に協力してくれないか」"
+
+#: src-en/data/events_sector_og_dawn.xml:1125
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/text"
+msgstr "協力を承諾する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1128
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/text"
+msgstr ""
+"協力を承諾し、ニュー・ドーン艦と二手に分かれる。数分後、ニュー・ドーン艦はセンサーの範囲外へと消えた。その数分後、巨大なアステロイドの陰からアイアンウォッチの艦が現れる。彼らは君が追跡チームの一員だと正しく推測し、いきなり攻撃を仕掛けてきた。戦闘準備を！"
+
+#: src-en/data/events_sector_og_dawn.xml:1130
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1136
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1138
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/text"
+msgstr "先手を取ろうと突撃したが、不運にも艦に気づかれ、戦闘準備を整えられてしまった。"
+
+#: src-en/data/events_sector_og_dawn.xml:1141
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1147
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/text"
+msgstr "丁寧に断る。"
+
+#: src-en/data/events_sector_og_dawn.xml:1149
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1151
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1155
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1163
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1165
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/text"
+msgstr "「探している奴じゃないな。邪魔をするな、そうすれば揉め事は起きない」"
+
+#: src-en/data/events_sector_og_dawn.xml:1167
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1169
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/text"
+msgstr "先手を取ろうと突撃したが、不運にも艦に気づかれ、戦闘準備を整えられてしまった。"
+
+#: src-en/data/events_sector_og_dawn.xml:1172
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1178
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/text"
+msgstr "無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1180
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1182
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1186
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1194
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr "評判が悪いため、接触しても攻撃されるだけだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:1198
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[4]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1200
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[4]/event/text"
+msgstr "先手を取ろうと突撃したが、不運にも艦に気づかれ、戦闘準備を整えられてしまった。"
+
+#: src-en/data/events_sector_og_dawn.xml:1203
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[4]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1209
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[5]/text"
+msgstr "基地を無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1211
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[5]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1213
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[5]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1217
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[5]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1226
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/text"
+msgstr "ビーコンに気づかれずに到着した。近くのニュー・ドーン艦はまだこちらに気づいていない…"
+
+#: src-en/data/events_sector_og_dawn.xml:1228
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1230
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr "「ああ、レネゲイドの艦長か。補給物資を余らせていないか？燃料とドローンパーツが底をつきそうでね。見返りにスクラップを用意している」"
+
+#: src-en/data/events_sector_og_dawn.xml:1232
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/text"
+msgstr "交換に応じる。"
+
+#: src-en/data/events_sector_og_dawn.xml:1234
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/text"
+msgstr "補給物資を渡し、スクラップを受け取る。昔ながらの資源交換だ。"
+
+#: src-en/data/events_sector_og_dawn.xml:1241
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1247
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1249
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/text"
+msgstr "先手を取ろうと突撃したが、不運にも艦に気づかれ、戦闘準備を整えられてしまった。"
+
+#: src-en/data/events_sector_og_dawn.xml:1252
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1258
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/text"
+msgstr "丁寧に断る。"
+
+#: src-en/data/events_sector_og_dawn.xml:1260
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1262
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1266
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1274
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1276
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/text"
+msgstr "「戦うつもりはない。邪魔をするな、そうすれば揉め事は起きない」"
+
+#: src-en/data/events_sector_og_dawn.xml:1278
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1280
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/text"
+msgstr "先手を取ろうと突撃したが、不運にも艦に気づかれ、戦闘準備を整えられてしまった。"
+
+#: src-en/data/events_sector_og_dawn.xml:1283
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1289
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/text"
+msgstr "無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1291
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1293
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1297
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1305
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr "評判が悪いため、接触しても攻撃されるだけだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:1309
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[4]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1311
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[4]/event/text"
+msgstr "先手を取ろうと突撃したが、不運にも艦に気づかれ、戦闘準備を整えられてしまった。"
+
+#: src-en/data/events_sector_og_dawn.xml:1314
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[4]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1320
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[5]/text"
+msgstr "基地を無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1322
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[5]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1324
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[5]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1328
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[5]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1354
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/text"
+msgstr "アステロイドフィールドに到着した。SOSビーコンは、ビーコンのすぐ脇で沈んでいるニュー・ドーンの輸送船から発せられている。"
+
+#: src-en/data/events_sector_og_dawn.xml:1356
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/text"
+msgstr "残骸を調査する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1360
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/text"
+msgstr ""
+"残骸に接近する。 "
+"debrisの中に貨物コンテナがいくつもあるが、すべて開けられている。先客がいたようだ。その正体はすぐにわかった。アステロイドの陰からニュー・ドーンの偵察機が現れる。エンジンの損傷により燃料が漏れ出しているのがわかる。"
+
+#: src-en/data/events_sector_og_dawn.xml:1363
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1365
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"艦長が慌てた様子で叫ぶ。「頼む、艦長、助けてくれ！救えるだけのクルーは救出したが、船がもうもたない。どうか我々と貨物を乗せて、このアステロイドフィールドから脱出させてくれ。近くに基地があるんだ！」"
+
+#: src-en/data/events_sector_og_dawn.xml:1367
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "協力を承諾する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1369
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr "全員を乗せて基地へ向かうには時間がかかる。30秒間、アステロイドから生き延びなければならない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1373
+msgid ""
+"data/events_sector_og_dawn.xml$//triggeredEvent[@name=\"OG_DAWN_DISTRESS_ASTEROID_TRIGGEREDEVENT\"]/triggeredEventBox/tooltip"
+msgstr "積み込み時間。"
+
+#: src-en/data/events_sector_og_dawn.xml:1380
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr "攻撃する！"
+
+#: src-en/data/events_sector_og_dawn.xml:1382
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
+msgstr "助ける代わりに即座に武器を起動する。もし生き残る奴がいたとしても、今後連邦の船を簡単に信用することはないだろう。"
+
+#: src-en/data/events_sector_og_dawn.xml:1385
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1391
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[3]/text"
+msgstr "丁寧に断る。"
+
+#: src-en/data/events_sector_og_dawn.xml:1393
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[3]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1395
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1399
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1407
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[2]/text"
+msgstr "攻撃する！"
+
+#: src-en/data/events_sector_og_dawn.xml:1409
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[2]/event/text"
+msgstr "耳を貸さずに即座に武器を起動する。もし生き残る奴がいたとしても、今後連邦の船を簡単に信用することはないだろう。"
+
+#: src-en/data/events_sector_og_dawn.xml:1412
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1420
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[2]/text"
+msgstr "残骸を無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1422
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[2]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1424
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1428
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1436
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_LOADED\"]/text"
+msgstr "何とか時間内に全員を乗せることに成功した。その直後、アステロイドが敵艦を直撃し、急激な減圧が発生する。基地まではあと少しだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:1441
+msgid ""
+"data/events_sector_og_dawn.xml$//triggeredEvent[@name=\"OG_DAWN_DISTRESS_ASTEROID_TRIGGEREDEVENT2\"]/triggeredEventBox/tooltip"
+msgstr "基地への移動時間。"
+
+#: src-en/data/events_sector_og_dawn.xml:1448
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/text"
+msgstr ""
+"到着した。基地にドッキングし、全員が無事に降りる。クルーたちは感謝しきりだ。一人のニュー・ドーン兵士が寄ってくる。「僕を乗組員にしてくれないか？輸送護衛は退屈でね。死ぬかと思うまでは面白かったけどさ」"
+
+#: src-en/data/events_sector_og_dawn.xml:1451
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/choice[1]/text"
+msgstr "乗船を許可する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1453
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/choice[1]/event/text"
+msgstr "新しい乗組員が加わった。"
+
+#: src-en/data/events_sector_og_dawn.xml:1456
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1462
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/choice[2]/text"
+msgstr "丁寧に断る。"
+
+#: src-en/data/events_sector_og_dawn.xml:1477
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_PREIGN_QUEST\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1479
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_PREIGN_QUEST\"]/destroyed/choice/event/text"
+msgstr "残骸を捜索していると奇妙な貨物コンテナを見つけた。側面には目的地まで記されている。回収することにした。"
+
+#: src-en/data/events_sector_og_dawn.xml:1489
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_PREIGN_QUEST\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1491
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_PREIGN_QUEST\"]/deadCrew/choice/event/text"
+msgstr "残骸を捜索していると奇妙な貨物コンテナを見つけた。側面には目的地まで記されている。回収することにした。"
+
+#: src-en/data/events_sector_og_dawn.xml:1501
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/text"
+msgstr "SOSビーコンは近くに停泊するニュー・ドーンの爆撃機から発せられている。スキャンによるとエンジンが大きく損傷しており、動けそうにない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1503
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1505
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/text"
+msgstr ""
+"「ニュー・ドーンじゃないな。だが他を助けているのは噂で聞いている。重要な貨物があるんだ。近くの基地まで運んでくれないか。届けてくれれば相応の報酬は約束する」"
+
+#: src-en/data/events_sector_og_dawn.xml:1507
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[1]/text"
+msgstr "配送を承諾する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1509
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[1]/event/text"
+msgstr "座標と貨物コンテナが転送されてきた。開けるなという警告を受けて出発する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1515
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[2]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1517
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[2]/event/text"
+msgstr "武器を起動する。貨物ごと船を強奪するつもりだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:1520
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1526
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[3]/text"
+msgstr "無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1528
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[3]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1530
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1534
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"3\"]/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1542
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr "君の正体を知ると即座に通信を切られた。味方の救援を期待していたらしい。"
+
+#: src-en/data/events_sector_og_dawn.xml:1546
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[3]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_og_dawn.xml:1548
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[3]/event/text"
+msgstr "武器を起動する。力ずくで船を強奪するつもりだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:1551
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1557
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[4]/text"
+msgstr "無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1559
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[4]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1561
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[4]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1565
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[4]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1583
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/beaconType/unvisitedTooltip"
+msgstr "貨物コンテナの配送先。"
+
+#: src-en/data/events_sector_og_dawn.xml:1586
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/text"
+msgstr "ビーコンに到着すると巨大な軍事施設を発見した。貨物コンテナの目的地は、特定のドッキングポートを指している。"
+
+#: src-en/data/events_sector_og_dawn.xml:1588
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/text"
+msgstr "指定のドッキングポートにドッキングする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1590
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/text"
+msgstr "艦をポートに滑り込ませる。施設に降りようとするが、入り口で止められた。「ここは特別配送専用のポートです。別のポートへ移動してください」"
+
+#: src-en/data/events_sector_og_dawn.xml:1592
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/text"
+msgstr "「いや、我々がその配送クルーだ」"
+
+#: src-en/data/events_sector_og_dawn.xml:1594
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/text"
+msgstr "「ほう、では貨物コンテナはどこだ？」"
+
+#: src-en/data/events_sector_og_dawn.xml:1596
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/text"
+msgstr "(貨物コンテナ) 彼女に貨物コンテナを見せる。"
+
+#: src-en/data/events_sector_og_dawn.xml:1598
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/text"
+msgstr ""
+"「嘘じゃなかったのね。これだわ。持ってきて、ついてきて。すぐそこよ」 "
+"その後、妙な見た目の研究室に案内された。周囲には無人のテーブルがいくつかあるが、中央の少し大きめのテーブルへ促される。"
+
+#: src-en/data/events_sector_og_dawn.xml:1602
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1604
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/text"
+msgstr ""
+"科学者かエンジニアが歩み寄ってくる。「配送だね、完璧だ」 彼はコンテナを開けて中を探る。「ああ素晴らしい、ここにあった」 "
+"彼は奇妙な装置を取り出した。ニュー・ドーンのタレット・プリエナージャイザーに見えるが、改造されているようだ。エンジニアはそれをテーブルに持ち込み、他のコンポーネントと接続し始める。"
+
+#: src-en/data/events_sector_og_dawn.xml:1608
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1610
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/text"
+msgstr ""
+"彼は君の方を向く。誰が相手かは気にしていないようだ。「これぞタレット・プリイグナイター、成功作プリエナージャイザーの強化版だ。組み立てる必要はなかったかもしれないが、最終プロトタイプがあった方が完成した感じがしていいんだよ」"
+
+#: src-en/data/events_sector_og_dawn.xml:1612
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1615
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"直後、基地全体が巨大な爆発で揺れ、サイレンと警報が鳴り響く。エンジニアが近くのコンソールを操作し、外部カメラを表示した。モニターには、近くの星を背にして奇妙な船が浮かんでいる。「やはりな」"
+" "
+"エンジニアが君を向く。「艦長、どんな船を持っている？」「巡洋艦？最高だ。このタレット・プリイグナイターを持って行け。設計図は安全なデータセンターに保存した。だが、現物を彼らの手に渡すわけにはいかない。持って逃げてくれ。何があっても、反乱軍の手に渡してはならないぞ」"
+
+#: src-en/data/events_sector_og_dawn.xml:1619
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1622
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"混乱に巻き込まれて被害が出る前に、必死の思いで艦に戻る。ドッキングを解除して漂流し始めると、敵対艦がこちらに注意を向けた。コクピット中に危険を知らせる警報が鳴り響く。戦闘準備を！"
+
+#: src-en/data/events_sector_og_dawn.xml:1625
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1639
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr "「あー、その、もう持ってないんだ」"
+
+#: src-en/data/events_sector_og_dawn.xml:1641
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
+msgstr "「そうか。なら、エアロックから放り出されたくなければさっさと消えろ」 君は急いで船に戻り、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1644
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1648
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1656
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[2]/text"
+msgstr "「ああ、ごめん。じゃあ行くよ」"
+
+#: src-en/data/events_sector_og_dawn.xml:1658
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[2]/event/text"
+msgstr "船をドッキングポートから移動させ、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1660
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1664
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1672
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[2]/text"
+msgstr "施設を無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1674
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[2]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1676
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1680
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1688
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/text"
+msgstr ""
+"反乱軍の船を撃破し、大量のスクラップを残した。船に搭載されていた奇妙なタレットは、軽い傷だけで済んでいる。驚いたことに、船体を解体中に微かな生命反応を感知した…"
+
+#: src-en/data/events_sector_og_dawn.xml:1692
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1694
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/choice/event/text"
+msgstr ""
+"接近して貨物室を開けると、負傷した反乱軍兵士がいた。近づくと彼はパニックに陥り、鋭い金属片を掴んで自らの胸に突き刺した。君から情報を守るための自殺だろう…だが、何の情報を？"
+
+#: src-en/data/events_sector_og_dawn.xml:1696
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/choice/event/choice/text"
+msgstr "船を調査する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1698
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_LEGION_DEFEAT\"]/choice/event/choice/event/text"
+msgstr ""
+"戦闘中に艦内のデータのほとんどが消去されたようだ。奇妙な慣習だが、彼らは戦い前から自らの運命を知っていたらしい。この艦が何であれ、情報の漏洩を防ぐという明確な命令の下にあったようだ。これが最後の遭遇ではないかもしれないが、それは不確かだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:1719
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_DAWN\"]/text[1]"
+msgstr "宙域にジャンプすると、ニュー・ドーンの艦が接近してきた。通信には一切応じない。戦闘準備を！"
+
+#: src-en/data/events_sector_og_dawn.xml:1720
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_DAWN\"]/text[2]"
+msgstr "到着直後、小型巡洋艦から通信が入る。「なんという幸運だ。個人的な恨みはないが、我々が必要とする情報をお前が持っている！」"
+
+#: src-en/data/events_sector_og_dawn.xml:1721
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_DAWN\"]/text[3]"
+msgstr "このビーコンにいる唯一の他の艦がメッセージを送ってくる。「ついに、数ヶ月待った甲斐があった！罠にかかる者が現れたぞ！」"
+
+#: src-en/data/events_sector_og_dawn.xml:1722
+msgid ""
+"data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_DAWN\"]/text[4]"
+msgstr "ジャンプ完了を認識する間もなく、武器を構えた艦の接近が警告される。"
+
+#: src-en/data/events_sector_og_dawn.xml:1728
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"ENCOUNTER_OG_DAWN_SHIP\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1740
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1748
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1759
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN_RUN\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1767
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN_RUN\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1777
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN_ESCORT\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1786
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_DAWN_ESCORT\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1797
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1805
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1817
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON_RUN\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1825
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON_RUN\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1835
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON_ESCORT\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1844
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_HEIST_IRON_ESCORT\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1855
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/beaconType/unvisitedTooltip"
+msgstr "近くにアイアンウォッチの艦がいるという報告を聞いた。"
+
+#: src-en/data/events_sector_og_dawn.xml:1857
+msgid "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/text"
+msgstr ""
+"ビーコンに到着すると、アイアンウォッチの艦2隻と対峙した。1隻は普通の戦闘機だが、もう1隻は巡洋艦サイズで珍しいデザインだ。この宙域では珍しい光景だ。アイアンウォッチの多くは追い出されたか、ニュー・ドーンへと転向したはずなのだが。"
+
+#: src-en/data/events_sector_og_dawn.xml:1860
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1862
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"通信を始めようとしたその時、コンソールに警報が鳴り響く。別の船が現れた。アイアンウォッチではない。新参者のニュー・ドーン艦が、アイアンウォッチの大型艦にいきなり発砲した。中立だったアイアンウォッチ艦は即座に防衛行動に移り、君がニュー・ドーン側の味方だと決めつけた戦闘機が攻撃を仕掛けてきた。"
+
+#: src-en/data/events_sector_og_dawn.xml:1865
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"2\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1871
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1873
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/text"
+msgstr ""
+"通信を始めようとしたその時、警報が鳴り響く。別の船が現れた。アイアンウォッチではない。新参者のニュー・ドーンの艦2隻が、アイアンウォッチの大型艦にいきなり発砲した。中立だったアイアンウォッチ艦は即座に防衛行動に移った。"
+
+#: src-en/data/events_sector_og_dawn.xml:1876
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/text"
+msgstr "ニュー・ドーンを助ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:1878
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/text"
+msgstr "損傷し敗北寸前のニュー・ドーン戦闘機を守るため接近する。アイアンウォッチの護衛機と彼らの間に割り込み、武器を構える。"
+
+#: src-en/data/events_sector_og_dawn.xml:1881
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1887
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/text"
+msgstr "アイアンウォッチを助ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:1889
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/text"
+msgstr "損傷し敗北寸前のアイアンウォッチの護衛機を守るため接近する。ニュー・ドーン戦闘機と彼らの間に割り込み、武器を構える。"
+
+#: src-en/data/events_sector_og_dawn.xml:1892
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1898
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[3]/text"
+msgstr "混乱に乗じて逃走する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1900
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[3]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1902
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1906
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-1\"]/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1914
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1916
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/text"
+msgstr ""
+"通信を始めようとしたその時、警報が鳴り響く。別の船が現れた。アイアンウォッチではない。新参者のニュー・ドーンの艦2隻が、アイアンウォッチの大型艦にいきなり発砲した。中立だったアイアンウォッチ艦は即座に防衛行動に移った。"
+
+#: src-en/data/events_sector_og_dawn.xml:1919
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[1]/text"
+msgstr "アイアンウォッチを助ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:1921
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[1]/event/text"
+msgstr "損傷し敗北寸前のアイアンウォッチの護衛機を守るため接近する。ニュー・ドーン戦闘機と彼らの間に割り込み、武器を構える。"
+
+#: src-en/data/events_sector_og_dawn.xml:1924
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1930
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[2]/text"
+msgstr "混乱に乗じて逃走する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1932
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[2]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1934
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1938
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-99\"]/event/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1946
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[4]/text"
+msgstr "艦を無視する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1948
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[4]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:1950
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[4]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1954
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[4]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:1962
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_IRON\"]/text"
+msgstr ""
+"周囲の残骸が消える。護衛していたニュー・ドーン機は逃走したらしい。しかし、2隻の主要な巡洋艦は今なお戦闘を続けており、両者とも損傷し、漏出している。ニュー・ドーン巡洋艦が通信してくる。「頼む艦長、我々はもうもたない。参戦して片付けてくれ」"
+
+#: src-en/data/events_sector_og_dawn.xml:1973
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_IRON\"]/choice[1]/text"
+msgstr "ニュー・ドーン巡洋艦を助ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:1977
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_IRON\"]/choice[2]/text"
+msgstr "ニュー・ドーン艦を見捨てる。"
+
+#: src-en/data/events_sector_og_dawn.xml:1981
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_IRON\"]/choice[2]/event/text"
+msgstr "距離を保つ。やがてニュー・ドーン艦は爆発した。アイアンウォッチ艦は損傷した状態で君を恐れ、ジャンプして去っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:1986
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN\"]/text"
+msgstr "激しい砲火を浴びたにも関わらず、アイアンウォッチの艦は緊急ジャンプを起動し、システムが機能停止する直前に虚空へ消えた。"
+
+#: src-en/data/events_sector_og_dawn.xml:1990
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:1992
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/text"
+msgstr ""
+"幸い、ニュー・ドーン巡洋艦は生き残った。「艦長、あなたがいてくれてよかった。助けがなければ全滅していたでしょう。感謝します。さて、これから頼むことはプロトコル違反ですが、我々は手強い相手と戦っています。あなたの助けが必要なのです」「最近、捕らえたアイアンウォッチの輸送船から情報を取り戻しました。我々のデータ保管庫への強盗計画です。準備のために近くに秘密基地を設けているはずですが、まだ見つかっていません。この艦のどちらかが情報を持っていると期待していたのですが」"
+
+#: src-en/data/events_sector_og_dawn.xml:1995
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/choice[1]/text"
+msgstr "協力を承諾し、先に倒したアイアンウォッチ護衛機の方を調べるよう指示する。"
+
+#: src-en/data/events_sector_og_dawn.xml:1997
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/choice[1]/event/text"
+msgstr ""
+"倒した護衛機を調査するよう誘導する。彼らは残骸をサルベージし、無傷のコンソールを探す。数分後、通信が入る。「あったぞ艦長！なんとデータ保管庫と同じ宙域の巨大アステロイドの中に基地を築いていたんだ。残念ながら貨物記録によると、準備はかなり進んでいる。急行せねばならない。位置情報を送る」"
+
+#: src-en/data/events_sector_og_dawn.xml:2002
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/choice[2]/text"
+msgstr "丁寧に断る。先を急ぐ重要な任務があるのだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:2010
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_DAWN\"]/text"
+msgstr ""
+"周囲の残骸が消える。護衛していたアイアンウォッチ機は逃走したらしい。しかし、2隻の巡洋艦は戦闘を続けており、両者とも損傷している。アイアンウォッチ巡洋艦が通信してくる。「頼む艦長、もうもたない。加勢して片付けてくれ」"
+
+#: src-en/data/events_sector_og_dawn.xml:2021
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_DAWN\"]/choice[1]/text"
+msgstr "アイアンウォッチ巡洋艦を助ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:2025
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_DAWN\"]/choice[2]/text"
+msgstr "アイアンウォッチ艦を見捨てる。"
+
+#: src-en/data/events_sector_og_dawn.xml:2029
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_ESCORT_FOLLOWUP_DAWN\"]/choice[2]/event/text"
+msgstr "距離を保つ。やがてアイアンウォッチ艦は爆発した。ニュー・ドーン艦は損傷した状態で君を恐れ、ジャンプして去っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2034
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN\"]/text"
+msgstr "激しい砲火を浴びたにも関わらず、アイアンウォッチの艦は緊急ジャンプを起動し、システムが機能停止する直前に虚空へ消えた。"
+
+#: src-en/data/events_sector_og_dawn.xml:2038
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:2040
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN_CONT\"]/text"
+msgstr ""
+"幸い、アイアンウォッチ巡洋艦は生き残った。「艦長、助けがなければ我々は全滅していました。感謝します。言える立場ではありませんが、どうしてもあなたの力が必要です」「我々はニュー・ドーンのデータ保管庫への襲撃を計画しています。そこにある情報を奪えば戦争で優位に立てる。ですが防御が厳重でね。保管庫の近くに物資と装備を隠して準備を進めています。襲撃に協力してくれませんか？」"
+
+#: src-en/data/events_sector_og_dawn.xml:2043
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN_CONT\"]/choice[1]/text"
+msgstr "協力を承諾する。"
+
+#: src-en/data/events_sector_og_dawn.xml:2045
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN_CONT\"]/choice[1]/event/text"
+msgstr "「素晴らしい！襲撃時に強力な支援が得られることを期待している。場所を送るよ。幸運を、またすぐ会おう」"
+
+#: src-en/data/events_sector_og_dawn.xml:2050
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN_CONT\"]/choice[2]/text"
+msgstr "丁寧に断る。先を急ぐ重要な任務があるのだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:2063
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/beaconType/unvisitedTooltip"
+msgstr "アイアンウォッチ秘密基地の位置。"
+
+#: src-en/data/events_sector_og_dawn.xml:2066
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/text"
+msgstr "待ち合わせ場所に到着すると、ニュー・ドーンの巡洋艦がすでにいた。「来たか艦長。では出発しよう。ついてきて、戦闘準備を！」"
+
+#: src-en/data/events_sector_og_dawn.xml:2068
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/text"
+msgstr "巡洋艦についていく。"
+
+#: src-en/data/events_sector_og_dawn.xml:2070
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/text"
+msgstr ""
+"アステロイドを通り過ぎながら巡洋艦についていく。基地にたどり着く直前まで、そこに基地があるとは気づかなかった。巨大なアステロイドの内部に、岩の層で隠された極めて微弱なセンサー反応がある。基地の場所さえわかれば、入り口を見つけるのは簡単だ。アステロイド内部へと続く自然の洞窟だ。"
+
+#: src-en/data/events_sector_og_dawn.xml:2073
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/text"
+msgstr "巡洋艦に従って中に入る。"
+
+#: src-en/data/events_sector_og_dawn.xml:2075
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"洞窟のような場所に出た。予想より狭いが、コンテナや仮設建造物が詰め込まれている。しかしスキャンすると、基地は無人であり、放棄されていた。ニュー・ドーン艦もそれに気づき、即座に反転する。「艦長、ミスを犯した。やつらはすでにデータ保管庫へ向かったようだ。すぐ戻らねば！」"
+
+#: src-en/data/events_sector_og_dawn.xml:2077
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:2079
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"外に出ると、艦長が言った。「我々はデータ保管庫へ戻る。お前はここに残ってくれ。彼らが近くの別の場所に移動しただけか、最悪の場合、任務を終えて戻ってくる可能性がある。もし誰かが現れたら、データを持ち逃げさせるわけにはいかない。逃がすなよ」"
+" そう言って彼らは去っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2081
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ.."
+
+#: src-en/data/events_sector_og_dawn.xml:2083
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"退屈していたところに船影を探知する。ニュー・ドーン艦が戻ってきたのかと思ったが、先に逃したアイアンウォッチ艦だった。彼らも君を見つけると戦闘準備を整える。だがエンジンの損傷で緊急ジャンプを試みているのがわかる。損傷のせいで数分かかるようだ。今がチャンスだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:2090
+msgid ""
+"data/events_sector_og_dawn.xml$//triggeredEvent[@name=\"OG_DAWN_HEIST_DAWN_TIMER\"]/triggeredEventBox/tooltip"
+msgstr "アイアンウォッチ巡洋艦が緊急ジャンプを実行可能になるまでの時間。"
+
+#: src-en/data/events_sector_og_dawn.xml:2095
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:2107
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/text"
+msgstr "「いや、やっぱり考え直した。揉め事は避けたい」"
+
+#: src-en/data/events_sector_og_dawn.xml:2109
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/event/text"
+msgstr "ニュー・ドーン艦長は失望し、単身去っていった。彼らだけで対抗できる強さがあればいいのだが。"
+
+#: src-en/data/events_sector_og_dawn.xml:2111
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:2115
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:2124
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_FAIL\"]/text"
+msgstr ""
+"艦はジャンプしていった。もし彼らがデータを持っていたなら、もう手遅れだ。君は任務失敗だ。ニュー・ドーンからの連絡はなく、君はまた一人になってしまった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2128
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/text"
+msgstr ""
+"数分後、ニュー・ドーン巡洋艦が到着した。「神に感謝を、よくぞ止めてくれた！保管庫で他の艦は全滅させたが、これだけが網を抜けてしまった。盗んだデータを持っているはずだ。サルベージチームが生存物を回収に向かっている。感謝してもしきれない」「やつらが盗もうとしたものの中に、我々の新型巡洋艦の設計図があった。勝手ながらダウンロードしておいたぞ。二度と悪の手に落ちぬよう頼む。さらに、今すぐ役立つであろうニュー・ドーンの装備も用意した。好きなものを持って行け。戦闘で破壊されたことにしておく」"
+
+#: src-en/data/events_sector_og_dawn.xml:2133
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[1]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2135
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[1]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、データ保管庫へ戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2140
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[2]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2142
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[2]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、データ保管庫へ戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2147
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[3]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2149
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[3]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、データ保管庫へ戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2154
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[4]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2156
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[4]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、データ保管庫へ戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2161
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[5]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2163
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/choice[5]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、データ保管庫へ戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2175
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/beaconType/unvisitedTooltip"
+msgstr "襲撃すべきニュー・ドーンデータ保管庫の位置。"
+
+#: src-en/data/events_sector_og_dawn.xml:2178
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/text"
+msgstr "待ち合わせ場所に到着すると、アイアンウォッチの巡洋艦と小さな艦隊がいた。「来たか艦長。出発しよう。ついてきて、戦闘準備を！」"
+
+#: src-en/data/events_sector_og_dawn.xml:2180
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/text"
+msgstr "巡洋艦についていく。"
+
+#: src-en/data/events_sector_og_dawn.xml:2182
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/text"
+msgstr ""
+"巡洋艦についていくとデータ保管庫を探知した。厳重に防衛された巨大なステーションで、近くの巨大ソーラーアレイが電力を供給している。巡洋艦が通信する。「ついてこい、こっちには主力の襲撃班がいる。他の艦は援護担当だ。何かあったときのために君を控えておきたい」"
+
+#: src-en/data/events_sector_og_dawn.xml:2185
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/text"
+msgstr "「了解、了解した」"
+
+#: src-en/data/events_sector_og_dawn.xml:2187
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"小型艦が先行して防衛側の注意を引き、ステーションのタレットを無力化していく。すべて順調に思えたが、ステーションの裏からニュー・ドーンの大型艦が現れ、こちらへ突進してきた。「あの艦を止めてくれ！こっちはクルーと装備が満載で、対艦戦闘の装備がない。近づけさせるな！」"
+
+#: src-en/data/events_sector_og_dawn.xml:2192
+msgid ""
+"data/events_sector_og_dawn.xml$//triggeredEvent[@name=\"OG_DAWN_HEIST_IRON_TIMER\"]/triggeredEventBox/tooltip"
+msgstr "ニュー・ドーン艦がアイアンウォッチ巡洋艦の射程内に入るまでの時間。"
+
+#: src-en/data/events_sector_og_dawn.xml:2197
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:2205
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/text"
+msgstr "「いや、やっぱり考え直した。揉め事は避けたい」"
+
+#: src-en/data/events_sector_og_dawn.xml:2207
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/event/text"
+msgstr "ニュー・ドーン艦長は失望し、単身去っていった。彼らだけで対抗できる強さがあればいいのだが。"
+
+#: src-en/data/events_sector_og_dawn.xml:2209
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:2213
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:2222
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_FAIL\"]/text"
+msgstr ""
+"ニュー・ドーン艦は君を無視してアイアンウォッチの艦を攻撃し始める。連続砲火を受けて崩壊する様子をただ見ているしかなかった。襲撃は失敗に終わる。アイアンウォッチの戦力は壊滅し、ニュー・ドーンの守備隊がこちらに向かってくる。君は撤退を余儀なくされる。さもなくば破壊されるだけだ。"
+
+#: src-en/data/events_sector_og_dawn.xml:2226
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/text"
+msgstr ""
+"ニュー・ドーンの艦を撃破し、襲撃に障害はなくなった。守備隊が掃討され、アイアンウォッチの艦はステーションを離れる。「大成功だ、礼を言う艦長。君の助けがなければ不可能だった。役に立ちそうなデータを抽出しておいたぞ。さらにニュー・ドーンの装備もいくつか鹵獲した。好きなものを持っていけ」"
+
+#: src-en/data/events_sector_og_dawn.xml:2230
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[1]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2232
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[1]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、本拠地へと戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2237
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[2]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2239
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[2]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、本拠地へと戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2244
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[3]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2246
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[3]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、本拠地へと戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2251
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[4]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2253
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[4]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、本拠地へと戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2258
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[5]/text"
+msgstr "選択:"
+
+#: src-en/data/events_sector_og_dawn.xml:2260
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_WIN_FOLLOWUP\"]/choice[5]/event/text"
+msgstr "ニュー・ドーンのタレットを1つ選び取る。艦長は再度礼を言い、本拠地へと戻っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2270
+msgid ""
+"data/events_sector_og_dawn.xml$//ship[@name=\"SHIP_OG_DAWN_TRANSPORT_LOOT\"]/escape/text"
+msgstr "彼らは戦いたくないようだ。逃走しようとしている。"
+
+#: src-en/data/events_sector_og_dawn.xml:2281
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_dawn.xml:2282
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/beaconType/visitedTooltip"
+msgstr "探索済みの場所。もう興味を引くものはない。"
+
+#: src-en/data/events_sector_og_dawn.xml:2283
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_dawn.xml:2285
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/text"
+msgstr "ビーコンにはニュー・ドーンの輸送船がいる。何らかの特殊技術を運んでいる可能性が高い。乗組員を殺せば、その貨物は君のものになる。"
+
+#: src-en/data/events_sector_og_dawn.xml:2288
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[1]/text"
+msgstr "物資の引き渡しを要求する。"
+
+#: src-en/data/events_sector_og_dawn.xml:2290
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[1]/event/text"
+msgstr "力ずくで貨物を奪う準備をする。"
+
+#: src-en/data/events_sector_og_dawn.xml:2293
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_dawn.xml:2299
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[2]/text"
+msgstr "艦を避ける。"
+
+#: src-en/data/events_sector_og_dawn.xml:2301
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[2]/event/text"
+msgstr "彼らは武器の射程外に留まり、やがてジャンプして去っていった。"
+
+#: src-en/data/events_sector_og_dawn.xml:2303
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_dawn.xml:2307
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_OG_DAWN_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_dawn.xml:2314
+msgid ""
+"data/events_sector_og_dawn.xml$//event[@name=\"TRANSPORT_CAPTURE_OG_DAWN\"]/text"
+msgstr "乗組員は全滅し、船は君のものとなった。貨物は自由にしていい。船内には期待通りの特殊技術があり、君はそれを船に持ち帰る。"

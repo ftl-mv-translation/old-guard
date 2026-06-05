@@ -1,0 +1,573 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:5
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice/text"
+msgstr "タレット制御。"
+
+#: src-en/data/events_special_storage.xml.append:11
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/text"
+msgstr "タレット制御システムで何かを行う。"
+
+#: src-en/data/events_special_storage.xml.append:13
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[1]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:17
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[2]/text"
+msgstr "タレット製造。"
+
+#: src-en/data/events_special_storage.xml.append:21
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"og_turret_adaptive\"]/text"
+msgstr "アダプティブ・タレットスロットを再配置する。"
+
+#: src-en/data/events_special_storage.xml.append:27
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/text"
+msgstr "どのタレットをインストールするか？"
+
+#: src-en/data/events_special_storage.xml.append:29
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/choice/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:35
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/text"
+msgstr "タレットを入れ替えるか？"
+
+#: src-en/data/events_special_storage.xml.append:37
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/choice/text"
+msgstr "空にしておく。"
+
+#: src-en/data/events_special_storage.xml.append:50
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/text"
+msgstr "利用可能な設計図。"
+
+#: src-en/data/events_special_storage.xml.append:52
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:62
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT\"]/text"
+msgstr "必要コスト:"
+
+#: src-en/data/events_special_storage.xml.append:64
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT\"]/choice/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:70
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT_STEP\"]/text"
+msgstr "クラフトコンポーネントを選択。"
+
+#: src-en/data/events_special_storage.xml.append:74
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/text"
+msgstr "タレット製造時、タレットベースは防衛ドローンの代わりに使用可能。ただし、在庫がある場合は防衛ドローンを使うほうが安上がりなことが多い。"
+
+#: src-en/data/events_special_storage.xml.append:76
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[1]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:80
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/text"
+msgstr "レーザータレットベースを作成。"
+
+#: src-en/data/events_special_storage.xml.append:82
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/event/text"
+msgstr "タレットベースを作成した。"
+
+#: src-en/data/events_special_storage.xml.append:88
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:94
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/text"
+msgstr "イオントレットベースを作成。"
+
+#: src-en/data/events_special_storage.xml.append:96
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/event/text"
+msgstr "タレットベースを作成した。"
+
+#: src-en/data/events_special_storage.xml.append:102
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:108
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/text"
+msgstr "ミサイルタレットベースを作成。"
+
+#: src-en/data/events_special_storage.xml.append:110
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/event/text"
+msgstr "タレットベースを作成した。"
+
+#: src-en/data/events_special_storage.xml.append:116
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:122
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/text"
+msgstr "フォーカスタレットベースを作成。"
+
+#: src-en/data/events_special_storage.xml.append:124
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/event/text"
+msgstr "タレットベースを作成した。"
+
+#: src-en/data/events_special_storage.xml.append:130
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:136
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/text"
+msgstr "マイクロタレットベースを作成。"
+
+#: src-en/data/events_special_storage.xml.append:138
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/event/text"
+msgstr "タレットベースを作成した。"
+
+#: src-en/data/events_special_storage.xml.append:144
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:153
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice/text"
+msgstr "タレット制御。"
+
+#: src-en/data/events_special_storage.xml.append:159
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/text"
+msgstr "どのアップグレードをインストールするか？"
+
+#: src-en/data/events_special_storage.xml.append:161
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
+" and @lvl=\"2\"]/text"
+msgstr "オーバークロック・モーター [利用不可: 最大レベルです]"
+
+#: src-en/data/events_special_storage.xml.append:165
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
+" and @lvl=\"1\"]/text"
+msgstr "オーバークロック・モーター LvL 2 [コスト: 35~, 3|]"
+
+#: src-en/data/events_special_storage.xml.append:169
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
+" and @lvl=\"0\"]/text"
+msgstr "オーバークロック・モーター LvL 1 [コスト: 35~, 3|]"
+
+#: src-en/data/events_special_storage.xml.append:173
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
+" and @lvl=\"2\"]/text"
+msgstr "アクセラレーター [利用不可: 最大レベルです]"
+
+#: src-en/data/events_special_storage.xml.append:177
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
+" and @lvl=\"1\"]/text"
+msgstr "アクセラレーター LvL 2 [コスト: 30~, 5}]"
+
+#: src-en/data/events_special_storage.xml.append:181
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
+" and @lvl=\"0\"]/text"
+msgstr "アクセラレーター LvL 1 [コスト: 30~, 5}]"
+
+#: src-en/data/events_special_storage.xml.append:185
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
+" and @lvl=\"1\"]/text"
+msgstr "マニュアル・デクスタリティ [インストール済み]"
+
+#: src-en/data/events_special_storage.xml.append:189
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
+" and @lvl=\"0\"]/text"
+msgstr "マニュアル・デクスタリティ [コスト: 30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:193
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_BUY\"]/text"
+msgstr "拡張回路 [インストール済み]"
+
+#: src-en/data/events_special_storage.xml.append:197
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SHOW\"]/text"
+msgstr "拡張回路 [コスト: 30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:201
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[11]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:206
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/text"
+msgstr ""
+"オーバークロック・モーターをインストールします。\n"
+"\t[効果: タレットの回転速度が50%上昇。2回までインストール可能。]"
+
+#: src-en/data/events_special_storage.xml.append:209
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/text"
+msgstr "アップグレードを実行 [コスト: 35~, 3|]"
+
+#: src-en/data/events_special_storage.xml.append:211
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/event/text"
+msgstr "アップグレードをインストールした。"
+
+#: src-en/data/events_special_storage.xml.append:217
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:223
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/text"
+msgstr "外部オーグメントを内部へインストール。"
+
+#: src-en/data/events_special_storage.xml.append:225
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/event/text"
+msgstr "アップグレードをインストールした。"
+
+#: src-en/data/events_special_storage.xml.append:228
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:234
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"pilot\"]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:245
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/text"
+msgstr ""
+"アクセラレーターをインストールします。\n"
+"\t[効果: タレットの発射体速度が50%上昇。2回までインストール可能。]"
+
+#: src-en/data/events_special_storage.xml.append:248
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/text"
+msgstr "アップグレードを実行 [コスト: 30~, 5}]"
+
+#: src-en/data/events_special_storage.xml.append:250
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/event/text"
+msgstr "アップグレードをインストールした。"
+
+#: src-en/data/events_special_storage.xml.append:256
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:262
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/text"
+msgstr "外部オーグメントを内部へインストール。"
+
+#: src-en/data/events_special_storage.xml.append:264
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/event/text"
+msgstr "アップグレードをインストールした。"
+
+#: src-en/data/events_special_storage.xml.append:267
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:273
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"pilot\"]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:284
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/text"
+msgstr ""
+"マニュアル・デクスタリティをインストールします。\n"
+"\t[効果: 手動照準時、タレット回転速度が180上昇。]"
+
+#: src-en/data/events_special_storage.xml.append:287
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/text"
+msgstr "アップグレードを実行 [コスト: 30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:289
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/event/text"
+msgstr "アップグレードをインストールした。"
+
+#: src-en/data/events_special_storage.xml.append:295
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:301
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/text"
+msgstr "外部オーグメントを内部へインストール。"
+
+#: src-en/data/events_special_storage.xml.append:303
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/event/text"
+msgstr "アップグレードをインストールした。"
+
+#: src-en/data/events_special_storage.xml.append:306
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:312
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"pilot\"]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:323
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/text"
+msgstr ""
+"拡張回路をインストールします。\n"
+"\t[効果: アダプティブ・タレットスロットを拡張し、あらゆるサイズのタレットを装備可能にする。]"
+
+#: src-en/data/events_special_storage.xml.append:326
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/text"
+msgstr "アップグレードを実行 [コスト: 30~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:328
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/event/text"
+msgstr "アップグレードをインストールした。"
+
+#: src-en/data/events_special_storage.xml.append:334
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:340
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/text"
+msgstr "外部オーグメントを内部へインストール。"
+
+#: src-en/data/events_special_storage.xml.append:342
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/event/text"
+msgstr "アップグレードをインストールした。"
+
+#: src-en/data/events_special_storage.xml.append:345
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:351
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"pilot\"]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:363
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[1]/text"
+msgstr "OG: タレット1を選択"
+
+#: src-en/data/events_special_storage.xml.append:365
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_1_START\"]/text"
+msgstr ""
+"キーを押してホットキーを設定。Escでリセット。\n"
+"\t\t\t現在の設定: タレット1を選択"
+
+#: src-en/data/events_special_storage.xml.append:370
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[2]/text"
+msgstr "OG: タレット2を選択"
+
+#: src-en/data/events_special_storage.xml.append:372
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_2_START\"]/text"
+msgstr ""
+"キーを押してホットキーを設定。Escでリセット。\n"
+"\t\t\t現在の設定: タレット2を選択"
+
+#: src-en/data/events_special_storage.xml.append:377
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[3]/text"
+msgstr "OG: タレット3を選択"
+
+#: src-en/data/events_special_storage.xml.append:379
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_3_START\"]/text"
+msgstr ""
+"キーを押してホットキーを設定。Escでリセット。\n"
+"\t\t\t現在の設定: タレット3を選択"
+
+#: src-en/data/events_special_storage.xml.append:384
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[4]/text"
+msgstr "OG: タレット4を選択"
+
+#: src-en/data/events_special_storage.xml.append:386
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_4_START\"]/text"
+msgstr ""
+"キーを押してホットキーを設定。Escでリセット。\n"
+"\t\t\t現在の設定: タレット4を選択"
+
+#: src-en/data/events_special_storage.xml.append:391
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[5]/text"
+msgstr "OG: タレット5を選択"
+
+#: src-en/data/events_special_storage.xml.append:393
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_5_START\"]/text"
+msgstr ""
+"キーを押してホットキーを設定。Escでリセット。\n"
+"\t\t\t現在の設定: タレット5を選択"
+
+#: src-en/data/events_special_storage.xml.append:398
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[6]/text"
+msgstr "OG: タレット6を選択"
+
+#: src-en/data/events_special_storage.xml.append:400
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_6_START\"]/text"
+msgstr ""
+"キーを押してホットキーを設定。Escでリセット。\n"
+"\t\t\t現在の設定: タレット6を選択"
+
+#: src-en/data/events_special_storage.xml.append:405
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[7]/text"
+msgstr "OG: タレット7を選択"
+
+#: src-en/data/events_special_storage.xml.append:407
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_7_START\"]/text"
+msgstr ""
+"キーを押してホットキーを設定。Escでリセット。\n"
+"\t\t\t現在の設定: タレット7を選択"
+
+#: src-en/data/events_special_storage.xml.append:412
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
+"append:choice[8]/text"
+msgstr "OG: タレット8を選択"
+
+#: src-en/data/events_special_storage.xml.append:414
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_8_START\"]/text"
+msgstr ""
+"キーを押してホットキーを設定。Escでリセット。\n"
+"\t\t\t現在の設定: タレット8を選択"
+
+#: src-en/data/events_special_storage.xml.append:421
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice/text"
+msgstr "タレット制御チュートリアルを再有効化。"
+
+#: src-en/data/events_special_storage.xml.append:431
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
+"append:choice/text"
+msgstr "(ドライブハッカー) Old Guard MVの艦を召喚する。"
+
+#: src-en/data/events_special_storage.xml.append:443
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/text"
+msgstr "召喚可能な艦を確認する。MVボスを召喚するには7{が必要。"
+
+#: src-en/data/events_special_storage.xml.append:445
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/text"
+msgstr "急襲型 C - ライトチャージャータレットをドロップ"
+
+#: src-en/data/events_special_storage.xml.append:447
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/event/text"
+msgstr "マシンを最大出力まで稼働させる。亀裂が開いて船が揺れ、突然電源が落ちる。緑色の点滅灯と一連の座標が、成功を告げている。"
+
+#: src-en/data/events_special_storage.xml.append:455
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[2]/text"
+msgstr "何でもない、他のことをする。"
+
+#: src-en/data/events_special_storage.xml.append:462
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
+"append:choice/text"
+msgstr "(貨物コンテナ) 貨物コンテナを開ける。"
+
+#: src-en/data/events_special_storage.xml.append:467
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/text"
+msgstr "本当に行うか？配送先の相手は満足しないだろう。"
+
+#: src-en/data/events_special_storage.xml.append:469
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/text"
+msgstr "やる！"
+
+#: src-en/data/events_special_storage.xml.append:471
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/event/text"
+msgstr ""
+"コンテナを開けると、部品やパーツが山積みにされていた。使えるのは半分解体されたタレット・プリエナージャイザーだけで、なんとか修復して使える状態にできた。残りはゴミ同然だ。"
+
+#: src-en/data/events_special_storage.xml.append:477
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[2]/text"
+msgstr "何でもない。"
+
+#: src-en/data/events_special_storage.xml.append:483
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_SCRAMBLER\"]/mod-"
+"append:choice/text"
+msgstr "[追加効果: 敵タレットが混乱し、防御時の精度が大幅に低下する]"

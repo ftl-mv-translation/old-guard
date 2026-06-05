@@ -1,0 +1,71 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_droppoint.xml.append:7
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/text"
+msgstr "これほど人口の多い宙域にアイアンウォッチの艦がいることに驚く。普段は文明圏の辺縁部に留まっているはずなのだが。"
+
+#: src-en/data/events_sector_droppoint.xml.append:10
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/text"
+msgstr "艦に通信する。"
+
+#: src-en/data/events_sector_droppoint.xml.append:12
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/text"
+msgstr "「航法システムが故障して迷子になってしまった。出口ビーコンの方向を教えてくれないか？」"
+
+#: src-en/data/events_sector_droppoint.xml.append:14
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[1]/text"
+msgstr "出口へ案内する。"
+
+#: src-en/data/events_sector_droppoint.xml.append:16
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[1]/event/text"
+msgstr "彼らはわずかな補給物資をお礼として提供し、去っていった。"
+
+#: src-en/data/events_sector_droppoint.xml.append:22
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
+msgstr "(エンジニアクルー) 航法システムの修理を申し出る。"
+
+#: src-en/data/events_sector_droppoint.xml.append:24
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON_REPAIR\"]/text"
+msgstr "彼らは支援に非常に感謝しており、お礼として補給物資を寄贈してくれた。"
+
+#: src-en/data/events_sector_droppoint.xml.append:28
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON_REPAIR\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_droppoint.xml.append:34
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGI\"]/text"
+msgstr "(エンジクルー) 航法システムの修理を申し出る。"
+
+#: src-en/data/events_sector_droppoint.xml.append:40
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/text"
+msgstr "艦を無視する。"
+
+#: src-en/data/events_sector_droppoint.xml.append:42
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/event/text"
+msgstr "次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_droppoint.xml.append:44
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_droppoint.xml.append:48
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"DROPPOINT_OG_IRON\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"

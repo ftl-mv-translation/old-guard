@@ -1,0 +1,1953 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:4
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION_ENEMY\"]/title"
+msgstr "オーバークロック・モーター"
+
+#: src-en/data/blueprints.xml.append:5
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION_ENEMY\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:11
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION\"]/title"
+msgstr "オーバークロック・モーター"
+
+#: src-en/data/blueprints.xml.append:12
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/title"
+msgstr "オーバークロック・モーター [X]"
+
+#: src-en/data/blueprints.xml.append:20
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/desc"
+msgstr ""
+"タレットの回転速度が50%上昇。\n"
+"\t\n"
+"\t[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ使用します。タレット制御システムを装備している場合、内部アップグレードメニューから無料で内部バージョンに変換可能です。"
+
+#: src-en/data/blueprints.xml.append:30
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_SPEED\"]/title"
+msgstr "アクセラレーター"
+
+#: src-en/data/blueprints.xml.append:31
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_SPEED\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:38
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/title"
+msgstr "アクセラレーター [X]"
+
+#: src-en/data/blueprints.xml.append:39
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/desc"
+msgstr ""
+"タレットの発射体の速度が50%上昇。\n"
+"\t\n"
+"\t[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ使用します。タレット制御システムを装備している場合、内部アップグレードメニューから無料で内部バージョンに変換可能です。"
+
+#: src-en/data/blueprints.xml.append:49
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_MANUAL\"]/title"
+msgstr "マニュアル・デクスタリティ"
+
+#: src-en/data/blueprints.xml.append:50
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_MANUAL\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:57
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/title"
+msgstr "マニュアル・デクスタリティ [X]"
+
+#: src-en/data/blueprints.xml.append:58
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/desc"
+msgstr ""
+"手動照準時、タレットの回転速度が180上昇。\n"
+"\t\n"
+"\t[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ使用します。タレット制御システムを装備している場合、内部アップグレードメニューから無料で内部バージョンに変換可能です。"
+
+#: src-en/data/blueprints.xml.append:68
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/title"
+msgstr "拡張回路"
+
+#: src-en/data/blueprints.xml.append:69
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:76
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/title"
+msgstr "拡張回路 [X]"
+
+#: src-en/data/blueprints.xml.append:77
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
+msgstr ""
+"アダプティブ・タレットスロットを拡張し、あらゆるサイズのタレットを装備可能にする。\n"
+"\t\n"
+"\t[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ使用します。タレット制御システムを装備している場合、内部アップグレードメニューから無料で内部バージョンに変換可能です。"
+
+#: src-en/data/blueprints.xml.append:87
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
+msgstr "タレット制御"
+
+#: src-en/data/blueprints.xml.append:88
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/desc"
+msgstr "自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。"
+
+#: src-en/data/blueprints.xml.append:105
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_2\"]/title"
+msgstr "タレット制御"
+
+#: src-en/data/blueprints.xml.append:106
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_2\"]/desc"
+msgstr "自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。"
+
+#: src-en/data/blueprints.xml.append:123
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_3\"]/title"
+msgstr "タレット制御"
+
+#: src-en/data/blueprints.xml.append:124
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_3\"]/desc"
+msgstr "自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。"
+
+#: src-en/data/blueprints.xml.append:141
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_4\"]/title"
+msgstr "タレット制御"
+
+#: src-en/data/blueprints.xml.append:142
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_4\"]/desc"
+msgstr "自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。"
+
+#: src-en/data/blueprints.xml.append:159
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/title"
+msgstr "マイクロ・タレット制御"
+
+#: src-en/data/blueprints.xml.append:160
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/desc"
+msgstr "自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。"
+
+#: src-en/data/blueprints.xml.append:174
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/title"
+msgstr "マイクロ・タレット制御"
+
+#: src-en/data/blueprints.xml.append:175
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/desc"
+msgstr "自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。"
+
+#: src-en/data/blueprints.xml.append:189
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/title"
+msgstr "マイクロ・タレット制御"
+
+#: src-en/data/blueprints.xml.append:190
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/desc"
+msgstr "自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。"
+
+#: src-en/data/blueprints.xml.append:204
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/title"
+msgstr "マイクロ・タレット制御"
+
+#: src-en/data/blueprints.xml.append:205
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/desc"
+msgstr "自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。"
+
+#: src-en/data/blueprints.xml.append:219
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/title"
+msgstr "アダプティブ・タレット制御"
+
+#: src-en/data/blueprints.xml.append:220
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
+msgstr ""
+"自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。非戦闘時には最適な配置に変更可能で、内部アップグレードメニューから大型タレットスロットへ拡張可能。"
+
+#: src-en/data/blueprints.xml.append:240
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/title"
+msgstr "ニュー・ドーン貨物コンテナ"
+
+#: src-en/data/blueprints.xml.append:241
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/short"
+msgstr "貨物コンテナ"
+
+#: src-en/data/blueprints.xml.append:242
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/desc"
+msgstr "奇妙な貨物コンテナ。中身は不明で、暇があれば開けられそうだが、配送先の人物はそれを良しとしないだろう。"
+
+#: src-en/data/blueprints.xml.append:259
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/title"
+msgstr "ピアスレーザー MK I"
+
+#: src-en/data/blueprints.xml.append:260
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/short"
+msgstr "ピアス I"
+
+#: src-en/data/blueprints.xml.append:262
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/desc"
+msgstr "特殊な鹵獲兵器。インベントリのツールチップで、基本バージョンからの強化点を確認できる。"
+
+#: src-en/data/blueprints.xml.append:301
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/desc"
+msgstr ""
+"修理に長けたアイアンウォッチの技術者。\n"
+"\n"
+"\t人間由来のステータス：窒息耐性（小）、スキル習得速度上昇"
+
+#: src-en/data/blueprints.xml.append:305
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/title"
+msgstr "アイアンウォッチ急襲機"
+
+#: src-en/data/blueprints.xml.append:306
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/short"
+msgstr "急襲者"
+
+#: src-en/data/blueprints.xml.append:309
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[1]"
+msgstr "パルサーやイオンスタームの存在する宙域で、占有中のシステムに電力を2供給する"
+
+#: src-en/data/blueprints.xml.append:310
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[2]"
+msgstr "星雲内において隣接する部屋を表示する"
+
+#: src-en/data/blueprints.xml.append:311
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[3]"
+msgstr "修理速度1.25倍"
+
+#: src-en/data/blueprints.xml.append:312
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[4]"
+msgstr "火災によるダメージ0.6倍"
+
+#: src-en/data/blueprints.xml.append:337
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/desc"
+msgstr ""
+"ニュー・ドーンの兵士。行動によってチャージが消費される個人用クローキングデバイスを装備。\n"
+"\n"
+"\t人間由来のステータス：窒息耐性（小）、スキル習得速度上昇"
+
+#: src-en/data/blueprints.xml.append:341
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/title"
+msgstr "ニュー・ドーン兵士"
+
+#: src-en/data/blueprints.xml.append:342
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/short"
+msgstr "ドーン兵士"
+
+#: src-en/data/blueprints.xml.append:345
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[1]"
+msgstr "アクティブアビリティ：クロークして敵クルーから隠れる。クローク中はダメージが増加し、クロークの持続時間は時間ではなく行動によって減少する。"
+
+#: src-en/data/blueprints.xml.append:346
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[2]"
+msgstr "クルー戦闘のダメージ0.7倍、火災のダメージ0.6倍"
+
+#: src-en/data/blueprints.xml.append:379
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/title"
+msgstr "レーザータレットベース"
+
+#: src-en/data/blueprints.xml.append:380
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/short"
+msgstr "レーザーベース"
+
+#: src-en/data/blueprints.xml.append:381
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/desc"
+msgstr ""
+"製造に使用可能:\n"
+"[バーストレーザータレット]\n"
+"[ヘビーレーザータレット]\n"
+"[???]\n"
+"[???]"
+
+#: src-en/data/blueprints.xml.append:403
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/title"
+msgstr "イオントレットベース"
+
+#: src-en/data/blueprints.xml.append:404
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/short"
+msgstr "イオンベース"
+
+#: src-en/data/blueprints.xml.append:405
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/desc"
+msgstr ""
+"製造に使用可能:\n"
+"[イオンバラージタレット]\n"
+"[ファイアイオンタレット]"
+
+#: src-en/data/blueprints.xml.append:425
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/title"
+msgstr "ミサイルタレットベース"
+
+#: src-en/data/blueprints.xml.append:426
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/short"
+msgstr "ミサイルベース"
+
+#: src-en/data/blueprints.xml.append:427
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/desc"
+msgstr ""
+"製造に使用可能:\n"
+"[スウォームミサイルタレット]\n"
+"[クアッドミサイルタレット]\n"
+"[フラックタレット]"
+
+#: src-en/data/blueprints.xml.append:448
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/title"
+msgstr "フォーカスタレットベース"
+
+#: src-en/data/blueprints.xml.append:449
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/short"
+msgstr "フォーカスベース"
+
+#: src-en/data/blueprints.xml.append:450
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/desc"
+msgstr ""
+"製造に使用可能:\n"
+"[ピンポイントタレット]"
+
+#: src-en/data/blueprints.xml.append:469
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/title"
+msgstr "マイクロタレットベース"
+
+#: src-en/data/blueprints.xml.append:470
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/short"
+msgstr "マイクロベース"
+
+#: src-en/data/blueprints.xml.append:471
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/desc"
+msgstr ""
+"製造に使用可能:\n"
+"[マイクロレーザータレット]\n"
+"[ライトレーザータレット]\n"
+"[マイクロイオンタレット]\n"
+"[マイクロピンポイントタレット]"
+
+#: src-en/data/blueprints.xml.append:494
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/title"
+msgstr "??? タレット"
+
+#: src-en/data/blueprints.xml.append:495
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/short"
+msgstr "???"
+
+#: src-en/data/blueprints.xml.append:496
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/desc"
+msgstr "この設計図を解読するには、さらなるクラフトコンポーネントが必要だ。"
+
+#: src-en/data/blueprints.xml.append:518
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/title"
+msgstr "バーストレーザータレット"
+
+#: src-en/data/blueprints.xml.append:519
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/short"
+msgstr "バーストL."
+
+#: src-en/data/blueprints.xml.append:520
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/desc"
+msgstr "標準的なバーストレーザータレット。攻撃と防御のバランスに優れた、安価で効率的な兵器。"
+
+#: src-en/data/blueprints.xml.append:539
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/title"
+msgstr "ヘビーレーザータレット"
+
+#: src-en/data/blueprints.xml.append:540
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/short"
+msgstr "ヘビーL."
+
+#: src-en/data/blueprints.xml.append:541
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/desc"
+msgstr "ヘビーレーザータレットは回転速度が遅く、対空防御には向かないが、敵艦への攻撃には優れている。"
+
+#: src-en/data/blueprints.xml.append:560
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/title"
+msgstr "旧式バーストレーザータレット"
+
+#: src-en/data/blueprints.xml.append:561
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/short"
+msgstr "旧式バーストL."
+
+#: src-en/data/blueprints.xml.append:562
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/desc"
+msgstr "標準的なバーストレーザータレット。攻撃と防御のバランスに優れた安価な兵器だが、老朽化により精度が低下している。"
+
+#: src-en/data/blueprints.xml.append:581
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/title"
+msgstr "ライトチャージャータレット"
+
+#: src-en/data/blueprints.xml.append:582
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/short"
+msgstr "ライトC."
+
+#: src-en/data/blueprints.xml.append:583
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/desc"
+msgstr "高チャージ数と高速回転により、自艦防御に極めて高い効果を発揮する特殊なライトレーザータレット。"
+
+#: src-en/data/blueprints.xml.append:602
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/title"
+msgstr "カオス・ライトチャージャータレット"
+
+#: src-en/data/blueprints.xml.append:603
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/short"
+msgstr "カオス・ライトC.™"
+
+#: src-en/data/blueprints.xml.append:604
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/desc"
+msgstr ""
+"高チャージ数と高速回転により、自艦防御に極めて高い効果を発揮する特殊なライトレーザータレット。\n"
+"カオス版は回転速度が5倍で、あらゆる発射体を標的にできる。"
+
+#: src-en/data/blueprints.xml.append:624
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/title"
+msgstr "ハービンジャータレット"
+
+#: src-en/data/blueprints.xml.append:625
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/short"
+msgstr "ハービンジャー"
+
+#: src-en/data/blueprints.xml.append:626
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/desc"
+msgstr "オベリスクが製造した驚異的に強力なレーザータレット。通常のタレット以上の混乱を敵にもたらす。"
+
+#: src-en/data/blueprints.xml.append:645
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/title"
+msgstr "ヴィンディケータタレット"
+
+#: src-en/data/blueprints.xml.append:646
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/short"
+msgstr "ヴィンディケータ"
+
+#: src-en/data/blueprints.xml.append:647
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/desc"
+msgstr "一撃食らえば、もう終わりだ。"
+
+#: src-en/data/blueprints.xml.append:666
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/title"
+msgstr "ゼニス・レーザータレット"
+
+#: src-en/data/blueprints.xml.append:667
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/short"
+msgstr "ゼニスL."
+
+#: src-en/data/blueprints.xml.append:668
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/desc"
+msgstr "エーテル駆動の致命的なレーザータレット。標準的なヘビーレーザータレットと比較しても甚大なダメージを与える。"
+
+#: src-en/data/blueprints.xml.append:687
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/title"
+msgstr "放射線レーザータレット"
+
+#: src-en/data/blueprints.xml.append:688
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/short"
+msgstr "放射線L."
+
+#: src-en/data/blueprints.xml.append:689
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/desc"
+msgstr ""
+"高い生体ダメージを与えクルーを無力化する特殊タレット。システムや船体にはダメージを与えないが、敵レーザーを撃ち落とす防御役として極めて有能。"
+
+#: src-en/data/blueprints.xml.append:708
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/title"
+msgstr "ピアスレーザータレット"
+
+#: src-en/data/blueprints.xml.append:709
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/short"
+msgstr "ピアスL."
+
+#: src-en/data/blueprints.xml.append:710
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/desc"
+msgstr "シールド層を突き抜ける能力を持った特殊レーザータレット。"
+
+#: src-en/data/blueprints.xml.append:729
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/title"
+msgstr "対船体レーザータレット"
+
+#: src-en/data/blueprints.xml.append:730
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/short"
+msgstr "船体L."
+
+#: src-en/data/blueprints.xml.append:731
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/desc"
+msgstr "システムのない部屋に対して高いダメージを与える、軍事用に設計されたレーザータレット。"
+
+#: src-en/data/blueprints.xml.append:750
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/title"
+msgstr "チェーンバルカンタレット"
+
+#: src-en/data/blueprints.xml.append:751
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/short"
+msgstr "バルカン"
+
+#: src-en/data/blueprints.xml.append:752
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/desc"
+msgstr "ウォームアップに時間はかかるが、連射するごとにクールダウンが短縮され、最終的にはどんなシールドも無力化できる。"
+
+#: src-en/data/blueprints.xml.append:771
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/title"
+msgstr "粒子加速タレット"
+
+#: src-en/data/blueprints.xml.append:772
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/short"
+msgstr "粒子加速A."
+
+#: src-en/data/blueprints.xml.append:773
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/desc"
+msgstr "システムに甚大なダメージを与える流線型の弾を放つ。クルーや船体には無害で、シールドも破壊できない。"
+
+#: src-en/data/blueprints.xml.append:792
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/title"
+msgstr "ガトリングタレット"
+
+#: src-en/data/blueprints.xml.append:793
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/short"
+msgstr "ガトリング"
+
+#: src-en/data/blueprints.xml.append:794
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/desc"
+msgstr "ウォームアップに非常に時間はかかるが、敵に地獄を見せてやれる！"
+
+#: src-en/data/blueprints.xml.append:813
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/title"
+msgstr "'リフトウェーカー'タレット"
+
+#: src-en/data/blueprints.xml.append:814
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/short"
+msgstr "'リフトウェーカー'"
+
+#: src-en/data/blueprints.xml.append:815
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/desc"
+msgstr "かつてシルヴァンだけが携えていた強力な戦争兵器。今では君の手にある。強欲で残忍な裏切り者め。"
+
+#: src-en/data/blueprints.xml.append:837
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/title"
+msgstr "イオンバラージタレット"
+
+#: src-en/data/blueprints.xml.append:838
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/short"
+msgstr "イオンB."
+
+#: src-en/data/blueprints.xml.append:839
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/desc"
+msgstr "イオントレットはドローン排除に優れ、船体ダメージなしでシステムを無効化できる。これはチャージと発射が非常に高速。"
+
+#: src-en/data/blueprints.xml.append:858
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_2\"]/title"
+msgstr "ファイアイオントレット"
+
+#: src-en/data/blueprints.xml.append:859
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_2\"]/short"
+msgstr "火炎I."
+
+#: src-en/data/blueprints.xml.append:860
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_2\"]/desc"
+msgstr "イオントレットはドローン排除に優れ、船体ダメージなしでシステムを無効化できる。これは着弾したシステムに火災を引き起こす。"
+
+#: src-en/data/blueprints.xml.append:879
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/title"
+msgstr "エネルギーキャノンタレット"
+
+#: src-en/data/blueprints.xml.append:880
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/short"
+msgstr "エネルギーC."
+
+#: src-en/data/blueprints.xml.append:881
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/desc"
+msgstr "システムを無効化しつつ、船体にもダメージを与えられるエネルギー兵器。"
+
+#: src-en/data/blueprints.xml.append:903
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/title"
+msgstr "クリスタルバーストタレット"
+
+#: src-en/data/blueprints.xml.append:904
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/short"
+msgstr "クリスタル"
+
+#: src-en/data/blueprints.xml.append:905
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/desc"
+msgstr "シールド貫通クリスタルを2発発射する改良型発射体タレット。"
+
+#: src-en/data/blueprints.xml.append:924
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/title"
+msgstr "エリート・クリスタルバーストタレット"
+
+#: src-en/data/blueprints.xml.append:925
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/short"
+msgstr "€ クリスタル"
+
+#: src-en/data/blueprints.xml.append:926
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/desc"
+msgstr "シールド貫通クリスタルを2発発射する改良型発射体タレット。常にロックダウンを付与し、シールドを2枚貫通するエリート版。"
+
+#: src-en/data/blueprints.xml.append:948
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/title"
+msgstr "スウォームミサイルタレット"
+
+#: src-en/data/blueprints.xml.append:949
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/short"
+msgstr "スウォームM."
+
+#: src-en/data/blueprints.xml.append:950
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/desc"
+msgstr "小型で高速なミサイルの群れを放ち標的を追尾する。防御には優れるが、敵システムへの攻撃には向かない。"
+
+#: src-en/data/blueprints.xml.append:969
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/title"
+msgstr "クアッドミサイルタレット"
+
+#: src-en/data/blueprints.xml.append:970
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/short"
+msgstr "クアッドM."
+
+#: src-en/data/blueprints.xml.append:971
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/desc"
+msgstr "チャージは遅いが、敵艦に高いダメージを与えられる。敵ドローンや固体発射体に対してもそこそこ有効。"
+
+#: src-en/data/blueprints.xml.append:990
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/title"
+msgstr "ヘビーカーネルタレット"
+
+#: src-en/data/blueprints.xml.append:991
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/short"
+msgstr "ヘビーK."
+
+#: src-en/data/blueprints.xml.append:992
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/desc"
+msgstr "オーキッドの母星の巨大植物の種子を弾薬として使用する。ミサイル同様の挙動をするが、弾薬コストが半分。"
+
+#: src-en/data/blueprints.xml.append:1010
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/title"
+msgstr "ソーラーカーネルタレット"
+
+#: src-en/data/blueprints.xml.append:1011
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/short"
+msgstr "ソーラーK."
+
+#: src-en/data/blueprints.xml.append:1012
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/desc"
+msgstr "オーキッドの母星の巨大植物の種子を弾薬として使用する。この改良型カーネル兵器は船体破壊の代わりに火災を引き起こす。"
+
+#: src-en/data/blueprints.xml.append:1034
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/title"
+msgstr "フラックタレット"
+
+#: src-en/data/blueprints.xml.append:1035
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/short"
+msgstr "フラック"
+
+#: src-en/data/blueprints.xml.append:1036
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
+msgstr "強力なフラックタレット。防御と攻撃の両方で、驚異的な一斉射撃を放てる。"
+
+#: src-en/data/blueprints.xml.append:1054
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/title"
+msgstr "放射線フラックタレット"
+
+#: src-en/data/blueprints.xml.append:1055
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/short"
+msgstr "放射線フラック"
+
+#: src-en/data/blueprints.xml.append:1056
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/desc"
+msgstr "放射線弾を4発放ち、通常の船体ダメージに加え、高いクルーダメージを与える。船体を侵食して亀裂を生じさせることもある。"
+
+#: src-en/data/blueprints.xml.append:1078
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/title"
+msgstr "ピンポイントタレット"
+
+#: src-en/data/blueprints.xml.append:1079
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/short"
+msgstr "ピンポイント"
+
+#: src-en/data/blueprints.xml.append:1080
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/desc"
+msgstr "ほぼ瞬時に破壊できるため、敵ミサイルに対する防御として極めて有効。"
+
+#: src-en/data/blueprints.xml.append:1099
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/title"
+msgstr "放射線ピンポイントタレット"
+
+#: src-en/data/blueprints.xml.append:1100
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/short"
+msgstr "放射線P."
+
+#: src-en/data/blueprints.xml.append:1101
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/desc"
+msgstr "甚大なクルーダメージを与え敵を無力化する、強力な改良型ピンポイントタレット。船体ダメージはないがシールドを2枚貫通する。"
+
+#: src-en/data/blueprints.xml.append:1120
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/title"
+msgstr "チェーンピンポイントタレット"
+
+#: src-en/data/blueprints.xml.append:1121
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/short"
+msgstr "チェーンP."
+
+#: src-en/data/blueprints.xml.append:1122
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/desc"
+msgstr "ダメージは控えめだが、連射速度が急速に上昇し、シールドの落ちた敵を壊滅させる。"
+
+#: src-en/data/blueprints.xml.append:1144
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/title"
+msgstr "マイクロレーザータレット"
+
+#: src-en/data/blueprints.xml.append:1145
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/short"
+msgstr "マイクロL."
+
+#: src-en/data/blueprints.xml.append:1146
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/desc"
+msgstr "これ単体で敵艦に対抗するのは難しいが、高速回転により防御兵器として機能する。"
+
+#: src-en/data/blueprints.xml.append:1165
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/title"
+msgstr "旧式マイクロレーザータレット"
+
+#: src-en/data/blueprints.xml.append:1166
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/short"
+msgstr "旧式マイクロL."
+
+#: src-en/data/blueprints.xml.append:1167
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/desc"
+msgstr "これ単体で敵艦に対抗するのは難しいが、高速回転により防御兵器として機能する。"
+
+#: src-en/data/blueprints.xml.append:1186
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/title"
+msgstr "ライトレーザータレット"
+
+#: src-en/data/blueprints.xml.append:1187
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/short"
+msgstr "ライトL."
+
+#: src-en/data/blueprints.xml.append:1188
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/desc"
+msgstr "システムダメージを与えられないため、シールド抑制と防御に適している。"
+
+#: src-en/data/blueprints.xml.append:1210
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/title"
+msgstr "マイクロイオントレット"
+
+#: src-en/data/blueprints.xml.append:1211
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/short"
+msgstr "マイクロI."
+
+#: src-en/data/blueprints.xml.append:1212
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/desc"
+msgstr "ドローン防御に有効でありつつ、自艦の攻撃支援もこなせる。"
+
+#: src-en/data/blueprints.xml.append:1234
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/title"
+msgstr "マイクロピンポイントタレット"
+
+#: src-en/data/blueprints.xml.append:1235
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/short"
+msgstr "マイクロP."
+
+#: src-en/data/blueprints.xml.append:1236
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/desc"
+msgstr "小型のため敵艦へのダメージには支援が必要だが、敵ミサイルに対する迎撃能力は健在。"
+
+#: src-en/data/blueprints.xml.append:1258
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/title"
+msgstr "マイクロフラックタレット"
+
+#: src-en/data/blueprints.xml.append:1259
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/short"
+msgstr "マイクロF."
+
+#: src-en/data/blueprints.xml.append:1260
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/desc"
+msgstr "小型のフラックタレット。防御と攻撃の両方で一斉射撃を放てる。"
+
+#: src-en/data/blueprints.xml.append:1282
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/title"
+msgstr "マイクロミサイルタレット"
+
+#: src-en/data/blueprints.xml.append:1283
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/short"
+msgstr "マイクロM."
+
+#: src-en/data/blueprints.xml.append:1284
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/desc"
+msgstr "発射コストは高いが、強力な攻撃と防御の支援を提供する。"
+
+#: src-en/data/blueprints.xml.append:1306
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/title"
+msgstr "ドーン・ヘビーレーザータレット"
+
+#: src-en/data/blueprints.xml.append:1307
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/short"
+msgstr "€ ヘビーL."
+
+#: src-en/data/blueprints.xml.append:1308
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/desc"
+msgstr ""
+"ヘビーレーザータレットは回転速度が遅く防御には向かないが、敵艦への攻撃には優れる。\n"
+"ニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
+
+#: src-en/data/blueprints.xml.append:1328
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/title"
+msgstr "ドーン・ファイアイオントレット"
+
+#: src-en/data/blueprints.xml.append:1329
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/short"
+msgstr "€ 火炎I."
+
+#: src-en/data/blueprints.xml.append:1330
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/desc"
+msgstr ""
+"イオントレットはドローン排除に優れ、船体ダメージなしでシステムを無効化できる。これは着弾したシステムに火災を引き起こす。\n"
+"ニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
+
+#: src-en/data/blueprints.xml.append:1350
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/title"
+msgstr "ドーン・デュアルミサイルタレット"
+
+#: src-en/data/blueprints.xml.append:1351
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/short"
+msgstr "€ デュアルM."
+
+#: src-en/data/blueprints.xml.append:1352
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/desc"
+msgstr ""
+"チャージは遅いが、敵艦に高いダメージを与えられる。敵ドローンや固体発射体に対してもそこそこ有効。\n"
+"ニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
+
+#: src-en/data/blueprints.xml.append:1372
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/title"
+msgstr "ドーン・フラックタレット"
+
+#: src-en/data/blueprints.xml.append:1373
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/short"
+msgstr "€ フラック"
+
+#: src-en/data/blueprints.xml.append:1374
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
+msgstr ""
+"強力なフラックタレット。防御と攻撃の両方で、驚異的な一斉射撃を放てる。\n"
+"ニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
+
+#: src-en/data/blueprints.xml.append:1394
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/title"
+msgstr "ドーン・ピンポイントタレット"
+
+#: src-en/data/blueprints.xml.append:1395
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/short"
+msgstr "€ ピンポイント"
+
+#: src-en/data/blueprints.xml.append:1396
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/desc"
+msgstr ""
+"ほぼ瞬時に破壊できるため、敵ミサイルに対する防御として極めて有効。\n"
+"ニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
+
+#: src-en/data/blueprints.xml.append:1416
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/title"
+msgstr "ドーン・マイクロレーザータレット"
+
+#: src-en/data/blueprints.xml.append:1417
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/short"
+msgstr "€ マイクロL."
+
+#: src-en/data/blueprints.xml.append:1418
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/desc"
+msgstr ""
+"これ単体で敵艦に対抗するのは難しいが、高速回転により防御兵器として機能する。\n"
+"ニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
+
+#: src-en/data/blueprints.xml.append:1438
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/title"
+msgstr "ドーン・ライトレーザータレット"
+
+#: src-en/data/blueprints.xml.append:1439
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/short"
+msgstr "€ ライトL."
+
+#: src-en/data/blueprints.xml.append:1440
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
+msgstr ""
+"システムダメージを与えられないため、シールド抑制と防御に適している。\n"
+"ニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
+
+#: src-en/data/blueprints.xml.append:1460
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/title"
+msgstr "ドーン・マイクロピンポイントタレット"
+
+#: src-en/data/blueprints.xml.append:1461
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/short"
+msgstr "€ マイクロP."
+
+#: src-en/data/blueprints.xml.append:1462
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/desc"
+msgstr ""
+"小型のため敵艦へのダメージには支援が必要だが、敵ミサイルに対する迎撃能力は健在。\n"
+"ニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
+
+#: src-en/data/blueprints.xml.append:1483
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1484
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1485
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1520
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1521
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1522
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1557
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1558
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1559
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1597
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1598
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1599
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1645
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1646
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1647
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1680
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1681
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1682
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1723
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1724
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1725
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1759
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1760
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1761
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1796
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1797
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1798
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1831
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1832
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:1833
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1870
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/title"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:1871
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/short"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:1872
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1913
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/title"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:1914
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/short"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:1915
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1956
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/title"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:1957
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/short"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:1958
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:1999
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/title"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:2000
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/short"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:2001
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2044
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2045
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2046
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2084
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2085
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2086
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2126
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2127
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2128
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2166
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2167
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2168
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2205
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2206
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2207
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2245
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2246
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2247
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2285
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2286
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2287
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2329
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/title"
+msgstr "フラック"
+
+#: src-en/data/blueprints.xml.append:2330
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/short"
+msgstr "フラック"
+
+#: src-en/data/blueprints.xml.append:2331
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2369
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/title"
+msgstr "フラック"
+
+#: src-en/data/blueprints.xml.append:2370
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/short"
+msgstr "フラック"
+
+#: src-en/data/blueprints.xml.append:2371
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2418
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/title"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2419
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/short"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2420
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2442
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/title"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2443
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/short"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2444
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2466
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/title"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2467
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/short"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2468
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2490
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/title"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2491
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/short"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2492
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2514
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/title"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2515
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/short"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2516
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2549
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/title"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2550
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/short"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2551
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2581
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2582
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2583
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2618
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2619
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2620
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2655
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2656
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2657
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2695
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/title"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:2696
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/short"
+msgstr "イオン"
+
+#: src-en/data/blueprints.xml.append:2697
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2738
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/title"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2739
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/short"
+msgstr "レーザー"
+
+#: src-en/data/blueprints.xml.append:2740
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2778
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/title"
+msgstr "フラック"
+
+#: src-en/data/blueprints.xml.append:2779
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/short"
+msgstr "フラック"
+
+#: src-en/data/blueprints.xml.append:2780
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2817
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/title"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2818
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/short"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2819
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2841
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/title"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2842
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/short"
+msgstr "フォーカス"
+
+#: src-en/data/blueprints.xml.append:2843
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2868
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_GUARD\"]/title"
+msgstr "アイアンウォッチ艦"
+
+#: src-en/data/blueprints.xml.append:2869
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_GUARD\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2875
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_DAWN\"]/title"
+msgstr "ニュー・ドーン艦"
+
+#: src-en/data/blueprints.xml.append:2876
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_DAWN\"]/desc"
+msgstr "本来表示されるはずのないエラー"
+
+#: src-en/data/blueprints.xml.append:2882
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/class"
+msgstr "急襲型"
+
+#: src-en/data/blueprints.xml.append:2883
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/name"
+msgstr "ワスプ"
+
+#: src-en/data/blueprints.xml.append:2884
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/desc"
+msgstr ""
+"急襲型艦の最大の特徴は中央に装備されたタレットだが、この艦のものはやや年季が入っている。タレットを改良すれば、反乱軍にとって深刻な脅威となるだろう。"
+
+#: src-en/data/blueprints.xml.append:2963
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/class"
+msgstr "急襲型"
+
+#: src-en/data/blueprints.xml.append:2964
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/name"
+msgstr "ホーネット"
+
+#: src-en/data/blueprints.xml.append:2965
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/desc"
+msgstr "強力なレーザー砲と高速ドローンを搭載しており、敵艦を切り裂く。ただし、同クラスの他の艦に比べると防御性能は限られている。"
+
+#: src-en/data/blueprints.xml.append:3044
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/class"
+msgstr "急襲型"
+
+#: src-en/data/blueprints.xml.append:3045
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/name"
+msgstr "スニッチ"
+
+#: src-en/data/blueprints.xml.append:3046
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/desc"
+msgstr "強力な乗船班と、システムとクルー双方に致命的なタレットを装備。敵の船体を傷つけずに制圧することに長けている。"
+
+#: src-en/data/blueprints.xml.append:3124
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/class"
+msgstr "執行者型"
+
+#: src-en/data/blueprints.xml.append:3125
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/name"
+msgstr "バスティオン"
+
+#: src-en/data/blueprints.xml.append:3126
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/desc"
+msgstr "執行者型艦は4つの独立したタレットを装備。強力な防御特化型にするか、圧倒的な一斉射撃を行うかは、どのタレットを装備するかにかかっている。"
+
+#: src-en/data/blueprints.xml.append:3213
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/class"
+msgstr "槍先型"
+
+#: src-en/data/blueprints.xml.append:3214
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/name"
+msgstr "アプローチング・サン"
+
+#: src-en/data/blueprints.xml.append:3216
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/desc"
+msgstr "ニュー・ドーンが反乱軍との同盟下で設計した先進的な巡洋艦。中央の強力なタレットが攻撃の要となる。"
+
+#: src-en/data/blueprints.xml.append:3293
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/class"
+msgstr "槍先型"
+
+#: src-en/data/blueprints.xml.append:3294
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/name"
+msgstr "ゴッドレイ"
+
+#: src-en/data/blueprints.xml.append:3296
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
+msgstr ""
+"槍先型巡洋艦のバリエーション。タレットで自己防御し、兵器で攻撃を行う。他に頼れる防御システムがない状態でタレットを攻撃に使うのはリスクを伴う。"
+
+#: src-en/data/blueprints.xml.append:3379
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/class"
+msgstr "槍先型"
+
+#: src-en/data/blueprints.xml.append:3380
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/name"
+msgstr "バーニング・エンブレム"
+
+#: src-en/data/blueprints.xml.append:3382
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/desc"
+msgstr "完全武装の戦闘特化型艦。反乱軍の設計により、酸素不要の変異体クルーを採用し、医療システムの代わりに医師ドローンを搭載している。"
+
+#: src-en/data/blueprints.xml.append:3466
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/class"
+msgstr "巨像型"
+
+#: src-en/data/blueprints.xml.append:3467
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/name"
+msgstr "フォートレス"
+
+#: src-en/data/blueprints.xml.append:3469
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/desc"
+msgstr "4つの主要タレットを備え、いかなる敵とも互角に渡り合える。"
+
+#: src-en/data/blueprints.xml.append:3559
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/class"
+msgstr "巨像型"
+
+#: src-en/data/blueprints.xml.append:3560
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/name"
+msgstr "インパーヴィアス"
+
+#: src-en/data/blueprints.xml.append:3562
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/desc"
+msgstr "シールドやクロークをインストールできないため、防御をタレットに頼るしかない。"
+
+#: src-en/data/blueprints.xml.append:3654
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/class"
+msgstr "巨像型"
+
+#: src-en/data/blueprints.xml.append:3655
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/name"
+msgstr "エンパイア"
+
+#: src-en/data/blueprints.xml.append:3657
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/desc"
+msgstr "宇宙の最深部で発見された古代戦艦。技術者チームがかつての栄光を取り戻すべく修復作業を行った。"
+
+#: src-en/data/blueprints.xml.append:3732
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/class"
+msgstr "アイアン・ケストレル巡洋艦"
+
+#: src-en/data/blueprints.xml.append:3733
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/name"
+msgstr "スーパーコーザル"
+
+#: src-en/data/blueprints.xml.append:3734
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/desc"
+msgstr "ケストレル型の象徴的な巡洋艦。バランスが良く、経験の有無を問わずあらゆる艦長に適している。"
+
+#: src-en/data/blueprints.xml.append:3814
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/class"
+msgstr "アイアン・レベル巡洋艦"
+
+#: src-en/data/blueprints.xml.append:3815
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/name"
+msgstr "コルシカ"
+
+#: src-en/data/blueprints.xml.append:3817
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/desc"
+msgstr "逆行設計されたアイアンウォッチのタレット技術と旗艦に近い兵器を搭載した、強力な巡洋艦。"
+
+#: src-en/data/blueprints.xml.append:3897
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/class"
+msgstr "アイアン・イノベーション巡洋艦"
+
+#: src-en/data/blueprints.xml.append:3898
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/name"
+msgstr "アイアン・ジャイアント"
+
+#: src-en/data/blueprints.xml.append:3900
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/desc"
+msgstr "機能を制限された反乱軍のAIコアで駆動し、電力サージを発生させる試作装備を搭載している。"
+
+#: src-en/data/blueprints.xml.append:3984
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/class"
+msgstr "アイアン・セパラティスト巡洋艦"
+
+#: src-en/data/blueprints.xml.append:3985
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/name"
+msgstr "アイソレーション"
+
+#: src-en/data/blueprints.xml.append:3987
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/desc"
+msgstr "一人の分離主義エンジが広範なクルーの助けなしに操縦する孤独な艦。だが、パーソナルドローンたちが彼を支える。"
+
+#: src-en/data/blueprints.xml.append:4068
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/class"
+msgstr "アイアン・エンジェリック・デスブリンガー"
+
+#: src-en/data/blueprints.xml.append:4069
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/name"
+msgstr "ヴィーナス"
+
+#: src-en/data/blueprints.xml.append:4071
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/desc"
+msgstr "エンジェルは銀河屈指の傭兵集団。このステルス艦は、甚大な被害を受ける前に致命的なクルーの力で敵を迅速に排除しなければならない。"
+
+#: src-en/data/blueprints.xml.append:4146
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/class"
+msgstr "アイアン・ロック巡洋艦"
+
+#: src-en/data/blueprints.xml.append:4147
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/name"
+msgstr "ランパート"
+
+#: src-en/data/blueprints.xml.append:4149
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/desc"
+msgstr "設計者たちと同様に、この超高密度の巨獣は圧倒的な力で敵を押し潰す。"
+
+#: src-en/data/blueprints.xml.append:4232
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/class"
+msgstr "アイアン・ピースキーピング巡洋艦"
+
+#: src-en/data/blueprints.xml.append:4233
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/name"
+msgstr "ベガー"
+
+#: src-en/data/blueprints.xml.append:4235
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/desc"
+msgstr "洗練された最先端のゾルタン艦。デヴォラク・レイ自身のパーソナル巡洋艦として有名。"
+
+#: src-en/data/blueprints.xml.append:4309
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/class"
+msgstr "アイアン・ナイテッド巡洋艦"
+
+#: src-en/data/blueprints.xml.append:4310
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/name"
+msgstr "シルバー・レイヴン"
+
+#: src-en/data/blueprints.xml.append:4312
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/desc"
+msgstr "船体は小さいが、KoN（騎士団）の旗艦として君臨する巡洋艦。サイズが重要なのではなく、どう使うかが重要なのだ。"
+
+#: src-en/data/blueprints.xml.append:4394
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/title"
+msgstr "反射装甲"
+
+#: src-en/data/blueprints.xml.append:4395
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/desc"
+msgstr "自艦に命中するビームダメージを半減する（端数切り捨て、最低1）。"
+
+#: src-en/data/blueprints.xml.append:4403
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE_WEAK\"]/title"
+msgstr "タレット・プリエナージャイザー"
+
+#: src-en/data/blueprints.xml.append:4404
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE_WEAK\"]/desc"
+msgstr "FTLジャンプ後、タレットのチャージを半分即座に利用可能にする。"
+
+#: src-en/data/blueprints.xml.append:4411
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE\"]/title"
+msgstr "タレット・プリイグナイター"
+
+#: src-en/data/blueprints.xml.append:4412
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE\"]/desc"
+msgstr "FTLジャンプ後、タレットを即座に利用可能にする。"
+
+#: src-en/data/blueprints.xml.append:4419
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_DAWN_INITIATE\"]/title"
+msgstr "ニュー・ドーンの入門者"
+
+#: src-en/data/blueprints.xml.append:4420
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"OG_DAWN_INITIATE\"]/desc"
+msgstr "本来表示されるはずのないエラー"

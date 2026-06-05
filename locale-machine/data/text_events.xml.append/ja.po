@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_events.xml.append:1
+msgid "data/text_events.xml.append$//text[@name=\"atlas_og_iron_generic\"]"
+msgstr ""
+"名前: アイアンウォッチ支配宙域\n"
+"タイプ: 中立\n"
+"ユニーク: なし\n"
+"支配派閥: アイアンウォッチ\n"
+"反乱軍の脅威レベル: 中\n"
+"\n"
+"アイアンウォッチ宙域の安全性は様々で、多種多様なグループが存在する。アイアンウォッチは探検家、科学者、海賊の集合体であり、皆、絶望や好奇心から未開の宇宙へ乗り出した者たちだ。"
+
+#: src-en/data/text_events.xml.append:9
+msgid "data/text_events.xml.append$//text[@name=\"atlas_og_iron_hektar\"]"
+msgstr ""
+"名前: アイアンウォッチ支配宙域\n"
+"タイプ: 中立\n"
+"ユニーク: なし\n"
+"支配派閥: アイアンウォッチ\n"
+"反乱軍の脅威レベル: 中\n"
+"\n"
+"アイアンウォッチ宙域の安全性は様々で、多種多様なグループが存在する。アイアンウォッチは探検家、科学者、海賊の集合体であり、皆、絶望や好奇心から未開の宇宙へ乗り出した者たちだ。\n"
+"地図の端に「H」という小さなロゴがある…スポンサーか？「お近くのヘクター・インダストリーズ市場へお越しください！」とある。ふむ…"
+
+#: src-en/data/text_events.xml.append:18
+msgid "data/text_events.xml.append$//text[@name=\"atlas_og_dawn\"]"
+msgstr ""
+"名前: ニュー・ドーン前方運用基地\n"
+"タイプ: 敵対的\n"
+"ユニーク: あり\n"
+"支配派閥: ニュー・ドーン\n"
+"反乱軍の脅威レベル: 極めて高い\n"
+"関心地点: ???\n"
+"\n"
+"ニュー・ドーンの軍事拠点。アイアンウォッチとの戦いにおいて物資も同盟者も不足しており、メンバーの一部が抗議する中、反乱軍に助けを求めている。"
+
+#: src-en/data/text_events.xml.append:28
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_iron\"]"
+msgstr "ストア [アイアンウォッチ]"
+
+#: src-en/data/text_events.xml.append:29
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_dawn\"]"
+msgstr "ストア [ニュー・ドーン]"
+
+#: src-en/data/text_events.xml.append:30
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_ship\"]"
+msgstr "艦 [!]"
+
+#: src-en/data/text_events.xml.append:31
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_base\"]"
+msgstr "隠し基地 [!]"
+
+#: src-en/data/text_events.xml.append:32
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_vault\"]"
+msgstr "データ保管庫 [!]"

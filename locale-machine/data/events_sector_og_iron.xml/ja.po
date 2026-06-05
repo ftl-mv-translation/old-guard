@@ -1,0 +1,2153 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_og_iron.xml:10
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DESTROY\"]/text"
+msgstr ""
+"アイアンウォッチの守衛を倒した。貨物にあったものは確実に破壊されてしまっただろうが、少なくとも船体からいくらかの補給物資をサルベージできる。"
+
+#: src-en/data/events_sector_og_iron.xml:13
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DESTROY\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:18
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEADCREW\"]/text"
+msgstr "アイアンウォッチの守衛を倒した。止めるクルーはもういない。貨物を調査し、兵器を入手して、船体はスクラップにする。"
+
+#: src-en/data/events_sector_og_iron.xml:22
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEADCREW\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:34
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/text"
+msgstr "アイアンウォッチの守衛を殺害したことで、彼らが援軍を差し向けて君を追い詰めるのは間違いない。宙域の探索には細心の注意を払え。"
+
+#: src-en/data/events_sector_og_iron.xml:43
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:47
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:55
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/beaconType/unvisitedTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_iron.xml:56
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/beaconType/visitedTooltip"
+msgstr "探索済みの場所。もう興味を引くものはない。"
+
+#: src-en/data/events_sector_og_iron.xml:57
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/beaconType/undiscoveredTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_iron.xml:59
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/text"
+msgstr "アイアンウォッチの艦が攻撃を仕掛けてきた！艦長の復讐に燃える眼差しからして、守衛が君を追跡させるために差し向けた艦に違いない！"
+
+#: src-en/data/events_sector_og_iron.xml:63
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:71
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/beaconType/unvisitedTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_iron.xml:72
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/beaconType/visitedTooltip"
+msgstr "探索済みの場所。もう興味を引くものはない。"
+
+#: src-en/data/events_sector_og_iron.xml:73
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/beaconType/undiscoveredTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_og_iron.xml:75
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/text"
+msgstr "アイアンウォッチの艦が攻撃を仕掛けてきた！艦長の復讐に燃える眼差しからして、守衛が君を追跡させるために差し向けた艦に違いない！"
+
+#: src-en/data/events_sector_og_iron.xml:81
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:87
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_START_OG_IRON\"]/text[1]"
+msgstr ""
+"アイアンウォッチは、未踏の宇宙へと旅立った探検家、科学者、そして海賊たちの集団だ。これは彼らの数少ない拠点の一つだが、今やかつてのように辺境というわけではない。"
+
+#: src-en/data/events_sector_og_iron.xml:88
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_START_OG_IRON\"]/text[2]"
+msgstr "この辺境宙域は反乱の勃発とともに混沌に投げ込まれた。アイアンウォッチの数少ない本拠地の一つだが、最近はかなり人口が増えている。"
+
+#: src-en/data/events_sector_og_iron.xml:101
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"START_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"3\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:105
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"START_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:109
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"START_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"-999\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:114
+msgid "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/text"
+msgstr "即座に守衛の「挨拶」を受けた。「やあ友よ！我々の宙域へようこそ。入域料があるのは知っているな…」"
+
+#: src-en/data/events_sector_og_iron.xml:116
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[1]/text"
+msgstr "入域料を拒否し、戦って突破する！"
+
+#: src-en/data/events_sector_og_iron.xml:118
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[1]/event/text"
+msgstr "艦をミュートにし、戦闘準備を整える。"
+
+#: src-en/data/events_sector_og_iron.xml:121
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:127
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[2]/text"
+msgstr "入域料を払う。"
+
+#: src-en/data/events_sector_og_iron.xml:129
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[2]/event/text"
+msgstr "守衛は頷き、スクラップを一瞬確認する。「よろしい。セキュリティがすぐに通すはずだ」"
+
+#: src-en/data/events_sector_og_iron.xml:136
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[3]/text"
+msgstr "任務のために免除を要請する。"
+
+#: src-en/data/events_sector_og_iron.xml:140
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr "(アイアンウォッチクルー) 通行を免除するよう要請する。"
+
+#: src-en/data/events_sector_og_iron.xml:142
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr "「承知した。任務の成功を祈る」"
+
+#: src-en/data/events_sector_og_iron.xml:146
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"mind\"]/text"
+msgstr "(マインドコントロール) 守衛を説得して無視させる。"
+
+#: src-en/data/events_sector_og_iron.xml:150
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_CONTROL\"]/text"
+msgstr "(マインドコントロール兵器) 守衛を説得して無視させる。"
+
+#: src-en/data/events_sector_og_iron.xml:154
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_AFFECT\"]/text"
+msgstr "(精神干渉兵器) 守衛内に混乱を引き起こし、こっそり通り抜ける。"
+
+#: src-en/data/events_sector_og_iron.xml:158
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"cloaking\"]/text"
+msgstr "(クローキング) クロークして逃走を試みる。"
+
+#: src-en/data/events_sector_og_iron.xml:162
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"engines\"]/text"
+msgstr "(改良型エンジン) 守衛からの逃走を試みる。"
+
+#: src-en/data/events_sector_og_iron.xml:166
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"pilot\"]/text"
+msgstr "(改良型操縦) オートパイロットを作動させて逃走を試みる。"
+
+#: src-en/data/events_sector_og_iron.xml:172
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/text"
+msgstr ""
+"「なぜ免除する必要がある？貴様はレネゲイドだな？知らぬようだが、アイアンウォッチは連邦法に従わん。率直に言って、お前のような奴がいるのはリスクだ。むしろ倍額請求したいくらいだ」"
+
+#: src-en/data/events_sector_og_iron.xml:174
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[1]/text"
+msgstr "ならば戦って突破する！"
+
+#: src-en/data/events_sector_og_iron.xml:176
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[1]/event/text"
+msgstr "艦をミュートにし、戦闘準備を整える。"
+
+#: src-en/data/events_sector_og_iron.xml:179
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:185
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[2]/text"
+msgstr "入域料を払う。"
+
+#: src-en/data/events_sector_og_iron.xml:187
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[2]/event/text"
+msgstr "守衛は頷き、スクラップを一瞬確認する。「よろしい。セキュリティがすぐに通すはずだ」"
+
+#: src-en/data/events_sector_og_iron.xml:196
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_WAVER\"]/event[3]/text"
+msgstr ""
+"守衛が顔を掻く。「知っての通り、アイアンウォッチは連邦法や司法に従わん。だが、貴様の目的が我々全員の利益になるとは理解した。連邦も反乱軍も我々の友人ではないからな。今回だけは特別に見逃してやるが、皆がここまで寛大だとは思わんことだ」"
+
+#: src-en/data/events_sector_og_iron.xml:200
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/text"
+msgstr "何かがおかしい。通常、アイアンウォッチは君のような艦をそこまで気にしないはずだが、今、守衛艦から怪しげな通信を傍受した。"
+
+#: src-en/data/events_sector_og_iron.xml:202
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:204
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/choice/event/text"
+msgstr "君の行いの報いか。守衛クルーは君が犯してきた犯罪について十分な情報を得ており、宙域に一歩も入れさせる気はないようだ！"
+
+#: src-en/data/events_sector_og_iron.xml:207
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:215
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/text"
+msgstr "いい噂が広まっているようだ。守衛は即座に入域料を免除し、自由に通してくれた。"
+
+#: src-en/data/events_sector_og_iron.xml:218
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/text"
+msgstr "守衛を無視する。"
+
+#: src-en/data/events_sector_og_iron.xml:220
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/event/text"
+msgstr "艦内で何かを行う時間ができた。"
+
+#: src-en/data/events_sector_og_iron.xml:222
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:226
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:232
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[2]/text"
+msgstr "守衛に通信する。"
+
+#: src-en/data/events_sector_og_iron.xml:236
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[3]/text"
+msgstr "守衛を攻撃する。"
+
+#: src-en/data/events_sector_og_iron.xml:241
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:249
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[1]"
+msgstr "「通信を許可する。何を求めているのだ、友よ？」"
+
+#: src-en/data/events_sector_og_iron.xml:250
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[2]"
+msgstr "アイアンウォッチの艦長は通信を受け入れたが、言葉を発さない。"
+
+#: src-en/data/events_sector_og_iron.xml:251
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[3]"
+msgstr "短いメッセージが返信されてきた。「通信要求を受信した。何か用か、友よ？」"
+
+#: src-en/data/events_sector_og_iron.xml:256
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[1]/text"
+msgstr "補給物資を要請する。"
+
+#: src-en/data/events_sector_og_iron.xml:260
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[2]/text"
+msgstr "補給物資を要求する。"
+
+#: src-en/data/events_sector_og_iron.xml:264
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[@req=\"weapons\"]/text"
+msgstr "(改良型兵器) 守衛を脅す。"
+
+#: src-en/data/events_sector_og_iron.xml:268
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr "(アイアンウォッチクルー) 支援を要請する。"
+
+#: src-en/data/events_sector_og_iron.xml:270
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr "「アイアンウォッチの同胞か？これを受け取れ、善意の贈り物だ！」"
+
+#: src-en/data/events_sector_og_iron.xml:275
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/text"
+msgstr "考えを変えて守衛を放置する。"
+
+#: src-en/data/events_sector_og_iron.xml:277
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/text"
+msgstr "謝罪して通信を切る。守衛はそれ以上通信しようとしない。"
+
+#: src-en/data/events_sector_og_iron.xml:279
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:283
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:291
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_REQUEST\"]/event[1]/text"
+msgstr "「残念だが余剰はない。任務の成功を祈るよ、友よ」"
+
+#: src-en/data/events_sector_og_iron.xml:294
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_REQUEST\"]/event[2]/text"
+msgstr "「もちろんだ、支援しよう。善意の贈り物だ」"
+
+#: src-en/data/events_sector_og_iron.xml:299
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEMAND\"]/text"
+msgstr "「味方に対する口の利き方ではないぞ。任務の幸運は祈るが、二度と連絡はよこさない方がいい」"
+
+#: src-en/data/events_sector_og_iron.xml:303
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[1]/text"
+msgstr "守衛は脅しに対して何も言わない。代わりに武器を起動し、攻撃を仕掛けてきた！"
+
+#: src-en/data/events_sector_og_iron.xml:306
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[1]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:311
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[2]/text"
+msgstr "「暴力は必要ないぞ、友よ。武器を停止してくれるなら、要求通りの物資を渡そう」"
+
+#: src-en/data/events_sector_og_iron.xml:314
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[2]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:322
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON\"]/text"
+msgstr ""
+"[評判が向上 - アイアンウォッチ]\n"
+"\tアイアンウォッチの目から見て、君は善行を積んだ。このような行動を続ければ、アイアンウォッチとその同盟者から歓迎されるようになるだろう。"
+
+#: src-en/data/events_sector_og_iron.xml:327
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON_COMBAT\"]/text"
+msgstr ""
+"[評判が向上 - アイアンウォッチ]\n"
+"\tアイアンウォッチの目から見て、君は善行を積んだ。このような行動を続ければ、アイアンウォッチとその同盟者から歓迎されるようになるだろう。"
+
+#: src-en/data/events_sector_og_iron.xml:331
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON_COMBAT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:336
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON\"]/text"
+msgstr ""
+"[評判が低下 - アイアンウォッチ]\n"
+"\t君の行動は、正当かどうかに関わらず、アイアンウォッチや市民の目には良く映らない。このような行為を続ければ、アイアンウォッチやその同盟者からの反感を買うことになるだろう。"
+
+#: src-en/data/events_sector_og_iron.xml:341
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON\"]/text"
+msgstr ""
+"[評判が大幅低下 - アイアンウォッチ]\n"
+"\t君の行動は、正当かどうかに関わらず、アイアンウォッチや市民の目には良く映らない。このような行為を続ければ、アイアンウォッチやその同盟者からの反感を買うことになるだろう。悪質な行為のため、評判が2倍低下した。"
+
+#: src-en/data/events_sector_og_iron.xml:347
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/text"
+msgstr ""
+"[評判が低下 - アイアンウォッチ]\n"
+"\t君の行動は、正当かどうかに関わらず、アイアンウォッチや市民の目には良く映らない。このような行為を続ければ、アイアンウォッチやその同盟者からの反感を買うことになるだろう。"
+
+#: src-en/data/events_sector_og_iron.xml:351
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:356
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON_COMBAT\"]/text"
+msgstr ""
+"[評判が大幅低下 - アイアンウォッチ]\n"
+"\t君の行動は、正当かどうかに関わらず、アイアンウォッチや市民の目には良く映らない。このような行為を続ければ、アイアンウォッチやその同盟者からの反感を買うことになるだろう。悪質な行為のため、評判が2倍低下した。"
+
+#: src-en/data/events_sector_og_iron.xml:361
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON_COMBAT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:371
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[1]/text"
+msgstr "探索する。"
+
+#: src-en/data/events_sector_og_iron.xml:375
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[2]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:379
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[3]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:391
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[1]"
+msgstr "艦が消滅する際、アイアンウォッチの艦長は最期の罵声を吐いた。"
+
+#: src-en/data/events_sector_og_iron.xml:392
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[2]"
+msgstr "アイアンウォッチの船体が宇宙空間に散らばる。残骸をサルベージするために急接近する。"
+
+#: src-en/data/events_sector_og_iron.xml:393
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[3]"
+msgstr "アイアンウォッチの艦が爆発し、中の全員が消えた。君のクルーは残骸をサルベージしつつ、彼らの遺体を避けて作業する。"
+
+#: src-en/data/events_sector_og_iron.xml:394
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[4]"
+msgstr "艦が爆発した弾みでタレットの一つが虚空へ飛び出し、貴重な破片が四方八方に飛び散る。"
+
+#: src-en/data/events_sector_og_iron.xml:402
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[1]"
+msgstr "「君の殺戮への渇望は… いつか自らの身を滅ぼすぞ、レネゲイドよ。君こそが、連邦も… 反乱軍と変わらないという証拠だ…」"
+
+#: src-en/data/events_sector_og_iron.xml:403
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[2]"
+msgstr "一言も発することなく、アイアンウォッチの艦長は地面に崩れ落ちた。息も絶え絶えに、瞳から光が消えていく。彼らの船体をサルベージする。"
+
+#: src-en/data/events_sector_og_iron.xml:404
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[3]"
+msgstr ""
+"「後悔することになるぞ！因果応報だ、お前のような奴にはな。呪ってやる、レネゲイドどもめ… アイアンウォッチは反乱軍と組んでおけばよかったんだ…」"
+
+#: src-en/data/events_sector_og_iron.xml:410
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"SURRENDER_OG_IRON\"]/choice[1]/text"
+msgstr "彼らの降伏を受け入れる。"
+
+#: src-en/data/events_sector_og_iron.xml:419
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[1]"
+msgstr "「わかった、勝ちだ！ストックの装備をやる。放っておいてくれ！」"
+
+#: src-en/data/events_sector_og_iron.xml:420
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[2]"
+msgstr "艦から繰り返し通信が来る。降伏したいようだ。"
+
+#: src-en/data/events_sector_og_iron.xml:421
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[3]"
+msgstr "「想像以上に武装しているな。我々の降伏だ」"
+
+#: src-en/data/events_sector_og_iron.xml:422
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[4]"
+msgstr "「驚くほど装備が充実しているな！これを持って、命だけは助けてくれ」"
+
+#: src-en/data/events_sector_og_iron.xml:423
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[5]"
+msgstr "「殺さないでくれ。持っているものは全てやる！」"
+
+#: src-en/data/events_sector_og_iron.xml:424
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[6]"
+msgstr "命を助けてくれるなら貨物を渡すと言っている。"
+
+#: src-en/data/events_sector_og_iron.xml:425
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[7]"
+msgstr "艦を破壊しないなら物資を渡すと言っている。"
+
+#: src-en/data/events_sector_og_iron.xml:426
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[8]"
+msgstr "慌てた様子で通信が来る。「全部やる。殺さないでくれ！」"
+
+#: src-en/data/events_sector_og_iron.xml:427
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[9]"
+msgstr "「完敗だ。命だけは助けてほしい」"
+
+#: src-en/data/events_sector_og_iron.xml:428
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[10]"
+msgstr "「降参だ。俺たちの負けだ。これを持って、恥をかかせたまま去ってくれ」"
+
+#: src-en/data/events_sector_og_iron.xml:429
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[11]"
+msgstr "「全て持っていけ。お互い、なかったことにしよう」"
+
+#: src-en/data/events_sector_og_iron.xml:433
+msgid "data/events_sector_og_iron.xml$//event[@name=\"ESCAPE_OG_IRON\"]/text"
+msgstr "スキャン結果、アイアンウォッチの艦が逃走を試みている。逃げられる前に破壊しろ！"
+
+#: src-en/data/events_sector_og_iron.xml:446
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_IRON\"]/text[1]"
+msgstr "アイアンウォッチの艦は君の掌をすり抜け、ビーコンに君を置き去りにした。"
+
+#: src-en/data/events_sector_og_iron.xml:447
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_IRON\"]/text[2]"
+msgstr "アイアンウォッチの艦を破壊する試みは失敗し、敵は逃走した。"
+
+#: src-en/data/events_sector_og_iron.xml:450
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GOTAWAY_OG_IRON_REMAINS\"]/text"
+msgstr "アイアンウォッチの艦には逃げられたが、すべてが無駄ではなかった。残骸から落ちたスクラップの軌跡を回収する。"
+
+#: src-en/data/events_sector_og_iron.xml:511
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/text"
+msgstr "近くの市場は、同盟の給油所によって管理されている。"
+
+#: src-en/data/events_sector_og_iron.xml:514
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/text"
+msgstr "割引価格でタレットを購入する。"
+
+#: src-en/data/events_sector_og_iron.xml:516
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/text"
+msgstr "燃料を補給し、ストアを確認する。"
+
+#: src-en/data/events_sector_og_iron.xml:522
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/choice/text"
+msgstr "買い物をする。"
+
+#: src-en/data/events_sector_og_iron.xml:528
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/text"
+msgstr "(マインドコントロール) 「交渉」してさらなる値下げを迫る。"
+
+#: src-en/data/events_sector_og_iron.xml:530
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/text"
+msgstr "燃料を補給し、ストアを確認する。"
+
+#: src-en/data/events_sector_og_iron.xml:536
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/choice/text"
+msgstr "買い物をする。"
+
+#: src-en/data/events_sector_og_iron.xml:542
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr "(アイアンウォッチクルー) さらなる値下げを交渉する。"
+
+#: src-en/data/events_sector_og_iron.xml:544
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr "燃料を補給し、ストアを確認する。"
+
+#: src-en/data/events_sector_og_iron.xml:549
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice/text"
+msgstr "買い物をする。"
+
+#: src-en/data/events_sector_og_iron.xml:555
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/text"
+msgstr "ステーションを攻撃する！"
+
+#: src-en/data/events_sector_og_iron.xml:557
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/event/text"
+msgstr "この後、市場が君と取引したがるとは思えないが、罪のない民間人を襲うのが止められるわけではない。"
+
+#: src-en/data/events_sector_og_iron.xml:560
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:566
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[5]/text"
+msgstr "ただ見て回る。"
+
+#: src-en/data/events_sector_og_iron.xml:586
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/text"
+msgstr ""
+"ビーコンに到着するとアイアンウォッチの艦を発見した。艦長が激しく取り乱しており、通信チャンネルから怒鳴り声が聞こえる。「タレットじゃないだと？」「つまり…騙されたってことか？"
+" あの強欲な商人が、二度と会ったら殺してやる！」"
+
+#: src-en/data/events_sector_og_iron.xml:590
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/text"
+msgstr "聞き続ける。"
+
+#: src-en/data/events_sector_og_iron.xml:592
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/event/text"
+msgstr ""
+"やがて艦長の怒りは頂点に達し、タレットもどきをエアロックから放り出すよう命じた。「二度と見たくない、ここから離れるぞ！」 "
+"アイアンウォッチ艦は去っていった。拾い上げて確認してみると、それはただの防衛ドローンだった。"
+
+#: src-en/data/events_sector_og_iron.xml:596
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:600
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:606
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[2]/text"
+msgstr "怒れる艦長の邪魔にならないようにする。"
+
+#: src-en/data/events_sector_og_iron.xml:608
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[2]/event/text"
+msgstr "衛星の向こう側に隠れ、アイアンウォッチ艦に見つからないことを祈る。"
+
+#: src-en/data/events_sector_og_iron.xml:610
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:614
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:624
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/text"
+msgstr ""
+"アイアンウォッチ艦が実験のための臨時人員を募集している。タレットの改良をテストするために、近くのアステロイドフィールドへの護衛を必要としている。"
+
+#: src-en/data/events_sector_og_iron.xml:626
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[1]/text"
+msgstr "協力を承諾する。"
+
+#: src-en/data/events_sector_og_iron.xml:629
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[1]/event/text"
+msgstr "アイアンウォッチ艦の後方に回り、アステロイドフィールドへ向かう。「タレットの調整をするだけだ。30秒もかからない」"
+
+#: src-en/data/events_sector_og_iron.xml:633
+msgid ""
+"data/events_sector_og_iron.xml$//triggeredEvent[@name=\"OG_IRON_FOR_SCIENCE_TURRET\"]/triggeredEventBox/tooltip"
+msgstr "アイアンウォッチのタレット調整完了までの時間。"
+
+#: src-en/data/events_sector_og_iron.xml:641
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/text"
+msgstr "要求を無視する。"
+
+#: src-en/data/events_sector_og_iron.xml:643
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/text"
+msgstr "アイアンウォッチ艦を避け、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:645
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:649
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:657
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/text"
+msgstr "「応答せよ、こちらで異常事態発生、タレットがすべて停止した」"
+
+#: src-en/data/events_sector_og_iron.xml:659
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"LIST_CREW_POWER\"]/text"
+msgstr "(ボーナス電力クルー) クルーを派遣してシステムをオーバーチャージさせる。"
+
+#: src-en/data/events_sector_og_iron.xml:663
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"battery\"]/text"
+msgstr "(予備バッテリー) 余剰電力を使ってシステムをオーバーチャージさせる。"
+
+#: src-en/data/events_sector_og_iron.xml:667
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[3]/text"
+msgstr "何もできない…"
+
+#: src-en/data/events_sector_og_iron.xml:681
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS_ION\"]/text"
+msgstr "タレットへの電力供給を復旧させた。"
+
+#: src-en/data/events_sector_og_iron.xml:685
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS\"]/text"
+msgstr "「完了した。助かったよ艦長」 護衛のお礼として物資が送られてきた。"
+
+#: src-en/data/events_sector_og_iron.xml:691
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_BLAST\"]/text"
+msgstr ""
+"巨大なアステロイドがアイアンウォッチ艦を貫くのをなす術なく見ているしかなかった。艦は残骸の雲となってアステロイドフィールドに散り、出発前にいくらかの破片を回収できた。"
+
+#: src-en/data/events_sector_og_iron.xml:710
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/text"
+msgstr "奇妙な艦の残骸に遭遇した。ここで噂のニュー・ドーンの艦のようだ。反乱軍と同盟したアイアンウォッチの分派だ。"
+
+#: src-en/data/events_sector_og_iron.xml:712
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/text"
+msgstr "調査する。"
+
+#: src-en/data/events_sector_og_iron.xml:714
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/event/text"
+msgstr "船は丸裸にされていた。わずかな区画以外にサルベージできるものはない。回収できるものをすべて集めて、自艦に戻る。"
+
+#: src-en/data/events_sector_og_iron.xml:719
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/text"
+msgstr "艦を無視する。"
+
+#: src-en/data/events_sector_og_iron.xml:721
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/text"
+msgstr "艦を避け、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:723
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:727
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:750
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/text"
+msgstr "アイアンウォッチの艦が崩壊する。急いで民間船に通信する。"
+
+#: src-en/data/events_sector_og_iron.xml:753
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/choice/text"
+msgstr "民間船に通信する。"
+
+#: src-en/data/events_sector_og_iron.xml:758
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/text"
+msgstr "アイアンウォッチ艦の生命反応は消失した。急いで民間船に通信する。"
+
+#: src-en/data/events_sector_og_iron.xml:761
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/choice/text"
+msgstr "民間船に通信する。"
+
+#: src-en/data/events_sector_og_iron.xml:769
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/text"
+msgstr "ビーコンに到着すると、アイアンウォッチ艦が民間船を追跡していた。海賊行為に走るとは、このあたりのアイアンウォッチの規則はかなり緩いらしい。"
+
+#: src-en/data/events_sector_og_iron.xml:771
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/text"
+msgstr "民間船を助ける。"
+
+#: src-en/data/events_sector_og_iron.xml:773
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/text"
+msgstr "武器を起動し、攻撃を開始する。"
+
+#: src-en/data/events_sector_og_iron.xml:776
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:782
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/text"
+msgstr "関与しない。"
+
+#: src-en/data/events_sector_og_iron.xml:785
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/text"
+msgstr "戦いの余波で彼らは探知範囲外へ消えた。しばらくして救難信号が途絶えた。"
+
+#: src-en/data/events_sector_og_iron.xml:787
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:791
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:801
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/text"
+msgstr ""
+"ビーコンに到着すると、アイアンウォッチ艦が民間船を追跡していた。このパルサーを利用して民間人を脅しているらしい。アイアンウォッチのほとんどの宙域では違法行為だが、この船は見つかることを気にしていないようだ。"
+
+#: src-en/data/events_sector_og_iron.xml:803
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/text"
+msgstr "民間船を助ける。"
+
+#: src-en/data/events_sector_og_iron.xml:805
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/text"
+msgstr "武器を起動し、攻撃を開始する。"
+
+#: src-en/data/events_sector_og_iron.xml:808
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:814
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/text"
+msgstr "関与しない。"
+
+#: src-en/data/events_sector_og_iron.xml:817
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/text"
+msgstr "戦いの余波で彼らは探知範囲外へ消えた。しばらくして救難信号が途絶えた。"
+
+#: src-en/data/events_sector_og_iron.xml:819
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:823
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:833
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/text"
+msgstr "ビーコンに到着すると、奇妙なニュー・ドーン艦が民間船を攻撃していた。まだこちらには気づいていないようだ。"
+
+#: src-en/data/events_sector_og_iron.xml:835
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/text"
+msgstr "民間船を助ける。"
+
+#: src-en/data/events_sector_og_iron.xml:837
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/text"
+msgstr "民間船が爆発した。ニュー・ドーン艦は君に気づくと、瞬く間にジャンプして去っていった。"
+
+#: src-en/data/events_sector_og_iron.xml:840
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/text"
+msgstr "民間船の残骸を略奪する。"
+
+#: src-en/data/events_sector_og_iron.xml:842
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/text"
+msgstr "略奪を開始したところでアイアンウォッチ艦が現れた。残骸の犯人だと誤解したのか、即座に攻撃を仕掛けてくる。"
+
+#: src-en/data/events_sector_og_iron.xml:846
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:852
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/text"
+msgstr "近くのアイアンウォッチ基地経由で攻撃を通報する。"
+
+#: src-en/data/events_sector_og_iron.xml:854
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"地元のアイアンウォッチ当局に通報する。しばらくしてアイアンウォッチの艦が到着した。「見苦しいものを見せてすまない。この手の攻撃は日々悪化している。襲われた人々に届ける予定だった補給物資だが、もう必要ないようだ。君が受け取ってくれないか」"
+
+#: src-en/data/events_sector_og_iron.xml:858
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:866
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/text"
+msgstr "関与しない。"
+
+#: src-en/data/events_sector_og_iron.xml:869
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/text"
+msgstr "戦いの余波で彼らは探知範囲外へ消えた。しばらくして救難信号が途絶えた。"
+
+#: src-en/data/events_sector_og_iron.xml:871
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:875
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:884
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/text"
+msgstr "頼む、残骸は全部やるから命だけは！"
+
+#: src-en/data/events_sector_og_iron.xml:886
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/choice[1]/text"
+msgstr "申し出を受け入れる。"
+
+#: src-en/data/events_sector_og_iron.xml:890
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/choice[2]/text"
+msgstr "降伏という選択肢はない。"
+
+#: src-en/data/events_sector_og_iron.xml:898
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:906
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:913
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE_SURRENDER\"]/text"
+msgstr "残骸をスクラップにして店から回収できるものを集め、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:916
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE_SURRENDER\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:921
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE\"]/text"
+msgstr "残骸をスクラップにして店から回収できるものを集め、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:926
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/text"
+msgstr ""
+"アイアンウォッチ艦が挨拶してくる。「やあ艦長、このあたりで残骸を見なかったか？ニュー・ドーンの輸送船が近くの対艦バッテリーに撃たれて、このアステロイドフィールドに入っていったらしい。この辺りで沈んでいるはずなんだが」"
+
+#: src-en/data/events_sector_og_iron.xml:928
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[1]/text"
+msgstr "輸送船の捜索に協力する。"
+
+#: src-en/data/events_sector_og_iron.xml:932
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[@req=\"sensors\""
+" and @lvl=\"2\"]/text"
+msgstr "(改良型センサー) 周辺エリアをスキャンする。"
+
+#: src-en/data/events_sector_og_iron.xml:936
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[@req=\"sensors\""
+" and @lvl=\"3\"]/text"
+msgstr "(改良型センサー) アステロイドフィールドを深部スキャンする。"
+
+#: src-en/data/events_sector_og_iron.xml:940
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/text"
+msgstr "丁寧に断る。"
+
+#: src-en/data/events_sector_og_iron.xml:942
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/text"
+msgstr "アイアンウォッチ艦は捜索のため、視界から消えた。"
+
+#: src-en/data/events_sector_og_iron.xml:944
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:948
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:957
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/text"
+msgstr ""
+"輸送船を発見した。いくつかのアステロイドが突き刺さっている。船内を調べると無傷の兵器が見つかった。直後、アイアンウォッチ艦が現れる。「見つけてくれたか、助かった！あとは我々が引き取ろう」"
+
+#: src-en/data/events_sector_og_iron.xml:960
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/text"
+msgstr "攻撃して残骸を独り占めする。"
+
+#: src-en/data/events_sector_og_iron.xml:962
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/text"
+msgstr "武器を起動するとアイアンウォッチ艦も気づいたようだ。艦長は何か罵声を吐きながら応戦してくる。"
+
+#: src-en/data/events_sector_og_iron.xml:965
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:971
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/text"
+msgstr "残骸を彼らに任せる。"
+
+#: src-en/data/events_sector_og_iron.xml:973
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/text"
+msgstr "残骸はやがて視界から消えた。"
+
+#: src-en/data/events_sector_og_iron.xml:975
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:979
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:987
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/text"
+msgstr ""
+"残骸を見つけたとき、アイアンウォッチ艦も到着した。すでにサルベージ中だ。「おお、無事だったか。助けてくれて礼を言うが、もう手は足りている。任務頑張れよ」"
+
+#: src-en/data/events_sector_og_iron.xml:989
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/text"
+msgstr "攻撃して残骸を独り占めする。"
+
+#: src-en/data/events_sector_og_iron.xml:991
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/text"
+msgstr "武器を起動するとアイアンウォッチ艦も気づいたようだ。艦長は何か罵声を吐きながら応戦してくる。"
+
+#: src-en/data/events_sector_og_iron.xml:994
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1000
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/text"
+msgstr "残骸を彼らに任せる。"
+
+#: src-en/data/events_sector_og_iron.xml:1002
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/text"
+msgstr "残骸はやがて視界から消えた。"
+
+#: src-en/data/events_sector_og_iron.xml:1004
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1008
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1015
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_EXPLORE_TRANSPORT_SEARCH\"]/event[3]/text"
+msgstr "何時間も捜索したが何も見つからなかった。ただ、基本的な物資が入った貨物コンテナだけは発見した。"
+
+#: src-en/data/events_sector_og_iron.xml:1038
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_WATCH_PIRATE\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1046
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_WATCH_PIRATE\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1055
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/text"
+msgstr "ビーコンに到着すると、大破したアイアンウォッチ艦が海賊と交戦していた。助けがなければ長くは持たないだろう。"
+
+#: src-en/data/events_sector_og_iron.xml:1057
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/text"
+msgstr "アイアンウォッチ艦を助ける。"
+
+#: src-en/data/events_sector_og_iron.xml:1059
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/event/text"
+msgstr "武器を起動する。海賊船は脅威を感じ取り、君を標的に変えた。"
+
+#: src-en/data/events_sector_og_iron.xml:1062
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1068
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/text"
+msgstr "関与を避ける。"
+
+#: src-en/data/events_sector_og_iron.xml:1070
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/text"
+msgstr "戦いの余波で彼らは探知範囲外へ消えた。しばらくして救難信号が途絶えた。"
+
+#: src-en/data/events_sector_og_iron.xml:1072
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1076
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1091
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/text"
+msgstr "アイアンウォッチの乗組員は戦闘のダメージからいくらか回復し、君の救出に感謝している。"
+
+#: src-en/data/events_sector_og_iron.xml:1093
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/text"
+msgstr "損傷に乗じて攻撃する。"
+
+#: src-en/data/events_sector_og_iron.xml:1095
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/event/text"
+msgstr "君が武器を起動し、攻撃準備を整えると、アイアンウォッチのクルーは恐怖に戦慄した。"
+
+#: src-en/data/events_sector_og_iron.xml:1098
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1104
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr "(アイアンウォッチクルー) 物資を要請する。"
+
+#: src-en/data/events_sector_og_iron.xml:1106
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr "「もちろんだ、礼としてこれを持って行け」"
+
+#: src-en/data/events_sector_og_iron.xml:1111
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[3]/text"
+msgstr "次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1120
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/text"
+msgstr ""
+"ここにいる民間船はパルサーで立ち往生している。「艦長、助かった！ジャンプ実行中にパルサーを受けてドライブがやられたんだ。パワーサージでエンジンが焼き切れてしまった。物資も少ないし専属エンジニアもいない。助けてくれないか」"
+
+#: src-en/data/events_sector_og_iron.xml:1122
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/text"
+msgstr "物資を送る。"
+
+#: src-en/data/events_sector_og_iron.xml:1124
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/event/text"
+msgstr "「助かった、これで早く修理できればいいんだが」"
+
+#: src-en/data/events_sector_og_iron.xml:1130
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1136
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
+msgstr "(エンジニアクルー) エンジニアに修理を試みさせる。"
+
+#: src-en/data/events_sector_og_iron.xml:1138
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
+msgstr ""
+"クルーが故障したジャンプドライブをいじり回す。ついに根本的な問題にたどり着いた。艦長は大喜びだ。「全システム正常…素晴らしい！これでジャンプできるはずだ。ありがとう！」"
+
+#: src-en/data/events_sector_og_iron.xml:1141
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1147
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"DRONE_CONTROL_REPAIR_CREW\"]/text"
+msgstr "(修理ドローン) 修理ドローンを送る。[-1|]"
+
+#: src-en/data/events_sector_og_iron.xml:1151
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
+msgstr "故障を修理しようとする。"
+
+#: src-en/data/events_sector_og_iron.xml:1155
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/text"
+msgstr "無防備なうちに攻撃する！"
+
+#: src-en/data/events_sector_og_iron.xml:1157
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/event/text"
+msgstr "スクラップはいくらあってもいい。この船は格好の標的だ。"
+
+#: src-en/data/events_sector_og_iron.xml:1160
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1166
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/text"
+msgstr "謝罪し、力になれないと伝える。"
+
+#: src-en/data/events_sector_og_iron.xml:1168
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/text"
+msgstr "艦長がため息をつく。「誰か送ってくれればいいんだが…」"
+
+#: src-en/data/events_sector_og_iron.xml:1170
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1174
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1183
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[1]/text"
+msgstr "ドローンがドライブをいじる。すぐに問題を特定し、ドライブが起動した。「全システム正常…最高だ！助かった！」"
+
+#: src-en/data/events_sector_og_iron.xml:1189
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[1]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1194
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[2]/text"
+msgstr ""
+"ドローンが修理を試みる。修理には資源が足りないが、修理方法が記載された読み取り結果が出力された。「まあ、何もないよりはマシか…これで何が必要かわかった」"
+" わずかな報酬をもらった。"
+
+#: src-en/data/events_sector_og_iron.xml:1201
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[3]/text"
+msgstr ""
+"ドローンが修理を試みる。一瞬起動したが、また壊れた。特定できた問題のレポートがプリントされた。「まあ、何もないよりマシか…これで何とか凌いでみる」 "
+"わずかな報酬をもらった。"
+
+#: src-en/data/events_sector_og_iron.xml:1210
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[1]/text"
+msgstr ""
+"クルーが故障したジャンプドライブをいじり回す。ついに根本的な問題にたどり着いた。艦長は大喜びだ。「全システム正常…素晴らしい！これでジャンプできるはずだ。ありがとう！」"
+
+#: src-en/data/events_sector_og_iron.xml:1213
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[1]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1218
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[2]/text"
+msgstr "クルーが実験する。成功はしなかったが、診断は完了した。「まあ、何もないよりマシか…これで何が悪いかわかった」 わずかな報酬をもらった。"
+
+#: src-en/data/events_sector_og_iron.xml:1222
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[3]/text"
+msgstr ""
+"クルーが実験する。一瞬起動したが、また壊れた。部分的には直ったらしい。「まあ、何もないよりマシか…これで何とか凌いでみる」 わずかな報酬をもらった。"
+
+#: src-en/data/events_sector_og_iron.xml:1226
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[4]/text"
+msgstr ""
+"クルーが実験する。いじり回していると、ドライブが激しく火花を上げて燃え上がった。完全に破壊してしまったらしい。「よくやったな、この馬鹿野郎。もう取り返しがつかないぞ」"
+
+#: src-en/data/events_sector_og_iron.xml:1229
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[5]/text"
+msgstr "クルーが実験する。どれだけ頑張っても原因がわからない。クルーが首を振る。「我々ですらわからないことを、どうして君がわかると？」"
+
+#: src-en/data/events_sector_og_iron.xml:1247
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/text"
+msgstr "アイアンウォッチの輸送船と対峙した。センサーが彼らのジャンプドライブのチャージを感知する。"
+
+#: src-en/data/events_sector_og_iron.xml:1249
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1251
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/text"
+msgstr "彼らがジャンプした瞬間、無防備なアステロイドが船体に激突し、一部が引き裂かれるのが見えた。しかしジャンプは阻止されず、輸送船は消えた。"
+
+#: src-en/data/events_sector_og_iron.xml:1254
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/text"
+msgstr "調査する。"
+
+#: src-en/data/events_sector_og_iron.xml:1256
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/text"
+msgstr ""
+"残骸のほとんどはゴミだが、貨物コンテナを1つ発見した。中には奇妙なタレットが入っていた。どうやらこのタレットは、近くの基地への配送品だったらしい。座標を記録する。"
+
+#: src-en/data/events_sector_og_iron.xml:1260
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1264
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1276
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/beaconType/unvisitedTooltip"
+msgstr "見つけたタレットの目的地。"
+
+#: src-en/data/events_sector_og_iron.xml:1280
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/text"
+msgstr "このビーコンには巨大な基地があり、周囲に複数の艦が見える。近くに損傷した輸送船を確認した。"
+
+#: src-en/data/events_sector_og_iron.xml:1282
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/text"
+msgstr "損傷した輸送船の近くにドッキングする。"
+
+#: src-en/data/events_sector_og_iron.xml:1284
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"船から降りると、近くで大声で会話しているのが聞こえた。「どうすりゃいいんだ、これで船を取り上げられちまう。なんであんなアステロイドフィールドに入ったんだ。1ジャンプも短縮にならなかったのに」"
+
+#: src-en/data/events_sector_og_iron.xml:1286
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
+"not(@lvl)]/text"
+msgstr "紛失したタレットを見せる。"
+
+#: src-en/data/events_sector_og_iron.xml:1288
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
+"not(@lvl)]/event/text"
+msgstr ""
+"「ああ、よかった！一体どうやって見つけたんだ？」 衝突を目撃したと説明する。「命の恩人だ、礼の物資だ」 "
+"タレットを抱え、輸送船の艦長は基地へと向かっていった。"
+
+#: src-en/data/events_sector_og_iron.xml:1293
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
+"not(@lvl)]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1299
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
+"@lvl=\"0\"]/text"
+msgstr "タレットを持っていない。"
+
+#: src-en/data/events_sector_og_iron.xml:1303
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[3]/text"
+msgstr "静かに去る。"
+
+#: src-en/data/events_sector_og_iron.xml:1305
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[3]/event/text"
+msgstr "次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1307
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1311
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1319
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"-999\"]/text"
+msgstr "基地にはドッキングできるが、クルーがいなければ何もできない。"
+
+#: src-en/data/events_sector_og_iron.xml:1323
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/text"
+msgstr "基地を無視する。"
+
+#: src-en/data/events_sector_og_iron.xml:1325
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/text"
+msgstr "次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1327
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1331
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1350
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/text"
+msgstr "ニュー・ドーンの偵察機と対峙した。即座にジャンプドライブをチャージし始めている。ジャンプされるまで、一瞬しか時間はない。"
+
+#: src-en/data/events_sector_og_iron.xml:1352
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[1]/text"
+msgstr "ジャンプドライブへの発砲を試みる！"
+
+#: src-en/data/events_sector_og_iron.xml:1356
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"1\"]/text"
+msgstr "「待て！」"
+
+#: src-en/data/events_sector_og_iron.xml:1358
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"艦は即座にはジャンプしなかった。注意を引けたようだ。殺すつもりはなく、何をしているのか知りたいだけだと伝える。彼らは即座には反応せず、ドライブのチャージを維持したままにしている。"
+
+#: src-en/data/events_sector_og_iron.xml:1361
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1363
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"1\"]/event/choice/event/text"
+msgstr ""
+"やがて返答が来た。「レネゲイドよ、情報を得たければ我々に力を証明してみせろ。近くにアイアンウォッチの補給基地がある。そこを破壊してこい。その後で話を聞いてやろう」"
+" そう言って彼らはジャンプした。"
+
+#: src-en/data/events_sector_og_iron.xml:1371
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr "「待て！」"
+
+#: src-en/data/events_sector_og_iron.xml:1373
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/text"
+msgstr "艦は即座に通信を遮断し、消えた。聞く耳を持つ気はないらしい。噂が広まっていれば、話を聞いてくれたかもしれないのだが。"
+
+#: src-en/data/events_sector_og_iron.xml:1376
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1380
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1386
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/text"
+msgstr "見送る。"
+
+#: src-en/data/events_sector_og_iron.xml:1388
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/text"
+msgstr "艦はジャンプしていった。次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1391
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1395
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1403
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[1]/text"
+msgstr "ニュー・ドーンの偵察機は攻撃を軽々とかわし、すぐにジャンプして去っていった。"
+
+#: src-en/data/events_sector_og_iron.xml:1406
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[1]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1411
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[2]/text"
+msgstr "エンジンを直撃し、ジャンプドライブを無力化した。"
+
+#: src-en/data/events_sector_og_iron.xml:1415
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[2]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1426
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_DAWN_QUEST\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1434
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_DAWN_QUEST\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1442
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr "ニュー・ドーンに破壊を命じられたアイアンウォッチ補給基地の位置。"
+
+#: src-en/data/events_sector_og_iron.xml:1447
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/text"
+msgstr "アイアンウォッチ補給基地を発見したが、アイアンウォッチの艦が守備についていた。"
+
+#: src-en/data/events_sector_og_iron.xml:1449
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/text"
+msgstr "守衛を攻撃する。"
+
+#: src-en/data/events_sector_og_iron.xml:1451
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/event/text"
+msgstr "アイアンウォッチ艦が君と基地の間に割り込んでくる。戦闘準備を！"
+
+#: src-en/data/events_sector_og_iron.xml:1454
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1460
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/text"
+msgstr "攻撃について警告する。"
+
+#: src-en/data/events_sector_og_iron.xml:1462
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/event/text"
+msgstr "アイアンウォッチは警告に深く感謝し、お礼として物資を差し出してきた。"
+
+#: src-en/data/events_sector_og_iron.xml:1465
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1471
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/text"
+msgstr "任務を放棄する。"
+
+#: src-en/data/events_sector_og_iron.xml:1473
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1476
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1480
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1490
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/text"
+msgstr ""
+"守備艦を片付け、基地にアクセスして略奪し、破壊した。ニュー・ドーンが監視していたようで、すぐに通信が届く。「すでに他のメンバーと接触したようだな。ニュー・ドーン前方運用基地で会おう」"
+
+#: src-en/data/events_sector_og_iron.xml:1493
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1500
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/text"
+msgstr ""
+"守備艦を片付け、基地にアクセスして略奪し、破壊した。ニュー・ドーンが監視していたようで、すぐに通信が届く。「ニュー・ドーン前方運用基地で我々を探せ。そこで話そう」"
+
+#: src-en/data/events_sector_og_iron.xml:1504
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1533
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_SHIP\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1538
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[1]"
+msgstr "宙域にジャンプすると、はぐれアイアンウォッチ艦が接近してきた。通信には一切応じない。戦闘準備を！"
+
+#: src-en/data/events_sector_og_iron.xml:1539
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[2]"
+msgstr "到着直後、小型巡洋艦から通信が入る。「なんという幸運だ。個人的な恨みはないが、我々が必要とする情報をお前が持っている！」"
+
+#: src-en/data/events_sector_og_iron.xml:1540
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[3]"
+msgstr "このビーコンにいる唯一の他の艦がメッセージを送ってくる。「ついに、数ヶ月待った甲斐があった！罠にかかる者が現れたぞ！」"
+
+#: src-en/data/events_sector_og_iron.xml:1541
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[4]"
+msgstr "ジャンプ完了を認識する間もなく、武器を構えた艦の接近が警告される。"
+
+#: src-en/data/events_sector_og_iron.xml:1545
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/text"
+msgstr ""
+"中性子星に近すぎる！放射線場が一時的にシステムをイオン化させる。アイアンウォッチ艦はパルサー下でも効果的に戦えるよう設計されているらしい。散々な目に遭いそうだ。"
+
+#: src-en/data/events_sector_og_iron.xml:1549
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1555
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/text"
+msgstr "中性子星に近すぎる！放射線場が一時的にシステムをイオン化させる。パルサーの危険に無頓着な海賊が攻撃を仕掛けてきた。"
+
+#: src-en/data/events_sector_og_iron.xml:1559
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1571
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1579
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1587
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/text"
+msgstr "荒涼としたビーコンに到着した。近くの惑星を回るアイアンウォッチ基地以外、特筆すべきものはない。"
+
+#: src-en/data/events_sector_og_iron.xml:1589
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1591
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/text"
+msgstr "退屈していたところに別の艦がジャンプしてきた。これまでのアイアンウォッチ艦とは違う、新型巡洋艦、おそらく試作艦だ。"
+
+#: src-en/data/events_sector_og_iron.xml:1594
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1596
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/text"
+msgstr "試作艦が基地にドッキングするのを目撃した。数分後、何もできないうちに船はドッキングを解除し、ジャンプしていった。"
+
+#: src-en/data/events_sector_og_iron.xml:1599
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"2\"]/text"
+msgstr "(友好評価) 基地に艦について問い合わせる。"
+
+#: src-en/data/events_sector_og_iron.xml:1603
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"0\"]/text"
+msgstr "(中立評価) 基地に艦について問い合わせる。"
+
+#: src-en/data/events_sector_og_iron.xml:1607
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"-999\"]/text"
+msgstr "(敵対評価) 基地に艦について問い合わせる。"
+
+#: src-en/data/events_sector_og_iron.xml:1611
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/text"
+msgstr "(改良型センサー) 艦が残したジャンプ跡をスキャンする。"
+
+#: src-en/data/events_sector_og_iron.xml:1613
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/event/text"
+msgstr "ジャンプによって放射された放射線をスキャンし、試作艦のおよその目的地を三角測量できる。"
+
+#: src-en/data/events_sector_og_iron.xml:1618
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/text"
+msgstr "立ち去る。"
+
+#: src-en/data/events_sector_og_iron.xml:1620
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/text"
+msgstr "距離を保ち、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1622
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1626
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1638
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/text"
+msgstr "基地からの返信が来る。「本来教えるべき情報ではないが、君には特別だ」"
+
+#: src-en/data/events_sector_og_iron.xml:1641
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1645
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1650
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/text"
+msgstr "基地から返信が来たが、壁にぶつかる。「申し訳ないが、その船に関する情報を提供することはできない」"
+
+#: src-en/data/events_sector_og_iron.xml:1652
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/text"
+msgstr "これで考えは変わるか？"
+
+#: src-en/data/events_sector_og_iron.xml:1657
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/text"
+msgstr "基地がスクラップを受け取る。「寄付はありがたいが、やはり船については教えられない」"
+
+#: src-en/data/events_sector_og_iron.xml:1659
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/text"
+msgstr "より高額な賄賂を提案する。"
+
+#: src-en/data/events_sector_og_iron.xml:1664
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"基地がスクラップを受け取る。「これは…！秘密は教えられないが、最近通信が不調で、機密情報が公開チャンネルに流れているんだ。調査が必要だ…」 "
+"直後、クルーが公開チャンネルでブロードキャストされている船の位置情報を傍受する。"
+
+#: src-en/data/events_sector_og_iron.xml:1669
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/text"
+msgstr "基地を脅して情報を引き出す。"
+
+#: src-en/data/events_sector_og_iron.xml:1671
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
+msgstr "基地は君の武器に対して事実上無防備で、要求に素直に応じ、試作艦のデータをアップロードした。寄付も親切に返却された。"
+
+#: src-en/data/events_sector_og_iron.xml:1677
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1683
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/text"
+msgstr "情報を諦めて立ち去る。"
+
+#: src-en/data/events_sector_og_iron.xml:1685
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/text"
+msgstr "基地から離れ、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1687
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1691
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1699
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/text"
+msgstr "より高額な賄賂を提案する。"
+
+#: src-en/data/events_sector_og_iron.xml:1704
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
+msgstr ""
+"基地がスクラップを受け取る。「これは…！秘密は教えられないが、最近通信が不調で、機密情報が公開チャンネルに流れているんだ。調査が必要だ…」 "
+"直後、クルーが公開チャンネルでブロードキャストされている船の位置情報を傍受する。"
+
+#: src-en/data/events_sector_og_iron.xml:1709
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/text"
+msgstr "基地を脅して情報を引き出す。"
+
+#: src-en/data/events_sector_og_iron.xml:1711
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
+msgstr "基地は君の武器に対して事実上無防備で、要求に素直に応じ、試作艦のデータをアップロードした。"
+
+#: src-en/data/events_sector_og_iron.xml:1714
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1720
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/text"
+msgstr "(ハッキング) 遠隔でデータストレージにアクセスする。"
+
+#: src-en/data/events_sector_og_iron.xml:1722
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"基地と世間話をする間にハッキングシステムを設定し、データストレージを読み取って最新の通信データをダウンロードする。完了後、試作艦の位置を入手して別れを告げる。残念ながら、離脱の瞬間にハッキングが検知された。"
+
+#: src-en/data/events_sector_og_iron.xml:1725
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1731
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/text"
+msgstr "(改良型ハッキング) 遠隔でデータストレージにアクセスする。"
+
+#: src-en/data/events_sector_og_iron.xml:1733
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/event/text"
+msgstr ""
+"基地と世間話をする間にハッキングシステムを設定し、データストレージを読み取って最新の通信データをダウンロードする。完了後、試作艦の位置を入手して別れを告げる。"
+
+#: src-en/data/events_sector_og_iron.xml:1738
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/text"
+msgstr "情報を諦めて立ち去る。"
+
+#: src-en/data/events_sector_og_iron.xml:1740
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/text"
+msgstr "基地から離れ、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1742
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1746
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1754
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/text"
+msgstr "基地から返信が来たが、頑として応じない。「たとえ教えられる立場だとしても、君には教えない」"
+
+#: src-en/data/events_sector_og_iron.xml:1756
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/text"
+msgstr "基地を脅して情報を引き出す。"
+
+#: src-en/data/events_sector_og_iron.xml:1758
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
+msgstr "基地は君の武器に対して事実上無防備で、要求に素直に応じ、試作艦のデータをアップロードした。"
+
+#: src-en/data/events_sector_og_iron.xml:1761
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1767
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/text"
+msgstr "(ハッキング) 遠隔でデータストレージにアクセスする。"
+
+#: src-en/data/events_sector_og_iron.xml:1769
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"ハッキングシステムを設定し、データストレージを読み取って最新の通信データをダウンロードする。完了後、試作艦の位置を入手して別れを告げる。残念ながら離脱の瞬間に検知され、近隣のアイアンウォッチ基地に通報されてしまった。"
+
+#: src-en/data/events_sector_og_iron.xml:1772
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1778
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/text"
+msgstr "(改良型ハッキング) 遠隔でデータストレージにアクセスする。"
+
+#: src-en/data/events_sector_og_iron.xml:1780
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/event/text"
+msgstr "ハッキングシステムを設定し、データストレージを読み取って最新の通信データをダウンロードする。完了後、試作艦の位置を入手して別れを告げる。"
+
+#: src-en/data/events_sector_og_iron.xml:1785
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/text"
+msgstr "情報を諦めて立ち去る。"
+
+#: src-en/data/events_sector_og_iron.xml:1787
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/text"
+msgstr "基地から離れ、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1789
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1793
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1806
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/destroyed/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1815
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/deadCrew/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1823
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/beaconType/unvisitedTooltip"
+msgstr "アイアンウォッチ試作艦の位置。"
+
+#: src-en/data/events_sector_og_iron.xml:1828
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/text"
+msgstr "ビーコンに到着すると、アイアンウォッチ艦がパルサーの軌道上で武器システムのテストをしていた。"
+
+#: src-en/data/events_sector_og_iron.xml:1830
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1832
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/text"
+msgstr ""
+"試作艦にパルサーの巨大な波が襲いかかる。スキャンによると、船内の複数のシステムが即座に停止した。さらに追い打ちをかけるように、アステロイドの陰からニュー・ドーンの艦が現れ、試作艦へ接近する。"
+
+#: src-en/data/events_sector_og_iron.xml:1836
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[1]/text"
+msgstr "突入してアイアンウォッチの試作艦を防御する。"
+
+#: src-en/data/events_sector_og_iron.xml:1840
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/text"
+msgstr "武装試作艦へのニュー・ドーン艦の攻撃に加勢する。"
+
+#: src-en/data/events_sector_og_iron.xml:1843
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/text"
+msgstr "試作艦に注意を向けたが、準備が整ったときにはすでにパルサーの衝撃からほぼ回復していた。だが、ニュー・ドーンの艦の支援がある。"
+
+#: src-en/data/events_sector_og_iron.xml:1847
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1853
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/text"
+msgstr "安全な距離まで後退し、戦いを傍観する。"
+
+#: src-en/data/events_sector_og_iron.xml:1855
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/text"
+msgstr "両艦から離れ、次のジャンプの準備をする。"
+
+#: src-en/data/events_sector_og_iron.xml:1858
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[1]/text"
+msgstr "艦内で行う行動を選択する。"
+
+#: src-en/data/events_sector_og_iron.xml:1862
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_og_iron.xml:1872
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
+msgstr ""
+"アイアンウォッチ艦は攻撃からほぼ回復し、通信を送ってきた。「礼を言うぞ艦長。君の助けがなければ生き残れなかっただろう。我々も反乱軍との戦争にもっと関与すべきかもしれないな。試作艦の設計図を連邦に送っておく、有効活用できるはずだ」"
+
+#: src-en/data/events_sector_og_iron.xml:1875
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1883
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/text"
+msgstr ""
+"戦闘後もニュー・ドーン艦は警戒を解かない。彼らが残骸に接近し、慎重に一つの部品を抽出するのを目撃する。何かわからないが、目的を果たすと彼らは興味を失い、後退した。簡潔な礼を述べ、彼らは去っていった。"
+
+#: src-en/data/events_sector_og_iron.xml:1886
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_og_iron.xml:1893
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/text"
+msgstr ""
+"戦闘後もニュー・ドーン艦は警戒を解かない。彼らが残骸に接近し、慎重に一つの部品を抽出するのを目撃する。何かわからないが、目的を果たすと彼らは興味を失い、後退した。「艦長、もしニュー・ドーン前方運用基地に来ることがあったら、確実に通してやる。着いたら俺を探してくれ」"
+
+#: src-en/data/events_sector_og_iron.xml:1897
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/choice/text"
+msgstr "次へ…"
