@@ -242,7 +242,7 @@ msgstr "\\nCharge Amount: %d"
 
 #: src-en/data/text_tooltips.xml.append:56
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ammo\"]"
-msgstr "\\nMissile Consumption: %d"
+msgstr "\\nMissile Consumption: %g"
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chain\"]"
@@ -287,7 +287,7 @@ msgstr "\\nTotal System Damage: %d"
 #: src-en/data/text_tooltips.xml.append:67
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
-msgstr "Total Crew Damage: %d"
+msgstr "\\nTotal Crew Damage: %d"
 
 #: src-en/data/text_tooltips.xml.append:68
 msgid ""
@@ -402,7 +402,7 @@ msgstr "Use your %s"
 #: src-en/data/text_tooltips.xml.append:98
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use_scrap\"]"
-msgstr "Use your %s + $d~"
+msgstr "Use your %s + %d~"
 
 #: src-en/data/text_tooltips.xml.append:99
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_finish\"]"

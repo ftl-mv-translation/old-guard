@@ -69,7 +69,7 @@ msgstr "Leave it empty."
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/text"
-msgstr "Available Blueprints."
+msgstr "Available Categories."
 
 #: src-en/data/events_special_storage.xml.append:64
 msgid ""
@@ -79,7 +79,7 @@ msgstr "Nevermind."
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CATEGORY_\"]/text"
-msgstr "Available Blueprints."
+msgstr "Available Blueprints:"
 
 #: src-en/data/events_special_storage.xml.append:76
 msgid ""
@@ -247,12 +247,12 @@ msgstr "Manual Dexterity. [Cost: 30~, 5|]"
 #: src-en/data/events_special_storage.xml.append:209
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_BUY\"]/text"
-msgstr "Expanded Circuitry. [ALREADY INSTALLED]"
+msgstr "Hardpoint Retrofit. [ALREADY INSTALLED]"
 
 #: src-en/data/events_special_storage.xml.append:213
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SHOW\"]/text"
-msgstr "Expanded Circuitry. [Cost: 30~, 5|]"
+msgstr "Hardpoint Retrofit. [Cost: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:217
 msgid ""
@@ -409,7 +409,7 @@ msgstr "Nevermind."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/text"
 msgstr ""
-"You are about to install the Expanded Circuitry upgrade.\n"
+"You are about to install the Hardpoint Retrofit upgrade.\n"
 "\t[Effects: Expands the adaptive turret's slot to accept all sizes of turrets.]"
 
 #: src-en/data/events_special_storage.xml.append:358
@@ -499,7 +499,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:436
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY\"]/choice[1]/text"
-msgstr "Perform the upgrade. [Cost: 30~, 5|]"
+msgstr "Perform the upgrade. [Cost: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:438
 msgid ""
@@ -731,7 +731,7 @@ msgid ""
 "append:choice/text"
 msgstr ""
 "[Additional Effects: Enemy Turrets are scrambled, making them far less "
-"accurate in defense]."
+"accurate in defence]."
 
 #: src-en/data/events_special_storage.xml.append:620
 msgid ""

@@ -1,0 +1,201 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_og_battlecruisers.xml:9
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"DESTROYED_OG_BATTLECRUISER_SLUG\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:16
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"DEAD_CREW_OG_BATTLECRUISER_SLUG\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:27
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:28
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:29
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:32
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:35
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:37
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:40
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:46
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:48
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:50
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:54
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:68
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"DESTROYED_OG_BATTLECRUISER_CLAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:75
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"DEAD_CREW_OG_BATTLECRUISER_CLAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:86
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:87
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:88
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:91
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:94
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:96
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:99
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:105
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:107
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:109
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:113
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:126
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"DESTROYED_OG_BATTLECRUISER_CRYSTAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:133
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"DEAD_CREW_OG_BATTLECRUISER_CRYSTAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:144
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:145
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:146
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:148
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:151
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:153
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:156
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:162
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:164
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:166
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_og_battlecruisers.xml:170
+msgid ""
+"data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[2]/event/choice[2]/text"
+msgstr ""

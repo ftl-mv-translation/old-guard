@@ -233,4 +233,4 @@ msgstr "Advanced Turret Control"
 #: src-en/data/text_misc.xml.append:73
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single_installed\"]"
-msgstr "Adaptive Turret Control System installed"
+msgstr "Advanced Turret Control System installed"

@@ -155,7 +155,7 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/description"
 msgstr ""
 "As a Spearhead-Class vessel: Trigger the bonus system damage from a New Dawn"
-" turret 6 times from an application of the effect."
+" turret 6 times from a single application of the effect."
 
 #: src-en/data/hyperspace.xml.append:541
 msgid ""

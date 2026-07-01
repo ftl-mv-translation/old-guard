@@ -5,100 +5,100 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/events_special_main.xml.append:13
+#: src-en/data/events_special_main.xml.append:18
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/text"
 msgstr "艦にタレット制御システムが装備されています。使用法のチュートリアルを表示しますか？"
 
-#: src-en/data/events_special_main.xml.append:15
+#: src-en/data/events_special_main.xml.append:20
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[1]/text"
 msgstr "はい！"
 
-#: src-en/data/events_special_main.xml.append:17
+#: src-en/data/events_special_main.xml.append:22
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_2\"]/text"
 msgstr "タレットは兵器と同様に機能します。システムホットバーの関連するボックスをクリックするか、タレットのホットキーを使用して選択できます。"
 
-#: src-en/data/events_special_main.xml.append:19
+#: src-en/data/events_special_main.xml.append:24
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_2\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_special_main.xml.append:21
+#: src-en/data/events_special_main.xml.append:26
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_3\"]/text"
 msgstr "タレットホットキーはトグルメニューで割り当て可能で、システムホットバー上のタレットシステム番号に対応します。"
 
-#: src-en/data/events_special_main.xml.append:23
+#: src-en/data/events_special_main.xml.append:28
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_3\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_special_main.xml.append:25
+#: src-en/data/events_special_main.xml.append:30
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_4\"]/text"
 msgstr "各タレットは、タレットボックスの右下にあるボタンで2つのモードを切り替えられます。"
 
-#: src-en/data/events_special_main.xml.append:27
+#: src-en/data/events_special_main.xml.append:32
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_4\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_special_main.xml.append:29
+#: src-en/data/events_special_main.xml.append:34
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_5\"]/text"
 msgstr ""
 "攻撃モードでは、敵艦、敵発射体、敵ドローンを標的に手動で照準する必要があります。両側の発射体を狙えますが、タレットが射撃するのは発射体が自艦側の戦場に到達してからです。"
 
-#: src-en/data/events_special_main.xml.append:31
+#: src-en/data/events_special_main.xml.append:36
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_5\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_special_main.xml.append:33
+#: src-en/data/events_special_main.xml.append:38
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_6\"]/text"
 msgstr ""
 "防御モードでは、タレットは発射体やドローンを自動的に標的にします。ここでタレット制御の内部アップグレードが役立ちます。回転速度と射出速度の向上により、脅威に素早く反応できます。"
 
-#: src-en/data/events_special_main.xml.append:35
+#: src-en/data/events_special_main.xml.append:40
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_6\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_special_main.xml.append:37
+#: src-en/data/events_special_main.xml.append:42
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/text"
 msgstr ""
 "タレットには独自のオートファイアボタンがあり、すべてのタレットのオートファイア設定を切り替えられます。タレット選択時にCtrlキーを押すと、そのタレットのみオートファイア設定を反転できます。"
 
-#: src-en/data/events_special_main.xml.append:39
+#: src-en/data/events_special_main.xml.append:44
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/choice[1]/text"
 msgstr "理解した！"
 
-#: src-en/data/events_special_main.xml.append:43
+#: src-en/data/events_special_main.xml.append:48
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/choice[2]/text"
 msgstr "理解した、二度と表示しない！"
 
-#: src-en/data/events_special_main.xml.append:45
+#: src-en/data/events_special_main.xml.append:50
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OG_TURRET_ARROWS_7\"]/choice[2]/event/text"
 msgstr "タレットのチュートリアルを無効にしました。トグルメニューから再度有効にできます。"
 
-#: src-en/data/events_special_main.xml.append:62
+#: src-en/data/events_special_main.xml.append:67
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[2]/text"
 msgstr "いいえ！"
 
-#: src-en/data/events_special_main.xml.append:66
+#: src-en/data/events_special_main.xml.append:71
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[3]/text"
 msgstr "いいえ、二度と表示しない！"
 
-#: src-en/data/events_special_main.xml.append:68
+#: src-en/data/events_special_main.xml.append:73
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"OG_TURRET_ARROWS_1\"]/choice[3]/event/text"
 msgstr "タレットのチュートリアルを無効にしました。トグルメニューから再度有効にできます。"

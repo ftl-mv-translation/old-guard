@@ -41,21 +41,57 @@ msgstr ""
 "ニュー・ドーンの軍事拠点。アイアンウォッチとの戦いにおいて物資も同盟者も不足しており、メンバーの一部が抗議する中、反乱軍に助けを求めている。"
 
 #: src-en/data/text_events.xml.append:28
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_battlecruiser\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:30
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_iron\"]"
 msgstr "ストア [アイアンウォッチ]"
 
-#: src-en/data/text_events.xml.append:29
+#: src-en/data/text_events.xml.append:31
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_dawn\"]"
 msgstr "ストア [ニュー・ドーン]"
 
-#: src-en/data/text_events.xml.append:30
+#: src-en/data/text_events.xml.append:32
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_ship\"]"
 msgstr "艦 [!]"
 
-#: src-en/data/text_events.xml.append:31
+#: src-en/data/text_events.xml.append:33
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_base\"]"
 msgstr "隠し基地 [!]"
 
-#: src-en/data/text_events.xml.append:32
+#: src-en/data/text_events.xml.append:34
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_vault\"]"
 msgstr "データ保管庫 [!]"
+
+#: src-en/data/text_events.xml.append:36
+msgid ""
+"data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_none_original\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:37
+msgid ""
+"data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_drone_original\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:38
+msgid ""
+"data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_drone\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:39
+msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:40
+msgid ""
+"data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_1_drone\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:41
+msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:42
+msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_3\"]"
+msgstr ""

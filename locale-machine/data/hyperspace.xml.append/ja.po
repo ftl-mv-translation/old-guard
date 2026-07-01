@@ -5,142 +5,178 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/hyperspace.xml.append:111
+#: src-en/data/hyperspace.xml.append:133
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
 "オーバークロック・モーター:\n"
 "敵タレットの回転速度が100%上昇。"
 
-#: src-en/data/hyperspace.xml.append:116
+#: src-en/data/hyperspace.xml.append:138
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "反射装甲:\n"
 "自艦に命中するビームダメージを半減（端数切り捨て、最低1）。"
 
-#: src-en/data/hyperspace.xml.append:121
+#: src-en/data/hyperspace.xml.append:143
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
 "タレット・プリイグナイター:\n"
 "敵タレットは戦闘開始時にフルチャージされている。"
 
-#: src-en/data/hyperspace.xml.append:126
+#: src-en/data/hyperspace.xml.append:148
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
 "タレット・プリエナージャイザー:\n"
 "敵タレットは戦闘開始時に半チャージされている。"
 
-#: src-en/data/hyperspace.xml.append:131
+#: src-en/data/hyperspace.xml.append:153
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
 "ニュー・ドーン製タレット:\n"
 "敵はニュー・ドーン製タレットを装備している。被弾した部屋は一時的に脆弱化し、システムダメージ+1を受ける。ただし、このタレット自体も対応するシステムを脆弱化させる。"
 
-#: src-en/data/hyperspace.xml.append:177
+#: src-en/data/hyperspace.xml.append:158
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
+"append:shipIcon[6]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:207
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/name"
 msgstr "戦時経済"
 
-#: src-en/data/hyperspace.xml.append:178
+#: src-en/data/hyperspace.xml.append:208
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/description"
 msgstr "急襲型で、独自の新しいタレットを作成する。"
 
-#: src-en/data/hyperspace.xml.append:183
+#: src-en/data/hyperspace.xml.append:213
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/name"
 msgstr "ガラガラヘビを踏む"
 
-#: src-en/data/hyperspace.xml.append:184
+#: src-en/data/hyperspace.xml.append:214
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/description"
 msgstr "急襲型でニュー・ドーンの艦を撃破する。"
 
-#: src-en/data/hyperspace.xml.append:189
+#: src-en/data/hyperspace.xml.append:219
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/name"
 msgstr "重責"
 
-#: src-en/data/hyperspace.xml.append:190
+#: src-en/data/hyperspace.xml.append:220
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/description"
 msgstr "急襲型で、兵器やドローンシステムを購入（または初期システムをアップグレード）せずにセクター8に到達する。"
 
-#: src-en/data/hyperspace.xml.append:252
+#: src-en/data/hyperspace.xml.append:272
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_1\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:273
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_1\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:278
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:279
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:284
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:285
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:475
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_1\"]/name"
 msgstr "ポイントディフェンス"
 
-#: src-en/data/hyperspace.xml.append:253
+#: src-en/data/hyperspace.xml.append:476
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_1\"]/description"
 msgstr "槍先型で、1回の戦闘で発射体またはドローンを5つ撃ち落とす。"
 
-#: src-en/data/hyperspace.xml.append:258
+#: src-en/data/hyperspace.xml.append:481
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/name"
 msgstr "反乱軍への忠誠"
 
-#: src-en/data/hyperspace.xml.append:259
+#: src-en/data/hyperspace.xml.append:482
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/description"
 msgstr "槍先型で、人間以外のクルーを一人も乗せずにセクター8まで到達する。"
 
-#: src-en/data/hyperspace.xml.append:264
+#: src-en/data/hyperspace.xml.append:487
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/name"
 msgstr "コンボブレーカー"
 
-#: src-en/data/hyperspace.xml.append:265
+#: src-en/data/hyperspace.xml.append:488
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/description"
-msgstr "槍先型で、ニュー・ドーン製タレットによるボーナスシステムダメージを1回の効果適用で6回発動させる。"
+msgstr ""
 
-#: src-en/data/hyperspace.xml.append:315
+#: src-en/data/hyperspace.xml.append:541
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_1\"]/name"
 msgstr "トロイの木馬"
 
-#: src-en/data/hyperspace.xml.append:316
+#: src-en/data/hyperspace.xml.append:542
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_1\"]/description"
 msgstr "巨像型ですべてのクルースロットを埋める。"
 
-#: src-en/data/hyperspace.xml.append:321
+#: src-en/data/hyperspace.xml.append:547
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_2\"]/name"
 msgstr "同調攻撃"
 
-#: src-en/data/hyperspace.xml.append:322
+#: src-en/data/hyperspace.xml.append:548
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_2\"]/description"
 msgstr "巨像型ですべてのタレットスロットに同じタレットを装備する。"
 
-#: src-en/data/hyperspace.xml.append:327
+#: src-en/data/hyperspace.xml.append:553
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_3\"]/name"
 msgstr "これが俺のライフル、これが俺の銃だ！"
 
-#: src-en/data/hyperspace.xml.append:328
+#: src-en/data/hyperspace.xml.append:554
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_3\"]/description"
 msgstr "巨像型ですべての大型タレットをパワー5にアップグレードする。"
 
-#: src-en/data/hyperspace.xml.append:719
+#: src-en/data/hyperspace.xml.append:1040
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/buttonText"
 msgstr "クローク"
 
-#: src-en/data/hyperspace.xml.append:720
+#: src-en/data/hyperspace.xml.append:1041
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/tooltip"
 msgstr ""
@@ -155,96 +191,156 @@ msgstr ""
 "\t\t\t\t\t-修理: 0.75倍\n"
 "\t\t\t\t\t-移動: 0.25倍"
 
-#: src-en/data/hyperspace.xml.append:758
+#: src-en/data/hyperspace.xml.append:1079
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[7]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:page/section/@text"
 msgstr "ザ・オールドガード"
 
-#: src-en/data/hyperspace.xml.append:760
+#: src-en/data/hyperspace.xml.append:1081
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_IRON\"]/name"
 msgstr "アイアンウォッチ"
 
-#: src-en/data/hyperspace.xml.append:769
+#: src-en/data/hyperspace.xml.append:1090
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_DAWN\"]/name"
 msgstr "ニュー・ドーン"
 
-#: src-en/data/hyperspace.xml.append:778
+#: src-en/data/hyperspace.xml.append:1099
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/name"
 msgstr "ニュー・ドーン輸送機"
 
-#: src-en/data/hyperspace.xml.append:779
+#: src-en/data/hyperspace.xml.append:1100
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/secretDescription"
 msgstr "ニュー・ドーンの輸送船から戦利品を入手する。"
 
-#: src-en/data/hyperspace.xml.append:780
+#: src-en/data/hyperspace.xml.append:1101
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/description"
 msgstr "ニュー・ドーンの輸送船からピアスレーザー I を入手する。"
 
-#: src-en/data/hyperspace.xml.append:782
+#: src-en/data/hyperspace.xml.append:1103
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/header"
 msgstr "戦利品を入手"
 
-#: src-en/data/hyperspace.xml.append:786
+#: src-en/data/hyperspace.xml.append:1107
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1108
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1109
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1111
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1115
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1116
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1117
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1119
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1123
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1124
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1125
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1127
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1139
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/name"
 msgstr "タレット支援"
 
-#: src-en/data/hyperspace.xml.append:787
+#: src-en/data/hyperspace.xml.append:1140
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/description"
 msgstr "急襲型 Cのレネゲイドを撃破し、ライトチャージャータレットを入手する。"
 
-#: src-en/data/hyperspace.xml.append:789
+#: src-en/data/hyperspace.xml.append:1142
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/header"
 msgstr "レネゲイドを撃破"
 
-#: src-en/data/hyperspace.xml.append:803
+#: src-en/data/hyperspace.xml.append:1156
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[7]/mod:findLike/mod-"
 "append:category/customTitle"
 msgstr "タレットシステム"
 
-#: src-en/data/hyperspace.xml.append:843
+#: src-en/data/hyperspace.xml.append:1197
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[1]/customTitle"
 msgstr "本日の兵器 [33% OFF]"
 
-#: src-en/data/hyperspace.xml.append:863
+#: src-en/data/hyperspace.xml.append:1217
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[2]/customTitle"
 msgstr "本日のドローン [33% OFF]"
 
-#: src-en/data/hyperspace.xml.append:883
+#: src-en/data/hyperspace.xml.append:1237
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[3]/customTitle"
 msgstr "本日のオーグメント [33% OFF]"
 
-#: src-en/data/hyperspace.xml.append:903
+#: src-en/data/hyperspace.xml.append:1257
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[4]/customTitle"
 msgstr "タレット"
 
-#: src-en/data/hyperspace.xml.append:936
+#: src-en/data/hyperspace.xml.append:1290
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[8]/customTitle"
 msgstr "デッキハンド"
 
-#: src-en/data/hyperspace.xml.append:944
+#: src-en/data/hyperspace.xml.append:1298
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[9]/customTitle"
 msgstr "必須システム"
 
-#: src-en/data/hyperspace.xml.append:962
+#: src-en/data/hyperspace.xml.append:1316
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[10]/customTitle"
 msgstr "補助システム"

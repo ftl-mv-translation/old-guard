@@ -119,3 +119,18 @@ msgstr "レネゲイド巡洋艦"
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_CHAOS\"]/class"
 msgstr "レネゲイド巡洋艦"
+
+#: src-en/data/autoBlueprints.xml.append:2242
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_SLUG_BATTLECRUISER\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:2266
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_CLAN_BATTLECRUISER\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:2290
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_CRYSTAL_BATTLECRUISER\"]/class"
+msgstr ""

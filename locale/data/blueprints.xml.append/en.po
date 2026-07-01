@@ -87,7 +87,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:68
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/title"
-msgstr "Expanded Circuitry"
+msgstr "Hardpoint Retrofit"
 
 #: src-en/data/blueprints.xml.append:69
 msgid ""
@@ -97,7 +97,7 @@ msgstr "YOU SHOULD NEVER SEE THIS"
 #: src-en/data/blueprints.xml.append:76
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/title"
-msgstr "Expanded Circuitry [X]"
+msgstr "Hardpoint Retrofit [X]"
 
 #: src-en/data/blueprints.xml.append:77
 msgid ""
@@ -126,7 +126,7 @@ msgstr "Secondary Hardpoint Retrofit [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/desc"
 msgstr ""
-"Expands the adaptive turret's slot to accept all sizes of turrets.\n"
+"Expands the secondary adaptive turret's slot to accept all sizes of turrets.\n"
 "\t\n"
 "\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system."
 
@@ -242,9 +242,11 @@ msgstr "Adaptive Turret Control"
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
 msgstr ""
-"Powers your ship's turret. Upgrading lowers the charge time of the turret. "
-"Turret position can be altered outside of combat to best fit the ship, can "
-"be upgraded to a large turret slot in the internal upgrade menu."
+"Can be Internally upgraded to add a secondary turret system alongside this "
+"one in place of drone control, secondary system does not consume a system "
+"slot. Powers your ship's turret. Upgrading lowers the charge time of the "
+"turret. Turret position can be altered outside of combat to best fit the "
+"ship, can be upgraded to a large turret slot in the internal upgrade menu."
 
 #: src-en/data/blueprints.xml.append:274
 msgid ""
@@ -568,7 +570,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/desc"
 msgstr ""
 "A specialized Light Laser Turret which is extremely effective at defending the ship with its high charge count and quick rotation speed.\n"
-"Chaotic varient rotates 5x as fast and can target any projectile."
+"Chaotic variant rotates 5x as fast and can target any projectile."
 
 #: src-en/data/blueprints.xml.append:698
 msgid ""
@@ -635,7 +637,7 @@ msgid ""
 msgstr ""
 "A specialized Laser Turret that does high bio damage and cripples crew, but "
 "no system or hull damage. This turret is also extremely capable in the "
-"defense role shooting down enemy lasers."
+"defence role shooting down enemy lasers."
 
 #: src-en/data/blueprints.xml.append:782
 msgid ""
@@ -770,7 +772,7 @@ msgid ""
 msgstr ""
 "Ion Turrets are excellent drone suppression aswell as being able to disable "
 "systems without causing hull damage. This one charges and fires very "
-"quuckly."
+"quickly."
 
 #: src-en/data/blueprints.xml.append:953
 msgid ""
@@ -1143,7 +1145,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/desc"
 msgstr ""
 "Heavy Laser Turrets make for poor defensive turrets with their slow rotation speed and high damage per shot, but are excellent against enemy ships.\n"
-"New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
+"New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
 
 #: src-en/data/blueprints.xml.append:1444
 msgid ""
@@ -1160,7 +1162,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/desc"
 msgstr ""
 "Ion Turrets are excellent drone suppression aswell as being able to disable systems without causing hull damage. This one starts fires in the system it hits.\n"
-"New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
+"New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
 
 #: src-en/data/blueprints.xml.append:1466
 msgid ""
@@ -1177,7 +1179,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/desc"
 msgstr ""
 "Slow to charge but capable of delivering high damage to the enemy ship, decent against enemy drones and solid projectiles.\n"
-"New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
+"New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
 
 #: src-en/data/blueprints.xml.append:1488
 msgid ""
@@ -1194,7 +1196,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
 "A powerful Flak turret, can build up an incredible volley to be fired in both defence and offence.\n"
-"New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
+"New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
 
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
@@ -1211,7 +1213,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/desc"
 msgstr ""
 "Pinpoint Turrets prove extremely effective against enemy missiles due to their almost instantaneous time to kill.\n"
-"New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
+"New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
 
 #: src-en/data/blueprints.xml.append:1532
 msgid ""
@@ -1228,7 +1230,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/desc"
 msgstr ""
 "This Laser Turret is unlikely to be able to deal with an enemy ship on it's own, but its high rotation speed makes it a defensive unit.\n"
-"New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
+"New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
 
 #: src-en/data/blueprints.xml.append:1554
 msgid ""
@@ -1245,7 +1247,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
 msgstr ""
 "Incapable of doing system damage, this Light Laser Turret is much better suited for shield suppression and defence.\n"
-"New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
+"New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
 
 #: src-en/data/blueprints.xml.append:1576
 msgid ""
@@ -1262,7 +1264,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/desc"
 msgstr ""
 "This small Pinpoint Turret requires support to damage the enemy ship, but remains capable against enemy missiles.\n"
-"New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
+"New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit."
 
 #: src-en/data/blueprints.xml.append:1602
 msgid ""
@@ -1409,7 +1411,7 @@ msgid ""
 msgstr ""
 "A specialized Laser Turret that does high bio damage and cripples crew, but "
 "no system or hull damage. This turret is also extremely capable in the "
-"defense role shooting down enemy lasers."
+"defence role shooting down enemy lasers."
 
 #: src-en/data/blueprints.xml.append:2284
 msgid ""
@@ -2231,7 +2233,7 @@ msgstr "The God Ray"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
 msgstr ""
-"This varient of the Spearhead-Class cruiser uses turrets to protect itself "
+"This variant of the Spearhead-Class cruiser uses turrets to protect itself "
 "and it's weapons to provide offence. Using your turrets for offence will be "
 "risky without any other defensive systems to rely on."
 
@@ -2250,7 +2252,7 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/desc"
 msgstr ""
 "Armed to the teeth, this ship is fully combat focused. A product of rebel "
-"design the ship makes use of malforms  to eliminate the need for oxygen, and"
+"design, the ship makes use of malforms to eliminate the need for oxygen, and"
 " a doctor drone in place of a medical system."
 
 #: src-en/data/blueprints.xml.append:4696

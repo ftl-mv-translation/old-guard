@@ -1,7 +1,7 @@
 {
   "lang": "ja",
   "originalLang": "en",
-  "version": "2.9",
+  "version": "2.17",
   "translation": {
     "Iron Watch Scout": {
       "advanced": {
@@ -223,6 +223,24 @@
       "machine": "",
       "done": false
     },
+    "Kleptocracy Battlecruiser": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Guild Battlecruiser": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Imperial Battlecruiser": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Overclocked Motors": {
       "advanced": {
         "12": {
@@ -333,24 +351,14 @@
       "machine": "",
       "done": false
     },
-    "Expanded Circuitry": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "拡張回路"
-        }
-      },
+    "Hardpoint Retrofit": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
     },
-    "Expanded Circuitry [X]": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "拡張回路 [X]"
-        }
-      },
+    "Hardpoint Retrofit [X]": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -362,6 +370,42 @@
           "text": "アダプティブ・タレットスロットを拡張し、あらゆるサイズのタレットを装備可能にする。\n\t\n\t[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ使用します。タレット制御システムを装備している場合、内部アップグレードメニューから無料で内部バージョンに変換可能です。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Hardpoint Retrofit": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Hardpoint Retrofit [X]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Expands the secondary adaptive turret's slot to accept all sizes of turrets.\n\t\n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Turret": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Turret [X]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Installs a Secondary Adaptive Turret system in place of drone control, this new system does not consume a system slot.\n\t\n\t[X] - As an external system upgrade, this augment can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -410,6 +454,18 @@
       "machine": "",
       "done": false
     },
+    "Can be Internally upgraded to add a secondary turret system alongside this one in place of drone control, secondary system does not consume a system slot. Powers your ship's turret. Upgrading lowers the charge time of the turret. Turret position can be altered outside of combat to best fit the ship, can be upgraded to a large turret slot in the internal upgrade menu.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Turret Control": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Powers your ship's turret. Upgrading lowers the charge time of the turret. Turret position can be altered outside of combat to best fit the ship, can be upgraded to a large turret slot in the internal upgrade menu.": {
       "advanced": {
         "12": {
@@ -417,6 +473,18 @@
           "text": "自艦のタレットを駆動する。アップグレードによりチャージ時間を短縮。非戦闘時には最適な配置に変更可能で、内部アップグレードメニューから大型タレットスロットへ拡張可能。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Advanced Turret Control": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "An Alternative to the Drone System, only available on ships that cannot otherwise install turrets, has an increased maximum system level. Powers your ship's turret. Upgrading lowers the charge time of the turret. Turret position can be altered outside of combat to best fit the ship, can be upgraded to a large turret slot in the internal upgrade menu.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -960,13 +1028,8 @@
       "machine": "",
       "done": false
     },
-    "A specialized Light Laser Turret which is extremely effective at defending the ship with its high charge count and quick rotation speed.\nChaotic varient rotates 5x as fast and can target any projectile.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "高チャージ数と高速回転により、自艦防御に極めて高い効果を発揮する特殊なライトレーザータレット。\nカオス版は回転速度が5倍で、あらゆる発射体を標的にできる。"
-        }
-      },
+    "A specialized Light Laser Turret which is extremely effective at defending the ship with its high charge count and quick rotation speed.\nChaotic variant rotates 5x as fast and can target any projectile.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -1092,13 +1155,8 @@
       "machine": "",
       "done": false
     },
-    "A specialized Laser Turret that does high bio damage and cripples crew, but no system or hull damage. This turret is also extremely capable in the defense role shooting down enemy lasers.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "高い生体ダメージを与えクルーを無力化する特殊タレット。システムや船体にはダメージを与えないが、敵レーザーを撃ち落とす防御役として極めて有能。"
-        }
-      },
+    "A specialized Laser Turret that does high bio damage and cripples crew, but no system or hull damage. This turret is also extremely capable in the defence role shooting down enemy lasers.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -1235,6 +1293,24 @@
       "machine": "",
       "done": false
     },
+    "Frost Laser Turret": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Frost L.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Frost Lasers are one of the few weapon types capable of locking down rooms, keeping most crew from entering or leaving.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Gatling Turret": {
       "advanced": {
         "12": {
@@ -1323,13 +1399,8 @@
       "machine": "",
       "done": false
     },
-    "Ion Turrets are excellent drone suppression aswell as being able to disable systems without causing hull damage. This one charges and fires very quuckly.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "イオントレットはドローン排除に優れ、船体ダメージなしでシステムを無効化できる。これはチャージと発射が非常に高速。"
-        }
-      },
+    "Ion Turrets are excellent drone suppression aswell as being able to disable systems without causing hull damage. This one charges and fires very quickly.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -1594,6 +1665,24 @@
           "text": "オーキッドの母星の巨大植物の種子を弾薬として使用する。この改良型カーネル兵器は船体破壊の代わりに火災を引き起こす。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Clone Cannon": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Cloner": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "No weapon has ever sparked a larger ethical controversy, but if it works it works. Clones whatever crew is currently manning the turret.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2005,13 +2094,8 @@
       "machine": "",
       "done": false
     },
-    "Heavy Laser Turrets make for poor defensive turrets with their slow rotation speed and high damage per shot, but are excellent against enemy ships.\nNew Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "ヘビーレーザータレットは回転速度が遅く防御には向かないが、敵艦への攻撃には優れる。\nニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
-        }
-      },
+    "Heavy Laser Turrets make for poor defensive turrets with their slow rotation speed and high damage per shot, but are excellent against enemy ships.\nNew Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2038,13 +2122,8 @@
       "machine": "",
       "done": false
     },
-    "Ion Turrets are excellent drone suppression aswell as being able to disable systems without causing hull damage. This one starts fires in the system it hits.\nNew Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "イオントレットはドローン排除に優れ、船体ダメージなしでシステムを無効化できる。これは着弾したシステムに火災を引き起こす。\nニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
-        }
-      },
+    "Ion Turrets are excellent drone suppression aswell as being able to disable systems without causing hull damage. This one starts fires in the system it hits.\nNew Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2071,13 +2150,8 @@
       "machine": "",
       "done": false
     },
-    "Slow to charge but capable of delivering high damage to the enemy ship, decent against enemy drones and solid projectiles.\nNew Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "チャージは遅いが、敵艦に高いダメージを与えられる。敵ドローンや固体発射体に対してもそこそこ有効。\nニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
-        }
-      },
+    "Slow to charge but capable of delivering high damage to the enemy ship, decent against enemy drones and solid projectiles.\nNew Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2104,13 +2178,8 @@
       "machine": "",
       "done": false
     },
-    "A powerful Flak turret, can build up an incredible volley to be fired in both defence and offence.\nNew Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "強力なフラックタレット。防御と攻撃の両方で、驚異的な一斉射撃を放てる。\nニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
-        }
-      },
+    "A powerful Flak turret, can build up an incredible volley to be fired in both defence and offence.\nNew Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2137,13 +2206,8 @@
       "machine": "",
       "done": false
     },
-    "Pinpoint Turrets prove extremely effective against enemy missiles due to their almost instantaneous time to kill.\nNew Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "ほぼ瞬時に破壊できるため、敵ミサイルに対する防御として極めて有効。\nニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
-        }
-      },
+    "Pinpoint Turrets prove extremely effective against enemy missiles due to their almost instantaneous time to kill.\nNew Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2170,13 +2234,8 @@
       "machine": "",
       "done": false
     },
-    "This Laser Turret is unlikely to be able to deal with an enemy ship on it's own, but its high rotation speed makes it a defensive unit.\nNew Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "これ単体で敵艦に対抗するのは難しいが、高速回転により防御兵器として機能する。\nニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
-        }
-      },
+    "This Laser Turret is unlikely to be able to deal with an enemy ship on it's own, but its high rotation speed makes it a defensive unit.\nNew Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2203,13 +2262,8 @@
       "machine": "",
       "done": false
     },
-    "Incapable of doing system damage, this Light Laser Turret is much better suited for shield suppression and defence.\nNew Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "システムダメージを与えられないため、シールド抑制と防御に適している。\nニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
-        }
-      },
+    "Incapable of doing system damage, this Light Laser Turret is much better suited for shield suppression and defence.\nNew Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2236,11 +2290,65 @@
       "machine": "",
       "done": false
     },
-    "This small Pinpoint Turret requires support to damage the enemy ship, but remains capable against enemy missiles.\nNew Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
+    "This small Pinpoint Turret requires support to damage the enemy ship, but remains capable against enemy missiles.\nNew Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Plagueridden Pinpoint Turret": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Plague P.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This appears to vaguely resemble a powerful Rad-Pinpoint Turret, but it's been thoroughly corrupted by the Soulplague mattervirus. Inflicts room hit with Plagueridden, infecting and hindering enemies.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The Unnamed Day": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Unnamed": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A bizarre, living weapon from a distant reality - this Lightborne Missile turret is capable of charging several missiles at once, each inflicting rooms hit with the Radiant Desecration effect.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Malaise": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A rapid-firing laser whose projectiles appear to embody darkness itself.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Focus": {
       "advanced": {
         "12": {
           "model": "gemini-3.1-flash-lite",
-          "text": "小型のため敵艦へのダメージには支援が必要だが、敵ミサイルに対する迎撃能力は健在。\nニュー・ドーン版は被弾した部屋にシステムダメージ+1のデバフを付与する。ただし、ニュー・ドーン製タレットを装備したタレットシステムもまた、被弾時にシステムダメージ+1を受ける。"
+          "text": "フォーカス"
         }
       },
       "deepl": "",
@@ -2258,22 +2366,29 @@
       "machine": "",
       "done": false
     },
+    "Shard Launcher Turret": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shard L.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A specialized Mine Launching Turret that uses crystalline projectiles loaded with explosives. Does not use ammunition, but can only pierce 2 layers of shields.\n\t\n\tProvides 1 fleet delay for 5 missiles at empty beacons, has no notoriety impact.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Ion": {
       "advanced": {
         "12": {
           "model": "gemini-3.1-flash-lite",
           "text": "イオン"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Focus": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "フォーカス"
         }
       },
       "deepl": "",
@@ -2412,6 +2527,30 @@
       "machine": "",
       "done": false
     },
+    "The Courier": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Equiped with a battery of small ion turrets, this ship is able to take down shields to allow it's mainline turret to work. Due to the number of turrets, Captains have to choose between a Drone Control or Weapon Control system.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The Bombardier": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This ship has been specialized for high firepower, able to carry either four weapons or four drones, alongside 2 mainline turrets, this ship is sure to pack a punch.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Spearhead-Class": {
       "advanced": {
         "12": {
@@ -2456,13 +2595,8 @@
       "machine": "",
       "done": false
     },
-    "This varient of the Spearhead-Class cruiser uses turrets to protect itself and it's weapons to provide offence. Using your turrets for offence will be risky without any other defensive systems to rely on.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "槍先型巡洋艦のバリエーション。タレットで自己防御し、兵器で攻撃を行う。他に頼れる防御システムがない状態でタレットを攻撃に使うのはリスクを伴う。"
-        }
-      },
+    "This variant of the Spearhead-Class cruiser uses turrets to protect itself and it's weapons to provide offence. Using your turrets for offence will be risky without any other defensive systems to rely on.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2478,13 +2612,8 @@
       "machine": "",
       "done": false
     },
-    "Armed to the teeth, this ship is fully combat focused. A product of rebel design the ship makes use of malforms  to eliminate the need for oxygen, and a doctor drone in place of a medical system.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "完全武装の戦闘特化型艦。反乱軍の設計により、酸素不要の変異体クルーを採用し、医療システムの代わりに医師ドローンを搭載している。"
-        }
-      },
+    "Armed to the teeth, this ship is fully combat focused. A product of rebel design, the ship makes use of malforms to eliminate the need for oxygen, and a doctor drone in place of a medical system.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2923,116 +3052,6 @@
         "12": {
           "model": "gemini-3.1-flash-lite",
           "text": "FTL: The Old Guard\n開発者: Arc\n現在有効。\n\t\t\nタレット制御システムを中心としたアドオン。新しい装備タイプ、2つの新派閥、新宙域、そして新システムを搭載した多数のプレイアブル艦を追加する。\n\t\t\nThe Old Guardを有効にするには、Multiverseフォーラムのアドオンセクションへ！"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "The Outer Expansion \n\tClick to see more info.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "ジ・アウター・エクスパンション\n\tクリックで詳細を表示。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "FTL: The Outer Expansion\nDeveloped by: Arc\nCurrently Disabled.\n\t\t\nCurrently one of the largest addon, adds many new races, crew, ships, sectors and more.\n\t\t\nTo enable The Outer Expansion, go to the Multiverse Forums and visit the addon section!.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "FTL: The Outer Expansion\n開発者: Arc\n現在無効。\n\t\t\n現在最大級のアドオンの1つ。多くの新種族、クルー、艦船、宙域などを追加する。\n\t\t\nThe Outer Expansionを有効にするには、Multiverseフォーラムのアドオンセクションへ！"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "R&D\n\tClick to see more info.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "R&D\n\tクリックで詳細を表示。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "R&D\nDeveloped by: Arc\nCurrently Disabled.\n\nAn addon designed around the use of Lua to create fun and unique gimmicks, this includes a variety of ships, weapons, crew, drones, and quests, although not entirely balanced they all try to introduce and focus on a unique gimmick you wouldn't find in MV otherwise.\n\nTo enable R&D, go to the Multiverse Forums and visit the addon section!.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "R&D\n開発者: Arc\n現在無効。\n\nLuaを使用して楽しくユニークな仕掛けを作るためのアドオン。様々な艦船、兵器、クルー、ドローン、クエストが含まれる。完全にバランスが取れているわけではないが、MVにはないユニークなギミックを導入することに焦点を当てている。\n\nR&Dを有効にするには、Multiverseフォーラムのアドオンセクションへ！"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "FTL: FISHIER THAN LIGHT\n\tClick to see more info.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "FTL: FISHIER THAN LIGHT\n\tクリックで詳細を表示。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "FTL: FISHIER THAN LIGHT\nDeveloped by: Arc\nCurrently Disabled.\n\t  \nFTL Fishing, what more do I need to say. Over 60 fish, all with unique uses and effects.\n\t  \nTo enable Fishier Than Light, go to the Multiverse Forums and visit the addon section!.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "FTL: FISHIER THAN LIGHT\n開発者: Arc\n現在無効。\n\t  \nFTLフィッシング。説明は以上。60種類以上の魚を釣ることができ、すべてにユニークな用途と効果がある。\n\t  \nFishier Than Lightを有効にするには、Multiverseフォーラムのアドオンセクションへ！"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "FTL: TRADING\n\tClick to see more info.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "FTL: TRADING\n\tクリックで詳細を表示。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "FTL: TRADING\nDeveloped by: Arc\nCurrently Disabled.\n\t\t\nAdds an in depth trading system that lets you make smart financial decisions and generate scrap in a less dangerous way.\n\t\t\nTo enable Trading, go to the Multiverse Forums and visit the addon section!.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "FTL: TRADING\n開発者: Arc\n現在無効。\n\t\t\n深みのある取引システムを追加する。賢い財務判断を下し、より安全な方法でスクラップを生成できるようになる。\n\t\t\nTradingを有効にするには、Multiverseフォーラムのアドオンセクションへ！"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "FTL: GALAXY ON FIRE\n\tClick to see more info.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "FTL: GALAXY ON FIRE\n\tクリックで詳細を表示。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "FTL: GALAXY ON FIRE\nDeveloped by: Arc\nCurrently Disabled.\n\t\t\nAdds 3 ships, 40 new weapons, 2 new crew, and 1 new event based on the galaxy on fire franchise. All weapons function in completely new ways never seen before using brand new lua functions.\n\t\t\nTo enable Galaxy On Fire, go to the Multiverse Forums and visit the addon section!.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "FTL: GALAXY ON FIRE\n開発者: Arc\n現在無効。\n\t\t\nGalaxy on Fireフランチャイズに基づく3隻の艦船、40の新兵器、2人の新クルー、1つの新イベントを追加する。すべての兵器は、完全に新しいLua関数を使用して、かつてない斬新な挙動をする。\n\t\t\nGalaxy On Fireを有効にするには、Multiverseフォーラムのアドオンセクションへ！"
         }
       },
       "deepl": "",
@@ -4403,13 +4422,8 @@
       "machine": "",
       "done": false
     },
-    "Eventually the transport finishes their buisiness with the outpost and begins to head off, once out of range of the outpost you carefully intercept them with guns blazing.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "輸送船は基地での用事を済ませ、出発した。基地の射程外に出たところで、君は銃をぶっ放して慎重に迎撃する。"
-        }
-      },
+    "Eventually the transport finishes their business with the outpost and begins to head off, once out of range of the outpost you carefully intercept them with guns blazing.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5371,13 +5385,8 @@
       "machine": "",
       "done": false
     },
-    "Not a moment later the entire station is rocked by a large explosion, sirens and alarms start blaring and people start rushing through, the engineer turns to a nearby console, quickly bringing up the station's exterior camera's.\nOn the vid screen you can makeout a strange looking ship silhouetted against the nearby star. \"It's just as I suspected.\" The engineer turns towards you. \"Captain, what kind of ship do you have?\" \"A cruiser, excellent, take the Turret Pre-igniter, I've saved the designs to a secure datacenter, but I cannot risk the physical prototype falling into their hands, please take it with you and get out of here, whatever you do, do not let it fall into the Rebellion's hands.\"": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "直後、基地全体が巨大な爆発で揺れ、サイレンと警報が鳴り響く。エンジニアが近くのコンソールを操作し、外部カメラを表示した。モニターには、近くの星を背にして奇妙な船が浮かんでいる。「やはりな」 エンジニアが君を向く。「艦長、どんな船を持っている？」「巡洋艦？最高だ。このタレット・プリイグナイターを持って行け。設計図は安全なデータセンターに保存した。だが、現物を彼らの手に渡すわけにはいかない。持って逃げてくれ。何があっても、反乱軍の手に渡してはならないぞ」"
-        }
-      },
+    "Not a moment later the entire station is rocked by a large explosion, sirens and alarms start blaring and people start rushing through, the engineer turns to a nearby console, quickly bringing up the station's exterior camera's.\nOn the vid screen you can makeout a strange looking ship silhouetted against the nearby star. \"It's just as I suspected.\" The engineer turns towards you. \"Captain, what kind of ship do you have?\" \"A cruiser, excellent! Take the Turret Pre-igniter, I've saved the designs to a secure datacenter. The physical prototype I cannot, however, risk falling into their hands, please take it with you and get out of here. Whatever you do, do not let it fall into the Rebellion's hands.\"": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5965,13 +5974,8 @@
       "machine": "",
       "done": false
     },
-    "It's only a few minutes later when the New Dawn cruiser arrives, \"Oh thank the gods you managed to stop them, we defeated the rest of the ships at the data-vault, but this one slipped through our defenses, we believe they had the stolen data on them, the salvage team are on their way now to try and cleanup anything that survived. We cannot thank you enough for the help.\"\n\n\"One of the things they attempted to steal were the plans for a new cruiser we have designed, I've taken the liberty to download the design myself for you, try not to let it fall into the wrong hands. Additionally, and possibly more immediately helpful to you, I have a selection of New Dawn equipment, take whatever you like the look of, I can just write it off as destroyed in the battle.\"": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "数分後、ニュー・ドーン巡洋艦が到着した。「神に感謝を、よくぞ止めてくれた！保管庫で他の艦は全滅させたが、これだけが網を抜けてしまった。盗んだデータを持っているはずだ。サルベージチームが生存物を回収に向かっている。感謝してもしきれない」「やつらが盗もうとしたものの中に、我々の新型巡洋艦の設計図があった。勝手ながらダウンロードしておいたぞ。二度と悪の手に落ちぬよう頼む。さらに、今すぐ役立つであろうニュー・ドーンの装備も用意した。好きなものを持って行け。戦闘で破壊されたことにしておく」"
-        }
-      },
+    "It's only a few minutes later when the New Dawn cruiser arrives, \"Oh thank the gods you managed to stop them, we defeated the rest of the ships at the data-vault, but this one slipped through our defences, we believe they had the stolen data on them, the salvage team are on their way now to try and cleanup anything that survived. We cannot thank you enough for the help.\"\n\n\"One of the things they attempted to steal were the plans for a new cruiser we have designed, I've taken the liberty to download the design myself for you, try not to let it fall into the wrong hands. Additionally, and possibly more immediately helpful to you, I have a selection of New Dawn equipment, take whatever you like the look of, I can just write it off as destroyed in the battle.\"": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -6042,13 +6046,8 @@
       "machine": "",
       "done": false
     },
-    "The smaller ships engage first, pulling defenders away from the station, aswell as laying into and disabling many of the turrets built onto the station. It all appears to be going well until a large New Dawn vessel reveals its self from behind the station, heading straight towards you and the Iron Watch cruiser. \"You need to stop that ship, we're heavy on crew and equipment, we're not actually outfitted for ship to ship combat. You need to prevent them from making it too us.\"": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "小型艦が先行して防衛側の注意を引き、ステーションのタレットを無力化していく。すべて順調に思えたが、ステーションの裏からニュー・ドーンの大型艦が現れ、こちらへ突進してきた。「あの艦を止めてくれ！こっちはクルーと装備が満載で、対艦戦闘の装備がない。近づけさせるな！」"
-        }
-      },
+    "The smaller ships engage first, pulling defenders away from the station, aswell as laying into and disabling many of the turrets built onto the station. It all appears to be going well until a large New Dawn vessel reveals its self from behind the station, heading straight towards you and the Iron Watch cruiser. \"You need to stop that ship, we're heavy on crew and equipment, we're not actually outfitted for ship to ship combat. You need to prevent them from making it to us.\"": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -6757,13 +6756,8 @@
       "machine": "",
       "done": false
     },
-    "The nearby market is overlooked by an allied refueling post.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "近くの市場は、同盟の給油所によって管理されている。"
-        }
-      },
+    "A large market surrounds this refueling station.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -6779,13 +6773,8 @@
       "machine": "",
       "done": false
     },
-    "You stock up on fuel then check out the store.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "燃料を補給し、ストアを確認する。"
-        }
-      },
+    "You load up the turret before moving onto the rest of the market.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -8275,13 +8264,8 @@
       "machine": "",
       "done": false
     },
-    "The outpost is effectively defenseless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype. They also kindly return your donation.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "基地は君の武器に対して事実上無防備で、要求に素直に応じ、試作艦のデータをアップロードした。寄付も親切に返却された。"
-        }
-      },
+    "The outpost is effectively defenceless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype. They also kindly return your donation.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -8308,13 +8292,8 @@
       "machine": "",
       "done": false
     },
-    "The outpost is effectively defenseless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "基地は君の武器に対して事実上無防備で、要求に素直に応じ、試作艦のデータをアップロードした。"
-        }
-      },
+    "The outpost is effectively defenceless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -8924,6 +8903,60 @@
       "machine": "",
       "done": false
     },
+    "While scrapping the wreckage of the Battlecruiser, you find a functional Turret drifting in the midst of the wreckage.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The Battlecruiser has been emptied of crew. While scrapping it, you find a Turret in its storage.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A Battlecruiser wielding powerful Turret tech is sitting at this beacon. The Kleptocracy aren't known as honest merchants, so you doubt this particular slug got his hands on those turrets fairly.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Attack, we can steal their Turret tech!": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You've taken the risky choice of fighting the ship. Hopefully, you can protect yourself from their salvo long enough.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Avoid the Battlecruiser.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Messing with a Battlecruiser is a bad idea.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A Battlecruiser wielding powerful Turret tech is sitting at this beacon. The Kleptocracy aren't known as honest merchants, so you doubt this particular CLAN got his hands on those turrets fairly.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The Crystalline Empire is more territorial than any other government or species. A Battlecruiser, wielding specialized Turret tech, is patrolling the beacon, but for once they don't seem to care about your presence.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Turret Control.": {
       "advanced": {
         "12": {
@@ -8968,6 +9001,24 @@
       "machine": "",
       "done": false
     },
+    "Reposition your Secondary Adaptive Turret Slot.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reposition your Advanced Adaptive Turret Slot.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Turret Control Upgrade. [Cost: 50~, 5|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Which Turret to install?": {
       "advanced": {
         "12": {
@@ -9001,13 +9052,14 @@
       "machine": "",
       "done": false
     },
-    "Available Blueprints.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "利用可能な設計図。"
-        }
-      },
+    "Available Categories.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Available Blueprints:": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -9210,24 +9262,38 @@
       "machine": "",
       "done": false
     },
-    "Expanded Circuitry. [ALREADY INSTALLED]": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "拡張回路 [インストール済み]"
-        }
-      },
+    "Hardpoint Retrofit. [ALREADY INSTALLED]": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
     },
-    "Expanded Circuitry. [Cost: 30~, 5|]": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "拡張回路 [コスト: 30~, 5|]"
-        }
-      },
+    "Hardpoint Retrofit. [Cost: 30~, 5|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Hardpoint Retrofit. [ALREADY INSTALLED]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Hardpoint Retrofit. [Cost: 30~, 5|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Turret Control. [ALREADY INSTALLED]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Turret Control. [Cost: 50~, 5|]": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -9320,13 +9386,32 @@
       "machine": "",
       "done": false
     },
-    "You are about to install the Expanded Circuitry upgrade.\n\t[Effects: Expands the adaptive turret's slot to accept all sizes of turrets.]": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "拡張回路をインストールします。\n\t[効果: アダプティブ・タレットスロットを拡張し、あらゆるサイズのタレットを装備可能にする。]"
-        }
-      },
+    "You are about to install the Hardpoint Retrofit upgrade.\n\t[Effects: Expands the adaptive turret's slot to accept all sizes of turrets.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Secondary Hardpoint Retrofit upgrade.\n\t[Effects: Expands the secondary adaptive turret's slot to accept all sizes of turrets.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Secondary Turret Control upgrade.\n\t[Effects: Installs a Secondary Adaptive Turret system in place of drone control, this new system does not consume a system slot.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 50~, 5|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You install the system.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -9518,6 +9603,18 @@
       "machine": "",
       "done": false
     },
+    "Toggle turret fabrication tips. [Currently Enabled]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Toggle turret fabrication tips. [Currently Disabled]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "(Drive Hacker) Summon an Old Guard MV vessel.": {
       "advanced": {
         "12": {
@@ -9617,13 +9714,26 @@
       "machine": "",
       "done": false
     },
-    "[Additional Effects: Enemy Turrets are scrambled, making them far less accurate in defense].": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "[追加効果: 敵タレットが混乱し、防御時の精度が大幅に低下する]"
-        }
-      },
+    "[Additional Effects: Enemy Turrets are scrambled, making them far less accurate in defence].": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Thus was it done, and yet... your ship's power seems to radiate further, still...": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Use your Shard Launcher Turret and additional missiles. [-5}, gives 1 delay, does not impact notoriety]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You rig the ammunition and set a trap for the Rebels. Fortunately, due to obscure legal loopholes, the use of this weapon isn't illegal, though it is very morally dubious.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -9679,6 +9789,12 @@
           "text": "ニュー・ドーン製タレット:\n敵はニュー・ドーン製タレットを装備している。被弾した部屋は一時的に脆弱化し、システムダメージ+1を受ける。ただし、このタレット自体も対応するシステムを脆弱化させる。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "BATTLECRUISER:\nThis enemy is equiped with specialized turret tech, defeat them to take the specialized loot turret for yourself.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -9749,6 +9865,42 @@
       "machine": "",
       "done": false
     },
+    "Death by a Thousand Cuts": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Upgrade all of your micro turrets to 3 power as an Executor-Class vessel.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Flawless Execution": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "As an Executor-Class vessel: Win a battle while taking no hull damage, and without shields or cloaking.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Executive Order": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reach Sector 8 with an Executor-class vessel using no systems other than turrets, shields, engines, oxygen, cloaking, medical systems, and subsystems.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Point Defence": {
       "advanced": {
         "12": {
@@ -9804,13 +9956,8 @@
       "machine": "",
       "done": false
     },
-    "As a Spearhead-Class vessel: Trigger the bonus system damage from a New Dawn turret 6 times from an application of the effect.": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "槍先型で、ニュー・ドーン製タレットによるボーナスシステムダメージを1回の効果適用で6回発動させる。"
-        }
-      },
+    "As a Spearhead-Class vessel: Trigger the bonus system damage from a New Dawn turret 6 times from a single application of the effect.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -9965,6 +10112,48 @@
           "text": "戦利品を入手"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Obtain the loot turret from the Kleptocracy Battlecruiser.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Obtain the Irradiation Pinpoint Turret from the Kleptocracy Battlecruiser.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Turret Acquired": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Obtain the loot turret from the Guild Battlecruiser.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Obtain the Irradiation Laser Turret from the Guild Battlecruiser.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Obtain the loot turret from the Imperial Battlecruiser.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Obtain the Shard Launcher Turret from the Imperial Battlecruiser.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -10398,6 +10587,12 @@
       "machine": "",
       "done": false
     },
+    "BATTLECRUISER": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "STORE [IRON WATCH]": {
       "advanced": {
         "12": {
@@ -10449,6 +10644,48 @@
           "text": "データ保管庫 [!]"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I desire... no change.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I desire... Drone Control.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I desire... Drone Control. (will replace Turret Control)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I desire... Turret Control.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I desire... Turret Control. (will replace Drone Control)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I desire... to upgrade my Turret Control.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You cannot upgrade your Turret Control any further.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -10618,6 +10855,30 @@
       "machine": "",
       "done": false
     },
+    "SLUG LOOT\n+1 system damage, +15 crew damage\n+20% breach chance": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "CLAN LOOT\nStuns crew hit for 3 seconds\n+120 homing\n-0.5 second cooldown": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "CRYSTAL LOOT\nFires Crystal Mines\n+120 homing\n+1 projectile\n+5 second cooldown": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "FEDERATION LOOT\nCan target all projectiles and drones\n+2 charges\n-1 second cooldown": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Turret Control System installed": {
       "advanced": {
         "12": {
@@ -10636,6 +10897,18 @@
           "text": "アダプティブ・タレット制御システムをインストール済み"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Turret Control System installed": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Advanced Turret Control System installed": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -10706,6 +10979,18 @@
       "machine": "",
       "done": false
     },
+    "Temporarily drain charge from the enemy turret.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "SYSTEM HACKED: TURRET LOSING CHARGE.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Stats:\\nCharge Time:": {
       "advanced": {
         "12": {
@@ -10739,13 +11024,8 @@
       "machine": "",
       "done": false
     },
-    "\\nMissile Consumption: %d": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "\\nミサイル消費量: %d"
-        }
-      },
+    "\\nMissile Consumption: %g": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -10805,6 +11085,12 @@
       "machine": "",
       "done": false
     },
+    "\\nBurst Fire Amount: Offence:%s/Defence:%s": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "\\nProjectile Target: %s": {
       "advanced": {
         "12": {
@@ -10838,13 +11124,8 @@
       "machine": "",
       "done": false
     },
-    "Total Crew Damage: %d": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "合計クルーダメージ: %d"
-        }
-      },
+    "\\nTotal Crew Damage: %d": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -10959,22 +11240,22 @@
       "machine": "",
       "done": false
     },
-    "Set the turret to offensive mode.": {
+    "Set the turret to defensive mode.": {
       "advanced": {
         "12": {
           "model": "gemini-3.1-flash-lite",
-          "text": "タレットを攻撃モードに設定。"
+          "text": "タレットを防御モードに設定。"
         }
       },
       "deepl": "",
       "machine": "",
       "done": false
     },
-    "Set the turret to defensive mode.": {
+    "Set the turret to offensive mode.": {
       "advanced": {
         "12": {
           "model": "gemini-3.1-flash-lite",
-          "text": "タレットを防御モードに設定。"
+          "text": "タレットを攻撃モードに設定。"
         }
       },
       "deepl": "",
@@ -11102,13 +11383,8 @@
       "machine": "",
       "done": false
     },
-    "Use your %s + $d~": {
-      "advanced": {
-        "12": {
-          "model": "gemini-3.1-flash-lite",
-          "text": "%sを使用する + %d~"
-        }
-      },
+    "Use your %s + %d~": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -11201,6 +11477,24 @@
       "machine": "",
       "done": false
     },
+    "Uninstall Turret:": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Manage Empty Turret.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Install this:": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Can be used to fabricate:": {
       "advanced": {
         "12": {
@@ -11230,6 +11524,132 @@
           "text": "\\n[???]"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Can be fabricated into:": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Unset": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Current key:": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(currently is the \\\"%s\\\" key)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\\nRebel Allegiance Achievement: Valid Run\\nCurrent Ship Crew: Valid": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\\nRebel Allegiance Achievement: Valid Run\\nCurrent Ship Crew: Invalid\\nInvalid Crew:": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\\nRebel Allegiance Achievement: Invalid Run": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Clone": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Iron Watch Reputation": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "New Dawn Reputation": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Something Old...": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Something Ethically Dubious.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Unleash hell on your opposition!": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Guardian Angel.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Angel of Vengeance.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "REAL SCIENCE!": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You greedy, murdering traitor you.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Go kick some Rebel asses.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You're hungry for more turrets - the turrets are hungry for more... well, everything.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "And then, upon the eighth day... your enemies cried out, with an ardent voice - pleading for salvation. It would never come.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Things are getting a bit darker than you'd desire, aren't they?": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false

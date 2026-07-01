@@ -660,7 +660,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:512
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/text"
-msgstr "The nearby market is overlooked by an allied refueling post."
+msgstr "A large market surrounds this refueling station."
 
 #: src-en/data/events_sector_og_iron.xml:515
 msgid ""
@@ -670,7 +670,7 @@ msgstr "Purchase a discounted turret."
 #: src-en/data/events_sector_og_iron.xml:517
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/text"
-msgstr "You stock up on fuel then check out the store."
+msgstr "You load up the turret before moving onto the rest of the market."
 
 #: src-en/data/events_sector_og_iron.xml:523
 msgid ""
@@ -685,7 +685,7 @@ msgstr "(Mind Control) \"Negotiate\" an even lower price."
 #: src-en/data/events_sector_og_iron.xml:531
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/text"
-msgstr "You stock up on fuel then check out the store."
+msgstr "You load up the turret before moving onto the rest of the market."
 
 #: src-en/data/events_sector_og_iron.xml:537
 msgid ""
@@ -700,7 +700,7 @@ msgstr "(Iron Watch Crew) Negotiate an even lower price."
 #: src-en/data/events_sector_og_iron.xml:545
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
-msgstr "You stock up on fuel then check out the store."
+msgstr "You load up the turret before moving onto the rest of the market."
 
 #: src-en/data/events_sector_og_iron.xml:551
 msgid ""
@@ -2152,7 +2152,7 @@ msgstr "Threaten the outpost for the information."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"The outpost is effectively defenseless against your weapons, they quickly "
+"The outpost is effectively defenceless against your weapons, they quickly "
 "capitulate to your demands, uploading the data on the prototype. They also "
 "kindly return your donation."
 
@@ -2205,7 +2205,7 @@ msgstr "Threaten the outpost for the information."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
 msgstr ""
-"The outpost is effectively defenseless against your weapons, they quickly "
+"The outpost is effectively defenceless against your weapons, they quickly "
 "capitulate to your demands, uploading the data on the prototype."
 
 #: src-en/data/events_sector_og_iron.xml:1716
@@ -2288,7 +2288,7 @@ msgstr "Threaten the outpost for the information."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
 msgstr ""
-"The outpost is effectively defenseless against your weapons, they quickly "
+"The outpost is effectively defenceless against your weapons, they quickly "
 "capitulate to your demands, uploading the data on the prototype."
 
 #: src-en/data/events_sector_og_iron.xml:1763

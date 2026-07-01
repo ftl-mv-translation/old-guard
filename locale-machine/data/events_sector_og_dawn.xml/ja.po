@@ -786,13 +786,13 @@ msgstr "近くのニュー・ドーン基地に、ニュー・ドーン所属の
 #: src-en/data/events_sector_og_dawn.xml:691
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/text"
+" and @lvl=\"1\"]/text"
 msgstr "輸送船に通信する。"
 
 #: src-en/data/events_sector_og_dawn.xml:693
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/text"
+" and @lvl=\"1\"]/event/text"
 msgstr ""
 "「連邦のレネゲイド？ここで会うとは思わなかったな。心配するな、反乱軍はいないし、敵同士である必要はない」 "
 "艦長は少し考え込む。「なあ、余分な補給物資はないか？この基地から物資を回収する予定だったんだが、前の輸送船から届いていないらしくてね。代わりに余剰装備か人員を提供してもいい」"
@@ -800,81 +800,81 @@ msgstr ""
 #: src-en/data/events_sector_og_dawn.xml:698
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[1]/text"
+" and @lvl=\"1\"]/event/choice[1]/text"
 msgstr "補給物資と引き換えに兵士を一人要求する。"
 
 #: src-en/data/events_sector_og_dawn.xml:700
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[1]/event/text"
+" and @lvl=\"1\"]/event/choice[1]/event/text"
 msgstr "輸送船にドッキングして補給物資を渡す。新クルーが挨拶する。「正直、本物の軍艦で働いてみたかったんだ。輸送船も安全だけど、あそこは退屈でね」"
 
 #: src-en/data/events_sector_og_dawn.xml:709
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+" and @lvl=\"1\"]/event/choice[1]/event/choice/text"
 msgstr "次へ…"
 
 #: src-en/data/events_sector_og_dawn.xml:715
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[2]/text"
+" and @lvl=\"1\"]/event/choice[2]/text"
 msgstr "補給物資と引き換えにタレットを一つ要求する。"
 
 #: src-en/data/events_sector_og_dawn.xml:717
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[2]/event/text"
+" and @lvl=\"1\"]/event/choice[2]/event/text"
 msgstr ""
 "輸送船にドッキングして補給物資を渡す。艦長が挨拶する。「そうだな、反乱軍は連邦を酷い連中だと言っていたが、君たちはそれほど悪くないようだな」"
 
 #: src-en/data/events_sector_og_dawn.xml:726
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[2]/event/choice/text"
+" and @lvl=\"1\"]/event/choice[2]/event/choice/text"
 msgstr "次へ…"
 
 #: src-en/data/events_sector_og_dawn.xml:732
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[3]/text"
+" and @lvl=\"1\"]/event/choice[3]/text"
 msgstr "補給物資と引き換えに、ニュー・ドーン全体に良い評判を広めるよう要求する。"
 
 #: src-en/data/events_sector_og_dawn.xml:734
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[3]/event/text"
+" and @lvl=\"1\"]/event/choice[3]/event/text"
 msgstr ""
 "輸送船にドッキングして補給物資を渡す。艦長が挨拶する。「そうだな、反乱軍は連邦を酷い連中だと言っていたが、君たちはそれほど悪くないようだな」"
 
 #: src-en/data/events_sector_og_dawn.xml:742
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[3]/event/choice/text"
+" and @lvl=\"1\"]/event/choice[3]/event/choice/text"
 msgstr "次へ…"
 
 #: src-en/data/events_sector_og_dawn.xml:748
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/text"
+" and @lvl=\"1\"]/event/choice[4]/text"
 msgstr "「すまん、回せる補給物資はないんだ」"
 
 #: src-en/data/events_sector_og_dawn.xml:750
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/event/text"
+" and @lvl=\"1\"]/event/choice[4]/event/text"
 msgstr "彼らの幸運を祈り、次のジャンプの準備をする。"
 
 #: src-en/data/events_sector_og_dawn.xml:752
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/event/choice[1]/text"
+" and @lvl=\"1\"]/event/choice[4]/event/choice[1]/text"
 msgstr "艦内で行う行動を選択する。"
 
 #: src-en/data/events_sector_og_dawn.xml:756
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/event/choice[2]/text"
+" and @lvl=\"1\"]/event/choice[4]/event/choice[2]/text"
 msgstr "何もしない。"
 
 #: src-en/data/events_sector_og_dawn.xml:764
@@ -919,7 +919,7 @@ msgstr "基地から離れるのを待ってから攻撃する。"
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[2]/event/text"
-msgstr "輸送船は基地での用事を済ませ、出発した。基地の射程外に出たところで、君は銃をぶっ放して慎重に迎撃する。"
+msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:789
 msgid ""
@@ -959,7 +959,7 @@ msgstr "基地から離れるのを待ってから攻撃する。"
 #: src-en/data/events_sector_og_dawn.xml:813
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/event/text"
-msgstr "輸送船は基地での用事を済ませ、出発した。基地の射程外に出たところで、君は銃をぶっ放して慎重に迎撃する。"
+msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:816
 msgid ""
@@ -2047,9 +2047,6 @@ msgstr "次へ…"
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"直後、基地全体が巨大な爆発で揺れ、サイレンと警報が鳴り響く。エンジニアが近くのコンソールを操作し、外部カメラを表示した。モニターには、近くの星を背にして奇妙な船が浮かんでいる。「やはりな」"
-" "
-"エンジニアが君を向く。「艦長、どんな船を持っている？」「巡洋艦？最高だ。このタレット・プリイグナイターを持って行け。設計図は安全なデータセンターに保存した。だが、現物を彼らの手に渡すわけにはいかない。持って逃げてくれ。何があっても、反乱軍の手に渡してはならないぞ」"
 
 #: src-en/data/events_sector_og_dawn.xml:1619
 msgid ""
@@ -2617,7 +2614,6 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/text"
 msgstr ""
-"数分後、ニュー・ドーン巡洋艦が到着した。「神に感謝を、よくぞ止めてくれた！保管庫で他の艦は全滅させたが、これだけが網を抜けてしまった。盗んだデータを持っているはずだ。サルベージチームが生存物を回収に向かっている。感謝してもしきれない」「やつらが盗もうとしたものの中に、我々の新型巡洋艦の設計図があった。勝手ながらダウンロードしておいたぞ。二度と悪の手に落ちぬよう頼む。さらに、今すぐ役立つであろうニュー・ドーンの装備も用意した。好きなものを持って行け。戦闘で破壊されたことにしておく」"
 
 #: src-en/data/events_sector_og_dawn.xml:2133
 msgid ""
@@ -2699,7 +2695,6 @@ msgstr "「了解、了解した」"
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"小型艦が先行して防衛側の注意を引き、ステーションのタレットを無力化していく。すべて順調に思えたが、ステーションの裏からニュー・ドーンの大型艦が現れ、こちらへ突進してきた。「あの艦を止めてくれ！こっちはクルーと装備が満載で、対艦戦闘の装備がない。近づけさせるな！」"
 
 #: src-en/data/events_sector_og_dawn.xml:2192
 msgid ""

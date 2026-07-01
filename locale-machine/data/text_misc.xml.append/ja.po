@@ -112,73 +112,106 @@ msgstr ""
 "-1秒のクールダウン"
 
 #: src-en/data/text_misc.xml.append:34
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_slug_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:37
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_clan_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:41
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_crystal_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:47
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_federation_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:52
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret\"]"
 msgstr "タレット制御"
 
-#: src-en/data/text_misc.xml.append:35
+#: src-en/data/text_misc.xml.append:53
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_installed\"]"
 msgstr "タレット制御システムをインストール済み"
 
-#: src-en/data/text_misc.xml.append:36
+#: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_2\"]"
 msgstr "タレット制御"
 
-#: src-en/data/text_misc.xml.append:37
+#: src-en/data/text_misc.xml.append:55
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_2_installed\"]"
 msgstr "タレット制御システムをインストール済み"
 
-#: src-en/data/text_misc.xml.append:38
+#: src-en/data/text_misc.xml.append:56
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_3\"]"
 msgstr "タレット制御"
 
-#: src-en/data/text_misc.xml.append:39
+#: src-en/data/text_misc.xml.append:57
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_3_installed\"]"
 msgstr "タレット制御システムをインストール済み"
 
-#: src-en/data/text_misc.xml.append:40
+#: src-en/data/text_misc.xml.append:58
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_4\"]"
 msgstr "タレット制御"
 
-#: src-en/data/text_misc.xml.append:41
+#: src-en/data/text_misc.xml.append:59
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_4_installed\"]"
 msgstr "タレット制御システムをインストール済み"
 
-#: src-en/data/text_misc.xml.append:42
+#: src-en/data/text_misc.xml.append:60
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini\"]"
 msgstr "タレット制御"
 
-#: src-en/data/text_misc.xml.append:43
+#: src-en/data/text_misc.xml.append:61
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_installed\"]"
 msgstr "タレット制御システムをインストール済み"
 
-#: src-en/data/text_misc.xml.append:44
+#: src-en/data/text_misc.xml.append:62
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2\"]"
 msgstr "タレット制御"
 
-#: src-en/data/text_misc.xml.append:45
+#: src-en/data/text_misc.xml.append:63
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2_installed\"]"
 msgstr "タレット制御システムをインストール済み"
 
-#: src-en/data/text_misc.xml.append:46
+#: src-en/data/text_misc.xml.append:64
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3\"]"
 msgstr "タレット制御"
 
-#: src-en/data/text_misc.xml.append:47
+#: src-en/data/text_misc.xml.append:65
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3_installed\"]"
 msgstr "タレット制御システムをインストール済み"
 
-#: src-en/data/text_misc.xml.append:48
+#: src-en/data/text_misc.xml.append:66
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4\"]"
 msgstr "タレット制御"
 
-#: src-en/data/text_misc.xml.append:49
+#: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4_installed\"]"
 msgstr "タレット制御システムをインストール済み"
 
-#: src-en/data/text_misc.xml.append:50
+#: src-en/data/text_misc.xml.append:68
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive\"]"
 msgstr "アダプティブ・タレット制御"
 
-#: src-en/data/text_misc.xml.append:51
+#: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_installed\"]"
 msgstr "アダプティブ・タレット制御システムをインストール済み"
+
+#: src-en/data/text_misc.xml.append:70
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_2\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:71
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_2_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:72
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:73
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single_installed\"]"
+msgstr ""
