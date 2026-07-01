@@ -617,7 +617,7 @@ For your extra egregious actions, your reputation was decreased twice.</text>
 	<event load="OG_DAWN_SUPPLIES_NEEDED"/>
 	<event load="OG_DAWN_OUTPOST_FLEET"/>
 	
-	<event load="OG_IRON_DEFENSE_DRONE"/>
+	<event load="OG_IRON_DEFENCE_DRONE"/>
 </eventList>
 
 <event name="OG_DAWN_DEBRIS_FIELD" unique="true">
@@ -687,7 +687,7 @@ For your extra egregious actions, your reputation was decreased twice.</text>
 <event name="OG_DAWN_SUPPLIES_NEEDED" unique="true">
 	<text>Docked to a nearby New Dawn outpost is a large transport ship belonging to the New Dawn, your scans indicate that the transport is unusually empty.</text>
 	<ship load="SHIP_OG_DAWN_TRANSPORT_EMPTY" hostile="false"/>
-	<choice req="rep_og_dawn" lvl="0" blue="false">
+	<choice req="rep_og_dawn" lvl="1" blue="false">
 		<text>Contact the transport.</text>
 		<event>
 			<text>"A Federation Renagade? I didn't think I'd see your kind around here, worry not there are no rebels around, we do not have to be enemies."
@@ -760,7 +760,7 @@ The Captain of the transport pauses, thinking on something.
 			</choice>
 		</event>
 	</choice>
-	<choice req="rep_og_dawn" lvl="-999" max_lvl="1" blue="false">
+	<choice req="rep_og_dawn" lvl="-999" max_lvl="0" blue="false">
 		<text>Contact the transport.</text>
 		<event>
 			<text>"Federation scum, don't come any closer, we don't want any trouble but we aren't opposed to ripping your ship to threads."</text>
@@ -783,7 +783,7 @@ The Captain of the transport pauses, thinking on something.
 			<choice>
 				<text>Wait for them to leave the outpost before attacking.</text>
 				<event>
-					<text>Eventually the transport finishes their buisiness with the outpost and begins to head off, once out of range of the outpost you carefully intercept them with guns blazing.</text>
+					<text>Eventually the transport finishes their business with the outpost and begins to head off, once out of range of the outpost you carefully intercept them with guns blazing.</text>
 					<ship hostile="true"/>
 					<choice>
 						<text>Continue...</text>
@@ -810,7 +810,7 @@ The Captain of the transport pauses, thinking on something.
 	<choice>
 		<text>Wait for them to leave the outpost before attacking.</text>
 		<event>
-			<text>Eventually the transport finishes their buisiness with the outpost and begins to head off, once out of range of the outpost you carefully intercept them with guns blazing.</text>
+			<text>Eventually the transport finishes their business with the outpost and begins to head off, once out of range of the outpost you carefully intercept them with guns blazing.</text>
 			<ship hostile="true"/>
 			<choice>
 				<text>Continue...</text>
@@ -1613,7 +1613,7 @@ A moment later you find yourself in an odd looking labratory, there are several 
 												<event>
 													<playSound>smallExplosion</playSound>
 													<text>Not a moment later the entire station is rocked by a large explosion, sirens and alarms start blaring and people start rushing through, the engineer turns to a nearby console, quickly bringing up the station's exterior camera's.
-On the vid screen you can makeout a strange looking ship silhouetted against the nearby star. "It's just as I suspected." The engineer turns towards you. "Captain, what kind of ship do you have?" "A cruiser, excellent, take the Turret Pre-igniter, I've saved the designs to a secure datacenter, but I cannot risk the physical prototype falling into their hands, please take it with you and get out of here, whatever you do, do not let it fall into the Rebellion's hands."</text>
+On the vid screen you can makeout a strange looking ship silhouetted against the nearby star. "It's just as I suspected." The engineer turns towards you. "Captain, what kind of ship do you have?" "A cruiser, excellent! Take the Turret Pre-igniter, I've saved the designs to a secure datacenter. The physical prototype I cannot, however, risk falling into their hands, please take it with you and get out of here. Whatever you do, do not let it fall into the Rebellion's hands."</text>
 													<augment name="OG_TURRET_PREIGNITE"/>
 													<choice>
 														<text>Continue...</text>
@@ -2125,7 +2125,7 @@ Upon seeing you they also activate their weapons, preparing to attack. You notic
 </event>
 <event name="OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP">
 	<clearTriggeredEvent name="OG_DAWN_HEIST_DAWN_TIMER"/>
-	<text>It's only a few minutes later when the New Dawn cruiser arrives, "Oh thank the gods you managed to stop them, we defeated the rest of the ships at the data-vault, but this one slipped through our defenses, we believe they had the stolen data on them, the salvage team are on their way now to try and cleanup anything that survived. We cannot thank you enough for the help."
+	<text>It's only a few minutes later when the New Dawn cruiser arrives, "Oh thank the gods you managed to stop them, we defeated the rest of the ships at the data-vault, but this one slipped through our defences, we believe they had the stolen data on them, the salvage team are on their way now to try and cleanup anything that survived. We cannot thank you enough for the help."
 
 "One of the things they attempted to steal were the plans for a new cruiser we have designed, I've taken the liberty to download the design myself for you, try not to let it fall into the wrong hands. Additionally, and possibly more immediately helpful to you, I have a selection of New Dawn equipment, take whatever you like the look of, I can just write it off as destroyed in the battle."</text>
 	<unlockCustomShip silent="false">PLAYER_SHIP_OG_DAWN_SPEAR</unlockCustomShip>
@@ -2184,7 +2184,7 @@ The Iron Watch cruiser contacts you, "Stick with me, I have the main raid force 
 			<choice>
 				<text>"Aye, we'll be there."</text>
 				<event>
-					<text>The smaller ships engage first, pulling defenders away from the station, aswell as laying into and disabling many of the turrets built onto the station. It all appears to be going well until a large New Dawn vessel reveals its self from behind the station, heading straight towards you and the Iron Watch cruiser. "You need to stop that ship, we're heavy on crew and equipment, we're not actually outfitted for ship to ship combat. You need to prevent them from making it too us."</text>
+					<text>The smaller ships engage first, pulling defenders away from the station, aswell as laying into and disabling many of the turrets built onto the station. It all appears to be going well until a large New Dawn vessel reveals its self from behind the station, heading straight towards you and the Iron Watch cruiser. "You need to stop that ship, we're heavy on crew and equipment, we're not actually outfitted for ship to ship combat. You need to prevent them from making it to us."</text>
 					<ship load="SHIP_OG_DAWN_HEIST_DAWN" hostile="true"/>
 					<triggeredEvent name="OG_DAWN_HEIST_IRON_TIMER" event="OG_DAWN_HEIST_IRON_FAIL" time="150" clearOnJump="true" thisFight="false">
 						<triggeredEventBox load="DEFAULT_TIMER" pos="default">

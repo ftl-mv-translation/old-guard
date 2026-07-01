@@ -61,12 +61,15 @@ for ship in vter(Hyperspace.Blueprints:GetBlueprintList("LIST_SHIPS_OG_DAWN_ALL"
 	dawnShips[ship] = true
 end
 local function ach_check_raider_2()
+	--local benchmark_start = os.clock()
 	if Hyperspace.ships.enemy and dawnShips[Hyperspace.ships.enemy.myBlueprint.blueprintName] then
 		local beenKilled = Hyperspace.ships.enemy.ship.hullIntegrity.first <= 0 and Hyperspace.ships.enemy._targetable.hostile
 		if beenKilled and should_track_achievement("SHIP_ACH_OG_RAIDER_2", Hyperspace.ships.player, "PLAYER_SHIP_OG_RAIDER") then
 			Hyperspace.CustomAchievementTracker.instance:SetAchievement("SHIP_ACH_OG_RAIDER_2", false)
 		end
 	end
+	--local benchmark_end = os.clock()
+	--print(string.format("ship_ach.lua ON_TICK 1: time: %.6f seconds", benchmark_end - benchmark_start))
 end
 script.on_internal_event(Defines.InternalEvents.ON_TICK, ach_check_raider_2)
 
@@ -74,14 +77,91 @@ local function check_no_shields_or_weapons_ach(ship)
  	local noWeapons = (not ship:HasSystem(3)) or (ship:GetSystem(3):GetMaxPower() <= ship.myBlueprint.systemInfo[3].powerLevel)
  	local noDrones = (not ship:HasSystem(4)) or (ship:GetSystem(4):GetMaxPower() <= ship.myBlueprint.systemInfo[4].powerLevel)
 	return ship.iShipId == 0 and
-		   current_sector() >= 8 and
-		   noWeapons and
-		   noDrones and
-		   should_track_achievement("SHIP_ACH_OG_RAIDER_3", ship, "PLAYER_SHIP_OG_RAIDER")
+		current_sector() >= 8 and
+		noWeapons and
+		noDrones and
+		should_track_achievement("SHIP_ACH_OG_RAIDER_3", ship, "PLAYER_SHIP_OG_RAIDER")
 end
 script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(ship)
+	--local benchmark_start = os.clock()
 	if check_no_shields_or_weapons_ach(ship) then
 		Hyperspace.CustomAchievementTracker.instance:SetAchievement("SHIP_ACH_OG_RAIDER_3", false)
+	end
+	--local benchmark_end = os.clock()
+	--print(string.format("ship_ach.lua SHIP_LOOP 1: time: %.6f seconds", benchmark_end - benchmark_start))
+end)
+
+local in_combat = false
+local has_damage = false
+local combat_check_events = {}
+combat_check_events["COMBAT_CHECK"] = true
+combat_check_events["COMBAT_CHECK_FAIL"] = true
+script.on_internal_event(Defines.InternalEvents.PRE_CREATE_CHOICEBOX, function(event)
+	local ship = Hyperspace.ships.player
+	if combat_check_events[event.eventName] and should_track_achievement("SHIP_ACH_OG_EXECUTOR_2", ship, "PLAYER_SHIP_OG_EXECUTOR") and (not ship:HasSystem(0)) and (not ship:HasSystem(10)) then
+		in_combat = true
+		has_damage = false
+	end
+end)
+script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
+	--local benchmark_start = os.clock()
+	if shipManager.iShipId == 1 or not in_combat then return end
+	if (not Hyperspace.ships.enemy) or (not Hyperspace.ships.enemy._targetable.hostile) then
+		in_combat = false
+		if not has_damage then
+			Hyperspace.CustomAchievementTracker.instance:SetAchievement("SHIP_ACH_OG_EXECUTOR_2", false)
+		end
+	end
+	--local benchmark_end = os.clock()
+	--print(string.format("ship_ach.lua SHIP_LOOP 2: time: %.6f seconds", benchmark_end - benchmark_start))
+end)
+script.on_internal_event(Defines.InternalEvents.JUMP_LEAVE, function(shipManager)
+	if shipManager.iShipId == 0 and in_combat then
+		in_combat = false
+	end
+end)
+script.on_internal_event(Defines.InternalEvents.DAMAGE_BEAM, function(shipManager, projectile, location, damage, realNewTile, beamHitType)
+	if beamHitType ~= Defines.BeamHit.NEW_ROOM then return Defines.Chain.CONTINUE, beamHitType end
+	if shipManager.iShipId == 0 and in_combat and damage.iDamage > 0 then
+		has_damage = true
+	end
+	return Defines.Chain.CONTINUE, beamHitType
+end)
+script.on_internal_event(Defines.InternalEvents.DAMAGE_AREA_HIT, function(shipManager, projectile, location, damage, shipFriendlyFire)
+	if shipManager.iShipId == 0 and in_combat and damage.iDamage > 0 then
+		has_damage = true
+	end
+	return Defines.Chain.CONTINUE
+end)
+
+local allowedSystems = {}
+allowedSystems[Hyperspace.ShipSystem.NameToSystemId("og_turret")] = true
+allowedSystems[Hyperspace.ShipSystem.NameToSystemId("og_turret_2")] = true
+allowedSystems[Hyperspace.ShipSystem.NameToSystemId("og_turret_3")] = true
+allowedSystems[Hyperspace.ShipSystem.NameToSystemId("og_turret_4")] = true
+allowedSystems[Hyperspace.ShipSystem.NameToSystemId("og_turret_mini")] = true
+allowedSystems[Hyperspace.ShipSystem.NameToSystemId("og_turret_mini_2")] = true
+allowedSystems[Hyperspace.ShipSystem.NameToSystemId("og_turret_mini_3")] = true
+allowedSystems[Hyperspace.ShipSystem.NameToSystemId("og_turret_mini_4")] = true
+allowedSystems[0] = true
+allowedSystems[1] = true
+allowedSystems[2] = true
+allowedSystems[10] = true
+allowedSystems[5] = true
+allowedSystems[13] = true
+local function check_no_systems_ach(ship)
+	if ship.iShipId == 1 or current_sector() < 8 then return false end
+	local allowed = true
+	for system in vter(ship.vSystemList) do
+		if not (allowedSystems[system.iSystemType] or Hyperspace.ShipSystem.IsSubsystem(system.iSystemType)) then
+			allowed = false
+		end
+	end
+	return allowed and should_track_achievement("SHIP_ACH_OG_EXECUTOR_3", ship, "PLAYER_SHIP_OG_EXECUTOR")
+end
+script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(ship)
+	if check_no_systems_ach(ship) then
+		Hyperspace.CustomAchievementTracker.instance:SetAchievement("SHIP_ACH_OG_EXECUTOR_3", false)
 	end
 end)
 
@@ -115,6 +195,7 @@ local function check_turret_projectile(projectile)
 	return false
 end
 script.on_internal_event(Defines.InternalEvents.PROJECTILE_COLLISION, function(projectile1, projectile2, damage, response)
+	if not should_track_achievement("SHIP_ACH_OG_DAWN_SPEAR_1", Hyperspace.ships.player, "PLAYER_SHIP_OG_DAWN_SPEAR") then return Defines.Chain.CONTINUE end
 	local turret_collision = false
 	if projectile1 and projectile1.extend.name and projectile1.ownerId == 0 then
 		turret_collision = turret_collision or check_turret_projectile(projectile1)
@@ -150,6 +231,11 @@ script.on_internal_event(Defines.InternalEvents.JUMP_ARRIVE, function(shipManage
 		Hyperspace.CustomAchievementTracker.instance:SetAchievement("SHIP_ACH_OG_DAWN_SPEAR_2", false)
 	end
 end)
+local achTexts = {
+	valid = Hyperspace.Text:GetText("og_lua_turret_ach_valid"),
+	crew = Hyperspace.Text:GetText("og_lua_turret_ach_crew"),
+	invalid = Hyperspace.Text:GetText("og_lua_turret_ach_invalid"),
+}
 script.on_render_event(Defines.RenderEvents.MOUSE_CONTROL, function()
 	if should_track_achievement("SHIP_ACH_OG_DAWN_SPEAR_2", Hyperspace.ships.player, "PLAYER_SHIP_OG_DAWN_SPEAR") then
 		local jump_string = string.sub(Hyperspace.Text:GetText("jump_button"), 1, 20)
@@ -167,16 +253,16 @@ script.on_render_event(Defines.RenderEvents.MOUSE_CONTROL, function()
 				end
 			end
 			if Hyperspace.playerVariables.og_ach_track_humans_only == 0 and validRun then
-				Hyperspace.Mouse.tooltip = Hyperspace.Mouse.tooltip.."\nRebel Allegiance Achievement: Valid Run\nCurrent Ship Crew: Valid"
+				Hyperspace.Mouse.tooltip = Hyperspace.Mouse.tooltip..achTexts.valid
 			elseif Hyperspace.playerVariables.og_ach_track_humans_only == 0 then
 				local appendCrewString = ""
 				for _, s in ipairs(invalidCrew) do
 					appendCrewString = appendCrewString..", "..s
 				end
 				appendCrewString = string.sub(appendCrewString, 2)
-				Hyperspace.Mouse.tooltip = Hyperspace.Mouse.tooltip.."\nRebel Allegiance Achievement: Valid Run\nCurrent Ship Crew: Invalid\nInvalid Crew:"..appendCrewString
+				Hyperspace.Mouse.tooltip = Hyperspace.Mouse.tooltip..achTexts.crew..appendCrewString
 			else
-				Hyperspace.Mouse.tooltip = Hyperspace.Mouse.tooltip.."\nRebel Allegiance Achievement: Invalid Run"
+				Hyperspace.Mouse.tooltip = Hyperspace.Mouse.tooltip..achTexts.invalid
 			end
 		end
 	end
@@ -254,6 +340,21 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 		end
 	end
 
+	if shipManager.iShipId == 0 and should_track_achievement("SHIP_ACH_OG_EXECUTOR_1", shipManager, "PLAYER_SHIP_OG_EXECUTOR") then
+		local upgradedTurrets = true
+		for _, sysName in ipairs(systemNameList) do
+			if microTurrets[sysName] and shipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId(sysName)) then
+				local system = shipManager:GetSystem(Hyperspace.ShipSystem.NameToSystemId(sysName))
+				if system:GetMaxPower() < 3 then
+					upgradedTurrets = false
+				end
+			end
+		end
+		if upgradedTurrets then
+			Hyperspace.CustomAchievementTracker.instance:SetAchievement("SHIP_ACH_OG_EXECUTOR_1", false)
+		end
+	end
+
 end)
 
 
@@ -262,6 +363,10 @@ local achLayoutUnlocks = {
 	{
 		achPrefix = "SHIP_ACH_OG_RAIDER",
 		unlockShip = "PLAYER_SHIP_OG_RAIDER_3",
+	},
+	{
+		achPrefix = "SHIP_ACH_OG_EXECUTOR",
+		unlockShip = "PLAYER_SHIP_OG_EXECUTOR_3",
 	},
 	{
 		achPrefix = "SHIP_ACH_OG_DAWN_SPEAR",

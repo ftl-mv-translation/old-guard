@@ -65,7 +65,7 @@
 </augBlueprint>
 
 <augBlueprint name="UPG_OG_TURRET_ADAPTIVE_LARGE">
-	<title>Expanded Circuitry</title>
+	<title>Hardpoint Retrofit</title>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
 	<cost>0</cost>
 	<rarity>0</rarity>
@@ -73,11 +73,47 @@
 	<value>80</value>
 </augBlueprint>
 <augBlueprint name="EX_OG_TURRET_ADAPTIVE_LARGE">
-	<title>Expanded Circuitry [X]</title>
+	<title>Hardpoint Retrofit [X]</title>
 	<desc>Expands the adaptive turret's slot to accept all sizes of turrets.
 	
 	[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system.</desc>
 	<cost>40</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="UPG_OG_TURRET_ADAPTIVE_2_LARGE">
+	<title>Secondary Hardpoint Retrofit</title>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+	<value>80</value>
+</augBlueprint>
+<augBlueprint name="EX_OG_TURRET_ADAPTIVE_2_LARGE">
+	<title>Secondary Hardpoint Retrofit [X]</title>
+	<desc>Expands the secondary adaptive turret's slot to accept all sizes of turrets.
+	
+	[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system.</desc>
+	<cost>40</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="UPG_OG_TURRET_ADAPTIVE_SECONDARY">
+	<title>Secondary Turret</title>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+	<value>1</value>
+</augBlueprint>
+<augBlueprint name="EX_OG_TURRET_ADAPTIVE_SECONDARY">
+	<title>Secondary Turret [X]</title>
+	<desc>Installs a Secondary Adaptive Turret system in place of drone control, this new system does not consume a system slot.
+	
+	[X] - As an external system upgrade, this augment can be converted for free to the internal version under the internal upgrade menu if you have a Turret Control system.</desc>
+	<cost>50</cost>
 	<rarity>0</rarity>
 	<stackable>false</stackable>
 </augBlueprint>
@@ -217,9 +253,47 @@
 <systemBlueprint name="og_turret_adaptive">
 	<type>og_turret_adaptive</type>
 	<title>Adaptive Turret Control</title>
+	<desc>Can be Internally upgraded to add a secondary turret system alongside this one in place of drone control, secondary system does not consume a system slot. Powers your ship's turret. Upgrading lowers the charge time of the turret. Turret position can be altered outside of combat to best fit the ship, can be upgraded to a large turret slot in the internal upgrade menu.</desc>
+	<startPower>1</startPower>
+	<maxPower>4</maxPower>
+	<rarity>0</rarity>
+	<upgradeCost>
+		<level>35</level>
+		<level>55</level>
+		<level>70</level>
+		<level>100</level>
+		<level>120</level>
+		<level>140</level>
+		<level>160</level>
+	</upgradeCost>
+	<cost>50</cost>
+</systemBlueprint>
+
+<systemBlueprint name="og_turret_adaptive_2">
+	<type>og_turret_adaptive_2</type>
+	<title>Secondary Turret Control</title>
 	<desc>Powers your ship's turret. Upgrading lowers the charge time of the turret. Turret position can be altered outside of combat to best fit the ship, can be upgraded to a large turret slot in the internal upgrade menu.</desc>
 	<startPower>1</startPower>
 	<maxPower>4</maxPower>
+	<rarity>0</rarity>
+	<upgradeCost>
+		<level>35</level>
+		<level>55</level>
+		<level>70</level>
+		<level>100</level>
+		<level>120</level>
+		<level>140</level>
+		<level>160</level>
+	</upgradeCost>
+	<cost>50</cost>
+</systemBlueprint>
+
+<systemBlueprint name="og_turret_adaptive_single">
+	<type>og_turret_adaptive_single</type>
+	<title>Advanced Turret Control</title>
+	<desc>An Alternative to the Drone System, only available on ships that cannot otherwise install turrets, has an increased maximum system level. Powers your ship's turret. Upgrading lowers the charge time of the turret. Turret position can be altered outside of combat to best fit the ship, can be upgraded to a large turret slot in the internal upgrade menu.</desc>
+	<startPower>1</startPower>
+	<maxPower>6</maxPower>
 	<rarity>0</rarity>
 	<upgradeCost>
 		<level>35</level>
@@ -370,7 +444,7 @@
 </FTL>
 
 <!--Turrets-->
-<!--BASES-->
+<!--BASES (UNUSED)-->
 <FTL>
 <weaponBlueprint name="OG_TURRET_BASE_LASER">
 	<type>BEAM</type>
@@ -602,7 +676,7 @@
 	<title>Chaotic Light Charger Turret</title>
 	<short>Light C.™</short>
 	<desc>A specialized Light Laser Turret which is extremely effective at defending the ship with its high charge count and quick rotation speed.
-Chaotic varient rotates 5x as fast and can target any projectile.</desc>
+Chaotic variant rotates 5x as fast and can target any projectile.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -686,7 +760,7 @@ Chaotic varient rotates 5x as fast and can target any projectile.</desc>
 	<tip>tip_og_turret</tip>
 	<title>Irradiation Laser Turret</title>
 	<short>Rad L.</short>
-	<desc>A specialized Laser Turret that does high bio damage and cripples crew, but no system or hull damage. This turret is also extremely capable in the defense role shooting down enemy lasers.</desc>
+	<desc>A specialized Laser Turret that does high bio damage and cripples crew, but no system or hull damage. This turret is also extremely capable in the defence role shooting down enemy lasers.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -785,6 +859,27 @@ Chaotic varient rotates 5x as fast and can target any projectile.</desc>
 	<iconReplace>og_turret_laser_particle_icon</iconReplace>
 </weaponBlueprint>
 
+<weaponBlueprint name="OG_TURRET_LASER_FROST">
+	<type>BEAM</type>
+	<flavorType>Turret</flavorType>
+	<tip>tip_og_turret</tip>
+	<title>Frost Laser Turret</title>
+	<short>Frost L.</short>
+	<desc>Frost Lasers are one of the few weapon types capable of locking down rooms, keeping most crew from entering or leaving.</desc>
+	<tooltip>Turret</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>65</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>og_turret_laser_frost_icon</iconReplace>
+</weaponBlueprint>
+
 <weaponBlueprint name="OG_TURRET_LASER_GATLING">
 	<type>BEAM</type>
 	<flavorType>Turret</flavorType>
@@ -836,7 +931,7 @@ Chaotic varient rotates 5x as fast and can target any projectile.</desc>
 	<tip>tip_og_turret</tip>
 	<title>Ion Barrage Turret</title>
 	<short>Ion B.</short>
-	<desc>Ion Turrets are excellent drone suppression aswell as being able to disable systems without causing hull damage. This one charges and fires very quuckly.</desc>
+	<desc>Ion Turrets are excellent drone suppression aswell as being able to disable systems without causing hull damage. This one charges and fires very quickly.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -1022,6 +1117,27 @@ Chaotic varient rotates 5x as fast and can target any projectile.</desc>
 	<image>beam_contact</image>
 	<weaponArt>invisible</weaponArt>
 	<iconReplace>og_turret_kernel_fire_icon</iconReplace>
+</weaponBlueprint>
+
+<weaponBlueprint name="OG_TURRET_MISSILE_CLONE_CANNON">
+	<type>BEAM</type>
+	<flavorType>Turret</flavorType>
+	<tip>tip_og_turret</tip>
+	<title>Clone Cannon</title>
+	<short>Cloner</short>
+	<desc>No weapon has ever sparked a larger ethical controversy, but if it works it works. Clones whatever crew is currently manning the turret.</desc>
+	<tooltip>Turret</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>80</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>og_turret_missile_clone_cannon_icon</iconReplace>
 </weaponBlueprint>
 </FTL>
 
@@ -1306,7 +1422,7 @@ Chaotic varient rotates 5x as fast and can target any projectile.</desc>
 	<title>Dawn Heavy Laser Turret</title>
 	<short>€ Heavy L.</short>
 	<desc>Heavy Laser Turrets make for poor defensive turrets with their slow rotation speed and high damage per shot, but are excellent against enemy ships.
-New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
+New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -1328,7 +1444,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<title>Dawn Fire Ion Turret</title>
 	<short>€ Fire I.</short>
 	<desc>Ion Turrets are excellent drone suppression aswell as being able to disable systems without causing hull damage. This one starts fires in the system it hits.
-New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
+New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
 	<tooltip>€ Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -1350,7 +1466,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<title>Dawn Dual Missile Turret</title>
 	<short>€ Dual M.</short>
 	<desc>Slow to charge but capable of delivering high damage to the enemy ship, decent against enemy drones and solid projectiles.
-New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
+New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -1372,7 +1488,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<title>Dawn Flak Turret</title>
 	<short>€ Flak</short>
 	<desc>A powerful Flak turret, can build up an incredible volley to be fired in both defence and offence.
-New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
+New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -1394,7 +1510,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<title>Dawn Pinpoint Turret</title>
 	<short>€ Pinpoint</short>
 	<desc>Pinpoint Turrets prove extremely effective against enemy missiles due to their almost instantaneous time to kill.
-New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
+New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -1416,7 +1532,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<title>Dawn Micro Laser Turret</title>
 	<short>€ Micro L.</short>
 	<desc>This Laser Turret is unlikely to be able to deal with an enemy ship on it's own, but its high rotation speed makes it a defensive unit.
-New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
+New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -1438,7 +1554,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<title>Dawn Light Laser Turret</title>
 	<short>€ Light L.</short>
 	<desc>Incapable of doing system damage, this Light Laser Turret is much better suited for shield suppression and defence.
-New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
+New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -1460,7 +1576,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<title>Dawn Micro Pinpoint Turret</title>
 	<short>€ Micro P.</short>
 	<desc>This small Pinpoint Turret requires support to damage the enemy ship, but remains capable against enemy missiles.
-New Dawn varient applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
+New Dawn variant applies a status effect to hit rooms that causes them to take +1 system damage. However Turret Systems equiped with New Dawn turrets similarly take +1 system damage when hit.</desc>
 	<tooltip>Turret</tooltip>
 	<damage>0</damage>
 	<sp>0</sp>
@@ -1473,6 +1589,736 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<image>beam_contact</image>
 	<weaponArt>invisible</weaponArt>
 	<iconReplace>og_turret_focus_mini_dawn_icon</iconReplace>
+</weaponBlueprint>
+</FTL>
+
+<!--DARKEST DESIRE-->
+<FTL>
+
+<weaponBlueprint name="OG_TURRET_FOCUS_SOULPLAGUE">
+	<type>BEAM</type>
+	<flavorType>Turret</flavorType>
+	<tip>tip_ddplagueridden_weapon</tip>
+	<title>Plagueridden Pinpoint Turret</title>
+	<short>Plague P.</short>
+	<desc>This appears to vaguely resemble a powerful Rad-Pinpoint Turret, but it's been thoroughly corrupted by the Soulplague mattervirus. Inflicts room hit with Plagueridden, infecting and hindering enemies.</desc>
+	<tooltip>Turret</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>80</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>og_turret_focus_soulplague_icon</iconReplace>
+</weaponBlueprint>
+<weaponBlueprint name="OG_TURRET_MISSILE_FALSERADIANCE">
+	<type>BEAM</type>
+	<flavorType>Turret</flavorType>
+	<tip>tip_ddradiant_weapons</tip>
+	<title>The Unnamed Day</title>
+	<short>Unnamed</short>
+	<desc>A bizarre, living weapon from a distant reality - this Lightborne Missile turret is capable of charging several missiles at once, each inflicting rooms hit with the Radiant Desecration effect.</desc>
+	<tooltip>Turret</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>100</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>og_turret_missile_falseradiance_icon</iconReplace>
+</weaponBlueprint>
+<weaponBlueprint name="OG_TURRET_LASER_DARKNESS_MINI">
+	<type>BEAM</type>
+	<flavorType>Turret</flavorType>
+	<tip>tip_shadow_weapon</tip>
+	<title>Malaise</title>
+	<short>Malaise</short>
+	<desc>A rapid-firing laser whose projectiles appear to embody darkness itself.</desc>
+	<tooltip>Turret</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>60</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>og_turret_laser_darkness_mini_icon</iconReplace>
+</weaponBlueprint>
+
+
+<weaponBlueprint name="OG_FOCUS_PROJECTILE_SOULPLAGUE">
+	<type>BEAM</type>
+	<title>Focus</title>
+	<short>Focus</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Defense laser; 1 damage, 1 shot. 9 second cooldown.</tooltip>
+	<damage>2</damage>
+	<statBoosts>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>-60</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALL</crewTarget>
+			<affectsSelf>true</affectsSelf>
+			<duration>1</duration>
+			<blackList load="LIST_DDANNOYINGBLUEPRINTSTUFF_DDSOULPLAGUE_ALIGNED"/>
+		</statBoost>
+	</statBoosts>
+	<roomStatBoosts>
+		<statBoost name="repairSpeed">
+			<boostType>MULT</boostType>
+			<amount>0.5</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddPlagueriddenRepairDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<blackList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_DDNOFEAR"/>
+			<roomAnim renderLayer="3">                                                    
+				<anim animType="default" animBorder="2">ddinvisible_effect</anim>
+					<wallAnim>ddroom_plagueridden_effect</wallAnim>
+			</roomAnim>
+		</statBoost>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>-2.3</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddPlagueriddenDOTDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<blackList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_DDNOFEAR"/>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_CRYSTAL"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_CRYSTAL"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_DEEPONE"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_DEEPONES"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_ENGI"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ENGI"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_GHOST"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_GHOST"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_LANIUS"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_LANIUS"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_LEECH"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_LEECH"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_MANTIS"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_MANTIS"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_OBELISK"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ANCIENT"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_ORCHID"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ORCHID"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_ROCKMAN"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ROCK"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_SHELL"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_SHELL"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_SLUG"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_SLUG"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_ZOLTAN"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ZOLTAN"/>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="deathEffect">
+			<boostType>ADD</boostType>
+			<deathEffect>
+				<event load="DDSOULPLAGUE_SUMMON_BEAM_HUMAN"/>
+			</deathEffect>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<maxStacks id="ddSoulplagueInfectionDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<blackList>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_CRYSTAL"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_DEEPONES"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ENGI"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_GHOST"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_LANIUS"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_LEECH"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_MANTIS"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ANCIENT"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ORCHID"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ROCK"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_SHELL"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_SLUG"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_ZOLTAN"/>
+				<blueprintList load="LIST_DDANNOYINGBLUEPRINTSTUFF_CREW_DDNOFEAR"/>
+			</blackList>
+			<boostAnim>ddsoulplague_infected_debuff</boostAnim>
+		</statBoost>
+	</roomStatBoosts>
+	<color>
+		<r>169</r>
+		<g>97</g>
+		<b>181</b>
+	</color>
+	<sp>3</sp>
+	<fireChance>0</fireChance>
+	<breachChance>3</breachChance>
+	<cooldown>10</cooldown>
+	<power>1</power>
+	<cost>0</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<speed>1</speed>
+	<image>beam_contact</image>
+	<length>1</length>
+	<launchSounds>
+		<sound>focus_weak</sound>
+	</launchSounds>
+	<weaponArt>focus_1</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="OG_FOCUS_PROJECTILE_SOULPLAGUE_FAKE">
+	<type>BEAM</type>
+	<title>Focus</title>
+	<short>Focus</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Defense laser; 1 damage, 1 shot. 9 second cooldown.</tooltip>
+	<damage>2</damage>
+	<color>
+		<r>169</r>
+		<g>97</g>
+		<b>181</b>
+	</color>
+	<sp>20</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>10</cooldown>
+	<power>1</power>
+	<cost>0</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<speed>1</speed>
+	<image>beam_contact</image>
+	<length>1</length>
+	<launchSounds>
+		<sound>focus_weak</sound>
+	</launchSounds>
+	<weaponArt>focus_1</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="OG_MISSILE_PROJECTILE_FALSERADIANCE">
+	<type>MISSILE</type>
+	<title>Laser</title>
+	<short>Laser</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Defense laser; 1 damage, 1 shot. 9 second cooldown.</tooltip>
+	<damage>1</damage>
+	<roomStatBoosts>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>4.0</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>ALL</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>25</duration>
+			<maxStacks id="ddRadiantDesecrationHealingBuff">1</maxStacks>
+			<priority>10001</priority>
+			<whiteList>
+				<ddlightborne_slayling/>
+				<ddlightborne_prismling/>
+				<ddlightborne_cinderling/>
+				<ddlightborne_clusterular/>
+				<ddlightborne_cellular/>
+				<ddlightborne_devourlux/>
+				<ddlightborne_spiritling/>
+				<ddlightborne_commandlux/>
+				<ddlightborne_timelux/>
+				<ddlightborne_angelular/>
+				<ddlightborne_warlockular/>
+				<ddlightborne_breakling/>
+				<ddlightborne_tormentular/>
+			</whiteList>
+			<roomAnim renderLayer="3">                                                    
+				<anim animType="default" animBorder="2">ddinvisible_effect</anim>
+					<wallAnim>ddroom_radiantdesecration_effect</wallAnim>
+			</roomAnim>
+		</statBoost>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<amount>4</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>ALL</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>25</duration>
+			<maxStacks id="ddRadiantDesecrationDamageBuff">1</maxStacks>
+			<priority>-99999</priority>
+			<whiteList>
+				<ddlightborne_slayling/>
+				<ddlightborne_prismling/>
+				<ddlightborne_cinderling/>
+				<ddlightborne_clusterular/>
+				<ddlightborne_cellular/>
+				<ddlightborne_devourlux/>
+				<ddlightborne_spiritling/>
+				<ddlightborne_commandlux/>
+				<ddlightborne_timelux/>
+				<ddlightborne_angelular/>
+				<ddlightborne_warlockular/>
+				<ddlightborne_breakling/>
+				<ddlightborne_tormentular/>
+			</whiteList>
+		</statBoost>
+		<statBoost name="sabotageSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<amount>4</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>ALL</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>25</duration>
+			<maxStacks id="ddRadiantDesecrationSabotageBuff">1</maxStacks>
+			<priority>-99999</priority>
+			<whiteList>
+				<ddlightborne_slayling/>
+				<ddlightborne_prismling/>
+				<ddlightborne_cinderling/>
+				<ddlightborne_clusterular/>
+				<ddlightborne_cellular/>
+				<ddlightborne_devourlux/>
+				<ddlightborne_spiritling/>
+				<ddlightborne_commandlux/>
+				<ddlightborne_timelux/>
+				<ddlightborne_angelular/>
+				<ddlightborne_warlockular/>
+				<ddlightborne_breakling/>
+				<ddlightborne_tormentular/>
+			</whiteList>
+		</statBoost>
+		<statBoost name="moveSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<amount>4</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ALLIES</crewTarget>
+			<droneTarget>ALL</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>25</duration>
+			<maxStacks id="ddRadiantDesecrationSpeedBuff">1</maxStacks>
+			<priority>-99999</priority>
+			<whiteList>
+				<ddlightborne_slayling/>
+				<ddlightborne_prismling/>
+				<ddlightborne_cinderling/>
+				<ddlightborne_clusterular/>
+				<ddlightborne_cellular/>
+				<ddlightborne_devourlux/>
+				<ddlightborne_spiritling/>
+				<ddlightborne_commandlux/>
+				<ddlightborne_timelux/>
+				<ddlightborne_angelular/>
+				<ddlightborne_warlockular/>
+				<ddlightborne_breakling/>
+				<ddlightborne_tormentular/>
+			</whiteList>
+		</statBoost>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>-1.0</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>ALL</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>25</duration>
+			<maxStacks id="ddRadiantDesecrationDOTDebuff">1</maxStacks>
+			<priority>10001</priority>
+			<boostAnim>ddradiantdesecration_debuff</boostAnim>
+		</statBoost>
+		<statBoost name="damageMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.8</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>ALL</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>25</duration>
+			<maxStacks id="ddRadiantDesecrationDamageDebuff">1</maxStacks>
+			<priority>10001</priority>
+		</statBoost>
+		<statBoost name="sabotageSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.8</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>ALL</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>25</duration>
+			<maxStacks id="ddRadiantDesecrationSabotageDebuff">1</maxStacks>
+			<priority>10001</priority>
+		</statBoost>
+		<statBoost name="moveSpeedMultiplier">
+			<boostType>MULT</boostType>
+			<amount>0.8</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>ALL</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>25</duration>
+			<maxStacks id="ddRadiantDesecrationSpeedDebuff">1</maxStacks>
+			<priority>10001</priority>
+		</statBoost>
+	</roomStatBoosts>
+	<missiles>0</missiles>
+	<accuracyMod>10</accuracyMod>
+	<speed>75</speed>
+	<shots>1</shots>
+	<sp>10</sp>
+	<fireChance>1</fireChance>
+	<breachChance>4</breachChance>
+	<stunChance>2</stunChance>
+	<cooldown>10</cooldown>
+	<power>1</power>
+	<cost>0</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>og_missile_falseradiance_projectile</image>
+	<launchSounds>
+		<sound>smallMissile1</sound>
+		<sound>smallMissile2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>missiles_1</weaponArt>
+	<iconImage>missile</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="OG_LASER_PROJECTILE_DARKNESS">
+	<type>LASER</type>
+	<title>Laser</title>
+	<short>Laser</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Defense laser; 1 damage, 1 shot. 9 second cooldown.</tooltip>
+	<damage>1</damage>
+	<persDamage>-1</persDamage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>1</breachChance>
+	<cooldown>10</cooldown>
+	<spawnCrew>
+        <race>darkgodtendrils</race>
+		<name>Hungering Shadow</name>
+        <number>1</number>
+        <noSlot>true</noSlot>
+		<lifetime>21</lifetime>
+        <statBoosts>
+            <statBoost name="noClone">
+                <boostType>SET</boostType>
+                <value>true</value>
+                <shipTarget>ALL</shipTarget>
+                <crewTarget>ALL</crewTarget>
+                <priority>999999</priority>
+            </statBoost>
+        </statBoosts>
+    </spawnCrew>
+	<crewSpawnChance>6</crewSpawnChance>
+	<power>1</power>
+	<cost>0</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>og_laser_darkness_projectile</image>
+	<launchSounds>
+		<sound>lightLaser1</sound>
+		<sound>lightLaser2</sound>
+		<sound>lightLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>laser_burst_1</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+</FTL>
+
+<!--LOOT-->
+<FTL>
+
+<weaponBlueprint name="OG_TURRET_LOOT_SLUG_1">
+	<type>BEAM</type>
+	<flavorType>Turret</flavorType>
+	<tip>og_turret_loot_slug_1</tip>
+	<title>Irradiation Pinpoint Turret</title>
+	<short>Rad P.</short>
+	<desc>A powerful modified Pinpoint turret that does massive crew damage and cripples enemy crew, but no hull damage. Pierces 2 shields.</desc>
+	<tooltip>Turret</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>75</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>og_turret_loot_slug_1_icon</iconReplace>
+</weaponBlueprint>
+
+<weaponBlueprint name="OG_TURRET_LOOT_CLAN_1">
+	<type>BEAM</type>
+	<flavorType>Turret</flavorType>
+	<tip>og_turret_loot_clan_1</tip>
+	<title>Irradiation Laser Turret</title>
+	<short>Rad L.</short>
+	<desc>A specialized Laser Turret that does high bio damage and cripples crew, but no system or hull damage. This turret is also extremely capable in the defence role shooting down enemy lasers.</desc>
+	<tooltip>Turret</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>75</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>og_turret_loot_clan_1_icon</iconReplace>
+</weaponBlueprint>
+	
+<weaponBlueprint name="OG_TURRET_LOOT_CRYSTAL_1">
+	<type>BEAM</type>
+	<flavorType>Turret</flavorType>
+	<tip>og_turret_loot_crystal_1</tip>
+	<title>Shard Launcher Turret</title>
+	<short>Shard L.</short>
+	<desc>A specialized Mine Launching Turret that uses crystalline projectiles loaded with explosives. Does not use ammunition, but can only pierce 2 layers of shields.
+	
+	Provides 1 fleet delay for 5 missiles at empty beacons, has no notoriety impact.</desc>
+	<tooltip>Turret</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>75</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>og_turret_loot_crystal_1_icon</iconReplace>
+</weaponBlueprint>
+
+<weaponBlueprint name="OG_TURRET_LOOT_FEDERATION_1">
+	<type>BEAM</type>
+	<flavorType>Turret</flavorType>
+	<tip>og_turret_loot_federation_1</tip>
+	<title>Heavy Laser Turret</title>
+	<short>Heavy L.</short>
+	<desc>Heavy Laser Turrets make for poor defensive turrets with their slow rotation speed and high damage per shot, but are excellent against enemy ships.</desc>
+	<tooltip>Turret</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>75</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>og_turret_loot_federation_1_icon</iconReplace>
 </weaponBlueprint>
 </FTL>
 
@@ -1862,7 +2708,59 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<weaponArt>laser_particle</weaponArt>
 	<iconImage>laser</iconImage>
 </weaponBlueprint>
-
+<weaponBlueprint name="OG_LASER_PROJECTILE_FROST">
+	<type>LASER</type>
+	<title>Laser</title>
+	<short>Laser</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Defense laser; 1 damage, 1 shot. 9 second cooldown.</tooltip>
+	<damage>1</damage>
+	<persDamage>1</persDamage>
+	<stun>3</stun>
+	<lockdown>1</lockdown>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<roomStatBoosts>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>0</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ALL</crewTarget>
+			<duration>20</duration>
+			<roomAnim renderLayer="3">
+				<anim animType="center">snowman_walk_down</anim>
+			</roomAnim>
+		</statBoost>
+	</roomStatBoosts>
+	<roomStatBoostChance>1</roomStatBoostChance>
+	<cooldown>10</cooldown>
+	<power>1</power>
+	<cost>0</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>laser_frost</image>
+	<launchSounds>
+		<sound>lightLaser1</sound>
+		<sound>lightLaser2</sound>
+		<sound>lightLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>laser_frost</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
 
 
 <weaponBlueprint name="OG_ION_PROJECTILE_BASE">
@@ -2037,7 +2935,6 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<weaponArt>energy_1</weaponArt>
 	<iconImage>ion</iconImage>
 </weaponBlueprint>
-
 
 <weaponBlueprint name="OG_CRYSTAL_PROJECTILE_BASE">
 	<type>MISSILE</type>
@@ -2320,7 +3217,46 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<weaponArt>kernel_heavy</weaponArt>
 	<iconImage>missile</iconImage>
 </weaponBlueprint>
-
+<weaponBlueprint name="OG_MISSILE_PROJECTILE_CLONE">
+	<type>MISSILE</type>
+	<title>Laser</title>
+	<short>Laser</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Defense laser; 1 damage, 1 shot. 9 second cooldown.</tooltip>
+	<damage>1</damage>
+	<sysDamage>0</sysDamage>
+	<missiles>0</missiles>
+	<accuracyMod>10</accuracyMod>
+	<speed>30</speed>
+	<shots>1</shots>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<stunChance>0</stunChance>
+	<cooldown>10</cooldown>
+	<power>1</power>
+	<cost>0</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>humanproj</image>
+	<launchSounds>
+		<sound>smallMissile1</sound>
+		<sound>smallMissile2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>spiderDeath</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>spiderDeath</sound>
+		<sound>spiderDeath</sound>
+		<sound>spiderDeath</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>clone_cannon_def</weaponArt>
+	<iconImage>missile</iconImage>
+</weaponBlueprint>
 
 
 <weaponBlueprint name="OG_FLAK_PROJECTILE">
@@ -2409,8 +3345,6 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<weaponArt>shotgun_toxic</weaponArt>
 	<iconImage>laser</iconImage>
 </weaponBlueprint>
-
-
 
 
 <weaponBlueprint name="OG_FOCUS_PROJECTILE">
@@ -2860,6 +3794,130 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<weaponArt>focus_1</weaponArt>
 	<iconImage>beam</iconImage>
 </weaponBlueprint>
+
+
+<weaponBlueprint name="OG_LOOT_PROJECTILE_SLUG_1">
+	<type>BEAM</type>
+	<title>Focus</title>
+	<short>Focus</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Defense laser; 1 damage, 1 shot. 9 second cooldown.</tooltip>
+	<damage>2</damage>
+	<sysDamage>1</sysDamage>
+	<persDamage>5</persDamage>
+	<color>
+		<r>255</r>
+		<g>8</g>
+		<b>200</b>
+	</color>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>7</breachChance>
+	<statBoosts>
+		<statBoost name="moveSpeedMultiplier" load="RAD_MOVE"/>
+		<statBoost name="stunMultiplier" load="RAD_STUN"/>
+		<statBoost name="repairSpeed" load="RAD_REPAIR"/>
+	</statBoosts>
+	<cooldown>10</cooldown>
+	<power>1</power>
+	<cost>0</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<speed>1</speed>
+	<image>beam_contact</image>
+	<length>1</length>
+	<launchSounds>
+		<sound>focus_weak</sound>
+	</launchSounds>
+	<weaponArt>focus_1</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="OG_LOOT_PROJECTILE_CLAN_1">
+	<type>LASER</type>
+	<title>Laser</title>
+	<short>Laser</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Defense laser; 1 damage, 1 shot. 9 second cooldown.</tooltip>
+	<damage>0</damage>
+	<persDamage>3</persDamage>
+	<stun>3</stun>
+	<statBoosts>
+		<statBoost name="moveSpeedMultiplier" load="RAD_MOVE"/>
+		<statBoost name="stunMultiplier" load="RAD_STUN"/>
+		<statBoost name="repairSpeed" load="RAD_REPAIR"/>
+	</statBoosts>
+	<shots>1</shots>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>3</breachChance>
+	<stunChance>10</stunChance>
+	<cooldown>10</cooldown>
+	<power>1</power>
+	<cost>0</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>laser_bio</image>
+	<launchSounds>
+		<sound>lightLaser1</sound>
+		<sound>lightLaser2</sound>
+		<sound>lightLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>laser_bio</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="OG_CRYSTAL_PROJECTILE_SHARD">
+	<type>LASER</type>
+	<drone_targetable>1</drone_targetable>
+	<title>Flak</title>
+	<short>Flak</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Defense laser; 1 damage, 1 shot. 9 second cooldown.</tooltip>
+	<damage>1</damage>
+	<sysDamage>-1</sysDamage>
+	<lockdown>1</lockdown>
+    <stun>12</stun>
+	<shots>1</shots>
+	<sp>2</sp>
+	<fireChance>2</fireChance>
+	<breachChance>4</breachChance>
+    <stunChance>3</stunChance>
+	<cooldown>10</cooldown>
+	<power>1</power>
+	<cost>0</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<speed>15</speed>
+	<image>og_mine_crystal_blue</image>
+	<launchSounds>
+        <sound>smallMissile1</sound>
+        <sound>smallMissile2</sound>
+	</launchSounds>
+	<hitShipSounds>
+        <sound>smallExplosion</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>laser_burst_1</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
 </FTL>
 
 <!--SHIPS-->
@@ -3209,6 +4267,178 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<mv-mapImage>map_icon_og_executor</mv-mapImage>
 </shipBlueprint>
 
+<shipBlueprint name="PLAYER_SHIP_OG_EXECUTOR_2" layout="ogp_executor_b" img="ogp_executor_b">
+	<class>Executor-Class</class>
+	<name>The Courier</name>
+	<desc>Equiped with a battery of small ion turrets, this ship is able to take down shields to allow it's mainline turret to work. Due to the number of turrets, Captains have to choose between a Drone Control or Weapon Control system.</desc>
+	<unlock id="ship_PLAYER_SHIP_OG_EXECUTOR_2_unlock"/>
+	<systemList>
+		<og_turret power="2" room="1" start="true" turret="OG_TURRET_LASER_PARTICLE" img="room_og_turret_8">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</og_turret>
+		<og_turret_mini power="1" max="3" room="2" start="true" turret="OG_TURRET_ION_MINI_1" img="room_og_turret_3_noman" />
+		<og_turret_mini_2 power="1" max="3" room="4" start="true" turret="OG_TURRET_ION_MINI_1" img="room_og_turret_2_noman" />
+		<og_turret_mini_3 power="1" max="3" room="3" start="true" turret="OG_TURRET_ION_MINI_1" img="room_og_turret_2_noman" />
+		<battery power="1" room="28" start="false" img="room_battery_10" />
+		<cloaking power="1" room="22" start="false" img="room_cloaking_12" />
+		<clonebay power="1" room="7" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="24" start="true" img="room_doors_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="25" start="false" img="room_drones_7" />
+		<engines power="2" room="9" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="11" start="false" img="room_hacking_2" />
+		<medbay power="1" room="7" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="13" start="false" img="room_mind_5" />
+		<oxygen power="1" room="27" start="true" img="room_oxygen_23" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="23" start="false" img="room_sensors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="6" start="true" img="room_shields_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="5" start="false" />
+		<weapons power="2" max="8" room="25" start="false" img="room_weapons_6">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>2</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="8" count="2" />
+	<droneList drones="3" count="2" />
+	<health amount="45" />
+	<maxPower amount="10" />
+	<crewCount amount="1" class="human_og_raider" />
+	<crewCount amount="1" class="human_og_raider" />
+	<crewCount amount="1" class="human_og_raider" />
+	<aug name="EX_OG_TURRET_SPEED" />
+	<aug name="EX_OG_TURRET_SPEED" />
+	<aug name="EX_OG_TURRET_SPEED" />
+	<shieldImage>mup_long2</shieldImage>
+	<mv-mapImage>map_icon_og_executor</mv-mapImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_SHIP_OG_EXECUTOR_3" layout="ogp_executor_c" img="ogp_executor_c">
+	<class>Executor-Class</class>
+	<name>The Bombardier</name>
+	<desc>This ship has been specialized for high firepower, able to carry either four weapons or four drones, alongside 2 mainline turrets, this ship is sure to pack a punch.</desc>
+	<unlock id="ship_PLAYER_SHIP_OG_EXECUTOR_3_unlock"/>
+	<systemList>
+		<og_turret power="2" room="2" start="true" turret="OG_TURRET_LASER_CHAINGUN" img="room_og_turret_3">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</og_turret>
+		<og_turret_2 power="2" room="1" start="true" turret="OG_TURRET_FOCUS_CHAIN" img="room_og_turret_3">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</og_turret_2>
+		<battery power="1" room="23" start="false" img="room_battery_16" />
+		<cloaking power="2" room="14" start="true" img="room_cloaking" />
+		<clonebay power="1" room="5" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="2" room="8" start="true" img="room_doors_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="3" start="false" img="room_drones_7" />
+		<engines power="1" room="4" start="true" img="room_engines_11">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="11" start="false" img="room_hacking_2" />
+		<medbay power="1" room="5" start="true" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="10" start="false" img="room_mind_5" />
+		<oxygen power="1" room="20" start="true" img="room_oxygen" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="2" room="6" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="15" start="false" img="room_shields_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="24" start="false" />
+		<weapons power="2" max="8" room="3" start="false" img="room_weapons_6">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>4</droneSlots>
+	<weaponList missiles="8" count="4" />
+	<droneList drones="3" count="4" />
+	<health amount="45" />
+	<maxPower amount="9" />
+	<crewCount amount="1" class="human_soldier" />
+	<crewCount amount="1" class="human" />
+	<crewCount amount="1" class="human" />
+	<crewCount amount="1" class="human" />
+	<aug name="EX_CLOAK_FIRE" />
+	<shieldImage>mup_long2</shieldImage>
+	<mv-mapImage>map_icon_og_executor</mv-mapImage>
+</shipBlueprint>
+
 <shipBlueprint name="PLAYER_SHIP_OG_DAWN_SPEAR" layout="ogp_dawn_spear_a" img="ogp_dawn_spear_a">
 	<class>Spearhead-Class</class>
 	<name>The Approaching Sun</name>
@@ -3293,7 +4523,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<class>Spearhead-Class</class>
 	<name>The God Ray</name>
 	<unlock id="ship_PLAYER_SHIP_OG_DAWN_SPEAR_2_unlock"/>
-	<desc>This varient of the Spearhead-Class cruiser uses turrets to protect itself and it's weapons to provide offence. Using your turrets for offence will be risky without any other defensive systems to rely on.</desc>
+	<desc>This variant of the Spearhead-Class cruiser uses turrets to protect itself and it's weapons to provide offence. Using your turrets for offence will be risky without any other defensive systems to rely on.</desc>
 	<systemList>
 		<og_turret power="2" max="5" room="3" start="true" turret="OG_TURRET_LASER_1" img="room_og_turret_6" >
 			<slot>
@@ -3379,7 +4609,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<class>Spearhead-Class</class>
 	<name>The Burning Emblem</name>
 	<unlock id="ship_PLAYER_SHIP_OG_DAWN_SPEAR_3_unlock"/>
-	<desc>Armed to the teeth, this ship is fully combat focused. A product of rebel design the ship makes use of malforms  to eliminate the need for oxygen, and a doctor drone in place of a medical system.</desc>
+	<desc>Armed to the teeth, this ship is fully combat focused. A product of rebel design, the ship makes use of malforms to eliminate the need for oxygen, and a doctor drone in place of a medical system.</desc>
 	<systemList>
 		<og_turret power="2" max="5" room="1" start="true" turret="OG_TURRET_LASER_CHAINGUN" img="room_og_turret_8" >
 			<slot>
@@ -4148,13 +5378,13 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<unlock id="ship_PLAYER_SHIP_OG_ROCK_unlock"/>
 	<desc>Similar to its designers, this super-dense behemoth uses brute force to overwhelm its foes.</desc>
 	<systemList>
-		<og_turret power="2" room="12" start="true" img="room_og_turret_3" turret="OG_TURRET_MISSILE_1">
+		<og_turret power="3" room="12" start="true" img="room_og_turret_8" turret="OG_TURRET_MISSILE_1">
 			<slot>
 				<direction>right</direction>
-				<number>0</number>
+				<number>1</number>
 			</slot>
 		</og_turret>
-		<og_turret_2 power="2" room="1" start="true" img="room_og_turret_8" turret="OG_TURRET_KERNEL_FIRE">
+		<og_turret_2 power="2" room="1" start="true" img="room_og_turret_3" turret="OG_TURRET_KERNEL_FIRE">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
@@ -4180,7 +5410,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 				<number>0</number>
 			</slot>
 		</engines>
-		<hacking power="1" room="6" start="true" img="room_hacking_2" />
+		<hacking power="1" room="6" start="false" img="room_hacking_2" />
 		<medbay power="1" room="14" start="true" img="room_medbay_7">
 			<slot>
 				<number>2</number>
@@ -4194,7 +5424,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 				<number>0</number>
 			</slot>
 		</pilot>
-		<sensors power="1" room="17" start="true" img="room_sensors_3_noman">
+		<sensors power="1" room="17" start="true" img="room_sensors_3">
 			<slot>
 				<direction>right</direction>
 				<number>1</number>
@@ -4219,7 +5449,7 @@ New Dawn varient applies a status effect to hit rooms that causes them to take +
 	<weaponList missiles="18" count="2" />
 	<droneList drones="0" count="2" />
 	<health amount="30" />
-	<maxPower amount="10" />
+	<maxPower amount="8" />
 	<crewCount amount="1" class="rock" />
 	<crewCount amount="1" class="rock" />
 	<crewCount amount="1" class="rock" />

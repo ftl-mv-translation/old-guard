@@ -508,14 +508,15 @@
 	<preventQuest/>
 	<beaconType id="map_icon_store_generic" global="false">
 		<color r="215" g="255" b="200" a="1"/>
-	</beaconType><text>The nearby market is overlooked by an allied refueling post.</text>
+	</beaconType>
+	<text>A large market surrounds this refueling station.</text>
 	<ship load="SHIP_OG_IRON_TURRET_STATION_STORE" hostile="false"/>
 	<choice hidden="false">
 		<text>Purchase a discounted turret.</text>
 		<event>
-			<text>You stock up on fuel then check out the store.</text>
+			<text>You load up the turret before moving onto the rest of the market.</text>
 			<item_modify>
-				<item type="scrap" min="-70" max="-61"/>
+				<item type="scrap" min="-50" max="-41"/>
 			</item_modify>
 			<weapon name="SHOP_TURRETS_LARGE"/>
 			<choice hidden="true">
@@ -527,9 +528,9 @@
 	<choice req="mind" hidden="false">
 		<text>(Mind Control) "Negotiate" an even lower price.</text>
 		<event>
-			<text>You stock up on fuel then check out the store.</text>
+			<text>You load up the turret before moving onto the rest of the market.</text>
 			<item_modify>
-				<item type="scrap" min="-60" max="-51"/>
+				<item type="scrap" min="-40" max="-31"/>
 			</item_modify>
 			<weapon name="SHOP_TURRETS_LARGE"/>
 			<choice hidden="true">
@@ -538,13 +539,14 @@
 			</choice>
 		</event>
 	</choice>
-	<choice req="LIST_CREW_OG_IRON" hidden="true">
+	<choice req="LIST_CREW_OG_IRON" hidden="false">
 		<text>(Iron Watch Crew) Negotiate an even lower price.</text>
 		<event>
-			<text>You stock up on fuel then check out the store.</text>
+			<text>You load up the turret before moving onto the rest of the market.</text>
 			<item_modify>
-				<item type="scrap" min="-60" max="-51"/>
+				<item type="scrap" min="-40" max="-31"/>
 			</item_modify>
+			<weapon name="SHOP_TURRETS_LARGE"/>
 			<choice hidden="true">
 				<text>Shop.</text>
 				<event load="STORE_LOAD_GENERIC"/>
@@ -574,14 +576,14 @@
 
 <!--ITEMS-->
 <eventList name="ITEMS_OG_IRON">
-	<event load="OG_IRON_DEFENSE_DRONE"/>
+	<event load="OG_IRON_DEFENCE_DRONE"/>
 	<event load="OG_IRON_FOR_SCIENCE"/>
 	<event load="OG_IRON_DAWN_WRECK"/>
 	
 	<event load="FILLER_FUEL_FOR_DRONE"/>
 </eventList>
 
-<event name="OG_IRON_DEFENSE_DRONE" unique="true">
+<event name="OG_IRON_DEFENCE_DRONE" unique="true">
 	<ship load="SHIP_OG_IRON_GENERIC" hostile="false"/>
 	<text>You arrive at the beacon to discover an Iron Watch ship. The captain is seemingly quite distressed as you can hear yelling over the public channels.
 	"What do you mean it's not a turret?" You can hear the faint noise of one of their crew trying to explain something the captain clearly doesn't understand.
@@ -841,7 +843,7 @@
 				<event>
 					<text>You move in and begin looting the civilian when an Iron Watch ship arrives at the beacon. They appear to think you're responsible for the wreck as they immediately move in to attack.</text>
 					<autoReward level="LOW">stuff</autoReward>
-					<ship load="SHIP_OG_IRON_FIGHT" hostile="false"/>
+					<ship load="SHIP_OG_IRON_FIGHT" hostile="true"/>
 					<choice hidden="true">
 						<text>Continue...</text>
 						<event load="REPUTATION_DECREASE_OG_IRON_COMBAT"/>
@@ -1668,7 +1670,7 @@ They don't immediately respond and they keep their jump drive ready.</text>
 			<choice hidden="true">
 				<text>Threaten the outpost for the information.</text>
 				<event>
-					<text>The outpost is effectively defenseless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype. They also kindly return your donation.</text>
+					<text>The outpost is effectively defenceless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype. They also kindly return your donation.</text>
 					<item_modify>
 						<item type="scrap" min="10" max="10" />
 					</item_modify>
@@ -1708,7 +1710,7 @@ They don't immediately respond and they keep their jump drive ready.</text>
 	<choice hidden="true">
 		<text>Threaten the outpost for the information.</text>
 		<event>
-			<text>The outpost is effectively defenseless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype.</text>
+			<text>The outpost is effectively defenceless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype.</text>
 			<quest event="OG_IRON_PROTOTYPE_DESTINATION"/>
 			<choice>
 				<text>Continue...</text>
@@ -1755,7 +1757,7 @@ They don't immediately respond and they keep their jump drive ready.</text>
 	<choice hidden="true">
 		<text>Threaten the outpost for the information.</text>
 		<event>
-			<text>The outpost is effectively defenseless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype.</text>
+			<text>The outpost is effectively defenceless against your weapons, they quickly capitulate to your demands, uploading the data on the prototype.</text>
 			<quest event="OG_IRON_PROTOTYPE_DESTINATION"/>
 			<choice>
 				<text>Continue...</text>

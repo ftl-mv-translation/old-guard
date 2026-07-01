@@ -3,21 +3,14 @@
 <multiShipFix enabled="true"/>
 <mod:findLike type="scripts" reverse="false">
 	<mod-append:script>data/og_scripts/core.lua</mod-append:script>
-	<mod-append:script>data/og_scripts/turret_systems.lua</mod-append:script>
+	<mod-append:script>data/og_scripts/turret_systems_func.lua</mod-append:script>
+	<mod-append:script>data/og_scripts/turret_systems_rendering.lua</mod-append:script>
 	<mod-append:script>data/og_scripts/turret_systems_stats.lua</mod-append:script>
 	<mod-append:script>data/og_scripts/turret_menu_temp.lua</mod-append:script>
+	<mod-append:script>data/og_scripts/og_extra_slots.lua</mod-append:script>
 	<mod-append:script>data/og_scripts/ship_ach.lua</mod-append:script>
 </mod:findLike>
 <shieldWithoutSystem enabled="true"/>
-<mod:findLike type="ships" limit="1">
-	<mod:findLike type="customShip">
-		<mod:findLike type="exclusivityOverride">
-			<mod-append:exclusivityGroup>
-				<og_turret_adaptive/>
-			</mod-append:exclusivityGroup>
-		</mod:findLike>
-	</mod:findLike>
-</mod:findLike>
 <mod:findLike type="customSystems" reverse="false">
 	<mod-append:customSystem id="og_turret"/>
 	<mod-append:customSystem id="og_turret_2"/>
@@ -28,6 +21,8 @@
 	<mod-append:customSystem id="og_turret_mini_3"/>
 	<mod-append:customSystem id="og_turret_mini_4"/>
 	<mod-append:customSystem id="og_turret_adaptive"/>
+	<mod-append:customSystem id="og_turret_adaptive_2"/>
+	<mod-append:customSystem id="og_turret_adaptive_single"/>
 
 	<mod-append:exclusivityGroup>
 		<og_turret/>
@@ -56,6 +51,10 @@
 	<mod-append:exclusivityGroup>
 		<og_turret_adaptive/>
 	</mod-append:exclusivityGroup>
+	<mod:findWithChildLike type="exclusivityGroup" child-type="drones">
+		<mod-append:og_turret_adaptive_2/>
+		<mod-append:og_turret_adaptive_single/>
+	</mod:findWithChildLike>
 
 	<mod:findLike type="systemPositions" reverse="false">
 		<mod-append:og_turret position="7"/>
@@ -67,6 +66,8 @@
 		<mod-append:og_turret_mini_3 position="7"/>
 		<mod-append:og_turret_mini_4 position="7"/>
 		<mod-append:og_turret_adaptive position="7"/>
+		<mod-append:og_turret_adaptive_2 position="7"/>
+		<mod-append:og_turret_adaptive_single position="7"/>
 	</mod:findLike>
 
 	<mod-append:systemPositions subSystemOffset="1015"> 
@@ -87,6 +88,8 @@
 		<og_turret_mini_3 position="7"/>
 		<og_turret_mini_4 position="7"/>
 		<og_turret_adaptive position="7"/>
+		<og_turret_adaptive_2 position="7"/>
+		<og_turret_adaptive_single position="7"/>
 		<mind position="8"/>
 		<hacking position="9"/>
 		<temporal position="10"/>
@@ -105,6 +108,25 @@
 </mod:findLike>
 
 <mod:findLike type="ships" limit="1" reverse="false">
+	<mod:findLike type="customShip">
+		<mod:findLike type="exclusivityOverride">
+			<mod-append:exclusivityGroup>
+				<og_turret_adaptive/>
+			</mod-append:exclusivityGroup>
+			<mod:findWithChildLike type="exclusivityGroup" child-type="drones">
+				<mod-append:og_turret_adaptive_2/>
+				<mod-append:og_turret_adaptive_single/>
+			</mod:findWithChildLike>
+			<mod-append:exclusivityGroup>
+				<drones/>
+				<og_turret_adaptive_2/>
+				<og_turret_adaptive_single/>
+			</mod-append:exclusivityGroup>
+			<mod:findWithChildLike type="exclusivityGroup" child-type="drones" start="1">
+				<mod:removeTag />
+			</mod:findWithChildLike>
+		</mod:findLike>
+	</mod:findLike>
 	<mod:findLike type="shipIcons">
 		<mod-append:shipIcon>
 			<name>icon_og_rotation</name>
@@ -130,6 +152,11 @@ This enemy's turrets will be half charged at the start of combat.</tooltip>
 			<name>icon_og_turret_dawn</name>
 			<tooltip>NEW DAWN TURRETS:
 This enemy possesses New Dawn turrets, when hit by these, rooms will be temporarily made vunerable and recieve +1 system damage when hit, however these turrets also render their corresponding systems vunerable aswell.</tooltip>
+		</mod-append:shipIcon>
+		<mod-append:shipIcon>
+			<name>icon_og_battlecruiser</name>
+			<tooltip>BATTLECRUISER:
+This enemy is equiped with specialized turret tech, defeat them to take the specialized loot turret for yourself.</tooltip>
 		</mod-append:shipIcon>
 	</mod:findLike>
 	<mod:findLike type="shipOrder">
@@ -171,7 +198,10 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 			<value>8</value>
 		</unlock>
 		<unlock variant="c" silent="false">
-			<type>4</type>
+			<type>3</type>
+            <otherUnlocks>
+				<ship>PLAYER_SHIP_OG_RAIDER_3</ship>
+			</otherUnlocks>
 		</unlock>
 		<achievement name="SHIP_ACH_OG_RAIDER_1" layout="all">
 			<name>War Economy</name>
@@ -211,7 +241,7 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 		<systemLimit>9</systemLimit>
 	</mod-append:customShip>
 
-	<mod-append:ship name="PLAYER_SHIP_OG_EXECUTOR" b="false" c="false" >
+	<mod-append:ship name="PLAYER_SHIP_OG_EXECUTOR" b="true" c="true" >
 		<unlock variant="a">
 			<type>2</type>
 			<shipReq>PLAYER_SHIP_OG_RAIDER_2</shipReq>
@@ -227,12 +257,202 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 			<shipReq>PLAYER_SHIP_OG_RAIDER</shipReq>
 			<shipReq>PLAYER_SHIP_OG_RAIDER_2</shipReq>
 		</unlock>
+		<unlock variant="b" silent="false">
+			<type>1</type>
+			<shipReq>PLAYER_SHIP_OG_EXECUTOR</shipReq>
+			<value>8</value>
+		</unlock>
+		<unlock variant="c" silent="false">
+			<type>3</type>
+            <otherUnlocks>
+				<ship>PLAYER_SHIP_OG_EXECUTOR_3</ship>
+			</otherUnlocks>
+		</unlock>
+		<achievement name="SHIP_ACH_OG_EXECUTOR_1" layout="all">
+			<name>Death by a Thousand Cuts</name>
+			<description>Upgrade all of your micro turrets to 3 power as an Executor-Class vessel.</description>
+			<icon>ogp_executor_1_icon</icon>
+			<lockImage>ogp_executor_1_icon_locked</lockImage>
+		</achievement>
+		<achievement name="SHIP_ACH_OG_EXECUTOR_2" layout="all">
+			<name>Flawless Execution</name>
+			<description>As an Executor-Class vessel: Win a battle while taking no hull damage, and without shields or cloaking.</description>
+			<icon>ogp_executor_2_icon</icon>
+			<lockImage>ogp_executor_2_icon_locked</lockImage>
+		</achievement>
+		<achievement name="SHIP_ACH_OG_EXECUTOR_3" layout="all">
+			<name>Executive Order</name>
+			<description>Reach Sector 8 with an Executor-class vessel using no systems other than turrets, shields, engines, oxygen, cloaking, medical systems, and subsystems.</description>
+			<icon>ogp_executor_3_icon</icon>
+			<lockImage>ogp_executor_3_icon_locked</lockImage>
+		</achievement>
 	</mod-append:ship>
 	<mod-append:customShip name="PLAYER_SHIP_OG_EXECUTOR">
 		<hiddenAug>SHIP_OG_GUARD</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>11</crewLimit>
 		<systemLimit>10</systemLimit>
+		<customReactor maxLevel="35"/>
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_SHIP_OG_EXECUTOR_2">
+		<hiddenAug>SHIP_OG_GUARD</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>11</crewLimit>
+		<systemLimit>10</systemLimit>
+		<customReactor maxLevel="35"/>
+		<exclusivityOverride>
+			<exclusivityGroup>
+				<og_turret/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_2/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_3/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_4/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_mini/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_mini_2/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_mini_3/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_mini_4/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<shields/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<engines/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<oxygen/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<weapons/>
+				<drones/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<medbay/>
+				<clonebay/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<pilot/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<sensors/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<doors/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<teleporter/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<cloaking/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<artillery/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<battery/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<mind/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<hacking/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<temporal/>
+			</exclusivityGroup>
+		</exclusivityOverride>
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_SHIP_OG_EXECUTOR_3">
+		<hiddenAug>SHIP_OG_GUARD</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>11</crewLimit>
+		<systemLimit>9</systemLimit>
+		<customReactor maxLevel="35"/>
+		<exclusivityOverride>
+			<exclusivityGroup>
+				<og_turret/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_2/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_3/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_4/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_mini/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_mini_2/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_mini_3/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<og_turret_mini_4/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<shields/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<engines/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<oxygen/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<weapons/>
+				<drones/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<medbay/>
+				<clonebay/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<pilot/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<sensors/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<doors/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<teleporter/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<cloaking/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<artillery/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<battery/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<mind/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<hacking/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<temporal/>
+			</exclusivityGroup>
+		</exclusivityOverride>
 	</mod-append:customShip>
 
 	<mod-append:ship name="PLAYER_SHIP_OG_DAWN_SPEAR" b="true" c="true" >
@@ -246,7 +466,10 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 			<value>8</value>
 		</unlock>
 		<unlock variant="c" silent="false">
-			<type>4</type>
+			<type>3</type>
+            <otherUnlocks>
+				<ship>PLAYER_SHIP_OG_DAWN_SPEAR_3</ship>
+			</otherUnlocks>
 		</unlock>
 		<achievement name="SHIP_ACH_OG_DAWN_SPEAR_1" layout="all">
 			<name>Point Defence</name>
@@ -262,7 +485,7 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 		</achievement>
 		<achievement name="SHIP_ACH_OG_DAWN_SPEAR_3" layout="all">
 			<name>Combo Breaker</name>
-			<description>As a Spearhead-Class vessel: Trigger the bonus system damage from a New Dawn turret 6 times from an application of the effect.</description>
+			<description>As a Spearhead-Class vessel: Trigger the bonus system damage from a New Dawn turret 6 times from a single application of the effect.</description>
 			<icon>ogp_dawn_spear_3_icon</icon>
 			<lockImage>ogp_dawn_spear_3_icon_locked</lockImage>
 		</achievement>
@@ -309,7 +532,10 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 			<value>8</value>
 		</unlock>
 		<unlock variant="c" silent="false">
-			<type>4</type>
+			<type>3</type>
+            <otherUnlocks>
+				<ship>PLAYER_SHIP_OG_DAWN_BIG_3</ship>
+			</otherUnlocks>
 		</unlock>
 		<achievement name="SHIP_ACH_OG_DAWN_BIG_1" layout="all">
 			<name>Trojan Horse</name>
@@ -335,18 +561,21 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>11</crewLimit>
 		<systemLimit>10</systemLimit>
+		<customReactor maxLevel="40"/>
 	</mod-append:customShip>
 	<mod-append:customShip name="PLAYER_SHIP_OG_DAWN_BIG_2">
 		<hiddenAug>SHIP_OG_DAWN</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>11</crewLimit>
 		<systemLimit>10</systemLimit>
+		<customReactor maxLevel="40"/>
 	</mod-append:customShip>
 	<mod-append:customShip name="PLAYER_SHIP_OG_DAWN_BIG_3">
 		<hiddenAug>SHIP_OG_DAWN</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>11</crewLimit>
 		<systemLimit>10</systemLimit>
+		<customReactor maxLevel="40"/>
 	</mod-append:customShip>
 
 	<mod-append:ship name="PLAYER_SHIP_OG_KESTREL" b="false" c="false" >
@@ -573,6 +802,21 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 		</shipIcons>
 		<noFuelStalemate/>
 	</mod-append:customShip>
+	<mod-append:customShip name="OG_SLUG_BATTLECRUISER">
+		<shipIcons>
+			<shipIcon>icon_og_battlecruiser</shipIcon>
+		</shipIcons>
+	</mod-append:customShip>
+	<mod-append:customShip name="OG_CLAN_BATTLECRUISER">
+		<shipIcons>
+			<shipIcon>icon_og_battlecruiser</shipIcon>
+		</shipIcons>
+	</mod-append:customShip>
+	<mod-append:customShip name="OG_CRYSTAL_BATTLECRUISER">
+		<shipIcons>
+			<shipIcon>icon_og_battlecruiser</shipIcon>
+		</shipIcons>
+	</mod-append:customShip>
 </mod:findLike>
 
 <mod:findLike type="augments" limit="1" reverse="false">
@@ -601,23 +845,47 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 	<mod-append:aug name="EX_OG_TURRET_ADAPTIVE_LARGE">
 		<function name="UPG_OG_TURRET_ADAPTIVE_LARGE" value="1" useForReqs="false" warning="true"/>
 	</mod-append:aug>
+	<mod-append:aug name="EX_OG_TURRET_ADAPTIVE_2_LARGE">
+		<function name="UPG_OG_TURRET_ADAPTIVE_2_LARGE" value="1" useForReqs="false" warning="true"/>
+	</mod-append:aug>
+	<mod-append:aug name="EX_OG_TURRET_ADAPTIVE_SECONDARY">
+		<function name="UPG_OG_TURRET_ADAPTIVE_SECONDARY" value="1" useForReqs="false" warning="true"/>
+	</mod-append:aug>
 </mod:findLike>
 <events>
+	<eventFile>special_og_battlecruisers</eventFile>
+
 	<eventFile>sector_og_iron</eventFile>
 	<eventFile>sector_og_dawn</eventFile>
+	<variable name="og_test_variable" op="set" val="0"/>
+
 	<variable name="rep_og_iron" op="set" val="0"/>
 	<variable name="rep_og_dawn" op="set" val="0"/>
 	<variable name="rep_comb_og_iron" op="set" val="0"/>
 	<variable name="ach_trans_og_dawn" op="set" val="0"/>
+	
+	<variable name="ach_og_battlecruiser_slug" op="set" val="0"/>
+	<variable name="ach_og_battlecruiser_clan" op="set" val="0"/>
+	<variable name="ach_og_battlecruiser_crystal" op="set" val="0"/>
+	<!--variable name="ach_og_battlecruiser_federation" op="set" val="0"/-->
 
 	<variable name="sec_unique_og_dawn" op="set" val="0"/>
+	<variable name="og_turret_adaptive_can_install_second" val="0"/>
+	<variable name="og_turret_adaptive_can_install_single" val="0"/>
 	
 	<variable name="og_turret_adaptive_saved_x" op="set" val="0"/>
 	<variable name="og_turret_adaptive_saved_y" op="set" val="0"/>
 
+	<variable name="og_turret_adaptive_2_saved_x" op="set" val="0"/>
+	<variable name="og_turret_adaptive_2_saved_y" op="set" val="0"/>
+
+	<variable name="og_turret_adaptive_single_saved_x" op="set" val="0"/>
+	<variable name="og_turret_adaptive_single_saved_y" op="set" val="0"/>
+
 	<metaVariable name="juke_og_iron" op="set" val="0"/>
 	<metaVariable name="juke_og_dawn" op="set" val="0"/>
 	<metaVariable name="og_turret_tutorial" op="set" val="0"/>
+	<metaVariable name="og_turret_fab_tips" op="set" val="0"/>
 
 	<req name="OG_TURRET_TUTORIAL_SHOW" type="all">
 		<req type="any">
@@ -630,6 +898,8 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 			<name>og_turret_mini_3</name>
 			<name>og_turret_mini_4</name>
 			<name>og_turret_adaptive</name>
+			<name>og_turret_adaptive_2</name>
+			<name>og_turret_adaptive_single</name>
 			<name>og_turret_count</name>
 		</req>
 		<req lvl="0" max_lvl="0">
@@ -637,14 +907,65 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 		</req>
 	</req>
 
-	<req name="UPG_OG_TURRET_ADAPTIVE_SHOW" type="all">
+	<req name="UPG_OG_TURRET_ADAPTIVE_SHOW" type="any">
 		<name>og_turret_adaptive</name>
+		<name>og_turret_adaptive_single</name>
 	</req>
 
 	<req name="UPG_OG_TURRET_ADAPTIVE_BUY" type="all">
-		<name>og_turret_adaptive</name>
+		<req lvl="1" type="any">
+			<name>og_turret_adaptive</name>
+			<name>og_turret_adaptive_single</name>
+		</req>
 		<req lvl="1">
 			<name>UPG_OG_TURRET_ADAPTIVE_LARGE</name>
+		</req>
+	</req>
+
+	<req name="UPG_OG_TURRET_ADAPTIVE_2_SHOW" type="any">
+		<name>og_turret_adaptive_2</name>
+	</req>
+
+	<req name="UPG_OG_TURRET_ADAPTIVE_2_BUY" type="all">
+		<req lvl="1" type="any">
+			<name>og_turret_adaptive_2</name>
+		</req>
+		<req lvl="1">
+			<name>UPG_OG_TURRET_ADAPTIVE_2_LARGE</name>
+		</req>
+	</req>
+
+	<req name="UPG_OG_TURRET_ADAPTIVE_SECONDARY_SHOW" type="all">
+		<name>og_turret_adaptive</name>
+		<name>og_turret_adaptive_can_install_second</name>
+		<req lvl="0" max_lvl="0">
+			<name>UPG_OG_TURRET_ADAPTIVE_SECONDARY</name>
+		</req>
+	</req>
+
+	<req name="UPG_OG_TURRET_ADAPTIVE_SECONDARY_BUY" type="all">
+		<name>og_turret_adaptive</name>
+		<name>og_turret_adaptive_can_install_second</name>
+		<req lvl="1">
+			<name>UPG_OG_TURRET_ADAPTIVE_SECONDARY</name>
+		</req>
+	</req>
+
+	<req name="OG_EATMOTE_SINGLE_TURRET_ADD" type="all">
+		<name>og_turret_adaptive_can_install_single</name>
+		<req lvl="0" max_lvl="0" type="all">
+			<name>og_turret_adaptive_single</name>
+		</req>
+		<req lvl="0" max_lvl="0">
+			<name>drones</name>
+		</req>
+	</req>
+
+	<req name="OG_EATMOTE_SINGLE_TURRET_ADD_DRONE" type="all">
+		<name>og_turret_adaptive_can_install_single</name>
+		<name>drones</name>
+		<req lvl="0" max_lvl="0" type="all">
+			<name>og_turret_adaptive_single</name>
 		</req>
 	</req>
 
@@ -782,6 +1103,38 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 				<header>Loot Acquired</header>
 				<sound>achievement</sound>
 			</achievement>
+			<achievement name="ACH_OG_BATTLECRUISER_SLUG">
+				<name>Kleptocracy Battlecruiser</name>
+				<secretDescription>Obtain the loot turret from the Kleptocracy Battlecruiser.</secretDescription>
+				<description>Obtain the Irradiation Pinpoint Turret from the Kleptocracy Battlecruiser.</description>
+				<icon>ach_og_battlecruiser_slug</icon>
+				<header>Turret Acquired</header>
+				<sound>achievement</sound>
+			</achievement>
+			<achievement name="ACH_OG_BATTLECRUISER_CLAN">
+				<name>Guild Battlecruiser</name>
+				<secretDescription>Obtain the loot turret from the Guild Battlecruiser.</secretDescription>
+				<description>Obtain the Irradiation Laser Turret from the Guild Battlecruiser.</description>
+				<icon>ach_og_battlecruiser_clan</icon>
+				<header>Turret Acquired</header>
+				<sound>achievement</sound>
+			</achievement>
+			<achievement name="ACH_OG_BATTLECRUISER_CRYSTAL">
+				<name>Imperial Battlecruiser</name>
+				<secretDescription>Obtain the loot turret from the Imperial Battlecruiser.</secretDescription>
+				<description>Obtain the Shard Launcher Turret from the Imperial Battlecruiser.</description>
+				<icon>ach_og_battlecruiser_crystal</icon>
+				<header>Turret Acquired</header>
+				<sound>achievement</sound>
+			</achievement>
+			<!--achievement name="ACH_OG_BATTLECRUISER_FEDERATION">
+				<name>Federation Battlecruiser</name>
+				<secretDescription>Obtain the loot turret from the Federation Battlecruiser.</secretDescription>
+				<description>Obtain the Irradiation Pinpoint Turret from the Federation Battlecruiser.</description>
+				<icon>ach_og_battlecruiser_federation</icon>
+				<header>Turret Acquired</header>
+				<sound>achievement</sound>
+			</achievement-->
 			<achievement name="ACH_OG_REN_IRON">
 				<name>Turret Support</name>
 				<description>Defeat the Raider Class C Renegade and get the Light Charger Turret.</description>
@@ -805,6 +1158,7 @@ This enemy possesses New Dawn turrets, when hit by these, rooms will be temporar
 				<og_turret/>
 				<og_turret_2/>
 				<og_turret_adaptive/>
+				<og_turret_adaptive_single/>
 			</guaranteedSystems>
 			<item>
 				<blueprint>OG_SHOP_ITEM_TURRET_SYSTEMS</blueprint>

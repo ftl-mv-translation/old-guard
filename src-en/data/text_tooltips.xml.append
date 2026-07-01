@@ -21,23 +21,50 @@
 <text name="tooltip_og_turret_mini_4_enemy">Turret Control: Powers the enemy turret.</text>
 <text name="tooltip_og_turret_adaptive">Turret Control: Click on the turret to set its mode, or target it. Manning reduces charge time.</text>
 <text name="tooltip_og_turret_adaptive_enemy">Turret Control: Powers the enemy turret.</text>
+<text name="tooltip_og_turret_adaptive_2">Turret Control: Click on the turret to set its mode, or target it. Manning reduces charge time.</text>
+<text name="tooltip_og_turret_adaptive_2_enemy">Turret Control: Powers the enemy turret.</text>
+<text name="tooltip_og_turret_adaptive_single">Turret Control: Click on the turret to set its mode, or target it. Manning reduces charge time.</text>
+<text name="tooltip_og_turret_adaptive_single_enemy">Turret Control: Powers the enemy turret.</text>
 
+<text name="hack_og_turret">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_2">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_3">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_4">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_mini">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_mini_2">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_mini_3">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_mini_4">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_adaptive">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_adaptive_2">Temporarily drain charge from the enemy turret.</text>
+<text name="hack_og_turret_adaptive_single">Temporarily drain charge from the enemy turret.</text>
 
+<text name="hack_og_turret_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_2_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_3_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_4_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_mini_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_mini_2_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_mini_3_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_mini_4_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_adaptive_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_adaptive_2_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
+<text name="hack_og_turret_adaptive_single_player">SYSTEM HACKED: TURRET LOSING CHARGE.</text>
 
 <text name="og_lua_turret_stats_time">Stats:\nCharge Time: </text>
 <text name="og_lua_turret_stats_charges">\nMaximum Charges: %d</text>
 <text name="og_lua_turret_stats_amount">\nCharge Amount: %d</text>
-<text name="og_lua_turret_stats_ammo">\nMissile Consumption: %d</text>
+<text name="og_lua_turret_stats_ammo">\nMissile Consumption: %g</text>
 <text name="og_lua_turret_stats_chain">\nChain Effect: Reduces cooldown by %d%%</text>
 <text name="og_lua_turret_stats_chainCap">\nChain Reduction Cap: %d%% (%d chains)</text>
 <text name="og_lua_turret_stats_rotation">\n\nRotation Speed: %d</text>
 <text name="og_lua_turret_stats_radius">\nShot Radius: %d</text>
 <text name="og_lua_turret_stats_rate">\nFire Rate: </text>
+<text name="og_lua_turret_stats_autofire">\nBurst Fire Amount: Offence:%s/Defence:%s</text>
 <text name="og_lua_turret_stats_target">\nProjectile Target: %s</text>
 
 <text name="og_lua_turret_stats_damage">\nBase Hull Damage: %d</text>
 <text name="og_lua_turret_stats_sysDamage">\nTotal System Damage: %d</text>
-<text name="og_lua_turret_stats_persDamage">Total Crew Damage: %d</text>
+<text name="og_lua_turret_stats_persDamage">\nTotal Crew Damage: %d</text>
 <text name="og_lua_turret_stats_ionDamage">\nTotal Ion Damage: %d</text>
 <text name="og_lua_turret_stats_pierce">\nShield Piercing: %d</text>
 <text name="og_lua_turret_stats_hullBust">\nDoes 2x damage to systemless rooms</text>
@@ -52,8 +79,8 @@
 
 <text name="og_lua_turret_power_increase">Faster Charge Time</text>
 
-<text name="og_lua_turret_button_offence">Set the turret to offensive mode.</text>
-<text name="og_lua_turret_button_defence">Set the turret to defensive mode.</text>
+<text name="og_lua_turret_button_offence">Set the turret to defensive mode.</text>
+<text name="og_lua_turret_button_defence">Set the turret to offensive mode.</text>
 <text name="og_lua_turret_button_autoFire">Toggle to activate/deactivate turrets automatically firing.\n\nLEFT CTRL + AIM can force a turret to do the opposite of current setting</text>
 
 <text name="og_lua_turret_hover_charges">Charges: %d/%d</text>
@@ -68,7 +95,7 @@
 <text name="og_lua_turret_type_all">All Projectiles and Drones</text>
 
 <text name="og_lua_turret_craft_use">Use your %s</text>
-<text name="og_lua_turret_craft_use_scrap">Use your %s + $d~</text>
+<text name="og_lua_turret_craft_use_scrap">Use your %s + %d~</text>
 <text name="og_lua_turret_craft_finish">You follow the supplied blueprint and eventually come away with a new item.</text>
 <text name="og_lua_turret_craft_blueprint">Blueprint:</text>
 <text name="og_lua_turret_craft_mystery">???</text>
@@ -79,7 +106,41 @@
 <text name="og_lua_turret_craft_craft">Craft this item.</text>
 <text name="og_lua_turret_craft_unknown">Unknown Turret</text>
 
+<text name="og_lua_turret_manage_nevermind">Nevermind.</text>
+<text name="og_lua_turret_manage_uninstall">Uninstall Turret:</text>
+<text name="og_lua_turret_manage_empty">Manage Empty Turret.</text>
+<text name="og_lua_turret_manage_leave">Leave it empty.</text>
+<text name="og_lua_turret_manage_install">Install this:</text>
+
 <text name="og_lua_turret_fabricate">Can be used to fabricate:</text>
 <text name="og_lua_turret_fabricate_item">\n[%s]</text>
 <text name="og_lua_turret_fabricate_mystery">\n[???]</text>
+<text name="og_lua_turret_fabricate_hover">Can be fabricated into: </text>
+
+<text name="og_lua_turret_key_unset">Unset</text>
+<text name="og_lua_turret_key_current">Current key: </text>
+<text name="og_lua_turret_key_currently"> (currently is the \"%s\" key)</text>
+
+<text name="og_lua_turret_ach_valid">\nRebel Allegiance Achievement: Valid Run\nCurrent Ship Crew: Valid</text>
+<text name="og_lua_turret_ach_crew">\nRebel Allegiance Achievement: Valid Run\nCurrent Ship Crew: Invalid\nInvalid Crew:</text>
+<text name="og_lua_turret_ach_invalid">\nRebel Allegiance Achievement: Invalid Run</text>
+
+<text name="og_lua_turret_clone_cannon">Clone</text>
+
+<text name="og_lua_turret_rep_iron">Iron Watch Reputation</text>
+<text name="og_lua_turret_rep_dawn">New Dawn Reputation</text>
+
+<text name="og_lua_turret_hidename_ancient">Something Old...</text>
+<text name="og_lua_turret_hidename_clone_cannon">Something Ethically Dubious.</text>
+<text name="og_lua_turret_hidename_gatling">Unleash hell on your opposition!</text>
+<text name="og_lua_turret_hidename_prime_laser">Let it hit you and you're already dead.</text>
+<text name="og_lua_turret_hidename_prime_defense">Guardian Angel.</text>
+<text name="og_lua_turret_hidename_prime_combat">Angel of Vengeance.</text>
+<text name="og_lua_turret_hidename_scifi">REAL SCIENCE!</text>
+<text name="og_lua_turret_hidename_sylvan">You greedy, murdering traitor you.</text>
+<text name="og_lua_turret_hidename_sylvan_honor">Go kick some Rebel asses.</text>
+
+<text name="og_lua_turret_hidename_dd_soulplague">You're hungry for more turrets - the turrets are hungry for more... well, everything.</text>
+<text name="og_lua_turret_hidename_dd_falseradiance">And then, upon the eighth day... your enemies cried out, with an ardent voice - pleading for salvation. It would never come.</text>
+<text name="og_lua_turret_hidename_dd_darkgod">Things are getting a bit darker than you'd desire, aren't they?</text>
 </FTL>

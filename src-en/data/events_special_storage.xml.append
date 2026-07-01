@@ -21,6 +21,18 @@
 		<text>Reposition your Adaptive Turret Slot.</text>
 		<event name="OG_TURRET_ADAPTIVE_POSITION" />
 	</choice>
+	<choice req="og_turret_adaptive_2">
+		<text>Reposition your Secondary Adaptive Turret Slot.</text>
+		<event name="OG_TURRET_ADAPTIVE_2_POSITION" />
+	</choice>
+	<choice req="og_turret_adaptive_single">
+		<text>Reposition your Advanced Adaptive Turret Slot.</text>
+		<event name="OG_TURRET_ADAPTIVE_SINGLE_POSITION" />
+	</choice>
+	<choice req="UPG_OG_TURRET_ADAPTIVE_SECONDARY_SHOW" lvl="1" blue="true" hidden="true">
+		<text>Secondary Turret Control Upgrade. [Cost: 50~, 5|]</text>
+		<event load="STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY" />
+	</choice>
 </event>
 
 <event name="STORAGE_CHECK_OG_TURRET_INSTALL">
@@ -47,7 +59,7 @@
 </event>
 
 <event name="OG_CRAFT_MAIN_MENU">
-	<text>Available Blueprints.</text>
+	<text>Available Categories.</text>
 	<choice hidden="true">
 		<text>Nevermind.</text>
 		<event load="STORAGE_CHECK"/>
@@ -58,12 +70,16 @@
 	</choice-->
 </event>
 
-<event name="OG_CRAFT_CRAFT">
-	<text>Requires:</text>
-	<choice hidden="false">
+<event name="OG_CRAFT_CATEGORY_">
+	<text>Available Blueprints:</text>
+	<choice hidden="true">
 		<text>Nevermind.</text>
 		<event load="OG_CRAFT_MAIN_MENU_LOAD"/>
 	</choice>
+</event>
+
+<event name="OG_CRAFT_CRAFT">
+	<text>Requires:</text>
 </event>
 
 <event name="OG_CRAFT_CRAFT_STEP">
@@ -190,12 +206,28 @@
 		<event load="STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL" />
 	</choice>
 	<choice req="UPG_OG_TURRET_ADAPTIVE_BUY" lvl="1" max_group="3" blue="false" hidden="true">
-		<text>Expanded Circuitry. [ALREADY INSTALLED]</text>
+		<text>Hardpoint Retrofit. [ALREADY INSTALLED]</text>
 		<event load="OPTION_INVALID" />
 	</choice>
 	<choice req="UPG_OG_TURRET_ADAPTIVE_SHOW" lvl="1" max_group="3" blue="false" hidden="true">
-		<text>Expanded Circuitry. [Cost: 30~, 5|]</text>
+		<text>Hardpoint Retrofit. [Cost: 30~, 5|]</text>
 		<event load="STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE" />
+	</choice>
+	<choice req="UPG_OG_TURRET_ADAPTIVE_2_BUY" lvl="1" max_group="4" blue="false" hidden="true">
+		<text>Secondary Hardpoint Retrofit. [ALREADY INSTALLED]</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="UPG_OG_TURRET_ADAPTIVE_2_SHOW" lvl="1" max_group="4" blue="false" hidden="true">
+		<text>Secondary Hardpoint Retrofit. [Cost: 30~, 5|]</text>
+		<event load="STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE" />
+	</choice>
+	<choice req="UPG_OG_TURRET_ADAPTIVE_SECONDARY_BUY" lvl="1" max_group="5" blue="false" hidden="true">
+		<text>Secondary Turret Control. [ALREADY INSTALLED]</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="UPG_OG_TURRET_ADAPTIVE_SECONDARY_SHOW" lvl="1" max_group="5" blue="true" hidden="true">
+		<text>Secondary Turret Control. [Cost: 50~, 5|]</text>
+		<event load="STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY" />
 	</choice>
 	<choice>
 		<text>Nevermind.</text>
@@ -320,7 +352,7 @@
 </event>
 
 <event name="STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE">
-	<text>You are about to install the Expanded Circuitry upgrade.
+	<text>You are about to install the Hardpoint Retrofit upgrade.
 	[Effects: Expands the adaptive turret's slot to accept all sizes of turrets.]</text>
 	<choice max_group="0" blue="false" hidden="true">
 		<text>Perform the upgrade. [Cost: 30~, 5|]</text>
@@ -356,6 +388,91 @@
 	<variable name="loc_internal_upgrades" op="add" val="1" />
 	<hiddenAug>UPG_OG_TURRET_ADAPTIVE_LARGE</hiddenAug>
 	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE">
+	<text>You are about to install the Secondary Hardpoint Retrofit upgrade.
+	[Effects: Expands the secondary adaptive turret's slot to accept all sizes of turrets.]</text>
+	<choice max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 30~, 5|]</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="drones" min="-5" max="-5" />
+				<item type="scrap" min="-30" max="-30" />
+			</item_modify>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_OG_TURRET_ADAPTIVE_2_LARGE" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="EX_OG_TURRET_ADAPTIVE_2_LARGE" max_group="1" blue="false" hidden="true">
+		<text>Install the External Augment internally.</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<remove name="EX_OG_TURRET_ADAPTIVE_2_LARGE" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_OG_TURRET_ADAPTIVE_2_LARGE" />
+			</choice>
+		</event>
+	</choice>
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_OG_TURRET_ADAPTIVE_2_LARGE">
+	<variable name="loc_internal_upgrades" op="add" val="1" />
+	<hiddenAug>UPG_OG_TURRET_ADAPTIVE_2_LARGE</hiddenAug>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY">
+	<text>You are about to install the Secondary Turret Control upgrade.
+	[Effects: Installs a Secondary Adaptive Turret system in place of drone control, this new system does not consume a system slot.]</text>
+	<choice max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 50~, 5|]</text>
+		<event name="INSTALL_OG_TURRET_ADAPTIVE_SECONDARY_BEFORE">
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="drones" min="-5" max="-5" />
+				<item type="scrap" min="-50" max="-50" />
+			</item_modify>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_OG_TURRET_ADAPTIVE_SECONDARY" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="EX_OG_TURRET_ADAPTIVE_SECONDARY" max_group="1" blue="false" hidden="true">
+		<text>Install the External Augment internally.</text>
+		<event name="INSTALL_OG_TURRET_ADAPTIVE_SECONDARY_BEFORE_2">
+			<text>You install the upgrade.</text>
+			<remove name="EX_OG_TURRET_ADAPTIVE_SECONDARY" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_OG_TURRET_ADAPTIVE_SECONDARY" />
+			</choice>
+		</event>
+	</choice>
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_OG_TURRET_ADAPTIVE_SECONDARY">
+	<text>You install the system.</text>
+	<system name="og_turret_adaptive_2"/>
+	<variable name="loc_internal_upgrades" op="add" val="1" />
+	<hiddenAug>UPG_OG_TURRET_ADAPTIVE_SECONDARY</hiddenAug>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+		</event>
+	</choice>
 </event>
 
 <mod:findName type="event" name="COMBAT_CHECK_HOTKEYS">
@@ -424,6 +541,20 @@
 			<loadEvent>COMBAT_CHECK_TOGGLE</loadEvent>
 		</event>
 	</mod-append:choice>
+	<mod-append:choice req="og_turret_fab_tips" lvl="0" max_lvl="0" blue="false">
+		<text>Toggle turret fabrication tips. [Currently Enabled]</text>
+		<event>
+			<metaVariable name="og_turret_fab_tips" op="set" val="1" />
+			<loadEvent>COMBAT_CHECK_TOGGLE</loadEvent>
+		</event>
+	</mod-append:choice>
+	<mod-append:choice req="og_turret_fab_tips" lvl="1" blue="false">
+		<text>Toggle turret fabrication tips. [Currently Disabled]</text>
+		<event>
+			<metaVariable name="og_turret_fab_tips" op="set" val="0" />
+			<loadEvent>COMBAT_CHECK_TOGGLE</loadEvent>
+		</event>
+	</mod-append:choice>
 </mod:findName>
 
 <mod:findName type="event" name="STORAGE_CHECK_AUG">
@@ -480,8 +611,39 @@
 </event>
 <mod:findName type="event" name="STORAGE_CHECK_SYSTEM_TECH_SCRAMBLER">
 	<mod-append:choice hidden="true">
-		<text>[Additional Effects: Enemy Turrets are scrambled, making them far less accurate in defense].</text>
+		<text>[Additional Effects: Enemy Turrets are scrambled, making them far less accurate in defence].</text>
 		<event load="OPTION_INVALID" />
+	</mod-append:choice>
+</mod:findName>
+
+<event name="STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART_OG_TURRET_SINGLE_1">
+	<text>Thus was it done, and yet... your ship's power seems to radiate further, still...</text>
+	<system name="og_turret_adaptive_single"/>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART"/>
+	</choice>
+</event>
+
+<event name="STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART_OG_TURRET_SINGLE_2">
+	<text>Thus was it done, and yet... your ship's power seems to radiate further, still...</text>
+	<upgrade amount="1" system="og_turret_adaptive_single"/>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART"/>
+	</choice>
+</event>
+
+<mod:findName type="event" name="STORAGE_CHECK_JOB_FLEET">
+	<mod-append:choice hidden="true" req="OG_TURRET_LOOT_CRYSTAL_1" blue="true">
+        <text>Use your Shard Launcher Turret and additional missiles. [-5}, gives 1 delay, does not impact notoriety]</text>
+        <event>
+            <text>You rig the ammunition and set a trap for the Rebels. Fortunately, due to obscure legal loopholes, the use of this weapon isn't illegal, though it is very morally dubious.</text>
+            <modifyPursuit amount="-1"/>
+            <item_modify>
+                <item type="missiles" min="-5" max="-5"/>
+            </item_modify>
+        </event>
 	</mod-append:choice>
 </mod:findName>
 </FTL>
