@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-07-02 15:36+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"datatext_tooltipsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_tooltips.xml.append:2
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
@@ -249,8 +257,11 @@ msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_amount\"
 msgstr "\\nВыстрелов в очереди: %d"
 
 #: src-en/data/text_tooltips.xml.append:56
+#, fuzzy
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ammo\"]"
-msgstr "\\nПотребление боеголовок: %d"
+msgstr ""
+"\\n"
+"Потребление боеголовок: %d"
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chain\"]"
@@ -293,9 +304,12 @@ msgid ""
 msgstr "\\nУрон системам: %d"
 
 #: src-en/data/text_tooltips.xml.append:67
+#, fuzzy
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
-msgstr "\\nУрон экипажу: %d"
+msgstr ""
+"\\n"
+"Урон экипажу: %d"
 
 #: src-en/data/text_tooltips.xml.append:68
 msgid ""
@@ -408,6 +422,7 @@ msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use\"]"
 msgstr "Использовать %s"
 
 #: src-en/data/text_tooltips.xml.append:98
+#, fuzzy
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use_scrap\"]"
 msgstr "Использовать %s + $d~"
