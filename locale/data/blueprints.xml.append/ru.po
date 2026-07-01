@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-07-02 15:36+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -133,12 +133,16 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:95
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/desc"
 msgstr ""
-"Увеличивает слот Адаптивной турели, чтобы он подходил для турелей всех размеров.\n"
+"Увеличивает слот Адаптивной турели, чтобы он подходил для турелей всех "
+"размеров.\n"
 "\n"
-"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во внутреннюю версию из меню Встроенных улучшений, если у вас есть управление турелью."
+"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
+"но занимает слот модуля. Может быть бесплатно конвертировано во внутреннюю "
+"версию из меню Встроенных улучшений, если у вас есть управление турелью."
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
@@ -1451,6 +1455,7 @@ msgid ""
 msgstr "Облуч. лаз."
 
 #: src-en/data/blueprints.xml.append:2265
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CLAN_1\"]/desc"
 msgstr ""
