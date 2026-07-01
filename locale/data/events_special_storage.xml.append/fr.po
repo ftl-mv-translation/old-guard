@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-07-02 15:36+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_storagexmlappend/fr/>\n"
 "Language: fr\n"
@@ -74,6 +74,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:62
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/text"
 msgstr "Schémas disponibles."
@@ -84,10 +85,9 @@ msgid ""
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:74
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CATEGORY_\"]/text"
-msgstr "Schémas disponibles."
+msgstr "Schémas disponibles :"
 
 #: src-en/data/events_special_storage.xml.append:76
 msgid ""
