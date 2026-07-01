@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-07-02 15:36+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-old-guard/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -88,6 +95,7 @@ msgstr ""
 "\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:68
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/title"
 msgstr "扩展电路"
@@ -98,6 +106,7 @@ msgid ""
 msgstr "开发人员信息"
 
 #: src-en/data/blueprints.xml.append:76
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/title"
 msgstr "拓展电路[外]"
@@ -532,6 +541,7 @@ msgid ""
 msgstr "混沌充能↑"
 
 #: src-en/data/blueprints.xml.append:678
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/desc"
 msgstr ""
@@ -594,9 +604,12 @@ msgid ""
 msgstr "辐射激光。"
 
 #: src-en/data/blueprints.xml.append:763
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/desc"
-msgstr "这是一种特化型激光炮塔，能造成高额辐射伤害并瘫痪船员，但无法损伤舰船系统或船体。同时，它在防御角色中也极为出色，能有效拦截敌方的激光攻击。"
+msgstr ""
+"这是一种特化型激光炮塔，能造成高额辐射伤害并瘫痪船员，但无法损伤舰船系统或船"
+"体。同时，它在防御角色中也极为出色，能有效拦截敌方的激光攻击。"
 
 #: src-en/data/blueprints.xml.append:782
 msgid ""
@@ -714,9 +727,12 @@ msgid ""
 msgstr "密集离子。"
 
 #: src-en/data/blueprints.xml.append:934
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/desc"
-msgstr "离子炮塔能有效压制无人机并瘫痪系统，且不伤及船体。而此型号的充能与发射速度更是快得出奇。"
+msgstr ""
+"离子炮塔能有效压制无人机并瘫痪系统，且不伤及船体。而此型号的充能与发射速度更"
+"是快得出奇。"
 
 #: src-en/data/blueprints.xml.append:953
 msgid ""
@@ -1047,11 +1063,15 @@ msgid ""
 msgstr "☆黎明重型激光。"
 
 #: src-en/data/blueprints.xml.append:1424
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/desc"
 msgstr ""
-"重型激光炮塔由于转速慢、单发伤害高，因此作为防御炮塔表现不佳，但在攻击敌方舰船时极为出色。\n"
-"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害。"
+"重型激光炮塔由于转速慢、单发伤害高，因此作为防御炮塔表现不佳，但在攻击敌方舰"
+"船时极为出色。\n"
+"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤"
+"害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害"
+"。"
 
 #: src-en/data/blueprints.xml.append:1444
 msgid ""
@@ -1064,11 +1084,15 @@ msgid ""
 msgstr "☆火焰离子。"
 
 #: src-en/data/blueprints.xml.append:1446
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/desc"
 msgstr ""
-"离子炮塔能出色地压制无人机，并可瘫痪系统而不造成船体损伤。此外，此型号还能引燃其命中的系统。\n"
-"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害。"
+"离子炮塔能出色地压制无人机，并可瘫痪系统而不造成船体损伤。此外，此型号还能引"
+"燃其命中的系统。\n"
+"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤"
+"害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害"
+"。"
 
 #: src-en/data/blueprints.xml.append:1466
 #, fuzzy
@@ -1083,11 +1107,15 @@ msgid ""
 msgstr "☆四联导弹。"
 
 #: src-en/data/blueprints.xml.append:1468
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/desc"
 msgstr ""
-"虽充能缓慢，但能对敌舰造成高额伤害。此外，对抗敌方无人机和实体射弹时也表现不俗。\n"
-"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害。"
+"虽充能缓慢，但能对敌舰造成高额伤害。此外，对抗敌方无人机和实体射弹时也表现不"
+"俗。\n"
+"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤"
+"害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害"
+"。"
 
 #: src-en/data/blueprints.xml.append:1488
 msgid ""
@@ -1117,11 +1145,14 @@ msgid ""
 msgstr "☆光点"
 
 #: src-en/data/blueprints.xml.append:1512
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/desc"
 msgstr ""
 "光点炮塔因其近乎瞬杀的超快反应速度，在拦截敌方导弹时极为高效。\n"
-"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害。"
+"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤"
+"害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害"
+"。"
 
 #: src-en/data/blueprints.xml.append:1532
 msgid ""
@@ -1134,11 +1165,14 @@ msgid ""
 msgstr "☆微型激光。"
 
 #: src-en/data/blueprints.xml.append:1534
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/desc"
 msgstr ""
 "这款激光炮塔凭借高转速专精防御，但火力不足以单独应对敌舰。\n"
-"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害。"
+"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤"
+"害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害"
+"。"
 
 #: src-en/data/blueprints.xml.append:1554
 msgid ""
@@ -1151,11 +1185,15 @@ msgid ""
 msgstr "☆轻型激光。"
 
 #: src-en/data/blueprints.xml.append:1556
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
 msgstr ""
-"由于完全无法造成系统伤害，这款轻型激光炮塔更适合用于压制护盾与执行防御任务。\n"
-"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害。"
+"由于完全无法造成系统伤害，这款轻型激光炮塔更适合用于压制护盾与执行防御任务"
+"。\n"
+"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤"
+"害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害"
+"。"
 
 #: src-en/data/blueprints.xml.append:1576
 msgid ""
@@ -1168,11 +1206,15 @@ msgid ""
 msgstr "☆微型光点。"
 
 #: src-en/data/blueprints.xml.append:1578
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/desc"
 msgstr ""
-"这款小型光点炮塔虽然需要支援才能对敌舰造成伤害，但在对抗敌方导弹时依然能力出众。\n"
-"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害。"
+"这款小型光点炮塔虽然需要支援才能对敌舰造成伤害，但在对抗敌方导弹时依然能力出"
+"众。\n"
+"而其新黎明变体在击中敌方房间时，会为其附加一个“系统易伤”状态（受到的系统伤"
+"害+1）。但需注意，己方装备了该变体的炮塔系统被击中时，也会承受同样的额外伤害"
+"。"
 
 #: src-en/data/blueprints.xml.append:1602
 msgid ""
@@ -2116,9 +2158,12 @@ msgid ""
 msgstr "烈印号"
 
 #: src-en/data/blueprints.xml.append:4612
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/desc"
-msgstr "这艘船武装到牙齿，完全为战斗而生。作为叛军设计的产物，它利用畸形体消除了对氧气的需求，并以医疗无人机取代了传统的医疗系统。"
+msgstr ""
+"这艘船武装到牙齿，完全为战斗而生。作为叛军设计的产物，它利用畸形体消除了对氧"
+"气的需求，并以医疗无人机取代了传统的医疗系统。"
 
 #: src-en/data/blueprints.xml.append:4696
 msgid ""
