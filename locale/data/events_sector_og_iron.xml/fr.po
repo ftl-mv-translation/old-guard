@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-07-02 15:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_sector_og_ironxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_og_iron.xml:10
 msgid ""
@@ -586,6 +593,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_og_iron.xml:512
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/text"
 msgstr ""
@@ -597,6 +605,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_og_iron.xml:517
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/text"
 msgstr "Vous remplissez votre réservoir, puis allez au marché."
@@ -612,6 +621,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_og_iron.xml:531
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/text"
 msgstr "Vous remplissez votre réservoir, puis allez au marché."
@@ -627,6 +637,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_og_iron.xml:545
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
 msgstr "Vous remplissez votre réservoir, puis allez au marché."
