@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-07-02 15:36+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -86,6 +86,7 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:74
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CATEGORY_\"]/text"
 msgstr "Доступные чертежи."
@@ -509,6 +510,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:436
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY\"]/choice[1]/text"
 msgstr "Установить улучшение. [Цена: 30~, 5|]"
