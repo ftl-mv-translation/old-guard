@@ -757,91 +757,91 @@ msgstr ""
 #: src-en/data/events_sector_og_dawn.xml:691
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/text"
+" and @lvl=\"1\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:693
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/text"
+" and @lvl=\"1\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:698
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[1]/text"
+" and @lvl=\"1\"]/event/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:700
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[1]/event/text"
+" and @lvl=\"1\"]/event/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:709
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+" and @lvl=\"1\"]/event/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_og_dawn.xml:715
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[2]/text"
+" and @lvl=\"1\"]/event/choice[2]/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:717
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[2]/event/text"
+" and @lvl=\"1\"]/event/choice[2]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:726
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[2]/event/choice/text"
+" and @lvl=\"1\"]/event/choice[2]/event/choice/text"
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_og_dawn.xml:732
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[3]/text"
+" and @lvl=\"1\"]/event/choice[3]/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:734
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[3]/event/text"
+" and @lvl=\"1\"]/event/choice[3]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:742
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[3]/event/choice/text"
+" and @lvl=\"1\"]/event/choice[3]/event/choice/text"
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_og_dawn.xml:748
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/text"
+" and @lvl=\"1\"]/event/choice[4]/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:750
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/event/text"
+" and @lvl=\"1\"]/event/choice[4]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_og_dawn.xml:752
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/event/choice[1]/text"
+" and @lvl=\"1\"]/event/choice[4]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
 #: src-en/data/events_sector_og_dawn.xml:756
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/event/choice[2]/text"
+" and @lvl=\"1\"]/event/choice[4]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
 #: src-en/data/events_sector_og_dawn.xml:764

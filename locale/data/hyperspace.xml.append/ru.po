@@ -1,84 +1,82 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-28 20:19+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
-"datahyperspace-xml-append/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
 
-#: src-en/data/hyperspace.xml.append:111
+#: src-en/data/hyperspace.xml.append:133
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
 "РАЗОГНАННЫЕ МОТОРЫ:\n"
 "Вражеские турели вращаются на 100% быстрее."
 
-#: src-en/data/hyperspace.xml.append:116
+#: src-en/data/hyperspace.xml.append:138
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "ОТРАЖАЮЩЕЕ ПОКРЫТИЕ:\n"
 "Уменьшает урон от лучей, попадающих в этот корабль, в два раза, округляя в меньшую сторону, но не ниже 1."
 
-#: src-en/data/hyperspace.xml.append:121
+#: src-en/data/hyperspace.xml.append:143
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
 "ПРЕДЗАЖИГАТЕЛЬ ТУРЕЛИ:\n"
 "Турели этого врага будут полностью заряжены в начале боя."
 
-#: src-en/data/hyperspace.xml.append:126
+#: src-en/data/hyperspace.xml.append:148
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
 "ПРЕДВАРИТЕЛЬНОЕ ПИТАНИЕ ТУРЕЛИ:\n"
 "Турели этого врага будут наполовину заряжены в начале боя."
 
-#: src-en/data/hyperspace.xml.append:131
+#: src-en/data/hyperspace.xml.append:153
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[4]/mod:findLike[1]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
 "ТУРЕЛИ НОВОГО РАССВЕТА:\n"
 "Этот враг обладает турелями Нового рассвета. При попадании турели по помещению оно временно становится уязвимым и получает +1 к повреждению системы. Однако эти турели также делают уязвимыми собственные системы."
 
-#: src-en/data/hyperspace.xml.append:177
+#: src-en/data/hyperspace.xml.append:158
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
+"append:shipIcon[6]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:207
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/name"
 msgstr "Военная экономика"
 
-#: src-en/data/hyperspace.xml.append:178
+#: src-en/data/hyperspace.xml.append:208
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/description"
 msgstr "На корабле класса \"Рейдер\" создайте свою собственную новую турель."
 
-#: src-en/data/hyperspace.xml.append:183
+#: src-en/data/hyperspace.xml.append:213
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/name"
 msgstr "Наступая на гремучую змею"
 
-#: src-en/data/hyperspace.xml.append:184
+#: src-en/data/hyperspace.xml.append:214
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/description"
 msgstr "Уничтожьте корабль Нового рассвета на судне класса \"Рейдер\"."
 
-#: src-en/data/hyperspace.xml.append:189
+#: src-en/data/hyperspace.xml.append:219
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/name"
 msgstr "Тяжелый подъем"
 
-#: src-en/data/hyperspace.xml.append:190
+#: src-en/data/hyperspace.xml.append:220
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/description"
 msgstr ""
@@ -86,80 +84,110 @@ msgstr ""
 "систему или контроля дронов (или не модернизируя их в качестве стартовых "
 "систем корабля)."
 
-#: src-en/data/hyperspace.xml.append:252
+#: src-en/data/hyperspace.xml.append:272
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_1\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:273
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_1\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:278
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:279
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:284
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:285
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:475
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_1\"]/name"
 msgstr "Точечная защита"
 
-#: src-en/data/hyperspace.xml.append:253
+#: src-en/data/hyperspace.xml.append:476
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_1\"]/description"
 msgstr "Сбейте 5 снарядов или дронов за один бой на корабле класса \"Острие\"."
 
-#: src-en/data/hyperspace.xml.append:258
+#: src-en/data/hyperspace.xml.append:481
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/name"
 msgstr "Перебежчик"
 
-#: src-en/data/hyperspace.xml.append:259
+#: src-en/data/hyperspace.xml.append:482
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/description"
 msgstr ""
 "Доберитесь до сектора 8 без прыжка к новому маяку с единственным членом "
 "экипажа, не являющимся человеком, на борту корабля класса \"Острие\"."
 
-#: src-en/data/hyperspace.xml.append:264
+#: src-en/data/hyperspace.xml.append:487
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/name"
 msgstr "Комбо-брейкер"
 
-#: src-en/data/hyperspace.xml.append:265
+#: src-en/data/hyperspace.xml.append:488
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/description"
 msgstr ""
 "На корабле класса \"Острие\": 6 раз вызовите бонусное повреждение систем "
 "турелью Нового рассвета в рамках одного применения эффекта."
 
-#: src-en/data/hyperspace.xml.append:315
+#: src-en/data/hyperspace.xml.append:541
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_1\"]/name"
 msgstr "Троянский конь"
 
-#: src-en/data/hyperspace.xml.append:316
+#: src-en/data/hyperspace.xml.append:542
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_1\"]/description"
 msgstr "На судне класса \"Колосс\", заполните все места для экипажа."
 
-#: src-en/data/hyperspace.xml.append:321
+#: src-en/data/hyperspace.xml.append:547
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_2\"]/name"
 msgstr "Одновременная атака"
 
-#: src-en/data/hyperspace.xml.append:322
+#: src-en/data/hyperspace.xml.append:548
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_2\"]/description"
 msgstr ""
 "На корабле класса \"Колосс\": установите одинаковые турели во всех слотах "
 "для турелей."
 
-#: src-en/data/hyperspace.xml.append:327
+#: src-en/data/hyperspace.xml.append:553
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_3\"]/name"
 msgstr "Это моя винтовка, это мое оружие!"
 
-#: src-en/data/hyperspace.xml.append:328
+#: src-en/data/hyperspace.xml.append:554
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_3\"]/description"
 msgstr ""
 "На корабле класса \"Колосс\": улучшите все свои большие турели до 5-й "
 "мощности."
 
-#: src-en/data/hyperspace.xml.append:719
+#: src-en/data/hyperspace.xml.append:1040
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/buttonText"
 msgstr "МАСКИРОВКА"
 
-#: src-en/data/hyperspace.xml.append:720
+#: src-en/data/hyperspace.xml.append:1041
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/tooltip"
 msgstr ""
@@ -174,98 +202,158 @@ msgstr ""
 "\t\t\t\t\t-Ремонт - 0.75x\n"
 "\t\t\t\t\t-Перемещение - 0.25x"
 
-#: src-en/data/hyperspace.xml.append:758
+#: src-en/data/hyperspace.xml.append:1079
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[7]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:page/section/@text"
 msgstr "The Old Guard"
 
-#: src-en/data/hyperspace.xml.append:760
+#: src-en/data/hyperspace.xml.append:1081
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_IRON\"]/name"
 msgstr "Железный дозор"
 
-#: src-en/data/hyperspace.xml.append:769
+#: src-en/data/hyperspace.xml.append:1090
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_DAWN\"]/name"
 msgstr "Новый рассвет"
 
-#: src-en/data/hyperspace.xml.append:778
+#: src-en/data/hyperspace.xml.append:1099
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/name"
 msgstr "Транспорт Нового рассвета"
 
-#: src-en/data/hyperspace.xml.append:779
+#: src-en/data/hyperspace.xml.append:1100
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/secretDescription"
 msgstr "Получите прототип с транспорта Нового рассвета."
 
-#: src-en/data/hyperspace.xml.append:780
+#: src-en/data/hyperspace.xml.append:1101
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/description"
 msgstr ""
 "Получите Пронзающий лазер мод. I из транспорта с прототипами Нового "
 "рассвета."
 
-#: src-en/data/hyperspace.xml.append:782
+#: src-en/data/hyperspace.xml.append:1103
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/header"
 msgstr "Прототип получен"
 
-#: src-en/data/hyperspace.xml.append:786
+#: src-en/data/hyperspace.xml.append:1107
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1108
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1109
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1111
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1115
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1116
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1117
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1119
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1123
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1124
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1125
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1127
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1139
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/name"
 msgstr "Поддержка турели"
 
-#: src-en/data/hyperspace.xml.append:787
+#: src-en/data/hyperspace.xml.append:1140
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/description"
 msgstr "Победите Ренегатов класса \"Рейдер\" В и получите легкую зарядную турель."
 
-#: src-en/data/hyperspace.xml.append:789
+#: src-en/data/hyperspace.xml.append:1142
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/header"
 msgstr "Ренегат побежден"
 
-#: src-en/data/hyperspace.xml.append:803
+#: src-en/data/hyperspace.xml.append:1156
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[7]/mod:findLike/mod-"
 "append:category/customTitle"
 msgstr "СИСТЕМЫ ТУРЕЛЕЙ"
 
-#: src-en/data/hyperspace.xml.append:843
+#: src-en/data/hyperspace.xml.append:1197
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[1]/customTitle"
 msgstr "ОРУЖИЕ ДНЯ [СКИДКА 33%]"
 
-#: src-en/data/hyperspace.xml.append:863
+#: src-en/data/hyperspace.xml.append:1217
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[2]/customTitle"
 msgstr "ДРОНЫ ДНЯ [СКИДКА 33%]"
 
-#: src-en/data/hyperspace.xml.append:883
+#: src-en/data/hyperspace.xml.append:1237
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[3]/customTitle"
 msgstr "МОДУЛИ ДНЯ [СКИДКА 33%]"
 
-#: src-en/data/hyperspace.xml.append:903
+#: src-en/data/hyperspace.xml.append:1257
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[4]/customTitle"
 msgstr "ТУРЕЛИ"
 
-#: src-en/data/hyperspace.xml.append:936
+#: src-en/data/hyperspace.xml.append:1290
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[8]/customTitle"
 msgstr "ЭКИПАЖ"
 
-#: src-en/data/hyperspace.xml.append:944
+#: src-en/data/hyperspace.xml.append:1298
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[9]/customTitle"
 msgstr "ОСНОВНЫЕ СИСТЕМЫ"
 
-#: src-en/data/hyperspace.xml.append:962
+#: src-en/data/hyperspace.xml.append:1316
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:customStore/category[10]/customTitle"
 msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"

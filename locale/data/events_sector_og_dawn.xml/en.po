@@ -901,13 +901,13 @@ msgstr ""
 #: src-en/data/events_sector_og_dawn.xml:691
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/text"
+" and @lvl=\"1\"]/text"
 msgstr "Contact the transport."
 
 #: src-en/data/events_sector_og_dawn.xml:693
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/text"
+" and @lvl=\"1\"]/event/text"
 msgstr ""
 "\"A Federation Renagade? I didn't think I'd see your kind around here, worry not there are no rebels around, we do not have to be enemies.\"\n"
 "The Captain of the transport pauses, thinking on something.\n"
@@ -917,13 +917,13 @@ msgstr ""
 #: src-en/data/events_sector_og_dawn.xml:698
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[1]/text"
+" and @lvl=\"1\"]/event/choice[1]/text"
 msgstr "Request one of their soldiers in exchange for supplies."
 
 #: src-en/data/events_sector_og_dawn.xml:700
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[1]/event/text"
+" and @lvl=\"1\"]/event/choice[1]/event/text"
 msgstr ""
 "You dock with the transport and hand over the supplies, you're greeted by "
 "your new crew member, \"To be honest I always wanted to work on a real war "
@@ -932,19 +932,19 @@ msgstr ""
 #: src-en/data/events_sector_og_dawn.xml:709
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+" and @lvl=\"1\"]/event/choice[1]/event/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_sector_og_dawn.xml:715
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[2]/text"
+" and @lvl=\"1\"]/event/choice[2]/text"
 msgstr "Request one of their turrets in exchange for supplies."
 
 #: src-en/data/events_sector_og_dawn.xml:717
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[2]/event/text"
+" and @lvl=\"1\"]/event/choice[2]/event/text"
 msgstr ""
 "You dock with the transport and hand over the supplies, you're greeted by "
 "the transport's Captain, \"You know, those rebels really made the Federation"
@@ -953,13 +953,13 @@ msgstr ""
 #: src-en/data/events_sector_og_dawn.xml:726
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[2]/event/choice/text"
+" and @lvl=\"1\"]/event/choice[2]/event/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_sector_og_dawn.xml:732
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[3]/text"
+" and @lvl=\"1\"]/event/choice[3]/text"
 msgstr ""
 "Request they put in good word for you with the rest of the New Dawn in "
 "exchange for supplies."
@@ -967,7 +967,7 @@ msgstr ""
 #: src-en/data/events_sector_og_dawn.xml:734
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[3]/event/text"
+" and @lvl=\"1\"]/event/choice[3]/event/text"
 msgstr ""
 "You dock with the transport and hand over the supplies, you're greeted by "
 "the transport's Captain, \"You know, those rebels really made the Federation"
@@ -976,31 +976,31 @@ msgstr ""
 #: src-en/data/events_sector_og_dawn.xml:742
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[3]/event/choice/text"
+" and @lvl=\"1\"]/event/choice[3]/event/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_sector_og_dawn.xml:748
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/text"
+" and @lvl=\"1\"]/event/choice[4]/text"
 msgstr "\"Sorry we can't spare any extra supplies.\""
 
 #: src-en/data/events_sector_og_dawn.xml:750
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/event/text"
+" and @lvl=\"1\"]/event/choice[4]/event/text"
 msgstr "You wish them luck and prepare for your next jump."
 
 #: src-en/data/events_sector_og_dawn.xml:752
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/event/choice[1]/text"
+" and @lvl=\"1\"]/event/choice[4]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
 #: src-en/data/events_sector_og_dawn.xml:756
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
-" and @lvl=\"0\"]/event/choice[4]/event/choice[2]/text"
+" and @lvl=\"1\"]/event/choice[4]/event/choice[2]/text"
 msgstr "Do nothing."
 
 #: src-en/data/events_sector_og_dawn.xml:764

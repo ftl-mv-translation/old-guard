@@ -41,21 +41,57 @@ msgstr ""
 "作为新黎明的一处军事据点，他们在与铁幕守望的战斗中既缺补给也少盟友。尽管部分新黎明成员表示反对，他们已转而向叛军寻求帮助。"
 
 #: src-en/data/text_events.xml.append:28
+msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_battlecruiser\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:30
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_iron\"]"
 msgstr "商店 [铁幕守望]"
 
-#: src-en/data/text_events.xml.append:29
+#: src-en/data/text_events.xml.append:31
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_dawn\"]"
 msgstr "商店 [新黎明]"
 
-#: src-en/data/text_events.xml.append:30
+#: src-en/data/text_events.xml.append:32
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_ship\"]"
 msgstr ""
 
-#: src-en/data/text_events.xml.append:31
+#: src-en/data/text_events.xml.append:33
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_base\"]"
 msgstr ""
 
-#: src-en/data/text_events.xml.append:32
+#: src-en/data/text_events.xml.append:34
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_vault\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:36
+msgid ""
+"data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_none_original\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:37
+msgid ""
+"data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_drone_original\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:38
+msgid ""
+"data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_drone\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:39
+msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:40
+msgid ""
+"data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_1_drone\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:41
+msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:42
+msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_3\"]"
 msgstr ""

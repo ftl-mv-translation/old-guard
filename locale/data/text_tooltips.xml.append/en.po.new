@@ -1,0 +1,593 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_tooltips.xml.append:2
+msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
+msgstr "Tip: Turrets have to be equiped to the Turret Control system."
+
+#: src-en/data/text_tooltips.xml.append:3
+msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_mini\"]"
+msgstr ""
+"Tip: Turrets have to be equiped to the Turret Control system. Micro turrets "
+"can be equiped on both small and large turret slots."
+
+#: src-en/data/text_tooltips.xml.append:4
+msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_base\"]"
+msgstr ""
+"Tip: Turret bases can be used in place of a defence drone during turret "
+"manufacturing."
+
+#: src-en/data/text_tooltips.xml.append:6
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret\"]"
+msgstr ""
+"Turret Control: Click on the turret to set its mode, or target it. Manning "
+"reduces charge time."
+
+#: src-en/data/text_tooltips.xml.append:7
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:8
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_2\"]"
+msgstr ""
+"Turret Control: Click on the turret to set its mode, or target it. Manning "
+"reduces charge time."
+
+#: src-en/data/text_tooltips.xml.append:9
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_2_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:10
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_3\"]"
+msgstr ""
+"Turret Control: Click on the turret to set its mode, or target it. Manning "
+"reduces charge time."
+
+#: src-en/data/text_tooltips.xml.append:11
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_3_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:12
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_4\"]"
+msgstr ""
+"Turret Control: Click on the turret to set its mode, or target it. Manning "
+"reduces charge time."
+
+#: src-en/data/text_tooltips.xml.append:13
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_4_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:14
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini\"]"
+msgstr "Turret Control: Click on the turret to set its mode, or target it."
+
+#: src-en/data/text_tooltips.xml.append:15
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:16
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2\"]"
+msgstr "Turret Control: Click on the turret to set its mode, or target it."
+
+#: src-en/data/text_tooltips.xml.append:17
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:18
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3\"]"
+msgstr "Turret Control: Click on the turret to set its mode, or target it."
+
+#: src-en/data/text_tooltips.xml.append:19
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:20
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4\"]"
+msgstr "Turret Control: Click on the turret to set its mode, or target it."
+
+#: src-en/data/text_tooltips.xml.append:21
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:22
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive\"]"
+msgstr ""
+"Turret Control: Click on the turret to set its mode, or target it. Manning "
+"reduces charge time."
+
+#: src-en/data/text_tooltips.xml.append:23
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:24
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_2\"]"
+msgstr ""
+"Turret Control: Click on the turret to set its mode, or target it. Manning "
+"reduces charge time."
+
+#: src-en/data/text_tooltips.xml.append:25
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_2_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:26
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_single\"]"
+msgstr ""
+"Turret Control: Click on the turret to set its mode, or target it. Manning "
+"reduces charge time."
+
+#: src-en/data/text_tooltips.xml.append:27
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_single_enemy\"]"
+msgstr "Turret Control: Powers the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:29
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:30
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_2\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:31
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_3\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:32
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_4\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:33
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:34
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_2\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:35
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_3\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:36
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_4\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:37
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:38
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_2\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:39
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_single\"]"
+msgstr "Temporarily drain charge from the enemy turret."
+
+#: src-en/data/text_tooltips.xml.append:41
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:42
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_2_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:43
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_3_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:44
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_4_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:45
+msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:46
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_2_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:47
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_3_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:48
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_4_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:49
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:50
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_2_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:51
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_single_player\"]"
+msgstr "SYSTEM HACKED: TURRET LOSING CHARGE."
+
+#: src-en/data/text_tooltips.xml.append:53
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_time\"]"
+msgstr "Stats:\\nCharge Time:"
+
+#: src-en/data/text_tooltips.xml.append:54
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_charges\"]"
+msgstr "\\nMaximum Charges: %d"
+
+#: src-en/data/text_tooltips.xml.append:55
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_amount\"]"
+msgstr "\\nCharge Amount: %d"
+
+#: src-en/data/text_tooltips.xml.append:56
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ammo\"]"
+msgstr "\\nMissile Consumption: %g"
+
+#: src-en/data/text_tooltips.xml.append:57
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chain\"]"
+msgstr "\\nChain Effect: Reduces cooldown by %d%%"
+
+#: src-en/data/text_tooltips.xml.append:58
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chainCap\"]"
+msgstr "\\nChain Reduction Cap: %d%% (%d chains)"
+
+#: src-en/data/text_tooltips.xml.append:59
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rotation\"]"
+msgstr "\\n\\nRotation Speed: %d"
+
+#: src-en/data/text_tooltips.xml.append:60
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_radius\"]"
+msgstr "\\nShot Radius: %d"
+
+#: src-en/data/text_tooltips.xml.append:61
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rate\"]"
+msgstr "\\nFire Rate:"
+
+#: src-en/data/text_tooltips.xml.append:62
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_autofire\"]"
+msgstr "\\nBurst Fire Amount: Offence:%s/Defence:%s"
+
+#: src-en/data/text_tooltips.xml.append:63
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_target\"]"
+msgstr "\\nProjectile Target: %s"
+
+#: src-en/data/text_tooltips.xml.append:65
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_damage\"]"
+msgstr "\\nBase Hull Damage: %d"
+
+#: src-en/data/text_tooltips.xml.append:66
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_sysDamage\"]"
+msgstr "\\nTotal System Damage: %d"
+
+#: src-en/data/text_tooltips.xml.append:67
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
+msgstr "\\nTotal Crew Damage: %d"
+
+#: src-en/data/text_tooltips.xml.append:68
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ionDamage\"]"
+msgstr "\\nTotal Ion Damage: %d"
+
+#: src-en/data/text_tooltips.xml.append:69
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_pierce\"]"
+msgstr "\\nShield Piercing: %d"
+
+#: src-en/data/text_tooltips.xml.append:70
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_hullBust\"]"
+msgstr "\\nDoes 2x damage to systemless rooms"
+
+#: src-en/data/text_tooltips.xml.append:71
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_lockdown\"]"
+msgstr "\\nLocks down rooms on hit"
+
+#: src-en/data/text_tooltips.xml.append:73
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_fireChance\"]"
+msgstr "\\nFire Chance: %d%%"
+
+#: src-en/data/text_tooltips.xml.append:74
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_breachChance\"]"
+msgstr "\\nBreach Chance: %d%% (Adjusted: %d%%)"
+
+#: src-en/data/text_tooltips.xml.append:75
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_stunChance\"]"
+msgstr "\\nStun Chance: %d%% (%d seconds long)"
+
+#: src-en/data/text_tooltips.xml.append:76
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_effect\"]"
+msgstr "\\nEffect Duration: %d seconds long"
+
+#: src-en/data/text_tooltips.xml.append:78
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price\"]"
+msgstr "\\n\\nDefault Price: %d~   -   Selling Price: %d~"
+
+#: src-en/data/text_tooltips.xml.append:80
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_power_increase\"]"
+msgstr "Faster Charge Time"
+
+#: src-en/data/text_tooltips.xml.append:82
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_offence\"]"
+msgstr "Set the turret to defensive mode."
+
+#: src-en/data/text_tooltips.xml.append:83
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_defence\"]"
+msgstr "Set the turret to offensive mode."
+
+#: src-en/data/text_tooltips.xml.append:84
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_autoFire\"]"
+msgstr ""
+"Toggle to activate/deactivate turrets automatically firing.\\n\\nLEFT CTRL +"
+" AIM can force a turret to do the opposite of current setting"
+
+#: src-en/data/text_tooltips.xml.append:86
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_charges\"]"
+msgstr "Charges: %d/%d"
+
+#: src-en/data/text_tooltips.xml.append:87
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_time\"]"
+msgstr "\\nCharge Time: %.1f/%.1f"
+
+#: src-en/data/text_tooltips.xml.append:89
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones\"]"
+msgstr "Drones"
+
+#: src-en/data/text_tooltips.xml.append:90
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_missiles\"]"
+msgstr "All Solid Projectiles"
+
+#: src-en/data/text_tooltips.xml.append:91
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_missiles\"]"
+msgstr "All Solid Projectiles and Drones"
+
+#: src-en/data/text_tooltips.xml.append:92
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles\"]"
+msgstr "Non-Solid Projectiles"
+
+#: src-en/data/text_tooltips.xml.append:93
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_projectiles\"]"
+msgstr "Non-Solid Projectiles and Drones"
+
+#: src-en/data/text_tooltips.xml.append:94
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles_missiles\"]"
+msgstr "All Projectiles"
+
+#: src-en/data/text_tooltips.xml.append:95
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_all\"]"
+msgstr "All Projectiles and Drones"
+
+#: src-en/data/text_tooltips.xml.append:97
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use\"]"
+msgstr "Use your %s"
+
+#: src-en/data/text_tooltips.xml.append:98
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use_scrap\"]"
+msgstr "Use your %s + %d~"
+
+#: src-en/data/text_tooltips.xml.append:99
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_finish\"]"
+msgstr ""
+"You follow the supplied blueprint and eventually come away with a new item."
+
+#: src-en/data/text_tooltips.xml.append:100
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_blueprint\"]"
+msgstr "Blueprint:"
+
+#: src-en/data/text_tooltips.xml.append:101
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_mystery\"]"
+msgstr "???"
+
+#: src-en/data/text_tooltips.xml.append:102
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_requires\"]"
+msgstr "%s Requires:"
+
+#: src-en/data/text_tooltips.xml.append:103
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_atleast\"]"
+msgstr "\\n  Atleast %d:"
+
+#: src-en/data/text_tooltips.xml.append:104
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list\"]"
+msgstr "\\n    %s"
+
+#: src-en/data/text_tooltips.xml.append:105
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list_scrap\"]"
+msgstr "\\n    %s + %d~"
+
+#: src-en/data/text_tooltips.xml.append:106
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_craft\"]"
+msgstr "Craft this item."
+
+#: src-en/data/text_tooltips.xml.append:107
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_unknown\"]"
+msgstr "Unknown Turret"
+
+#: src-en/data/text_tooltips.xml.append:109
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_nevermind\"]"
+msgstr "Nevermind."
+
+#: src-en/data/text_tooltips.xml.append:110
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_uninstall\"]"
+msgstr "Uninstall Turret:"
+
+#: src-en/data/text_tooltips.xml.append:111
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_empty\"]"
+msgstr "Manage Empty Turret."
+
+#: src-en/data/text_tooltips.xml.append:112
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_leave\"]"
+msgstr "Leave it empty."
+
+#: src-en/data/text_tooltips.xml.append:113
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_install\"]"
+msgstr "Install this:"
+
+#: src-en/data/text_tooltips.xml.append:115
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate\"]"
+msgstr "Can be used to fabricate:"
+
+#: src-en/data/text_tooltips.xml.append:116
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_item\"]"
+msgstr "\\n[%s]"
+
+#: src-en/data/text_tooltips.xml.append:117
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_mystery\"]"
+msgstr "\\n[???]"
+
+#: src-en/data/text_tooltips.xml.append:118
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_hover\"]"
+msgstr "Can be fabricated into:"
+
+#: src-en/data/text_tooltips.xml.append:120
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_unset\"]"
+msgstr "Unset"
+
+#: src-en/data/text_tooltips.xml.append:121
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_current\"]"
+msgstr "Current key:"
+
+#: src-en/data/text_tooltips.xml.append:122
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_currently\"]"
+msgstr "(currently is the \\\"%s\\\" key)"
+
+#: src-en/data/text_tooltips.xml.append:124
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_valid\"]"
+msgstr "\\nRebel Allegiance Achievement: Valid Run\\nCurrent Ship Crew: Valid"
+
+#: src-en/data/text_tooltips.xml.append:125
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_crew\"]"
+msgstr ""
+"\\nRebel Allegiance Achievement: Valid Run\\nCurrent Ship Crew: "
+"Invalid\\nInvalid Crew:"
+
+#: src-en/data/text_tooltips.xml.append:126
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_invalid\"]"
+msgstr "\\nRebel Allegiance Achievement: Invalid Run"
+
+#: src-en/data/text_tooltips.xml.append:128
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_clone_cannon\"]"
+msgstr "Clone"
+
+#: src-en/data/text_tooltips.xml.append:130
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_iron\"]"
+msgstr "Iron Watch Reputation"
+
+#: src-en/data/text_tooltips.xml.append:131
+msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_dawn\"]"
+msgstr "New Dawn Reputation"
+
+#: src-en/data/text_tooltips.xml.append:133
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_ancient\"]"
+msgstr "Something Old..."
+
+#: src-en/data/text_tooltips.xml.append:134
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_clone_cannon\"]"
+msgstr "Something Ethically Dubious."
+
+#: src-en/data/text_tooltips.xml.append:135
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_gatling\"]"
+msgstr "Unleash hell on your opposition!"
+
+#: src-en/data/text_tooltips.xml.append:136
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_laser\"]"
+msgstr "Let it hit you and you're already dead."
+
+#: src-en/data/text_tooltips.xml.append:137
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_defense\"]"
+msgstr "Guardian Angel."
+
+#: src-en/data/text_tooltips.xml.append:138
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_combat\"]"
+msgstr "Angel of Vengeance."
+
+#: src-en/data/text_tooltips.xml.append:139
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_scifi\"]"
+msgstr "REAL SCIENCE!"
+
+#: src-en/data/text_tooltips.xml.append:140
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_sylvan\"]"
+msgstr "You greedy, murdering traitor you."
+
+#: src-en/data/text_tooltips.xml.append:141
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_sylvan_honor\"]"
+msgstr "Go kick some Rebel asses."
+
+#: src-en/data/text_tooltips.xml.append:143
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_soulplague\"]"
+msgstr ""
+"You're hungry for more turrets - the turrets are hungry for more... well, "
+"everything."
+
+#: src-en/data/text_tooltips.xml.append:144
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_falseradiance\"]"
+msgstr ""
+"And then, upon the eighth day... your enemies cried out, with an ardent "
+"voice - pleading for salvation. It would never come."
+
+#: src-en/data/text_tooltips.xml.append:145
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_darkgod\"]"
+msgstr "Things are getting a bit darker than you'd desire, aren't they?"
