@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-07-02 15:36+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_ironxml/ru/>\n"
 "Language: ru\n"
@@ -2191,6 +2191,7 @@ msgid ""
 msgstr "Угрожать аванпосту, чтобы получить информацию."
 
 #: src-en/data/events_sector_og_iron.xml:1673
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -2244,6 +2245,7 @@ msgid ""
 msgstr "Угрожать аванпосту, чтобы получить информацию."
 
 #: src-en/data/events_sector_og_iron.xml:1713
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
 msgstr ""
@@ -2328,6 +2330,7 @@ msgid ""
 msgstr "Угрожать аванпосту, чтобы получить информацию."
 
 #: src-en/data/events_sector_og_iron.xml:1760
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
 msgstr ""
