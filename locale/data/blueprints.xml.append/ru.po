@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-07-02 15:36+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1226,11 +1226,16 @@ msgid ""
 msgstr "€ Оскол."
 
 #: src-en/data/blueprints.xml.append:1490
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
-"Мощная осколочная турель, способная производить невероятные залпы как в защите, так и в атаке.\n"
-"Вариант Нового рассвета накладывает на пораженные помещения статусный эффект, который приводит к увеличению урона системе на +1. Однако системы турелей, оснащенные турелями Нового рассвета, также получают +1 к урону системе при попадании."
+"Мощная осколочная турель, способная производить невероятные залпы как в "
+"защите, так и в атаке.\n"
+"Вариант Нового рассвета накладывает на пораженные помещения статусный "
+"эффект, который приводит к увеличению урона системе на +1. Однако системы "
+"турелей, оснащенные турелями Нового рассвета, также получают +1 к урону "
+"системе при попадании."
 
 #: src-en/data/blueprints.xml.append:1510
 msgid ""
@@ -2274,6 +2279,7 @@ msgid ""
 msgstr "Божественный Луч"
 
 #: src-en/data/blueprints.xml.append:4526
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
 msgstr ""
