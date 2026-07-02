@@ -9,9 +9,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DESTROY\"]/text"
 msgstr ""
-"Vous avez vaincu la garde de Fer. Ce qui aurait pu se trouver dans leur "
-"cargaison a certainement été détruit, mais vous pouvez au moins récupérer "
-"des provisions du vaisseau."
+"Vous avez vaincu la garde de la Garde de Fer. Tout ce qui aurait pu se "
+"trouver dans leur chargement a certainement été détruit, mais vous pouvez au"
+" moins récupérer quelques provisions du vaisseau."
 
 #: src-en/data/events_sector_og_iron.xml:13
 msgid ""
@@ -22,9 +22,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEADCREW\"]/text"
 msgstr ""
-"Vous avez vaincu la garde de Fer. Sans équipage à bord pour vous arrêter, "
-"vous pouvez fouiller leur cargaison. Vous trouvez une arme à ramener au "
-"vaisseau, et passez à la ferraille de leur coque."
+"Vous avez vaincu la garde de la Garde de Fer. Sans équipage à bord pour vous"
+" arrêter, vous pouvez enquêter sur leur chargement. Vous trouvez une arme à "
+"ramener au vaisseau et passez à la démolition de leur coque."
 
 #: src-en/data/events_sector_og_iron.xml:22
 msgid ""
@@ -35,8 +35,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/text"
 msgstr ""
-"En tuant la garde de Fer, vous les avez sans doute poussés à envoyer des "
-"renforts pour vous traquer. Faites attention en explorant le secteur."
+"En tuant la garde de la Garde de Fer, vous avez sans aucun doute provoqué "
+"l'envoi de renforts pour vous traquer. Soyez prudent en explorant le "
+"secteur."
 
 #: src-en/data/events_sector_og_iron.xml:43
 msgid ""
@@ -67,9 +68,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/text"
 msgstr ""
-"Un vaisseau Garde de Fer passe à l'attaque ! À en juger par le regard "
-"vengeur du capitaine, c'est sans aucun doute le vaisseau envoyé par la garde"
-" pour vous traquer !"
+"Un vaisseau de la Garde de Fer avance pour attaquer ! Basé sur le regard "
+"vengeur dans les yeux de leur capitaine, il ne fait aucun doute qu'il s'agit"
+" du vaisseau envoyé par la garde pour vous traquer !"
 
 #: src-en/data/events_sector_og_iron.xml:63
 msgid ""
@@ -95,9 +96,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/text"
 msgstr ""
-"Un vaisseau Garde de Fer passe à l'attaque ! À en juger par le regard "
-"vengeur du capitaine, c'est sans aucun doute le vaisseau envoyé par la garde"
-" pour vous traquer !"
+"Un vaisseau de la Garde de Fer avance pour attaquer ! Basé sur le regard "
+"vengeur dans les yeux de leur capitaine, il ne fait aucun doute qu'il s'agit"
+" du vaisseau envoyé par la garde pour vous traquer !"
 
 #: src-en/data/events_sector_og_iron.xml:81
 msgid ""
@@ -109,16 +110,16 @@ msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_START_OG_IRON\"]/text[1]"
 msgstr ""
 "La Garde de Fer est un collectif d'explorateurs, de scientifiques et de "
-"pirates qui se sont aventurés dans l'espace inexploré. C'est l'une de leurs "
-"rares installations, qui n'est plus aussi isolée qu'elle l'était autrefois."
+"pirates qui s'est aventuré dans l'espace inexploré. C'est l'une de leurs "
+"rares colonies, maintenant plus aussi éloignée qu'elle l'était autrefois."
 
 #: src-en/data/events_sector_og_iron.xml:88
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_START_OG_IRON\"]/text[2]"
 msgstr ""
 "Cette région quelque peu isolée a été plongée dans le chaos au début de la "
-"Rébellion. L'un des rares foyers de la Garde de Fer, il est devenu beaucoup "
-"plus peuplé ces derniers temps."
+"Rébellion. L'un des rares foyers de la Garde de Fer, elle est devenue "
+"beaucoup plus peuplée ces derniers temps."
 
 #: src-en/data/events_sector_og_iron.xml:101
 msgid ""
@@ -166,8 +167,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[2]/event/text"
 msgstr ""
-"La garde hoche la tête et examine la ferraille un bref instant. \"Très bien."
-" La sécurité vous laissera passer d'un instant à l'autre.\""
+"La garde hoche la tête et examine la ferraille pendant un bref instant. "
+"\"Très bien. La sécurité vous laissera passer momentanément.\""
 
 #: src-en/data/events_sector_og_iron.xml:136
 msgid ""
@@ -182,7 +183,7 @@ msgstr "(Membre d'équipage Garde de Fer) Demander un passage gratuit."
 #: src-en/data/events_sector_og_iron.xml:142
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
-msgstr "\"Très bien. Bonne chance pour votre mission.\""
+msgstr "\"Très bien. Bonne chance avec votre mission.\""
 
 #: src-en/data/events_sector_og_iron.xml:146
 msgid ""
@@ -218,10 +219,10 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/text"
 msgstr ""
-"\"Pourquoi devrais-je vous exempter de votre taxe ? Vous êtes un Renégat, "
-"n'est-ce pas ? Si vous l'ignorez, la Garde de Fer n'est pas tenue de "
-"respecter les lois de la Fédération, et franchement, avoir des gens comme "
-"vous ici est un risque. Nous devrions vous facturer plus cher, pas moins.\""
+"\"Pourquoi devrais-je lever vos frais ? Vous êtes un Renégat, correct ? Si "
+"vous n'êtes pas au courant, la Garde de Fer n'est pas tenue aux lois de la "
+"Fédération, et franchement avoir des gens comme vous ici est une "
+"responsabilité. Nous devrions vous facturer plus, pas moins.\""
 
 #: src-en/data/events_sector_og_iron.xml:174
 msgid ""
@@ -247,27 +248,27 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[2]/event/text"
 msgstr ""
-"La garde hoche la tête et examine la ferraille un bref instant. \"Très bien."
-" La sécurité vous laissera passer d'un instant à l'autre.\""
+"La garde hoche la tête et examine la ferraille pendant un bref instant. "
+"\"Très bien. La sécurité vous laissera passer momentanément.\""
 
 #: src-en/data/events_sector_og_iron.xml:196
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_WAVER\"]/event[3]/text"
 msgstr ""
 "La garde se gratte le visage. \"Comme vous le savez probablement, la Garde "
-"de Fer n'est pas soumise aux lois ou à la juridiction de la Fédération. Cela"
-" dit, je comprends que votre cause représente les meilleurs intérêts de tous"
-" ici. La Fédération n'est peut-être pas notre amie, mais la Rébellion non "
-"plus. Je vous ferai cette faveur, mais n'attendez pas de tout le monde qu'il"
-" soit aussi généreux.\""
+"de Fer n'est pas tenue aux lois ou à la juridiction de la Fédération. Cela "
+"dit, je comprends que votre cause représente les meilleurs intérêts de "
+"chacun ici. La Fédération n'est peut-être pas notre amie, mais la Rébellion "
+"non plus. Je vous ferai cette faveur, mais ne vous attendez pas à ce que "
+"tout le monde soit si généreux.\""
 
 #: src-en/data/events_sector_og_iron.xml:200
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/text"
 msgstr ""
-"Quelque chose cloche ici. D'habitude, la Garde de Fer ne s'opposerait pas "
-"trop à un vaisseau comme le vôtre, mais là, vous captez des bavardages "
-"suspects sur le vaisseau de garde."
+"Quelque chose semble clocher ici. Habituellement, la Garde de Fer ne se "
+"soucierait pas trop d'un vaisseau comme le vôtre, mais maintenant, vous "
+"captez des bavardages suspects sur le vaisseau de garde."
 
 #: src-en/data/events_sector_og_iron.xml:202
 msgid ""
@@ -288,8 +289,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/text"
 msgstr ""
-"La bonne parole s'est répandue, la garde renonce immédiatement aux frais "
-"d'entrée habituels et vous êtes autorisé à entrer librement."
+"Les échos se sont répandus, la garde lève immédiatement les frais d'entrée "
+"habituels et vous êtes autorisé à entrer librement."
 
 #: src-en/data/events_sector_og_iron.xml:218
 msgid ""
@@ -329,19 +330,20 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:249
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[1]"
-msgstr "\"Nous accusons réception de votre appel. Que cherchez-vous, ami ?\""
+msgstr "\"Nous accusons réception de votre appel. Que recherchez-vous, ami ?\""
 
 #: src-en/data/events_sector_og_iron.xml:250
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[2]"
 msgstr ""
-"Le capitaine de la Garde de Fer accepte votre appel, mais ne dit pas un mot."
+"Le capitaine de la Garde de Fer accepte votre appel, mais ne prononce pas un"
+" mot."
 
 #: src-en/data/events_sector_og_iron.xml:251
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[3]"
 msgstr ""
-"Un bref message est renvoyé à votre vaisseau en réponse. \"Nous avons reçu "
+"Un bref message est envoyé en réponse à votre vaisseau. \"Nous avons reçu "
 "votre demande de communication. De quoi avez-vous besoin, ami ?\""
 
 #: src-en/data/events_sector_og_iron.xml:256
@@ -395,14 +397,14 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_REQUEST\"]/event[1]/text"
 msgstr ""
-"\"Je crains que nous n'ayons pas grand-chose à épargner, bonne chance pour "
+"\"J'ai peur que nous n'ayons pas grand-chose à donner, bonne chance pour "
 "votre mission, ami.\""
 
 #: src-en/data/events_sector_og_iron.xml:294
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_REQUEST\"]/event[2]/text"
 msgstr ""
-"\"Bien sûr que nous pouvons aider, prenez ceci comme un cadeau de bonne "
+"\"Bien sûr, nous pouvons aider, prenez ceci comme un cadeau de bonne "
 "volonté.\""
 
 #: src-en/data/events_sector_og_iron.xml:299
@@ -410,16 +412,16 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEMAND\"]/text"
 msgstr ""
 "\"Ce n'est pas une façon de parler à un allié. Je vous souhaite bonne chance"
-" pour votre mission mais je vous suggère d'arrêter d'essayer de me "
+" pour votre mission mais je suggère que vous arrêtiez d'essayer de me "
 "contacter.\""
 
 #: src-en/data/events_sector_og_iron.xml:303
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[1]/text"
 msgstr ""
-"La garde ne tente pas de répondre à vos menaces, du moins pas verbalement. "
-"Au lieu de cela, ils mettent leurs armes sous tension et passent à l'attaque"
-" !"
+"La garde ne fait aucune tentative pour répondre à vos menaces, du moins pas "
+"verbalement. Au lieu de cela, ils alimentent leurs armes et avancent pour "
+"attaquer !"
 
 #: src-en/data/events_sector_og_iron.xml:306
 msgid ""
@@ -441,14 +443,14 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON\"]/text"
 msgstr ""
 "[RÉPUTATION AUGMENTÉE - GARDE DE FER]\n"
-"\tVous avez fait une bonne action ici aux yeux de la Garde de Fer. Continuez à agir ainsi et vous pourriez commencer à voir un soutien positif de la part de la Garde de Fer et de ses alliés."
+"\tVous avez fait une bonne action ici aux yeux de la Garde de Fer. Continuez à effectuer des actions comme celle-ci et vous pourriez commencer à voir un soutien positif de la Garde de Fer et de ses alliés."
 
 #: src-en/data/events_sector_og_iron.xml:327
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON_COMBAT\"]/text"
 msgstr ""
 "[RÉPUTATION AUGMENTÉE - GARDE DE FER]\n"
-"\tVous avez fait une bonne action ici aux yeux de la Garde de Fer. Continuez à agir ainsi et vous pourriez commencer à voir un soutien positif de la part de la Garde de Fer et de ses alliés."
+"\tVous avez fait une bonne action ici aux yeux de la Garde de Fer. Continuez à effectuer des actions comme celle-ci et vous pourriez commencer à voir un soutien positif de la Garde de Fer et de ses alliés."
 
 #: src-en/data/events_sector_og_iron.xml:331
 msgid ""
@@ -460,14 +462,14 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON\"]/text"
 msgstr ""
 "[RÉPUTATION DIMINUÉE - GARDE DE FER]\n"
-"\tVos actions ici, justifiables ou non, ne seront pas bien perçues par la Garde de Fer ou ses citoyens. Si vous continuez à agir ainsi, vous pourriez commencer à voir des réactions négatives de la part de la Garde de Fer et de ses alliés."
+"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux de la Garde de Fer ou de ses citoyens. Continuez à effectuer des actions comme celle-ci et vous pourriez commencer à voir des réactions négatives de la part de la Garde de Fer et de ses alliés."
 
 #: src-en/data/events_sector_og_iron.xml:341
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON\"]/text"
 msgstr ""
 "[RÉPUTATION DIMINUÉE X2 - GARDE DE FER]\n"
-"\tVos actions ici, justifiables ou non, ne seront pas bien perçues par la Garde de Fer ou ses citoyens. Si vous continuez à agir ainsi, vous pourriez commencer à voir des réactions négatives de la part de la Garde de Fer et de ses alliés.\n"
+"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux de la Garde de Fer ou de ses citoyens. Continuez à effectuer des actions comme celle-ci et vous pourriez commencer à voir des réactions négatives de la part de la Garde de Fer et de ses alliés.\n"
 "\tPour vos actions particulièrement flagrantes, votre réputation a été diminuée deux fois."
 
 #: src-en/data/events_sector_og_iron.xml:347
@@ -475,7 +477,7 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/text"
 msgstr ""
 "[RÉPUTATION DIMINUÉE - GARDE DE FER]\n"
-"\tVos actions ici, justifiables ou non, ne seront pas bien perçues par la Garde de Fer ou ses citoyens. Si vous continuez à agir ainsi, vous pourriez commencer à voir des réactions négatives de la part de la Garde de Fer et de ses alliés."
+"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux de la Garde de Fer ou de ses citoyens. Continuez à effectuer des actions comme celle-ci et vous pourriez commencer à voir des réactions négatives de la part de la Garde de Fer et de ses alliés."
 
 #: src-en/data/events_sector_og_iron.xml:351
 msgid ""
@@ -487,7 +489,7 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON_COMBAT\"]/text"
 msgstr ""
 "[RÉPUTATION DIMINUÉE X2 - GARDE DE FER]\n"
-"\tVos actions ici, justifiables ou non, ne seront pas bien perçues par la Garde de Fer ou ses citoyens. Si vous continuez à agir ainsi, vous pourriez commencer à voir des réactions négatives de la part de la Garde de Fer et de ses alliés.\n"
+"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux de la Garde de Fer ou de ses citoyens. Continuez à effectuer des actions comme celle-ci et vous pourriez commencer à voir des réactions négatives de la part de la Garde de Fer et de ses alliés.\n"
 "\tPour vos actions particulièrement flagrantes, votre réputation a été diminuée deux fois."
 
 #: src-en/data/events_sector_og_iron.xml:361
@@ -514,22 +516,22 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[1]"
 msgstr ""
-"Le capitaine de la Garde de Fer lâche une dernière imprécation alors que le "
-"vaisseau est anéanti."
+"Le capitaine de la Garde de Fer lâche une dernière insulte alors que le "
+"vaisseau est pulvérisé."
 
 #: src-en/data/events_sector_og_iron.xml:392
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[2]"
 msgstr ""
 "La coque du vaisseau de la Garde de Fer est dispersée dans l'espace. Vous "
-"vous précipitez pour récupérer les restes."
+"plongez pour récupérer les restes."
 
 #: src-en/data/events_sector_og_iron.xml:393
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[3]"
 msgstr ""
-"Le vaisseau de la Garde de Fer explose, éteignant toute vie à l'intérieur. "
-"Votre équipage évite leurs restes pendant qu'ils récupèrent les morceaux du "
+"Le vaisseau de la Garde de Fer explose, éteignant toutes les vies à bord. "
+"Votre équipage évite les restes pendant qu'ils récupèrent les morceaux du "
 "vaisseau."
 
 #: src-en/data/events_sector_og_iron.xml:394
@@ -548,16 +550,17 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[2]"
 msgstr ""
-"Sans un mot, le capitaine de la Garde de Fer s'effondre, haletant alors que "
-"la vie s'éteint dans ses yeux. Vous récupérez la coque de leur vaisseau."
+"Sans un mot, le capitaine de la Garde de Fer tombe au sol, cherchant son "
+"souffle alors que la vie s'éteint dans ses yeux. Vous récupérez la coque de "
+"leur vaisseau."
 
 #: src-en/data/events_sector_og_iron.xml:404
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[3]"
 msgstr ""
-"\"Vous allez le regretter ! Le karma revient toujours aux gens comme vous. "
-"Maudits soyez, Renégats... la Garde de Fer aurait été mieux avec la "
-"Rébellion...\""
+"\"Vous le regretterez ! Le karma revient toujours aux gens comme vous. "
+"Maudits soyez-vous Renégats... la Garde de Fer aurait mieux fait de s'allier"
+" à la Rébellion...\""
 
 #: src-en/data/events_sector_og_iron.xml:410
 msgid ""
@@ -578,7 +581,7 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[3]"
 msgstr ""
-"\"Vous êtes considérablement mieux armé que je ne l'aurais cru. Nous nous "
+"\"Vous êtes considérablement mieux armé que je ne l'aurais pensé. Nous nous "
 "rendons.\""
 
 #: src-en/data/events_sector_og_iron.xml:422
@@ -586,13 +589,13 @@ msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[4]"
 msgstr ""
 "Ils vous envoient un message : \"Votre vaisseau est étonnamment bien équipé "
-"! Veuillez prendre ceci et laissez-nous vivre.\""
+"! S'il vous plaît prenez ceci et laissez-nous vivre.\""
 
 #: src-en/data/events_sector_og_iron.xml:423
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[5]"
 msgstr ""
-"\"S'il vous plaît, ne nous tuez pas. Nous vous donnerons tout ce que nous "
+"\"S'il vous plaît ne nous tuez pas. Nous vous donnerons tout ce que nous "
 "avons !\""
 
 #: src-en/data/events_sector_og_iron.xml:424
@@ -619,8 +622,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[10]"
 msgstr ""
-"\"Vous avez fait votre preuve, nous sommes vaincus. Prenez ceci et laissez-"
-"nous à notre honte.\""
+"\"Vous avez fait votre point, nous sommes battus. Prenez ceci et laissez-"
+"nous dans notre honte.\""
 
 #: src-en/data/events_sector_og_iron.xml:429
 msgid ""
@@ -630,8 +633,8 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:433
 msgid "data/events_sector_og_iron.xml$//event[@name=\"ESCAPE_OG_IRON\"]/text"
 msgstr ""
-"Les scans montrent que le vaisseau de la Garde de Fer tente de s'échapper. "
-"Détruisez-le avant qu'il ne s'enfuie !"
+"Les scans montrent que le vaisseau de la Garde de Fer essaie de s'échapper. "
+"Détruisez-le avant qu'il ne puisse s'enfuir !"
 
 #: src-en/data/events_sector_og_iron.xml:446
 msgid ""
@@ -643,16 +646,16 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_IRON\"]/text[2]"
 msgstr ""
-"Vos tentatives de destruction du vaisseau de la Garde de Fer ont échoué, et "
+"Vos tentatives pour détruire le vaisseau de la Garde de Fer ont échoué, et "
 "le vaisseau s'est échappé."
 
 #: src-en/data/events_sector_og_iron.xml:450
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GOTAWAY_OG_IRON_REMAINS\"]/text"
 msgstr ""
-"Le vaisseau de la Garde de Fer a peut-être échappé, mais tout n'est pas "
-"perdu. Une traînée de ferraille provenant de l'épave a été laissée derrière,"
-" que vous ramassez."
+"Le vaisseau de la Garde de Fer a peut-être réussi à s'échapper, mais tout "
+"n'a pas échoué. Une traînée de ferraille provenant de l'épave a été laissée "
+"derrière, que vous récupérez."
 
 #: src-en/data/events_sector_og_iron.xml:512
 msgid ""
@@ -677,7 +680,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:529
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/text"
-msgstr "(Contrôle mental) \"Négocier\" un prix encore plus bas."
+msgstr "(Contrôle Mental) \"Négocier\" un prix encore plus bas."
 
 #: src-en/data/events_sector_og_iron.xml:531
 msgid ""
@@ -728,10 +731,18 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/text"
 msgstr ""
-"Vous arrivez à la balise et découvrez un vaisseau Garde de Fer. Le capitaine semble très affligé, vous entendez des cris sur les canaux publics.\n"
-"\t\"Que voulez-vous dire, ce n'est pas une tourelle ?\" Vous entendez le léger bruit d'un membre d'équipage essayant d'expliquer quelque chose que le capitaine ne comprend manifestement pas.\n"
-"\t\"Alors nous avons été ARNAQUÉS ? Ce marchand fourbe, ohhh si je le revois, il est mort !\""
+"Vous arrivez à la balise pour découvrir un vaisseau de la Garde de Fer. Le capitaine est apparemment assez désemparé car vous pouvez entendre des cris sur les canaux publics.\n"
+"\t\"Que voulez-vous dire par ce n'est pas une tourelle ?\" Vous pouvez entendre le bruit faible de l'un de leurs équipiers essayant d'expliquer quelque chose que le capitaine ne comprend clairement pas.\n"
+"\t\"Donc nous avons été ARNAQUÉS ? Ce marchand fourbe, ohhh si je le revois, il est mort !\""
 
+<<<<<<< Updated upstream
+=======
+#: src-en/data/events_sector_og_iron.xml:590
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[1]/text"
+msgstr "Continuer à écouter."
+
+>>>>>>> Stashed changes
 #: src-en/data/events_sector_og_iron.xml:592
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/text"
@@ -741,11 +752,11 @@ msgstr "Continuer d'écouter."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/text"
 msgstr ""
-"Finalement, la colère du capitaine atteint son paroxysme et il ordonne que "
-"la pseudo-tourelle soit éjectée par le sas. \"Je veux qu'elle disparaisse de"
-" ma vue, sortez-nous D'ICI !\" Sur ce, le vaisseau Garde de Fer saute. Vous "
-"avez maintenant le temps de récupérer la \"tourelle\" et de l'examiner vous-"
-"même, il s'avère que ce n'était qu'un simple drone de défense."
+"Finalement, la colère du capitaine atteint un crescendo et il ordonne que la"
+" soi-disant tourelle soit jetée par le sas. \"Je la veux hors de ma vue, "
+"sortez-nous D'ICI !\" Avec cela, le vaisseau de la Garde de Fer saute. "
+"Maintenant vous avez le temps de ramasser la \"tourelle\" et de l'examiner "
+"vous-même, il s'avère que c'était juste un simple drone de défense."
 
 #: src-en/data/events_sector_og_iron.xml:598
 msgid ""
@@ -757,6 +768,14 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/choice[2]/text"
 msgstr ""
 
+<<<<<<< Updated upstream
+=======
+#: src-en/data/events_sector_og_iron.xml:606
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENSE_DRONE\"]/choice[2]/text"
+msgstr "Éviter de gêner le capitaine en colère."
+
+>>>>>>> Stashed changes
 #: src-en/data/events_sector_og_iron.xml:608
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/text"
@@ -766,8 +785,8 @@ msgstr "Évitez de vous mettre en travers du chemin du capitaine en colère."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/event/text"
 msgstr ""
-"Vous vous cachez de l'autre côté d'une lune et espérez que le vaisseau Garde"
-" de Fer ne vous détectera pas."
+"Vous vous cachez de l'autre côté d'une lune et espérez que le vaisseau de la"
+" Garde de Fer ne vous capte pas."
 
 #: src-en/data/events_sector_og_iron.xml:612
 msgid ""
@@ -782,9 +801,9 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:626
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/text"
 msgstr ""
-"Un vaisseau Garde de Fer propose un poste temporaire pour aider à une "
-"expérience. Ils ont besoin d'une escorte dans le champ d'astéroïdes voisin "
-"pour tester une modification de leur tourelle."
+"Un vaisseau de la Garde de Fer fait de la publicité pour un poste temporaire"
+" pour aider à une expérience. Ils ont besoin d'une escorte dans le champ "
+"d'astéroïdes voisin pour tester une modification de leur tourelle."
 
 #: src-en/data/events_sector_og_iron.xml:628
 msgid ""
@@ -795,14 +814,14 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[1]/event/text"
 msgstr ""
-"Vous vous placez derrière le vaisseau Garde de Fer et vous dirigez vers le "
-"champ d'astéroïdes. \"Nous ne faisons que calibrer la tourelle, cela ne "
-"devrait pas prendre plus d'une demi-minute.\""
+"Vous vous déplacez derrière le vaisseau de la Garde de Fer et vous vous "
+"dirigez dans le champ d'astéroïdes. \"Nous sommes juste en train de calibrer"
+" la tourelle, cela ne devrait pas prendre plus d'une demi-minute.\""
 
 #: src-en/data/events_sector_og_iron.xml:635
 msgid ""
 "data/events_sector_og_iron.xml$//triggeredEvent[@name=\"OG_IRON_FOR_SCIENCE_TURRET\"]/triggeredEventBox/tooltip"
-msgstr "Temps avant que la tourelle de la Garde de Fer ne soit calibrée."
+msgstr "Temps jusqu'à ce que la tourelle de la Garde de Fer soit calibrée."
 
 #: src-en/data/events_sector_og_iron.xml:643
 msgid ""
@@ -813,8 +832,8 @@ msgstr "Ignorer la demande."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/text"
 msgstr ""
-"Vous évitez le vaisseau Garde de Fer et vous préparez pour votre prochain "
-"saut."
+"Vous évitez le vaisseau de la Garde de Fer et vous préparez pour votre "
+"prochain saut."
 
 #: src-en/data/events_sector_og_iron.xml:647
 msgid ""
@@ -830,54 +849,54 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/text"
 msgstr ""
-"\"Entrez, entrez, quelque chose a terriblement mal tourné, nos tourelles se "
-"sont éteintes.\""
+"\"Entrez, Entrez, quelque chose a terriblement mal tourné, nos tourelles se "
+"sont arrêtées.\""
 
 #: src-en/data/events_sector_og_iron.xml:661
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"LIST_CREW_POWER\"]/text"
 msgstr ""
-"(Membre d'équipage Bonus d'énergie) Envoyez votre membre d'équipage pour "
-"surcharger leurs systèmes."
+"(Membre d'équipage avec Énergie Bonus) Envoyer votre équipier surcharger "
+"leurs systèmes."
 
 #: src-en/data/events_sector_og_iron.xml:665
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"battery\"]/text"
 msgstr ""
-"(Batterie de secours) Utilisez votre énergie supplémentaire pour surcharger "
+"(Batterie de secours) Utiliser votre énergie supplémentaire pour surcharger "
 "leurs systèmes."
 
 #: src-en/data/events_sector_og_iron.xml:669
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[3]/text"
-msgstr "Vous ne pouvez rien faire..."
+msgstr "Il n'y a rien que vous puissiez faire..."
 
 #: src-en/data/events_sector_og_iron.xml:683
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS_ION\"]/text"
-msgstr "Vous parvenez à rétablir l'alimentation de leurs tourelles."
+msgstr "Vous réussissez à restaurer l'alimentation de leurs tourelles."
 
 #: src-en/data/events_sector_og_iron.xml:687
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS\"]/text"
 msgstr ""
-"\"Nous avons terminé, merci de votre aide capitaine.\" Le vaisseau envoie "
-"quelques provisions en paiement de votre escorte."
+"\"Nous sommes finis, merci pour l'aide capitaine.\" Le vaisseau envoie "
+"quelques provisions en paiement pour votre escorte."
 
 #: src-en/data/events_sector_og_iron.xml:693
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_BLAST\"]/text"
 msgstr ""
-"Vous regardez impuissant un gros astéroïde déchirer le vaisseau Garde de "
-"Fer. Il se fragmente en un nuage de débris qui se diffuse rapidement dans le"
-" champ d'astéroïdes, vous pouvez récupérer une partie de l'épave avant de "
+"Vous regardez impuissant un gros astéroïde déchirer le vaisseau de la Garde "
+"de Fer. Il se fragmente en un nuage de débris qui se diffuse rapidement dans"
+" le champ d'astéroïdes, vous pouvez récupérer quelques débris avant de "
 "partir."
 
 #: src-en/data/events_sector_og_iron.xml:712
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/text"
 msgstr ""
-"Vous êtes tombé sur l'épave d'un étrange vaisseau. Il semble s'agir de l'un "
-"de ces vaisseaux de la Nouvelle Aube dont vous avez entendu parler ici, un "
+"Vous êtes tombé sur l'épave d'un vaisseau étrange. Il semble être l'un des "
+"vaisseaux de la Nouvelle Aube dont vous avez entendu parler par ici, un "
 "groupe dissident de la Garde de Fer qui semble s'être allié à la rébellion."
 
 #: src-en/data/events_sector_og_iron.xml:714
@@ -889,9 +908,9 @@ msgstr "Enquêter."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/event/text"
 msgstr ""
-"Le vaisseau semble avoir été dépouillé, à l'exception de quelques sections "
-"où il reste quelque chose à récupérer. Vous ramassez tout ce que vous pouvez"
-" avant de retourner à votre propre vaisseau."
+"Le vaisseau semble dépouillé, seules quelques sections ont quelque chose de "
+"récupérable. Vous collectez tout ce que vous pouvez avant de retourner à "
+"votre propre vaisseau."
 
 #: src-en/data/events_sector_og_iron.xml:721
 msgid ""
@@ -917,8 +936,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/text"
 msgstr ""
-"Le vaisseau Garde de Fer se brise. Vous vous dépêchez de contacter le "
-"vaisseau civil."
+"Le vaisseau de la Garde de Fer se brise. Vous vous empressez de contacter le"
+" vaisseau civil."
 
 #: src-en/data/events_sector_og_iron.xml:755
 msgid ""
@@ -929,8 +948,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/text"
 msgstr ""
-"Plus aucun signe de vie détecté sur le vaisseau Garde de Fer. Vous vous "
-"dépêchez de contacter le vaisseau civil."
+"Plus aucun signe de vie détecté sur le vaisseau de la Garde de Fer. Vous "
+"vous empressez de contacter le vaisseau civil."
 
 #: src-en/data/events_sector_og_iron.xml:763
 msgid ""
@@ -941,10 +960,10 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/text"
 msgstr ""
-"Vous arrivez à la balise et découvrez un vaisseau Garde de Fer à la "
-"poursuite d'un civil. Il semble que les règles doivent être particulièrement"
-" souples dans cette partie de l'espace de la Garde de Fer pour que leurs "
-"propres vaisseaux se livrent à la piraterie."
+"Vous arrivez à la balise pour découvrir un vaisseau de la Garde de Fer à la "
+"poursuite d'un civil, il semble que les règles doivent être particulièrement"
+" détendues dans cette partie de l'espace de la Garde de Fer pour que leurs "
+"propres vaisseaux se tournent vers la piraterie."
 
 #: src-en/data/events_sector_og_iron.xml:773
 msgid ""
@@ -954,7 +973,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:775
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/text"
-msgstr "Vous mettez vos armes sous tension et passez à l'attaque."
+msgstr "Vous alimentez vos armes et vous avancez pour attaquer."
 
 #: src-en/data/events_sector_og_iron.xml:778
 msgid ""
@@ -985,11 +1004,11 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/text"
 msgstr ""
-"Vous arrivez à la balise et découvrez un vaisseau Garde de Fer à la "
-"poursuite d'un civil. Il semble que la Garde de Fer profite du pulsar pour "
-"s'en prendre aux civils, bien que cela soit illégal dans la plupart des "
-"zones de l'espace de la Garde de Fer, ce vaisseau ne semble pas craindre "
-"d'être pris."
+"Vous arrivez à la balise pour découvrir un vaisseau de la Garde de Fer à la "
+"poursuite d'un civil, il semble que la Garde de Fer profite du pulsar ici "
+"pour profiter des civils, bien qu'illégal dans la plupart des zones de "
+"l'espace de la Garde de Fer, il semble que ce vaisseau ne craigne pas d'être"
+" pris."
 
 #: src-en/data/events_sector_og_iron.xml:805
 msgid ""
@@ -999,7 +1018,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:807
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/text"
-msgstr "Vous mettez vos armes sous tension et passez à l'attaque."
+msgstr "Vous alimentez vos armes et vous avancez pour attaquer."
 
 #: src-en/data/events_sector_og_iron.xml:810
 msgid ""
@@ -1029,9 +1048,9 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:835
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise et découvrez l'un de ces étranges vaisseaux "
-"Nouvelle Aube attaquant un civil, il ne semble pas qu'ils vous aient encore "
-"remarqué."
+"Vous êtes arrivé à la balise pour découvrir l'un de ces étranges vaisseaux "
+"de la Nouvelle Aube attaquant un civil, il ne semble pas qu'ils vous aient "
+"encore remarqué."
 
 #: src-en/data/events_sector_og_iron.xml:837
 msgid ""
@@ -1043,8 +1062,8 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/text"
 msgstr ""
 "Le vaisseau civil explose avant que vous ne puissiez faire quoi que ce soit,"
-" le vaisseau Nouvelle Aube vous remarque et s'enfuit, en un instant ils ont "
-"sauté."
+" le vaisseau de la Nouvelle Aube vous remarque et se tourne pour fuir, en un"
+" instant ils ont sauté."
 
 #: src-en/data/events_sector_og_iron.xml:842
 msgid ""
@@ -1055,9 +1074,9 @@ msgstr "Piller les restes du vaisseau civil."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Vous vous approchez et commencez à piller le civil lorsqu'un vaisseau Garde "
-"de Fer arrive à la balise. Ils semblent penser que vous êtes responsable de "
-"l'épave et passent immédiatement à l'attaque."
+"Vous vous déplacez et commencez à piller le civil quand un vaisseau de la "
+"Garde de Fer arrive à la balise. Ils semblent penser que vous êtes "
+"responsable de l'épave car ils avancent immédiatement pour attaquer."
 
 #: src-en/data/events_sector_og_iron.xml:848
 msgid ""
@@ -1067,18 +1086,18 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:854
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/text"
-msgstr "Signaler l'attaque via un avant-poste Garde de Fer voisin."
+msgstr "Signaler l'attaque via un avant-poste de la Garde de Fer voisin."
 
 #: src-en/data/events_sector_og_iron.xml:856
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 "Vous contactez les autorités locales de la Garde de Fer et les informez de "
-"l'attaque. Peu de temps après, un vaisseau Garde de Fer arrive. \"Je suis "
-"désolé que vous ayez eu à voir ça, capitaine, ces attaques empirent de jour "
-"en jour. J'ai ces provisions ici pour les donner aux victimes, mais il ne "
-"semble pas qu'elles en auront besoin, pourquoi ne les prenez-vous pas à la "
-"place.\""
+"l'attaque, un court instant plus tard un vaisseau de la Garde de Fer arrive."
+" \"Je suis désolé que vous ayez dû voir cela capitaine, ces attaques "
+"deviennent de pire en pire chaque jour. J'ai ces provisions ici à donner à "
+"ceux qui ont été attaqués, mais il ne semble pas qu'ils en auront besoin, "
+"pourquoi ne les prendriez-vous pas à la place ?\""
 
 #: src-en/data/events_sector_og_iron.xml:860
 msgid ""
@@ -1109,7 +1128,7 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/text"
 msgstr ""
-"S'il vous plaît, vous pouvez prendre l'épave, laissez-nous juste vivre !"
+"S'il vous plaît, vous pouvez avoir l'épave, laissez-nous juste vivre !"
 
 #: src-en/data/events_sector_og_iron.xml:888
 msgid ""
@@ -1135,8 +1154,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE_SURRENDER\"]/text"
 msgstr ""
-"Vous démontez l'épave et récupérez ce que vous pouvez de ses stocks avant de"
-" vous préparer pour votre prochain saut."
+"Vous démantelez l'épave et collectez ce que vous pouvez de ses réserves "
+"avant de vous préparer pour votre prochain saut"
 
 #: src-en/data/events_sector_og_iron.xml:918
 msgid ""
@@ -1147,24 +1166,24 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE\"]/text"
 msgstr ""
-"Vous démontez l'épave et récupérez ce que vous pouvez de ses stocks avant de"
-" vous préparer pour votre prochain saut."
+"Vous démantelez l'épave et collectez ce que vous pouvez de ses réserves "
+"avant de vous préparer pour votre prochain saut"
 
 #: src-en/data/events_sector_og_iron.xml:928
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/text"
 msgstr ""
-"Vous êtes accueilli par un vaisseau Garde de Fer : \"Bonjour Capitaine, je "
-"ne suppose pas que vous ayez vu une épave de vaisseau ici quelque part. "
-"Apparemment, un transporteur Nouvelle Aube a été aperçu se dirigeant vers ce"
-" champ d'astéroïdes après avoir été touché par une batterie anti-vaisseau "
-"voisine. Nous pensons qu'il pourrait y avoir eu une épave ici quelque "
-"part.\""
+"Vous êtes accueilli par un vaisseau de la Garde de Fer, \"Bonjour Capitaine,"
+" je ne suppose pas que vous ayez vu une épave de vaisseau par ici quelque "
+"part. Apparemment, un transporteur de la Nouvelle Aube a été vu se dirigeant"
+" dans ce champ d'astéroïdes après avoir été touché par une batterie anti-"
+"vaisseau voisine. Nous pensons qu'ils pourraient avoir été épaves par ici "
+"quelque part.\""
 
 #: src-en/data/events_sector_og_iron.xml:930
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[1]/text"
-msgstr "Aidez-les à chercher le transporteur."
+msgstr "Les aider à chercher le transporteur."
 
 #: src-en/data/events_sector_og_iron.xml:934
 msgid ""
@@ -1176,7 +1195,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/text"
-msgstr "(Capteurs de pointe) Effectuer un scan profond du champ d'astéroïdes."
+msgstr ""
+"(Capteurs de pointe) Effectuer un scan approfondi du champ d'astéroïdes."
 
 #: src-en/data/events_sector_og_iron.xml:942
 msgid ""
@@ -1187,8 +1207,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/text"
 msgstr ""
-"Le vaisseau Garde de Fer finit par disparaître de la vue alors qu'il fouille"
-" le champ d'astéroïdes."
+"Le vaisseau de la Garde de Fer disparaît finalement de la vue alors qu'il "
+"fouille le champ d'astéroïdes."
 
 #: src-en/data/events_sector_og_iron.xml:946
 msgid ""
@@ -1204,24 +1224,24 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/text"
 msgstr ""
-"Vous finissez par récupérer l'étrange transporteur, il semble être perforé "
-"par plusieurs astéroïdes. Vous commencez à fouiller le vaisseau et trouvez "
-"une arme immaculée à bord, quelques instants plus tard, le vaisseau Garde de"
-" Fer apparaît : \"Oh bien, vous l'avez trouvé, merci de votre aide les gars,"
-" nous prenons le relais.\""
+"Vous finissez par capter l'étrange transporteur, il semble être perforé par "
+"plusieurs astéroïdes. Vous commencez à fouiller le vaisseau et trouvez une "
+"arme immaculée à bord, quelques instants plus tard le vaisseau de la Garde "
+"de Fer apparaît, \"Oh bien, vous l'avez trouvé, merci pour l'aide les gars, "
+"nous prenons la relève à partir d'ici.\""
 
 #: src-en/data/events_sector_og_iron.xml:962
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/text"
-msgstr "Attaquez le vaisseau pour récupérer l'épave pour vous-même."
+msgstr "Attaquer le vaisseau pour réclamer l'épave pour vous-même."
 
 #: src-en/data/events_sector_og_iron.xml:964
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/text"
 msgstr ""
-"Alors que vous mettez vos armes sous tension, le vaisseau Garde de Fer "
-"semble remarquer ce que vous faites, leur capitaine marmonne quelques jurons"
-" mais active ses propres armes en réponse."
+"Alors que vous alimentez vos armes, le vaisseau de la Garde de Fer semble "
+"remarquer ce que vous faites, leur capitaine crache quelques insultes mais "
+"active ses propres armes en réponse."
 
 #: src-en/data/events_sector_og_iron.xml:967
 msgid ""
@@ -1231,7 +1251,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:973
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/text"
-msgstr "Laissez-les avec l'épave."
+msgstr "Les laisser avec l'épave."
 
 #: src-en/data/events_sector_og_iron.xml:975
 msgid ""
@@ -1252,24 +1272,23 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/text"
 msgstr ""
-"Finalement, vous trouvez l'épave, et par hasard le vaisseau Garde de Fer. Il"
-" semble qu'ils aient déjà été en train de démanteler l'épave depuis un "
-"certain temps. \"Oh, c'est bien, vous êtes toujours en vie, nous apprécions "
-"l'aide mais nous n'avons besoin de rien d'autre, bonne chance pour votre "
-"mission.\""
+"Finalement, vous trouvez l'épave, et il s'avère que c'est le vaisseau de la "
+"Garde de Fer. Il semble qu'ils démantèlent déjà l'épave depuis un certain "
+"temps. \"Oh bien, vous êtes toujours en vie, nous apprécions l'aide mais "
+"nous n'avons besoin de rien d'autre, bonne chance avec votre mission.\""
 
 #: src-en/data/events_sector_og_iron.xml:991
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/text"
-msgstr "Attaquez le vaisseau pour récupérer l'épave pour vous-même."
+msgstr "Attaquer le vaisseau pour réclamer l'épave pour vous-même."
 
 #: src-en/data/events_sector_og_iron.xml:993
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/text"
 msgstr ""
-"Alors que vous mettez vos armes sous tension, le vaisseau Garde de Fer "
-"semble remarquer ce que vous faites, leur capitaine marmonne quelques jurons"
-" mais active ses propres armes en réponse."
+"Alors que vous alimentez vos armes, le vaisseau de la Garde de Fer semble "
+"remarquer ce que vous faites, leur capitaine crache quelques insultes mais "
+"active ses propres armes en réponse."
 
 #: src-en/data/events_sector_og_iron.xml:996
 msgid ""
@@ -1279,7 +1298,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1002
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/text"
-msgstr "Laissez-les avec l'épave."
+msgstr "Les laisser avec l'épave."
 
 #: src-en/data/events_sector_og_iron.xml:1004
 msgid ""
@@ -1301,8 +1320,9 @@ msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_EXPLORE_TRANSPORT_SEARCH\"]/event[3]/text"
 msgstr ""
 "Vous fouillez le champ d'astéroïdes pendant ce qui semble être des heures, "
-"mais ne trouvez rien. Vous êtes cependant tombé sur ce qui semble être un "
-"conteneur de fret avec quelques provisions de base."
+"mais ne pouvez rien trouver. Vous êtes cependant tombé sur ce qui semble "
+"être une caisse de chargement avec quelques provisions de base à "
+"l'intérieur."
 
 #: src-en/data/events_sector_og_iron.xml:1040
 msgid ""
@@ -1318,21 +1338,21 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/text"
 msgstr ""
-"Vous arrivez à la balise et trouvez un vaisseau Garde de Fer lourdement "
-"endommagé, engagé dans une bataille avec un pirate. Sans aide, le vaisseau "
-"Garde de Fer ne tiendra pas très longtemps."
+"Vous arrivez à la balise pour trouver un vaisseau de la Garde de Fer "
+"lourdement endommagé verrouillé dans une bataille avec un pirate, sans aide "
+"le vaisseau de la Garde de Fer ne durera pas très longtemps."
 
 #: src-en/data/events_sector_og_iron.xml:1059
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/text"
-msgstr "Aider le vaisseau Garde de Fer."
+msgstr "Aider le vaisseau de la Garde de Fer."
 
 #: src-en/data/events_sector_og_iron.xml:1061
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/event/text"
 msgstr ""
-"Vous mettez vos armes sous tension, le vaisseau pirate, sentant la menace "
-"plus grande, tourne son attention vers vous."
+"Vous alimentez vos armes, le vaisseau pirate, sentant la menace plus grande,"
+" tourne son attention vers vous."
 
 #: src-en/data/events_sector_og_iron.xml:1064
 msgid ""
@@ -1342,7 +1362,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1070
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/text"
-msgstr "Évitez de vous impliquer."
+msgstr "Éviter de s'impliquer."
 
 #: src-en/data/events_sector_og_iron.xml:1072
 msgid ""
@@ -1363,20 +1383,20 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/text"
 msgstr ""
-"La Garde de Fer s'est partiellement remise du combat précédent, ils vous "
+"La Garde de Fer s'est partiellement remise du combat plus tôt, ils vous "
 "remercient de les avoir secourus."
 
 #: src-en/data/events_sector_og_iron.xml:1095
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/text"
-msgstr "Profitez des dégâts et attaquez-les."
+msgstr "Capitaliser sur les dommages et les attaquer."
 
 #: src-en/data/events_sector_og_iron.xml:1097
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/event/text"
 msgstr ""
-"L'équipage de la Garde de Fer regarde avec horreur alors que vous mettez vos"
-" armes sous tension et vous préparez à les attaquer."
+"L'équipage de la Garde de Fer regarde avec horreur alors que vous alimentez "
+"vos armes et vous préparez à les attaquer."
 
 #: src-en/data/events_sector_og_iron.xml:1100
 msgid ""
@@ -1391,32 +1411,32 @@ msgstr "(Membre d'équipage Garde de Fer) Demander des provisions."
 #: src-en/data/events_sector_og_iron.xml:1108
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
-msgstr "\"Bien sûr, prenez ceci en guise de remerciement.\""
+msgstr "\"Bien sûr, prenez ceci en remerciement.\""
 
 #: src-en/data/events_sector_og_iron.xml:1113
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[3]/text"
-msgstr "Préparez votre prochain saut."
+msgstr "Se préparer pour votre prochain saut."
 
 #: src-en/data/events_sector_og_iron.xml:1122
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/text"
 msgstr ""
-"Le vaisseau civil ici semble échoué par le pulsar. \"Capitaine, Dieu merci "
+"Le vaisseau civil ici semble échoué par le pulsar. \"Capitaine, dieu merci "
 "vous êtes là, nos générateurs de saut ont été mis hors service quand le "
-"pulsar a frappé juste au moment où nous effectuions un saut, la surtension a"
-" grillé les moteurs. Nous manquons de provisions et n'avons pas d'ingénieur "
-"dédié à bord, toute aide serait appréciée.\""
+"pulsar a frappé juste au moment où nous exécutions un saut, le pic de "
+"puissance a grillé les moteurs. Nous manquons de provisions et n'avons pas "
+"d'ingénieur dédié à bord, toute aide serait appréciée.\""
 
 #: src-en/data/events_sector_og_iron.xml:1124
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/text"
-msgstr "Envoyez des provisions."
+msgstr "Envoyer quelques provisions."
 
 #: src-en/data/events_sector_og_iron.xml:1126
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/event/text"
-msgstr "\"Merci de votre aide, nous espérons pouvoir réparer cela rapidement.\""
+msgstr "\"Merci pour l'aide, espérons que nous pourrons régler cela rapidement.\""
 
 #: src-en/data/events_sector_og_iron.xml:1132
 msgid ""
@@ -1426,17 +1446,17 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1138
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr "(Membre d'équipage ingénieur) Voyez si votre ingénieur peut aider."
+msgstr "(Membre d'équipage Ingénieur) Voir si votre ingénieur peut aider."
 
 #: src-en/data/events_sector_og_iron.xml:1140
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
-"Votre équipage passe du temps à expérimenter et à travailler sur le "
-"générateur de saut défectueux. Finalement, ils parviennent à résoudre le "
-"problème, au grand plaisir du Capitaine. \"Tous les systèmes sont "
-"nominaux... Super ! Il devrait redémarrer une fois que nous aurons sauté. "
-"Merci de votre aide.\""
+"Votre équipage prend du temps à expérimenter et travailler avec le "
+"générateur de saut défectueux. Finalement, ils parviennent à trouver la "
+"racine du problème, au grand plaisir du capitaine. \"Tous les systèmes sont "
+"nominaux... Super ! Ça devrait revenir une fois qu'on sautera. Merci pour "
+"l'aide.\""
 
 #: src-en/data/events_sector_og_iron.xml:1143
 msgid ""
@@ -1456,7 +1476,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1157
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/text"
-msgstr "Attaquez pendant qu'ils sont impuissants !"
+msgstr "Attaquer pendant qu'ils sont sans défense !"
 
 #: src-en/data/events_sector_og_iron.xml:1159
 msgid ""
@@ -1477,8 +1497,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/text"
 msgstr ""
-"Le Capitaine du vaisseau soupire. \"Envoyez quelqu'un de notre côté si vous "
-"le pouvez.\""
+"Le capitaine du vaisseau soupire. \"Envoyez quelqu'un vers nous si vous "
+"pouvez.\""
 
 #: src-en/data/events_sector_og_iron.xml:1172
 msgid ""
@@ -1494,9 +1514,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[1]/text"
 msgstr ""
-"Votre drone commence à bricoler le générateur de saut cassé. Bientôt, le "
-"drone identifie le problème et le générateur reprend vie. \"Tous les "
-"systèmes sont nominaux... Super ! Merci de votre aide.\""
+"Votre drone commence à bricoler avec le générateur de saut cassé. Peu de "
+"temps après, le drone identifie le problème et le générateur prend vie. "
+"\"Tous les systèmes sont nominaux... Super ! Merci pour l'aide.\""
 
 #: src-en/data/events_sector_og_iron.xml:1191
 msgid ""
@@ -1507,31 +1527,31 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[2]/text"
 msgstr ""
-"Votre drone commence à bricoler le générateur de saut cassé. Il renvoie un "
-"rapport indiquant qu'il n'y a pas assez de ressources pour réparer, mais "
-"imprime une description de la façon dont il pourrait être réparé. \"Eh bien,"
-" je suppose que c'est mieux que rien... Maintenant, nous savons ce dont nous"
-" avons besoin.\" Ils vous donnent une petite récompense."
+"Votre drone commence à bricoler avec le générateur de saut cassé. Il "
+"retourne un rapport disant qu'il y a des ressources insuffisantes pour "
+"réparer, mais imprime un relevé de comment cela pourrait être réparé. \"Eh "
+"bien, je suppose que c'est mieux que rien... Maintenant nous savons ce dont "
+"nous avons besoin.\" Ils vous donnent une petite récompense."
 
 #: src-en/data/events_sector_og_iron.xml:1203
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[3]/text"
 msgstr ""
-"Votre drone commence à bricoler le générateur de saut cassé. Il prend vie un"
-" instant, puis lâche. Le drone imprime une description des problèmes qu'il a"
-" identifiés mais n'a pas pu résoudre. \"Eh bien, je suppose que c'est mieux "
-"que rien... Peut-être que nous pouvons nous en contenter pour l'instant.\" "
-"Ils vous donnent une modeste récompense."
+"Votre drone commence à bricoler avec le générateur de saut cassé. Il prend "
+"momentanément vie, puis explose. Le drone imprime un relevé des problèmes "
+"qu'il a identifiés mais n'a pas pu réparer. \"Eh bien, je suppose que c'est "
+"mieux que rien... Peut-être qu'on peut faire avec ça pour le moment.\" Ils "
+"vous donnent une récompense modeste."
 
 #: src-en/data/events_sector_og_iron.xml:1212
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[1]/text"
 msgstr ""
-"Votre équipage passe du temps à expérimenter et à travailler sur le "
-"générateur de saut défectueux. Finalement, ils parviennent à résoudre le "
-"problème, au grand plaisir du Capitaine. \"Tous les systèmes sont "
-"nominaux... Super ! Il devrait redémarrer une fois que nous aurons sauté. "
-"Merci de votre aide.\""
+"Votre équipage prend du temps à expérimenter et travailler avec le "
+"générateur de saut défectueux. Finalement, ils parviennent à trouver la "
+"racine du problème, au grand plaisir du capitaine. \"Tous les systèmes sont "
+"nominaux... Super ! Ça devrait revenir une fois qu'on sautera. Merci pour "
+"l'aide.\""
 
 #: src-en/data/events_sector_og_iron.xml:1215
 msgid ""
@@ -1542,48 +1562,48 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[2]/text"
 msgstr ""
-"Votre équipage passe du temps à expérimenter et à travailler sur le "
-"générateur de saut défectueux. Bien qu'ils ne parviennent pas à le faire "
-"fonctionner, ils réussissent à le diagnostiquer. \"Eh bien, je suppose que "
-"c'est mieux que rien... Maintenant nous savons ce qui ne va pas.\" Ils vous "
-"donnent une petite récompense."
+"Votre équipage prend du temps à expérimenter et travailler avec le "
+"générateur de saut défectueux. Bien qu'ils ne le fassent pas fonctionner, "
+"ils réussissent à le diagnostiquer. \"Eh bien, je suppose que c'est mieux "
+"que rien... Maintenant nous savons ce qui ne va pas.\" Ils vous donnent une "
+"petite récompense."
 
 #: src-en/data/events_sector_og_iron.xml:1224
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[3]/text"
 msgstr ""
-"Votre équipage passe du temps à expérimenter et à travailler sur le "
-"générateur de saut défectueux. Il prend vie un instant, puis lâche. Il "
-"semble qu'ils n'aient réussi qu'à le faire fonctionner partiellement. \"Eh "
-"bien, je suppose que c'est mieux que rien... Peut-être que nous pouvons nous"
-" en contenter pour l'instant.\" Ils vous donnent une modeste récompense."
+"Votre équipage prend du temps à expérimenter et travailler avec le "
+"générateur de saut défectueux. Il prend momentanément vie, puis explose. Il "
+"semble qu'ils ne l'aient fait fonctionner que partiellement. \"Eh bien, je "
+"suppose que c'est mieux que rien... Peut-être qu'on peut faire avec ça pour "
+"le moment.\" Ils vous donnent une récompense modeste."
 
 #: src-en/data/events_sector_og_iron.xml:1228
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[4]/text"
 msgstr ""
-"Votre équipage passe du temps à expérimenter et à travailler sur le "
-"générateur de saut défectueux. Alors qu'un de vos membres d'équipage ajuste "
-"quelque chose, le générateur lâche et brûle avant de prendre feu. Il semble "
-"que vous l'ayez complètement cassé. \"Bravo, imbécile. Maintenant, nous "
-"sommes complètement foutus.\""
+"Votre équipage prend du temps à expérimenter et travailler avec le "
+"générateur de saut défectueux. Alors que l'un de vos équipiers ajuste "
+"quelque chose, le générateur explose et brûle avant de prendre feu. Il "
+"semble que vous l'ayez complètement cassé. \"Bien joué, imbécile. Maintenant"
+" on est complètement foutus.\""
 
 #: src-en/data/events_sector_og_iron.xml:1231
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[5]/text"
 msgstr ""
-"Votre équipage passe du temps à expérimenter et à travailler sur le "
+"Votre équipage prend du temps à expérimenter et travailler avec le "
 "générateur de saut défectueux. Malgré tous leurs efforts, ils n'ont "
 "absolument aucune idée de ce qui ne va pas. L'équipage secoue la tête. "
-"\"Comment pensiez-vous savoir ce qui n'allait pas si nous n'avons pas pu le "
-"comprendre...?\""
+"\"Comment pensiez-vous savoir ce qui ne va pas si nous n'avons pas pu le "
+"découvrir... ?\""
 
 #: src-en/data/events_sector_og_iron.xml:1249
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/text"
 msgstr ""
-"Vous vous retrouvez face à face avec un transporteur de la Garde de Fer, vos"
-" capteurs sont capables de détecter que leur générateur de saut est en "
-"charge."
+"Vous êtes arrivé face à face avec un transporteur de la Garde de Fer, vos "
+"capteurs sont capables de détecter leur générateur de saut en cours de "
+"chargement."
 
 #: src-en/data/events_sector_og_iron.xml:1251
 msgid ""
@@ -1594,9 +1614,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/text"
 msgstr ""
-"Alors qu'ils exécutent le saut, vous voyez un astéroïde non défendu percuter"
-" le flanc du vaisseau, arrachant une section. Cela n'empêche pas le saut et "
-"le transporteur disparaît un instant plus tard."
+"Alors qu'ils exécutent le saut, vous voyez un astéroïde sans défense "
+"percuter le côté du vaisseau, arrachant une section. Cela n'empêche pas le "
+"saut et le transport disparaît un instant plus tard."
 
 #: src-en/data/events_sector_og_iron.xml:1256
 msgid ""
@@ -1607,8 +1627,8 @@ msgstr "Enquêter."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/text"
 msgstr ""
-"La plupart de l'épave est inutile, mais vous finissez par trouver un "
-"conteneur de fret, et à l'intérieur une tourelle d'apparence inhabituelle. "
+"La plupart des débris sont inutiles, mais vous finissez par trouver une "
+"caisse de chargement, et à l'intérieur une tourelle à l'aspect inhabituel. "
 "Il semble que cette tourelle avait une destination spécifique, un avant-"
 "poste à proximité. Vous notez les coordonnées."
 
@@ -1632,32 +1652,32 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/text"
 msgstr ""
 "Cette balise abrite un grand avant-poste, plusieurs vaisseaux peuvent être "
-"vus dans et autour de l'avant-poste. Vous apercevez le transporteur "
-"endommagé à proximité."
+"vus dans et autour de l'avant-poste. Vous repérez le transporteur endommagé "
+"à proximité."
 
 #: src-en/data/events_sector_og_iron.xml:1284
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/text"
-msgstr "Amarrer près du transporteur endommagé."
+msgstr "S'amarrer près du transporteur endommagé."
 
 #: src-en/data/events_sector_og_iron.xml:1286
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"Vous quittez votre vaisseau et entendez immédiatement la conversation "
-"bruyante qui se déroule à proximité : \" Je ne sais pas ce que nous allons "
-"faire, ils vont me prendre mon vaisseau à cause de ça. Pourquoi sommes-nous "
-"allés dans ce champ d'astéroïdes, cela ne nous a même pas fait gagner plus "
-"d'un saut. \""
+"Vous sortez de votre vaisseau et entendez immédiatement la conversation "
+"bruyante qui se déroule à proximité \"Je ne sais pas ce que nous allons "
+"faire, ils vont me retirer mon vaisseau pour ça. Pourquoi sommes-nous allés "
+"dans ce champ d'astéroïdes, cela ne nous a même pas fait gagner plus d'un "
+"saut.\""
 
 #: src-en/data/events_sector_og_iron.xml:1288
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
 "not(@lvl)]/text"
-msgstr "Montrez-leur la tourelle manquante."
+msgstr "Leur montrer la tourelle manquante."
 
 #: src-en/data/events_sector_og_iron.xml:1290
 msgid ""
@@ -1665,10 +1685,10 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
 "not(@lvl)]/event/text"
 msgstr ""
-"\"Oh merci le ciel, comment diable l'avez-vous trouvée dans le multivers ?\""
-" Vous expliquez que vous les avez vus se faire toucher et la perdre. \"Vous "
-"êtes un sauveur, prenez ces provisions en récompense.\" Avec la tourelle à "
-"la remorque, le capitaine du transporteur se dirige vers l'avant-poste."
+"\"Oh dieu merci, comment dans le multivers l'avez-vous trouvée ?\" Vous "
+"expliquez que vous les avez vus être touchés et la perdre. \"Vous êtes un "
+"sauveur, tenez, prenez ces provisions en récompense.\" Avec la tourelle en "
+"remorque, le capitaine du transport se dirige vers l'avant-poste."
 
 #: src-en/data/events_sector_og_iron.xml:1295
 msgid ""
@@ -1713,8 +1733,8 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
-"Vous pouvez vous amarrer à l'avant-poste, mais sans équipage, il sera "
-"difficile d'y faire quoi que ce soit."
+"Vous pouvez vous amarrer à l'avant-poste mais sans équipage, il sera "
+"difficile de faire quoi que ce soit là-bas."
 
 #: src-en/data/events_sector_og_iron.xml:1325
 msgid ""
@@ -1740,14 +1760,14 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/text"
 msgstr ""
-"Vous arrivez à la balise face à face avec un éclaireur Nouvelle Aube. Vous "
-"détectez immédiatement le vaisseau qui met sous tension son générateur de "
-"saut, vous n'avez qu'un instant avant qu'il ne saute."
+"Vous arrivez à la balise face à face avec un éclaireur de la Nouvelle Aube. "
+"Vous détectez immédiatement le vaisseau en train d'alimenter son générateur "
+"de saut, vous n'avez qu'un instant avant qu'ils ne sautent."
 
 #: src-en/data/events_sector_og_iron.xml:1354
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[1]/text"
-msgstr "Tentez de tirer sur leur générateur de saut !"
+msgstr "Tenter de tirer sur leur générateur de saut !"
 
 #: src-en/data/events_sector_og_iron.xml:1358
 msgid ""
@@ -1775,9 +1795,9 @@ msgid ""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 "Finalement, ils répondent : \"Renégat, si vous voulez savoir quoi que ce "
-"soit, vous allez devoir nous prouver votre valeur. Il y a un dépôt de "
-"fournitures de la Garde de Fer à proximité, allez-y et détruisez-le, puis "
-"nous parlerons.\" Sur ce, ils sautent."
+"soit, vous allez devoir faire vos preuves auprès de nous. Il y a un dépôt de"
+" provisions de la Garde de Fer à proximité, allez-y et détruisez-le, ensuite"
+" nous parlerons.\" Avec cela, ils sautent."
 
 #: src-en/data/events_sector_og_iron.xml:1373
 msgid ""
@@ -1790,10 +1810,10 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/text"
 msgstr ""
-"Le vaisseau coupe immédiatement ses communications, un instant plus tard il "
-"est parti. Il semble qu'ils n'aient aucun intérêt à vous écouter, peut-être "
-"que s'ils avaient entendu parler de vous, ils seraient plus disposés à le "
-"faire."
+"Le vaisseau coupe immédiatement leurs communications, un instant plus tard "
+"ils sont partis. Il semble qu'ils n'aient aucun intérêt à vous écouter, "
+"peut-être que s'ils avaient entendu parler de vous, ils seraient plus "
+"enclins à écouter."
 
 #: src-en/data/events_sector_og_iron.xml:1378
 msgid ""
@@ -1831,8 +1851,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[1]/text"
 msgstr ""
-"L'éclaireur Nouvelle Aube esquive facilement votre attaque, un instant plus "
-"tard il a sauté."
+"L'éclaireur de la Nouvelle Aube esquive facilement votre attaque, un instant"
+" plus tard ils ont sauté."
 
 #: src-en/data/events_sector_og_iron.xml:1408
 msgid ""
@@ -1843,7 +1863,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[2]/text"
 msgstr ""
-"Vous touchez directement leurs moteurs, désactivant leur générateur de saut."
+"Vous marquez un coup direct sur leurs moteurs, désactivant leur générateur "
+"de saut."
 
 #: src-en/data/events_sector_og_iron.xml:1417
 msgid ""
@@ -1864,15 +1885,15 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
-"Emplacement du dépôt de ravitaillement de la Garde de Fer que la Nouvelle "
-"Aube vous a chargé de détruire."
+"L'emplacement du dépôt de provisions de la Garde de Fer que vous avez été "
+"chargé de détruire par la Nouvelle Aube."
 
 #: src-en/data/events_sector_og_iron.xml:1449
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise pour trouver le dépôt de ravitaillement de la "
-"Garde de Fer, malheureusement il n'est pas seul, un vaisseau Garde de Fer "
+"Vous êtes arrivé à la balise pour trouver le dépôt de provisions de la Garde"
+" de Fer, malheureusement il n'est pas seul, un vaisseau de la Garde de Fer "
 "monte la garde à proximité."
 
 #: src-en/data/events_sector_og_iron.xml:1451
@@ -1884,8 +1905,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/event/text"
 msgstr ""
-"Le vaisseau Garde de Fer se place rapidement entre vous et le dépôt, "
-"préparez-vous au combat."
+"Le vaisseau de la Garde de Fer se déplace rapidement entre vous et le dépôt,"
+" préparez-vous à combattre."
 
 #: src-en/data/events_sector_og_iron.xml:1456
 msgid ""
@@ -1895,14 +1916,14 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1462
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/text"
-msgstr "Les avertir de l'attaque."
+msgstr "Les prévenir de l'attaque."
 
 #: src-en/data/events_sector_og_iron.xml:1464
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/event/text"
 msgstr ""
-"La Garde de Fer est très reconnaissante de l'avertissement et offre des "
-"provisions en guise de remerciement."
+"La Garde de Fer est très reconnaissante pour l'avertissement et ils offrent "
+"quelques provisions en remerciement."
 
 #: src-en/data/events_sector_og_iron.xml:1467
 msgid ""
@@ -1912,7 +1933,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1473
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/text"
-msgstr "Abandonnez votre mission."
+msgstr "Abandonner votre mission."
 
 #: src-en/data/events_sector_og_iron.xml:1475
 msgid ""
@@ -1933,11 +1954,11 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/text"
 msgstr ""
-"Une fois le vaisseau de garde neutralisé, vous pouvez accéder au dépôt, le "
-"piller et le détruire. Il semble que la Nouvelle Aube vous surveillait car "
-"peu de temps après, vous recevez un message. \" Il semble que vous ayez déjà"
-" rencontré d'autres membres de la Nouvelle Aube, nous vous retrouverons à la"
-" base d'opérations avancée de la Nouvelle Aube. \""
+"Avec le vaisseau de garde traité, vous êtes capable d'accéder, de piller et "
+"de détruire le dépôt. Il semble que la Nouvelle Aube surveillait car il ne "
+"se passe pas très longtemps avant que vous ne receviez un message. \"Il "
+"semble que vous ayez déjà rencontré d'autres membres de la Nouvelle Aube, "
+"nous vous trouverons à la base d'opérations avancée de la Nouvelle Aube.\""
 
 #: src-en/data/events_sector_og_iron.xml:1495
 msgid ""
@@ -1948,10 +1969,11 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/text"
 msgstr ""
-"Une fois le vaisseau de garde neutralisé, vous pouvez accéder au dépôt, le "
-"piller et le détruire. Il semble que la Nouvelle Aube vous surveillait car "
-"peu de temps après, vous recevez un message. \" Retrouvez-nous à la base "
-"d'opérations avancée de la Nouvelle Aube, nous parlerons là-bas. \""
+"Avec le vaisseau de garde traité, vous êtes capable d'accéder, de piller et "
+"de détruire le dépôt. Il semble que la Nouvelle Aube surveillait car il ne "
+"se passe pas très longtemps avant que vous ne receviez un message. "
+"\"Trouvez-nous à la base d'opérations avancée de la Nouvelle Aube, nous "
+"parlerons là-bas.\""
 
 #: src-en/data/events_sector_og_iron.xml:1506
 msgid ""
@@ -1968,7 +1990,7 @@ msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[1]"
 msgstr ""
 "Alors que vous sautez dans le système, un vaisseau renégat de la Garde de "
-"Fer avance sur votre position. Ils refusent tout appel. Préparez-vous au "
+"Fer avance sur votre position. Ils refusent tout appel. Préparez-vous à un "
 "combat."
 
 #: src-en/data/events_sector_og_iron.xml:1541
@@ -1991,9 +2013,9 @@ msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/text"
 msgstr ""
 "Cette balise a été placée trop près d'une étoile à neutrons ! Le champ de "
-"radiations ionisera temporairement vos systèmes. Les vaisseaux de la Garde "
-"de Fer ont apparemment été conçus pour rester très efficaces en présence de "
-"pulsars, vous allez passer un mauvais quart d'heure."
+"radiation ionisera temporairement vos systèmes. Les vaisseaux de la Garde de"
+" Fer ont apparemment été conçus pour rester très efficaces en présence de "
+"pulsars, vous allez passer un mauvais moment."
 
 #: src-en/data/events_sector_og_iron.xml:1551
 msgid ""
@@ -2005,8 +2027,8 @@ msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/text"
 msgstr ""
 "Cette balise a été placée trop près d'une étoile à neutrons ! Le champ de "
-"radiations ionisera temporairement vos systèmes. Un pirate, apparemment "
-"inconscient du danger du pulsar, s'approche pour engager le combat."
+"radiation ionisera temporairement vos systèmes. Un pirate, apparemment "
+"inconscient du danger du pulsar, avance pour engager le combat."
 
 #: src-en/data/events_sector_og_iron.xml:1561
 msgid ""
@@ -2026,9 +2048,9 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1589
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/text"
 msgstr ""
-"Vous êtes arrivé à une balise plutôt déserte, il y a très peu de choses "
-"notables ici à part l'avant-poste Garde de Fer que vous détectez en orbite "
-"autour d'une planète voisine."
+"Vous êtes arrivé à une balise plutôt désolée, il y a très peu à noter ici à "
+"part l'avant-poste de la Garde de Fer que vous détectez en orbite autour "
+"d'une planète voisine."
 
 #: src-en/data/events_sector_og_iron.xml:1591
 msgid ""
@@ -2039,10 +2061,10 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/text"
 msgstr ""
-"Alors que vous commenciez à vous ennuyer, un autre vaisseau saute dans le "
-"système, il ne ressemble à aucun vaisseau Garde de Fer que vous ayez vu "
-"auparavant, il semble s'agir d'un nouveau type de croiseur, peut-être un "
-"prototype."
+"Juste au moment où vous commenciez à vous ennuyer, un autre vaisseau saute "
+"dans le système, il est différent de tout vaisseau de la Garde de Fer que "
+"vous avez vu auparavant, il semble être un type de nouveau croiseur, peut-"
+"être un prototype."
 
 #: src-en/data/events_sector_og_iron.xml:1596
 msgid ""
@@ -2053,48 +2075,47 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/text"
 msgstr ""
-"Vous regardez le prototype s'amarrer à l'avant-poste lointain. Quelques "
-"minutes plus tard, le vaisseau se désamarre et saute avant que vous ne "
-"puissiez faire quoi que ce soit."
+"Vous regardez alors que le prototype s'amarre à l'avant-poste distant. Ce "
+"n'est que quelques minutes plus tard que le vaisseau se détache et saute "
+"avant que vous ne puissiez faire quoi que ce soit."
 
 #: src-en/data/events_sector_og_iron.xml:1601
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/text"
 msgstr ""
-"(Bonne réputation) Renseignez-vous sur le vaisseau auprès de l'avant-poste."
+"(Réputation Amicale) Se renseigner sur le vaisseau auprès de l'avant-poste."
 
 #: src-en/data/events_sector_og_iron.xml:1605
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"(Réputation Neutre) Renseignez-vous sur le vaisseau auprès de l'avant-poste."
+"(Réputation Neutre) Se renseigner sur le vaisseau auprès de l'avant-poste."
 
 #: src-en/data/events_sector_og_iron.xml:1609
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
-"(Mauvaise réputation) Renseignez-vous sur le vaisseau auprès de l'avant-"
-"poste."
+"(Réputation Négative) Se renseigner sur le vaisseau auprès de l'avant-poste."
 
 #: src-en/data/events_sector_og_iron.xml:1613
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/text"
-msgstr "(Capteurs de pointe) Scannez le sillage de saut créé par le vaisseau."
+msgstr "(Capteurs de pointe) Scanner le sillage de saut créé par le vaisseau."
 
 #: src-en/data/events_sector_og_iron.xml:1615
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/event/text"
 msgstr ""
-"En scannant le rayonnement émis par le saut, vous êtes capable de trianguler"
-" la destination approximative du prototype."
+"En scannant la radiation émise par le saut, vous êtes capable de trianguler "
+"la destination approximative du prototype."
 
 #: src-en/data/events_sector_og_iron.xml:1620
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/text"
-msgstr "Passez votre chemin."
+msgstr "Passer à autre chose."
 
 #: src-en/data/events_sector_og_iron.xml:1622
 msgid ""
@@ -2115,8 +2136,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/text"
 msgstr ""
-"Un instant avant que l'avant-poste ne vous salue : \"Nous ne sommes pas "
-"vraiment censés divulguer cette information, mais nous ferons une exception "
+"C'est un moment avant que l'avant-poste ne vous salue, \"Nous ne sommes pas "
+"vraiment censés donner cette information, mais nous ferons une exception "
 "pour vous.\""
 
 #: src-en/data/events_sector_og_iron.xml:1643
@@ -2133,9 +2154,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/text"
 msgstr ""
-"Un instant avant que l'avant-poste ne vous salue, et quand ils le font, vous"
-" vous heurtez à un mur immédiat : \"Je suis désolé, nous ne pouvons fournir "
-"aucune information sur ce vaisseau.\""
+"C'est un moment avant que l'avant-poste ne vous salue, et quand ils le font,"
+" vous êtes confronté à un mur immédiat, \"Je suis désolé, nous ne pouvons "
+"fournir aucune information sur ce vaisseau.\""
 
 #: src-en/data/events_sector_og_iron.xml:1654
 msgid ""
@@ -2152,28 +2173,34 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1661
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/text"
-msgstr "Offrir un plus gros pot-de-vin."
+msgstr "Offrir un pot-de-vin plus important."
 
 #: src-en/data/events_sector_og_iron.xml:1666
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"L'avant-poste reçoit votre ferraille : \"Ah ça, c'est autre chose, nous ne "
-"pouvons pas vous le dire, mais récemment, nos communications ont en fait mal"
-" fonctionné et ont envoyé des informations sécurisées sur les canaux "
-"publics, il faut vraiment y jeter un œil...\" Un instant plus tard, votre "
-"équipage capte la position d'un vaisseau diffusée sur l'un des canaux "
+"L'avant-poste reçoit votre ferraille, \"Maintenant ça c'est quelque chose, "
+"nous ne pouvons pas vous dire, mais récemment nos communications ont en fait"
+" mal fonctionné et envoyé des informations sécurisées sur les canaux "
+"publics, cela doit vraiment être examiné...\" Un instant plus tard votre "
+"équipage capte l'emplacement d'un vaisseau diffusé sur l'un des canaux "
 "publics."
 
 #: src-en/data/events_sector_og_iron.xml:1671
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/text"
-msgstr "Menacez l'avant-poste pour obtenir l'information."
+msgstr "Menacer l'avant-poste pour obtenir l'information."
 
 #: src-en/data/events_sector_og_iron.xml:1673
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
+=======
+"L'avant-poste est effectivement sans défense contre vos armes, ils "
+"capitulent rapidement face à vos demandes, téléchargeant les données sur le "
+"prototype. Ils retournent aussi aimablement votre don."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_og_iron.xml:1679
 msgid ""
@@ -2183,7 +2210,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1685
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/text"
-msgstr "Passez votre chemin sans l'information."
+msgstr "Passer à autre chose sans l'information."
 
 #: src-en/data/events_sector_og_iron.xml:1687
 msgid ""
@@ -2205,28 +2232,34 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1701
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/text"
-msgstr "Offrir un plus gros pot-de-vin."
+msgstr "Offrir un pot-de-vin plus important."
 
 #: src-en/data/events_sector_og_iron.xml:1706
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
 msgstr ""
-"L'avant-poste reçoit votre ferraille : \"Ah ça, c'est autre chose, nous ne "
-"pouvons pas vous le dire, mais récemment, nos communications ont en fait mal"
-" fonctionné et ont envoyé des informations sécurisées sur les canaux "
-"publics, il faut vraiment y jeter un œil...\" Un instant plus tard, votre "
-"équipage capte la position d'un vaisseau diffusée sur l'un des canaux "
+"L'avant-poste reçoit votre ferraille, \"Maintenant ça c'est quelque chose, "
+"nous ne pouvons pas vous dire, mais récemment nos communications ont en fait"
+" mal fonctionné et envoyé des informations sécurisées sur les canaux "
+"publics, cela doit vraiment être examiné...\" Un instant plus tard votre "
+"équipage capte l'emplacement d'un vaisseau diffusé sur l'un des canaux "
 "publics."
 
 #: src-en/data/events_sector_og_iron.xml:1711
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/text"
-msgstr "Menacez l'avant-poste pour obtenir l'information."
+msgstr "Menacer l'avant-poste pour obtenir l'information."
 
 #: src-en/data/events_sector_og_iron.xml:1713
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
+=======
+"L'avant-poste est effectivement sans défense contre vos armes, ils "
+"capitulent rapidement face à vos demandes, téléchargeant les données sur le "
+"prototype."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_og_iron.xml:1716
 msgid ""
@@ -2237,18 +2270,19 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr "(Piratage) Accédez à distance à leur stockage de données."
+msgstr "(Piratage) Accéder à distance à leur stockage de données."
 
 #: src-en/data/events_sector_og_iron.xml:1724
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"Pendant que vous discutez avec l'avant-poste, vous configurez le système de "
-"piratage pour lire leur stockage de données et télécharger leurs données de "
-"communication récentes. Une fois le téléchargement terminé, vous faites vos "
-"adieux avec la localisation du prototype en main. Malheureusement, votre "
-"piratage est détecté juste au moment où vous partez."
+"Pendant que vous faites la conversation avec l'avant-poste, vous configurez "
+"le système de Piratage pour obtenir une lecture de leur stockage de données,"
+" et téléchargez leurs récentes données de communication. Une fois le "
+"téléchargement terminé, vous dites au revoir avec l'emplacement du prototype"
+" en main. Malheureusement, votre piratage est détecté au moment où vous "
+"partez."
 
 #: src-en/data/events_sector_og_iron.xml:1727
 msgid ""
@@ -2260,22 +2294,23 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr "(Piratage avancé) Accédez à distance à leur stockage de données."
+msgstr "(Piratage de pointe) Accéder à distance à leur stockage de données."
 
 #: src-en/data/events_sector_og_iron.xml:1735
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
-"Pendant que vous discutez avec l'avant-poste, vous configurez le système de "
-"piratage pour lire leur stockage de données et télécharger leurs données de "
-"communication récentes. Une fois le téléchargement terminé, vous faites vos "
-"adieux avec la localisation du prototype en main."
+"Pendant que vous faites la conversation avec l'avant-poste, vous configurez "
+"le système de Piratage pour obtenir une lecture de leur stockage de données,"
+" et téléchargez leurs récentes données de communication. Une fois le "
+"téléchargement terminé, vous dites au revoir avec l'emplacement du prototype"
+" en main."
 
 #: src-en/data/events_sector_og_iron.xml:1740
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/text"
-msgstr "Passez votre chemin sans l'information."
+msgstr "Passer à autre chose sans l'information."
 
 #: src-en/data/events_sector_og_iron.xml:1742
 msgid ""
@@ -2298,19 +2333,25 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/text"
 msgstr ""
-"Un instant avant que l'avant-poste ne vous salue, et quand ils le font, vous"
-" vous heurtez à un mur immédiat : \"Même si nous pouvions vous le dire, nous"
-" ne le ferions pas.\""
+"C'est un moment avant que l'avant-poste ne vous salue, et quand ils le font,"
+" vous êtes confronté à un mur immédiat, \"Même si nous pouvions vous le "
+"dire, nous ne le ferions pas.\""
 
 #: src-en/data/events_sector_og_iron.xml:1758
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/text"
-msgstr "Menacez l'avant-poste pour obtenir l'information."
+msgstr "Menacer l'avant-poste pour obtenir l'information."
 
 #: src-en/data/events_sector_og_iron.xml:1760
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
+=======
+"L'avant-poste est effectivement sans défense contre vos armes, ils "
+"capitulent rapidement face à vos demandes, téléchargeant les données sur le "
+"prototype."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_og_iron.xml:1763
 msgid ""
@@ -2321,19 +2362,19 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr "(Piratage) Accédez à distance à leur stockage de données."
+msgstr "(Piratage) Accéder à distance à leur stockage de données."
 
 #: src-en/data/events_sector_og_iron.xml:1771
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"Vous configurez le système de piratage pour lire leur stockage de données et"
-" télécharger leurs données de communication récentes. Une fois le "
-"téléchargement terminé, vous faites vos adieux avec la localisation du "
-"prototype en main. Malheureusement, votre piratage est détecté juste au "
-"moment où vous partez et vous les détectez en train de le signaler aux "
-"avant-postes Garde de Fer voisins."
+"Vous configurez le système de Piratage pour obtenir une lecture de leur "
+"stockage de données, et téléchargez leurs récentes données de communication."
+" Une fois le téléchargement terminé, vous dites au revoir avec l'emplacement"
+" du prototype en main. Malheureusement, votre piratage est détecté au moment"
+" où vous partez et vous les détectez en train de le signaler aux avant-"
+"postes voisins de la Garde de Fer."
 
 #: src-en/data/events_sector_og_iron.xml:1774
 msgid ""
@@ -2345,22 +2386,22 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr "(Piratage avancé) Accédez à distance à leur stockage de données."
+msgstr "(Piratage de pointe) Accéder à distance à leur stockage de données."
 
 #: src-en/data/events_sector_og_iron.xml:1782
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
-"Vous configurez le système de piratage pour lire leur stockage de données et"
-" télécharger leurs données de communication récentes. Une fois le "
-"téléchargement terminé, vous faites vos adieux avec la localisation du "
-"prototype en main."
+"Vous configurez le système de Piratage pour obtenir une lecture de leur "
+"stockage de données, et téléchargez leurs récentes données de communication."
+" Une fois le téléchargement terminé, vous dites au revoir avec l'emplacement"
+" du prototype en main."
 
 #: src-en/data/events_sector_og_iron.xml:1787
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/text"
-msgstr "Passez votre chemin sans l'information."
+msgstr "Passer à autre chose sans l'information."
 
 #: src-en/data/events_sector_og_iron.xml:1789
 msgid ""
@@ -2392,15 +2433,15 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1825
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/beaconType/unvisitedTooltip"
-msgstr "Emplacement du vaisseau prototype Garde de Fer."
+msgstr "L'emplacement du prototype de vaisseau de la Garde de Fer."
 
 #: src-en/data/events_sector_og_iron.xml:1830
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/text"
 msgstr ""
-"Vous arrivez à la balise pour découvrir le vaisseau Garde de Fer en orbite "
-"autour du pulsar ici, il semble qu'ils testent leurs systèmes d'armes sur un"
-" astéroïde voisin."
+"Vous arrivez à la balise pour découvrir le vaisseau de la Garde de Fer en "
+"orbite autour du pulsar ici, il semble qu'ils testent leurs systèmes d'armes"
+" sur un astéroïde voisin."
 
 #: src-en/data/events_sector_og_iron.xml:1832
 msgid ""
@@ -2411,29 +2452,29 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/text"
 msgstr ""
-"Alors que vous regardez une grande vague du pulsar balayer le prototype, vos capteurs indiquent que plusieurs des systèmes à bord sont immédiatement désactivés par le pulsar.\n"
-"Si cela ne suffisait pas, un nouveau vaisseau se révèle derrière un astéroïde voisin. Il semble s'agir de l'un de ces vaisseaux Nouvelle Aube, et il se dirige vers le prototype."
+"Alors que vous regardez, une grande vague provenant du pulsar balaye le prototype, vos capteurs indiquent que plusieurs systèmes à bord sont immédiatement désactivés par le pulsar.\n"
+"Si ce n'est pas assez grave, un nouveau vaisseau se révèle de derrière un astéroïde voisin, il semble être l'un de ces vaisseaux de la Nouvelle Aube, et il avance sur le prototype."
 
 #: src-en/data/events_sector_og_iron.xml:1838
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[1]/text"
-msgstr "Avancez et défendez le prototype Garde de Fer."
+msgstr "Avancer et défendre le prototype de la Garde de Fer."
 
 #: src-en/data/events_sector_og_iron.xml:1842
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/text"
 msgstr ""
-"Aidez le vaisseau Nouvelle Aube dans son attaque sur le prototype lourdement"
-" armé."
+"Aider le vaisseau de la Nouvelle Aube dans son attaque sur le prototype "
+"lourdement armé."
 
 #: src-en/data/events_sector_og_iron.xml:1845
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/text"
 msgstr ""
-"Vous tournez votre attention vers le prototype, malheureusement au moment où"
-" vous êtes prêt, le vaisseau s'est presque entièrement remis de l'impact du "
-"pulsar. Vous n'êtes pas seul cependant, vous avez le soutien du vaisseau "
-"Nouvelle Aube."
+"Vous portez votre attention sur le prototype, malheureusement au moment où "
+"vous êtes prêt, le vaisseau a presque entièrement récupéré du coup du "
+"pulsar. Vous n'êtes cependant pas seul, vous avez le soutien du vaisseau de "
+"la Nouvelle Aube."
 
 #: src-en/data/events_sector_og_iron.xml:1849
 msgid ""
@@ -2443,7 +2484,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1855
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/text"
-msgstr "Retraitez à une distance sûre et restez en dehors du combat."
+msgstr "Se retirer à une distance de sécurité et rester hors du combat."
 
 #: src-en/data/events_sector_og_iron.xml:1857
 msgid ""
@@ -2466,12 +2507,12 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
 msgstr ""
-"Le vaisseau Garde de Fer s'est en grande partie remis de l'attaque, ils vous"
-" contactent. \" Nous sommes reconnaissants de votre aide Capitaine, nous ne "
-"sommes pas sûrs que nous aurions survécu sans votre aide. Peut-être est-il "
-"temps que nous prenions une présence plus active dans votre guerre contre la"
-" rébellion. Nous enverrons les plans du prototype à la fédération, peut-être"
-" pourront-ils l'utiliser. \""
+"Le vaisseau de la Garde de Fer a principalement récupéré de l'attaque, ils "
+"vous contactent. \"Nous sommes reconnaissants pour votre aide Capitaine, "
+"nous ne sommes pas sûrs que nous aurions survécu sans votre aide. Peut-être "
+"est-il temps que nous prenions une présence plus active dans votre guerre "
+"contre la rébellion. Nous enverrons les plans du prototype à la fédération, "
+"peut-être qu'ils pourront l'utiliser.\""
 
 #: src-en/data/events_sector_og_iron.xml:1877
 msgid ""
@@ -2482,11 +2523,11 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/text"
 msgstr ""
-"Le vaisseau Nouvelle Aube se méfie encore de vous même après le combat. Vous"
-" les regardez s'approcher de l'épave et en extraire délicatement un seul "
-"composant, vous ne savez pas ce que c'est, mais une fois cela fait, ils "
-"s'éloignent de l'épave, désintéressés par le reste. Vous recevez un simple "
-"merci avant qu'ils ne partent."
+"Le vaisseau de la Nouvelle Aube est toujours méfiant envers vous même après "
+"le combat. Vous regardez alors qu'ils s'approchent de l'épave et extraient "
+"soigneusement un seul composant, vous ne savez pas ce que c'est, mais une "
+"fois cela fait, ils s'éloignent de l'épave, désintéressés du reste. Vous "
+"recevez un simple merci avant qu'ils ne partent."
 
 #: src-en/data/events_sector_og_iron.xml:1888
 msgid ""
@@ -2497,13 +2538,13 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/text"
 msgstr ""
-"Le vaisseau Nouvelle Aube se méfie encore de vous même après le combat. Vous"
-" les regardez s'approcher de l'épave et en extraire délicatement un seul "
-"composant, vous ne savez pas ce que c'est, mais une fois cela fait, ils "
-"s'éloignent de l'épave, désintéressés par le reste. \" Capitaine, si jamais "
-"vous arrivez à la base d'opérations avancée de la Nouvelle Aube, je "
-"veillerai à ce que vous passiez sans opposition, essayez de me trouver une "
-"fois que vous y serez. \""
+"Le vaisseau de la Nouvelle Aube est toujours méfiant envers vous même après "
+"le combat. Vous regardez alors qu'ils s'approchent de l'épave et extraient "
+"soigneusement un seul composant, vous ne savez pas ce que c'est, mais une "
+"fois cela fait, ils s'éloignent de l'épave, désintéressés du reste. "
+"\"Capitaine, si jamais vous arrivez à la base d'opérations avancée de la "
+"Nouvelle Aube, je m'assurerai que vous passiez sans opposition, essayez de "
+"me trouver une fois que vous y serez.\""
 
 #: src-en/data/events_sector_og_iron.xml:1899
 msgid ""

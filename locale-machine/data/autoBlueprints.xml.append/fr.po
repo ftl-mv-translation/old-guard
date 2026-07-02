@@ -38,7 +38,7 @@ msgstr "Chasseur de la Garde de Fer"
 #: src-en/data/autoBlueprints.xml.append:331
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_TRANSPORT\"]/class"
-msgstr "Transport de la Garde de Fer"
+msgstr "Transporteur de la Garde de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:360
 msgid ""
@@ -83,7 +83,7 @@ msgstr "Chasseur de la Nouvelle Aube"
 #: src-en/data/autoBlueprints.xml.append:677
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_TRANSPORT\"]/class"
-msgstr "Transport de la Nouvelle Aube"
+msgstr "Transporteur de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:707
 msgid ""
@@ -98,7 +98,7 @@ msgstr "Garde de la Nouvelle Aube"
 #: src-en/data/autoBlueprints.xml.append:769
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_LEGION_ASSAULT_TURRET\"]/class"
-msgstr "Chasseur d'attaque Légionnaire"
+msgstr "Assaut Légionnaire"
 
 #: src-en/data/autoBlueprints.xml.append:796
 msgid ""

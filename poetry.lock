@@ -681,7 +681,11 @@ requests = "^2.31.0"
 type = "git"
 url = "https://github.com/ftl-mv-translation/mvloc.git"
 reference = "HEAD"
+<<<<<<< Updated upstream
 resolved_reference = "6472d40bfb7a0ab24feb65a67432e935fa0a3760"
+=======
+resolved_reference = "0d98e915325b89988aaeb2f3156e938b0a89cd13"
+>>>>>>> Stashed changes
 
 [[package]]
 name = "polib"

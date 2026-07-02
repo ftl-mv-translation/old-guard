@@ -23,13 +23,13 @@ msgstr "Atteignez le Secteur 8 avec le Type A pour débloquer ce vaisseau."
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_RAIDER_3_unlock\"]"
 msgstr ""
-"Accomplissez 2/3 des succès de cette classe de vaisseau pour débloquer ce "
+"Terminez 2/3 des succès de cette classe de vaisseau pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_misc.xml.append:10
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_unlock\"]"
-msgstr "Gagnez avec 2 vaisseaux de classe Chasseur."
+msgstr "Gagnez avec n'importe quels 2 vaisseaux de classe Pillard."
 
 #: src-en/data/text_misc.xml.append:11
 msgid ""
@@ -40,7 +40,7 @@ msgstr "Atteignez le Secteur 8 avec le Type A pour débloquer ce vaisseau."
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_3_unlock\"]"
 msgstr ""
-"Accomplissez 2/3 des succès de cette classe de vaisseau pour débloquer ce "
+"Terminez 2/3 des succès de cette classe de vaisseau pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_misc.xml.append:14
@@ -59,13 +59,13 @@ msgstr "Atteignez le Secteur 8 avec le Type A pour débloquer ce vaisseau."
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_SPEAR_3_unlock\"]"
 msgstr ""
-"Accomplissez 2/3 des succès de cette classe de vaisseau pour débloquer ce "
+"Terminez 2/3 des succès de cette classe de vaisseau pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_misc.xml.append:18
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_unlock\"]"
-msgstr "Gagnez avec 2 vaisseaux de classe Fer de Lance."
+msgstr "Gagnez avec n'importe quels 2 vaisseaux de classe Pointe de Lance."
 
 #: src-en/data/text_misc.xml.append:19
 msgid ""
@@ -76,57 +76,57 @@ msgstr "Atteignez le Secteur 8 avec le Type A pour débloquer ce vaisseau."
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_3_unlock\"]"
 msgstr ""
-"Accomplissez 2/3 des succès de cette classe de vaisseau pour débloquer ce "
+"Terminez 2/3 des succès de cette classe de vaisseau pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_misc.xml.append:22
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_REBEL_unlock\"]"
 msgstr ""
-"Atteignez le secteur 5 avec le croiseur Faucon de Fer pour débloquer ce "
+"Atteignez le Secteur 5 avec le Croiseur Kestrel de Fer pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_misc.xml.append:23
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_CURA_unlock\"]"
 msgstr ""
-"Atteignez le secteur 5 avec le croiseur Rebelle de Fer pour débloquer ce "
+"Atteignez le Secteur 5 avec le Croiseur Rebelle de Fer pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_misc.xml.append:24
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_SEPARATIST_unlock\"]"
 msgstr ""
-"Atteignez le secteur 5 avec le croiseur Innovation de Fer pour débloquer ce "
+"Atteignez le Secteur 5 avec le Croiseur Innovation de Fer pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_misc.xml.append:25
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ANGEL_unlock\"]"
 msgstr ""
-"Atteignez le secteur 5 avec le croiseur Séparatiste de Fer pour débloquer ce"
+"Atteignez le Secteur 5 avec le Croiseur Séparatiste de Fer pour débloquer ce"
 " vaisseau."
 
 #: src-en/data/text_misc.xml.append:26
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ROCK_unlock\"]"
 msgstr ""
-"Atteignez le secteur 5 avec le croiseur Porteur de Mort Angélique de Fer "
+"Atteignez le Secteur 5 avec le Croiseur Porteur de Mort Angélique de Fer "
 "pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:27
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_PEACEKEEPER_unlock\"]"
 msgstr ""
-"Atteignez le secteur 5 avec le croiseur Rocailleux de Fer pour débloquer ce "
+"Atteignez le Secteur 5 avec le Croiseur Rocailleux de Fer pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_misc.xml.append:28
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_KNIGHT_unlock\"]"
 msgstr ""
-"Atteignez le secteur 5 avec le croiseur Pacificateur de Fer pour débloquer "
-"ce vaisseau."
+"Atteignez le Secteur 5 avec le Croiseur de Maintien de la Paix de Fer pour "
+"débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"loot_og_dawn_1\"]"
@@ -217,10 +217,11 @@ msgstr "Système de Contrôle des Tourelles installé"
 
 #: src-en/data/text_misc.xml.append:68
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive\"]"
-msgstr "Contrôle de tourelle adaptatif"
+msgstr "Contrôle de Tourelle Adaptatif"
 
 #: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_installed\"]"
+<<<<<<< Updated upstream
 msgstr "Système de contrôle de tourelle adaptatif installé"
 
 #: src-en/data/text_misc.xml.append:70
@@ -239,3 +240,6 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single_installed\"]"
 msgstr ""
+=======
+msgstr "Système de Contrôle de Tourelle Adaptatif installé"
+>>>>>>> Stashed changes
