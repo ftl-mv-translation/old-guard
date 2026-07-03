@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-02 15:36+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-07-04 04:36+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -120,7 +120,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:86
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_2_LARGE\"]/title"
-msgstr ""
+msgstr "Вторичная расширенная схемотехника"
 
 #: src-en/data/blueprints.xml.append:87
 msgid ""
@@ -130,7 +130,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:94
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/title"
-msgstr ""
+msgstr "Вторичная расширенная схемотехника [В]"
 
 #: src-en/data/blueprints.xml.append:95
 #, fuzzy
@@ -147,7 +147,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY\"]/title"
-msgstr ""
+msgstr "Вторичная турель"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
@@ -157,7 +157,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/title"
-msgstr ""
+msgstr "Вторичная турель [В]"
 
 #: src-en/data/blueprints.xml.append:113
 msgid ""
@@ -261,7 +261,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:274
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_2\"]/title"
-msgstr ""
+msgstr "Вторичная турель"
 
 #: src-en/data/blueprints.xml.append:275
 msgid ""
@@ -731,6 +731,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/desc"
 msgstr ""
+"Морозные лазеры - одни из немногих орудий, способных изолировать отсеки, "
+"лишая большинство экипажа возможности входить или выходить."
 
 #: src-en/data/blueprints.xml.append:887
 msgid ""
@@ -927,17 +929,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/title"
-msgstr ""
+msgstr "Клонопульта"
 
 #: src-en/data/blueprints.xml.append:1127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/short"
-msgstr ""
+msgstr "Клон"
 
 #: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/desc"
 msgstr ""
+"Ни одно оружие никогда не вызывало более серьезных этических споров, чем "
+"это, но работает оно как надо. Клонирует любого члена экипажа, который в "
+"данный момент находится у турели."
 
 #: src-en/data/blueprints.xml.append:1150
 msgid ""
@@ -1334,7 +1339,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1603
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/short"
-msgstr ""
+msgstr "Ч. точ."
 
 #: src-en/data/blueprints.xml.append:1604
 msgid ""
@@ -1355,6 +1360,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/desc"
 msgstr ""
+"Странное, живое орудие из далекой реальности - эта ракетная турель "
+"Светоносцев способно заряжать сразу несколько ракет, каждая из которых "
+"наносит удары по отсекам и накладывает эффект Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:1642
 msgid ""
@@ -2229,7 +2237,7 @@ msgstr "Класс \"Исполнитель\""
 #: src-en/data/blueprints.xml.append:4272
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_2\"]/name"
-msgstr ""
+msgstr "Курьер"
 
 #: src-en/data/blueprints.xml.append:4273
 msgid ""
@@ -2244,7 +2252,7 @@ msgstr "Класс \"Исполнитель\""
 #: src-en/data/blueprints.xml.append:4357
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_3\"]/name"
-msgstr ""
+msgstr "Бомбардир"
 
 #: src-en/data/blueprints.xml.append:4358
 msgid ""
