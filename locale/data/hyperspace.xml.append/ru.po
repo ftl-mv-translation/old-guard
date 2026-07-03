@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-02 15:36+0000\n"
+"PO-Revision-Date: 2026-07-04 04:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datahyperspace-xml-append/ru/>\n"
@@ -58,6 +58,9 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
+"ЛИНЕЙНЫЙ КРЕЙСЕР:\n"
+"Этот противник оснащен специальной турельной технологией. Уничтожьте его, "
+"чтобы заполучить прототип турели."
 
 #: src-en/data/hyperspace.xml.append:207
 msgid ""
@@ -95,32 +98,39 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:272
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_1\"]/name"
-msgstr ""
+msgstr "Смерть от тысячи порезов"
 
 #: src-en/data/hyperspace.xml.append:273
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_1\"]/description"
 msgstr ""
+"Улучшите свои микротурели до 3-го уровня мощности на корабле класса "
+"\"Исполнитель\"."
 
 #: src-en/data/hyperspace.xml.append:278
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/name"
-msgstr ""
+msgstr "Безупречное исполнение"
 
 #: src-en/data/hyperspace.xml.append:279
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/description"
 msgstr ""
+"На корабле класса \"Исполнитель\": выиграйте сражение, не получив "
+"повреждений корпуса и не используя щиты или маскировку."
 
 #: src-en/data/hyperspace.xml.append:284
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/name"
-msgstr ""
+msgstr "Распоряжение"
 
 #: src-en/data/hyperspace.xml.append:285
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/description"
 msgstr ""
+"Доберитесь до сектора 8 на корабле класса \"Исполнитель\", используя только "
+"следующие системы: Турели, Щиты, Двигатели, Кислород, систему Маскировки, "
+"Медотсек и подсистемы."
 
 #: src-en/data/hyperspace.xml.append:475
 msgid ""
@@ -150,12 +160,11 @@ msgid ""
 msgstr "Комбо-брейкер"
 
 #: src-en/data/hyperspace.xml.append:488
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/description"
 msgstr ""
-"На корабле класса \"Острие\": 6 раз вызовите бонусное повреждение систем "
-"турелью Нового рассвета в рамках одного применения эффекта."
+"На корабле класса \"Острие\": 6 раз активируйте бонус к урону системы от "
+"турели Нового рассвета за одно применение эффекта."
 
 #: src-en/data/hyperspace.xml.append:541
 msgid ""
@@ -249,62 +258,62 @@ msgstr "Прототип получен"
 #: src-en/data/hyperspace.xml.append:1107
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/name"
-msgstr ""
+msgstr "Линейный крейсер Клептократии"
 
 #: src-en/data/hyperspace.xml.append:1108
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/secretDescription"
-msgstr ""
+msgstr "Получите прототипную турель с линейного крейсера Клептократии."
 
 #: src-en/data/hyperspace.xml.append:1109
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/description"
-msgstr ""
+msgstr "Получите Облучающую точечную турель с линейного крейсера Клептократии."
 
 #: src-en/data/hyperspace.xml.append:1111
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/header"
-msgstr ""
+msgstr "Турель получена"
 
 #: src-en/data/hyperspace.xml.append:1115
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/name"
-msgstr ""
+msgstr "Линейный крейсер Гильдии"
 
 #: src-en/data/hyperspace.xml.append:1116
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/secretDescription"
-msgstr ""
+msgstr "Получите прототипную турель с линейного крейсера Гильдии."
 
 #: src-en/data/hyperspace.xml.append:1117
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/description"
-msgstr ""
+msgstr "Получите Облучающую лазерную турель с линейного крейсера Гильдии."
 
 #: src-en/data/hyperspace.xml.append:1119
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/header"
-msgstr ""
+msgstr "Турель получена"
 
 #: src-en/data/hyperspace.xml.append:1123
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/name"
-msgstr ""
+msgstr "Линейный крейсер Империи"
 
 #: src-en/data/hyperspace.xml.append:1124
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/secretDescription"
-msgstr ""
+msgstr "Получите прототипную турель с линейного крейсера Империи."
 
 #: src-en/data/hyperspace.xml.append:1125
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/description"
-msgstr ""
+msgstr "Получите Пусковую осколочную турель с линейного крейсера Гильдии."
 
 #: src-en/data/hyperspace.xml.append:1127
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/header"
-msgstr ""
+msgstr "Турель получена"
 
 #: src-en/data/hyperspace.xml.append:1139
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/name"
