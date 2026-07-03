@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-07-04 04:36+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -93,10 +93,9 @@ msgstr ""
 "\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во внутреннюю версию из меню Встроенных улучшений, если у вас есть управление турелью."
 
 #: src-en/data/blueprints.xml.append:68
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/title"
-msgstr "Расширенная схемотехника"
+msgstr "Модернизированные крепления"
 
 #: src-en/data/blueprints.xml.append:69
 msgid ""
@@ -104,10 +103,9 @@ msgid ""
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:76
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/title"
-msgstr "Расширенная схемотехника [В]"
+msgstr "Модернизированные крепления [В]"
 
 #: src-en/data/blueprints.xml.append:77
 msgid ""
@@ -133,12 +131,11 @@ msgid ""
 msgstr "Вторичная расширенная схемотехника [В]"
 
 #: src-en/data/blueprints.xml.append:95
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/desc"
 msgstr ""
-"Увеличивает слот Адаптивной турели, чтобы он подходил для турелей всех "
-"размеров.\n"
+"Увеличивает слот Адаптивной вторичной турели, чтобы он подходил для турелей "
+"всех размеров.\n"
 "\n"
 "\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
 "но занимает слот модуля. Может быть бесплатно конвертировано во внутреннюю "
@@ -163,6 +160,12 @@ msgstr "Вторичная турель [В]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/desc"
 msgstr ""
+"Устанавливает систему Адаптивной вторичной турели вместо системы Контроля "
+"дронов; эта новая система не занимает системного слота.\n"
+"\t\n"
+"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
+"но занимает слот модуля. Может быть бесплатно конвертировано во внутреннюю "
+"версию, если у вас установлена система Управления турелью."
 
 #: src-en/data/blueprints.xml.append:123
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
@@ -250,13 +253,15 @@ msgid ""
 msgstr "Адаптивная турель"
 
 #: src-en/data/blueprints.xml.append:256
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
 msgstr ""
-"Питает турель вашего корабля. Улучшение сокращает время зарядки турели. "
-"Положение турели можно изменять вне боя, чтобы оно лучше подходило кораблю, "
-"можно улучшить до слота для большой турели во внутреннем меню улучшений."
+"Можно провести внутреннее улучшение, чтобы установить дополнительную "
+"турельную систему наряду с этой вместо системы Контроля дронами; "
+"дополнительная система не занимает системный слот. Питает турель вашего "
+"корабля. Улучшение сокращает время зарядки турели. Положение турели можно "
+"изменять вне боя, чтобы оно лучше подходило кораблю, можно улучшить до слота "
+"для большой турели во внутреннем меню улучшений."
 
 #: src-en/data/blueprints.xml.append:274
 msgid ""
@@ -274,12 +279,18 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:293
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_single\"]/title"
-msgstr ""
+msgstr "Адаптивное управление турелью"
 
 #: src-en/data/blueprints.xml.append:294
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_single\"]/desc"
 msgstr ""
+"Альтернатива системе дронов, доступная только на кораблях, на которых "
+"невозможно установить турели другим способом, имеет повышенный максимальный "
+"уровень системы. Обеспечивает питание турели вашего корабля. Модернизация "
+"сокращает время перезарядки турели. Положение турели можно изменять вне боя, "
+"чтобы оптимально адаптировать ее к конфигурации корабля; в меню внутренних "
+"улучшений ее можно переоборудовать в слот для большой турели."
 
 #: src-en/data/blueprints.xml.append:314
 msgid ""
@@ -574,12 +585,13 @@ msgid ""
 msgstr "Лег. зар.™"
 
 #: src-en/data/blueprints.xml.append:678
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/desc"
 msgstr ""
 "Особая Легкая лазерная турель, которая очень эффективна в защите корабля "
-"благодаря большому количеству зарядов и быстрой скорости вращения."
+"благодаря большому количеству зарядов и быстрой скорости вращения.\n"
+"Хаотичный вариант вращается в 5 раз быстрее и может нацеливаться на любой "
+"снаряд."
 
 #: src-en/data/blueprints.xml.append:698
 msgid ""
@@ -641,7 +653,6 @@ msgid ""
 msgstr "Облуч. лаз."
 
 #: src-en/data/blueprints.xml.append:763
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/desc"
 msgstr ""
@@ -720,12 +731,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:866
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/title"
-msgstr ""
+msgstr "Морозная лазерная турель"
 
 #: src-en/data/blueprints.xml.append:867
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/short"
-msgstr ""
+msgstr "Мор. лаз. тур."
 
 #: src-en/data/blueprints.xml.append:868
 msgid ""
@@ -779,7 +790,6 @@ msgid ""
 msgstr "Ион. бомба"
 
 #: src-en/data/blueprints.xml.append:934
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/desc"
 msgstr ""
@@ -1163,7 +1173,6 @@ msgid ""
 msgstr "€ Тяж. лаз."
 
 #: src-en/data/blueprints.xml.append:1424
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/desc"
 msgstr ""
@@ -1186,7 +1195,6 @@ msgid ""
 msgstr "€ Заж. ион."
 
 #: src-en/data/blueprints.xml.append:1446
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/desc"
 msgstr ""
@@ -1209,7 +1217,6 @@ msgid ""
 msgstr "€ Двой. рак."
 
 #: src-en/data/blueprints.xml.append:1468
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/desc"
 msgstr ""
@@ -1231,7 +1238,6 @@ msgid ""
 msgstr "€ Оскол."
 
 #: src-en/data/blueprints.xml.append:1490
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
@@ -1253,7 +1259,6 @@ msgid ""
 msgstr "€ Точеч. луч"
 
 #: src-en/data/blueprints.xml.append:1512
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/desc"
 msgstr ""
@@ -1275,7 +1280,6 @@ msgid ""
 msgstr "€ Микролаз."
 
 #: src-en/data/blueprints.xml.append:1534
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/desc"
 msgstr ""
@@ -1298,7 +1302,6 @@ msgid ""
 msgstr "€ Л. лаз."
 
 #: src-en/data/blueprints.xml.append:1556
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
 msgstr ""
@@ -1320,7 +1323,6 @@ msgid ""
 msgstr "€ Микро точ."
 
 #: src-en/data/blueprints.xml.append:1578
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/desc"
 msgstr ""
@@ -1334,7 +1336,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1602
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/title"
-msgstr ""
+msgstr "Оскверняющая точечная турель"
 
 #: src-en/data/blueprints.xml.append:1603
 msgid ""
@@ -1345,16 +1347,19 @@ msgstr "Ч. точ."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/desc"
 msgstr ""
+"На первый взгляд это отдаленно напоминает мощную Облучающую точечную турель, "
+"но она была полностью заражена материя-вирусом чумы души. Наносит по всему "
+"отсеку удар с эффектом осквернения, заражая и ослабляя врагов."
 
 #: src-en/data/blueprints.xml.append:1622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/title"
-msgstr ""
+msgstr "Безымянный день"
 
 #: src-en/data/blueprints.xml.append:1623
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/short"
-msgstr ""
+msgstr "Безымян."
 
 #: src-en/data/blueprints.xml.append:1624
 msgid ""
@@ -1367,17 +1372,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1642
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DARKNESS_MINI\"]/title"
-msgstr ""
+msgstr "Недомогание"
 
 #: src-en/data/blueprints.xml.append:1643
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DARKNESS_MINI\"]/short"
-msgstr ""
+msgstr "Недомог."
 
 #: src-en/data/blueprints.xml.append:1644
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DARKNESS_MINI\"]/desc"
-msgstr ""
+msgstr "Скорострельный лазер, заряды которого, кажется, воплощают саму тьму."
 
 #: src-en/data/blueprints.xml.append:1662
 msgid ""
@@ -1468,7 +1473,6 @@ msgid ""
 msgstr "Облуч. лаз."
 
 #: src-en/data/blueprints.xml.append:2265
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CLAN_1\"]/desc"
 msgstr ""
@@ -1479,17 +1483,22 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2284
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/title"
-msgstr ""
+msgstr "Пусковая осколочная турель"
 
 #: src-en/data/blueprints.xml.append:2285
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/short"
-msgstr ""
+msgstr "Оск. тур."
 
 #: src-en/data/blueprints.xml.append:2286
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/desc"
 msgstr ""
+"Особая минометная турель, использующая кристаллические снаряды с взрывчатым "
+"зарядом. Не расходует боеприпасы, но способна пробить только 2 слоя щитов.\n"
+"    \n"
+"\tЗадерживает флот на 1 прыжок за 5 боеголовок на пустых маяках, не влияет "
+"на репутацию."
 
 #: src-en/data/blueprints.xml.append:2307
 msgid ""
@@ -2127,12 +2136,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:3883
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHARD\"]/title"
-msgstr ""
+msgstr "Осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:3884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHARD\"]/short"
-msgstr ""
+msgstr "Оск. пушка"
 
 #: src-en/data/blueprints.xml.append:3885
 msgid ""
@@ -2243,6 +2252,10 @@ msgstr "Курьер"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_2\"]/desc"
 msgstr ""
+"Оснащенный батареей небольших ионных турелей, этот корабль способен выводить "
+"из строя щиты, чтобы обеспечить работу своей основной турели. Ввиду большого "
+"количества турелей капитанам приходится выбирать между системой Контроля "
+"дронов и системой Оружия."
 
 #: src-en/data/blueprints.xml.append:4356
 msgid ""
@@ -2258,6 +2271,9 @@ msgstr "Бомбардир"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_3\"]/desc"
 msgstr ""
+"Этот корабль специализируется на высокой огневой мощи: он способен нести "
+"либо четыре единицы вооружения, либо четыре дрона, а также две основные "
+"турели, благодаря чему он, несомненно, обладает большой огневой мощью."
 
 #: src-en/data/blueprints.xml.append:4443
 msgid ""
@@ -2287,7 +2303,6 @@ msgid ""
 msgstr "Божественный Луч"
 
 #: src-en/data/blueprints.xml.append:4526
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
 msgstr ""
@@ -2306,7 +2321,6 @@ msgid ""
 msgstr "Пылающий Герб"
 
 #: src-en/data/blueprints.xml.append:4612
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/desc"
 msgstr ""
