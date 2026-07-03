@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-02 15:36+0000\n"
+"PO-Revision-Date: 2026-07-04 04:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_ironxml/ru/>\n"
@@ -672,10 +672,9 @@ msgstr ""
 "после себя след из обломков, которые вы собираете."
 
 #: src-en/data/events_sector_og_iron.xml:512
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/text"
-msgstr "Над близлежащим рынком возвышается союзный заправочный пост."
+msgstr "Вокруг этой заправочной станции расположена обширная торговая площадка."
 
 #: src-en/data/events_sector_og_iron.xml:515
 msgid ""
@@ -683,10 +682,9 @@ msgid ""
 msgstr "Купить турель со скидкой."
 
 #: src-en/data/events_sector_og_iron.xml:517
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/text"
-msgstr "Вы запасаетесь топливом, а затем заглядываете в магазин."
+msgstr "Вы заряжаете турель, прежде чем пройти к остальной части рынка."
 
 #: src-en/data/events_sector_og_iron.xml:523
 msgid ""
@@ -699,10 +697,9 @@ msgid ""
 msgstr "(Контроль разума) \"Договориться\" о еще более низкой цене."
 
 #: src-en/data/events_sector_og_iron.xml:531
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/text"
-msgstr "Вы запасаетесь топливом, а затем заглядываете в магазин."
+msgstr "Вы заряжаете турель, прежде чем пройти к остальной части рынка."
 
 #: src-en/data/events_sector_og_iron.xml:537
 msgid ""
@@ -715,10 +712,9 @@ msgid ""
 msgstr "(Член экипажа-Железный дозор) Договориться о еще более низкой цене."
 
 #: src-en/data/events_sector_og_iron.xml:545
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
-msgstr "Вы запасаетесь топливом, а затем заглядываете в магазин."
+msgstr "Вы заряжаете турель, прежде чем пройти к остальной части рынка."
 
 #: src-en/data/events_sector_og_iron.xml:551
 msgid ""
@@ -2191,7 +2187,6 @@ msgid ""
 msgstr "Угрожать аванпосту, чтобы получить информацию."
 
 #: src-en/data/events_sector_og_iron.xml:1673
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -2245,7 +2240,6 @@ msgid ""
 msgstr "Угрожать аванпосту, чтобы получить информацию."
 
 #: src-en/data/events_sector_og_iron.xml:1713
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
 msgstr ""
@@ -2330,7 +2324,6 @@ msgid ""
 msgstr "Угрожать аванпосту, чтобы получить информацию."
 
 #: src-en/data/events_sector_og_iron.xml:1760
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
 msgstr ""
