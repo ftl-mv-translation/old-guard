@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-07-04 04:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"datatext_eventsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_events.xml.append:1
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_iron_generic\"]"
@@ -42,7 +50,7 @@ msgstr ""
 
 #: src-en/data/text_events.xml.append:28
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_battlecruiser\"]"
-msgstr ""
+msgstr "ЛИНЕЙНЫЙ КРЕЙСЕР"
 
 #: src-en/data/text_events.xml.append:30
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_iron\"]"
@@ -67,31 +75,31 @@ msgstr "ХРАНИЛИЩЕ_ДАННЫХ [!]"
 #: src-en/data/text_events.xml.append:36
 msgid ""
 "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_none_original\"]"
-msgstr ""
+msgstr "Я хочу... чтобы ничего не менялось."
 
 #: src-en/data/text_events.xml.append:37
 msgid ""
 "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_drone_original\"]"
-msgstr ""
+msgstr "Я хочу... блок Контроля дронов."
 
 #: src-en/data/text_events.xml.append:38
 msgid ""
 "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_drone\"]"
-msgstr ""
+msgstr "Я хочу... блок Контроля дронов. (заменит Управление турелью)"
 
 #: src-en/data/text_events.xml.append:39
 msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_1\"]"
-msgstr ""
+msgstr "Я хочу... Управление турелью."
 
 #: src-en/data/text_events.xml.append:40
 msgid ""
 "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_1_drone\"]"
-msgstr ""
+msgstr "Я хочу... Управление турелью. (заменит блок Контроля дронов)"
 
 #: src-en/data/text_events.xml.append:41
 msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_2\"]"
-msgstr ""
+msgstr "Я хочу... улучшить систему Управления турелями."
 
 #: src-en/data/text_events.xml.append:42
 msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_3\"]"
-msgstr ""
+msgstr "Вы не можете дальше улучшать Управление турелью."
