@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-02 15:36+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-07-04 04:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -42,17 +42,17 @@ msgstr "Изменить положение слота Адаптивной ту
 #: src-en/data/events_special_storage.xml.append:25
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"og_turret_adaptive_2\"]/text"
-msgstr ""
+msgstr "Изменить расположение слота для Вторичной адаптивной турели."
 
 #: src-en/data/events_special_storage.xml.append:29
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"og_turret_adaptive_single\"]/text"
-msgstr ""
+msgstr "Изменить расположение слота для Продвинутой адаптивной турели."
 
 #: src-en/data/events_special_storage.xml.append:33
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY_SHOW\"]/text"
-msgstr ""
+msgstr "Улучшить систему Управления вторичной турелью. [Цена: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:39
 msgid ""
@@ -75,10 +75,9 @@ msgid ""
 msgstr "Оставить пустым."
 
 #: src-en/data/events_special_storage.xml.append:62
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/text"
-msgstr "Доступные чертежи."
+msgstr "Доступные категории."
 
 #: src-en/data/events_special_storage.xml.append:64
 msgid ""
@@ -86,10 +85,9 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:74
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CATEGORY_\"]/text"
-msgstr "Доступные чертежи."
+msgstr "Доступные чертежи:"
 
 #: src-en/data/events_special_storage.xml.append:76
 msgid ""
@@ -258,36 +256,34 @@ msgid ""
 msgstr "Ловкость рук. [Цена: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:209
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_BUY\"]/text"
-msgstr "Расширенная схемотехника [УЖЕ УСТАНОВЛЕНО]"
+msgstr "Модернизированные крепления. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:213
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SHOW\"]/text"
-msgstr "Расширенная схемотехника [Цена: 30~, 5|]"
+msgstr "Модернизированные крепления. [Цена: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:217
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_2_BUY\"]/text"
-msgstr ""
+msgstr "Модернизированные вторичные крепления. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_2_SHOW\"]/text"
-msgstr ""
+msgstr "Модернизированные вторичные крепления. [Цена: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:225
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY_BUY\"]/text"
-msgstr ""
+msgstr "Управление вторичной турелью. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY_SHOW\"]/text"
-msgstr ""
+msgstr "Управление вторичной турелью. [Цена: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:233
 msgid ""
@@ -421,11 +417,10 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:355
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/text"
 msgstr ""
-"Вы собираетесь установить улучшение Расширенная схемотехника.\n"
+"Вы собираетесь установить улучшение Модернизированные крепления.\n"
 "\t[Эффекты: увеличивает слот адаптивной турели, чтобы он мог вмещать турели "
 "всех размеров]"
 
@@ -468,6 +463,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение Модернизированные вторичные крепления.\n"
+"\t[Эффекты: увеличивает слот адаптивной турели, чтобы он мог вмещать турели "
+"всех размеров]"
 
 #: src-en/data/events_special_storage.xml.append:397
 msgid ""
@@ -508,12 +506,15 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение Управление вторичной турелью.\n"
+"\t[Эффекты: Устанавливает систему Адаптивного управления вторичной турелью "
+"вместо системы Контроля дронов; эта новая система не потребляет системный "
+"слот]"
 
 #: src-en/data/events_special_storage.xml.append:436
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY\"]/choice[1]/text"
-msgstr "Установить улучшение. [Цена: 30~, 5|]"
+msgstr "Установить улучшение. [Цена: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:438
 msgid ""
@@ -548,7 +549,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:466
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"INSTALL_OG_TURRET_ADAPTIVE_SECONDARY\"]/text"
-msgstr ""
+msgstr "Вы установили систему."
 
 #: src-en/data/events_special_storage.xml.append:471
 msgid ""
@@ -669,13 +670,13 @@ msgstr "Повторно включить руководство по управ
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Советы по изготовлению переключаемой турели. [Включено]"
 
 #: src-en/data/events_special_storage.xml.append:552
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Советы по изготовлению переключаемой турели. [Выключено]"
 
 #: src-en/data/events_special_storage.xml.append:562
 msgid ""
@@ -741,7 +742,6 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:614
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_SCRAMBLER\"]/mod-"
 "append:choice/text"
@@ -753,6 +753,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART_OG_TURRET_SINGLE_1\"]/text"
 msgstr ""
+"Так и было сделано, и все же... энергия вашего корабля, кажется, "
+"распространяется еще дальше..."
 
 #: src-en/data/events_special_storage.xml.append:623
 msgid ""
@@ -763,6 +765,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART_OG_TURRET_SINGLE_2\"]/text"
 msgstr ""
+"Так и было сделано, и все же... энергия вашего корабля, кажется, "
+"распространяется еще дальше..."
 
 #: src-en/data/events_special_storage.xml.append:632
 msgid ""
@@ -774,9 +778,15 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Использовать Пусковую осколочную турель и боеголовки. [-5}, дает задержку "
+"флота на 1 прыжок, не влияет на уровень дурной славы]"
 
 #: src-en/data/events_special_storage.xml.append:641
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"Вы подготавливаете боеприпасы и устраиваете западню для повстанцев. К "
+"счастью, благодаря малоизвестным лазейкам в законе использование этого "
+"оружия не является незаконным, хотя с моральной точки зрения оно весьма "
+"сомнительно."
