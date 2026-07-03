@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-02 15:36+0000\n"
+"PO-Revision-Date: 2026-07-04 04:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_dawnxml/ru/>\n"
@@ -1064,7 +1064,6 @@ msgid ""
 msgstr "Подождать, пока они покинут аванпост, прежде чем атаковать."
 
 #: src-en/data/events_sector_og_dawn.xml:786
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[2]/event/text"
@@ -1109,7 +1108,6 @@ msgid ""
 msgstr "Подождать, пока они покинут аванпост, прежде чем атаковать."
 
 #: src-en/data/events_sector_og_dawn.xml:813
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[3]/event/text"
 msgstr ""
@@ -2329,7 +2327,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_dawn.xml:1615
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -2338,11 +2335,11 @@ msgstr ""
 "консоли и быстро включает камеры наружного наблюдения станции.\n"
 "На экране можно разглядеть странный корабль, силуэт которого вырисовывается "
 "на фоне ближайшей звезды. \"Все так, как я и подозревал\", - инженер "
-"поворачивается к вам. \"Капитан, что это за корабль? Крейсер, отлично, "
-"возьмите Предварительное питание турели, я сохранил чертежи в защищенном "
-"центре обработки данных, но я не могу рисковать, чтобы физический прототип "
-"попал в их руки, пожалуйста, возьмите его с собой и улетите отсюда, что бы "
-"ни случилось, не дайте ему попасть в руки повстанцев\"."
+"поворачивается к вам. \"Капитан, что это за корабль? Крейсер - отлично! "
+"Возьмите предзажигатель для турели - я сохранил чертежи в защищенном центре "
+"обработки данных. А вот с тем, чтобы физический прототип попал в их руки я "
+"не могу рисковать - пожалуйста, заберите его с собой и уходите отсюда. Что "
+"бы ни случилось, не позволяйте ему попасть в руки повстанцев\"."
 
 #: src-en/data/events_sector_og_dawn.xml:1619
 msgid ""
@@ -3010,7 +3007,6 @@ msgstr ""
 "снова остались одни."
 
 #: src-en/data/events_sector_og_dawn.xml:2128
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_WIN_FOLLOWUP\"]/text"
 msgstr ""
@@ -3121,7 +3117,6 @@ msgid ""
 msgstr "\"Да, мы будем там\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2187
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/event/text"
 msgstr ""
@@ -3130,7 +3125,7 @@ msgstr ""
 "Все идет хорошо, пока из-за станции не появляется большой корабль Нового "
 "рассвета, направляющийся прямо к вам и к крейсеру Железного дозора. \"Вы "
 "должны остановить этот корабль, у нас мало экипажа и оборудования, мы не "
-"готовы к бою между кораблями. Вы должны помешать им добраться до нас\"."
+"готовы к бою между кораблями. Нужно не дать им добраться до нас\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2192
 msgid ""
