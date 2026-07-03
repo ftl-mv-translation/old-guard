@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-07-02 15:36+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-old-guard/dataevents_sector_og_ironxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_og_iron.xml:10
 msgid ""
@@ -573,6 +580,7 @@ msgid ""
 msgstr "铁幕守望的舰船或许已经逃脱，但情况并非一无是处。残骸留下了一条废料轨迹，你将其收集了起来。"
 
 #: src-en/data/events_sector_og_iron.xml:512
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/text"
 msgstr "有一个盟军加油站俯瞰附近的市场。"
@@ -583,6 +591,7 @@ msgid ""
 msgstr "购买折扣炮塔。"
 
 #: src-en/data/events_sector_og_iron.xml:517
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/text"
 msgstr "你囤积了一些燃料，然后到商店里去看了看。"
@@ -598,6 +607,7 @@ msgid ""
 msgstr "(心灵控制) “协商”一个更低的价格。"
 
 #: src-en/data/events_sector_og_iron.xml:531
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/text"
 msgstr "你囤积了一些燃料，然后到商店里去看了看。"
@@ -613,6 +623,7 @@ msgid ""
 msgstr "(铁幕守望船员) 协商一个更低的价格。"
 
 #: src-en/data/events_sector_og_iron.xml:545
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
 msgstr "你囤积了一些燃料，然后到商店里去看了看。"
@@ -1865,9 +1876,12 @@ msgid ""
 msgstr "威胁前哨站以获取信息。"
 
 #: src-en/data/events_sector_og_iron.xml:1673
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
-msgstr "前哨站在你的武器面前基本毫无防御能力，他们迅速屈服于你的要求，上传了关于原型舰的数据。并且，他们还“友善地”归还了你的捐赠。"
+msgstr ""
+"前哨站在你的武器面前基本毫无防御能力，他们迅速屈服于你的要求，上传了关于原型"
+"舰的数据。并且，他们还“友善地”归还了你的捐赠。"
 
 #: src-en/data/events_sector_og_iron.xml:1679
 msgid ""
@@ -1911,9 +1925,12 @@ msgid ""
 msgstr "威胁前哨站以获取信息。"
 
 #: src-en/data/events_sector_og_iron.xml:1713
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
-msgstr "前哨站在你的武器面前基本毫无防御能力，他们迅速屈服于你的要求，上传了关于原型舰的数据。"
+msgstr ""
+"前哨站在你的武器面前基本毫无防御能力，他们迅速屈服于你的要求，上传了关于原型"
+"舰的数据。"
 
 #: src-en/data/events_sector_og_iron.xml:1716
 msgid ""
@@ -1982,9 +1999,12 @@ msgid ""
 msgstr "威胁前哨站以获取信息。"
 
 #: src-en/data/events_sector_og_iron.xml:1760
+#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
-msgstr "前哨站在你的武器面前基本毫无防御能力，他们迅速屈服于你的要求，上传了关于原型舰的数据。"
+msgstr ""
+"前哨站在你的武器面前基本毫无防御能力，他们迅速屈服于你的要求，上传了关于原型"
+"舰的数据。"
 
 #: src-en/data/events_sector_og_iron.xml:1763
 msgid ""
