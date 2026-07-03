@@ -1,19 +1,31 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-07-04 04:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_special_og_battlecruisersxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_og_battlecruisers.xml:9
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DESTROYED_OG_BATTLECRUISER_SLUG\"]/text"
 msgstr ""
+"Разбирая обломки линейного крейсера, вы обнаруживаете исправную турель, "
+"дрейфующую среди обломков."
 
 #: src-en/data/events_special_og_battlecruisers.xml:16
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DEAD_CREW_OG_BATTLECRUISER_SLUG\"]/text"
 msgstr ""
+"Линейный крейсер остался без экипажа. Во время разбора судна вы "
+"обнаруживаете в его трюме турель."
 
 #: src-en/data/events_special_og_battlecruisers.xml:27
 msgid ""
@@ -34,16 +46,21 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/text"
 msgstr ""
+"У этого маяка находится линейный крейсер, оснащенный мощными турелями. "
+"Клептократия не славится честностью в торговле, поэтому вы сомневаетесь, что "
+"эти конкретные слизни заполучили эти турели честным путем."
 
 #: src-en/data/events_special_og_battlecruisers.xml:35
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[1]/text"
-msgstr ""
+msgstr "В атаку, мы сможем украсть их технологии турелей!"
 
 #: src-en/data/events_special_og_battlecruisers.xml:37
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[1]/event/text"
 msgstr ""
+"Вы пошли на риск, решив вступить в бой с этим кораблем. Надеюсь, вам удастся "
+"выдержать его обстрел достаточно долго."
 
 #: src-en/data/events_special_og_battlecruisers.xml:40
 msgid ""
@@ -53,12 +70,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_og_battlecruisers.xml:46
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[2]/text"
-msgstr ""
+msgstr "Избегать линейный крейсер."
 
 #: src-en/data/events_special_og_battlecruisers.xml:48
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Ввязываться в схватку с линейным крейсером - плохая идея."
 
 #: src-en/data/events_special_og_battlecruisers.xml:50
 msgid ""
@@ -74,11 +91,15 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DESTROYED_OG_BATTLECRUISER_CLAN\"]/text"
 msgstr ""
+"Разбирая обломки линейного крейсера, вы обнаруживаете исправную турель, "
+"дрейфующую среди обломков."
 
 #: src-en/data/events_special_og_battlecruisers.xml:75
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DEAD_CREW_OG_BATTLECRUISER_CLAN\"]/text"
 msgstr ""
+"Линейный крейсер остался без экипажа. Во время разбора судна вы "
+"обнаруживаете в его трюме турель."
 
 #: src-en/data/events_special_og_battlecruisers.xml:86
 msgid ""
@@ -99,16 +120,21 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/text"
 msgstr ""
+"У этого маяка находится линейный крейсер, оснащенный мощными турелями. "
+"Клептократия не славятся честностью в торговле, поэтому вы сомневаетесь, что "
+"эти конкретные Клановцы заполучил эти турели честным путем."
 
 #: src-en/data/events_special_og_battlecruisers.xml:94
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[1]/text"
-msgstr ""
+msgstr "В атаку, мы сможем украсть их технологии турелей!"
 
 #: src-en/data/events_special_og_battlecruisers.xml:96
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[1]/event/text"
 msgstr ""
+"Вы пошли на риск, решив вступить в бой с этим кораблем. Надеюсь, вам удастся "
+"выдержать его обстрел достаточно долго."
 
 #: src-en/data/events_special_og_battlecruisers.xml:99
 msgid ""
@@ -118,12 +144,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_og_battlecruisers.xml:105
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[2]/text"
-msgstr ""
+msgstr "Избегать линейный крейсер."
 
 #: src-en/data/events_special_og_battlecruisers.xml:107
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Ввязываться в схватку с линейным крейсером - плохая идея."
 
 #: src-en/data/events_special_og_battlecruisers.xml:109
 msgid ""
@@ -139,11 +165,15 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DESTROYED_OG_BATTLECRUISER_CRYSTAL\"]/text"
 msgstr ""
+"Разбирая обломки линейного крейсера, вы обнаруживаете исправную турель, "
+"дрейфующую среди обломков."
 
 #: src-en/data/events_special_og_battlecruisers.xml:133
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DEAD_CREW_OG_BATTLECRUISER_CRYSTAL\"]/text"
 msgstr ""
+"Линейный крейсер остался без экипажа. Во время разбора судна вы "
+"обнаруживаете в его трюме турель."
 
 #: src-en/data/events_special_og_battlecruisers.xml:144
 msgid ""
@@ -164,16 +194,21 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/text"
 msgstr ""
+"У этого маяка находится линейный крейсер, оснащенный мощными турелями. "
+"Клептократия не славятся честностью в торговле, поэтому вы сомневаетесь, что "
+"эти конкретные Клановцы заполучил эти турели честным путем."
 
 #: src-en/data/events_special_og_battlecruisers.xml:151
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[1]/text"
-msgstr ""
+msgstr "В атаку, мы сможем украсть их технологии турелей!"
 
 #: src-en/data/events_special_og_battlecruisers.xml:153
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[1]/event/text"
 msgstr ""
+"Вы пошли на риск, решив вступить в бой с этим кораблем. Надеюсь, вам удастся "
+"выдержать его обстрел достаточно долго."
 
 #: src-en/data/events_special_og_battlecruisers.xml:156
 msgid ""
@@ -183,12 +218,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_og_battlecruisers.xml:162
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[2]/text"
-msgstr ""
+msgstr "Избегать линейный крейсер."
 
 #: src-en/data/events_special_og_battlecruisers.xml:164
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Ввязываться в схватку с линейным крейсером - плохая идея."
 
 #: src-en/data/events_special_og_battlecruisers.xml:166
 msgid ""
