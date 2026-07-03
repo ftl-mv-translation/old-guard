@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-02 15:36+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-07-04 04:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datatext_tooltipsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -150,98 +150,98 @@ msgstr "Управление турелью: питает вражескую т�
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:30
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_2\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:31
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_3\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:32
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_4\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:33
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:34
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_2\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:35
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_3\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:36
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_4\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:37
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:38
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_2\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:39
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_single\"]"
-msgstr ""
+msgstr "Временно снижает заряд вражеской турели."
 
 #: src-en/data/text_tooltips.xml.append:41
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:42
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_2_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:43
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_3_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_4_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:45
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:46
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_2_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:47
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_3_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:48
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_4_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:49
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:50
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_2_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:51
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_single_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕТСЯ."
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_time\"]"
@@ -257,11 +257,10 @@ msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_amount\"
 msgstr "\\nВыстрелов в очереди: %d"
 
 #: src-en/data/text_tooltips.xml.append:56
-#, fuzzy
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ammo\"]"
 msgstr ""
 "\\n"
-"Потребление боеголовок: %d"
+"Потребление боеголовок: %g"
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chain\"]"
@@ -289,6 +288,8 @@ msgstr "\\nСкорость стрельбы: ­"
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_autofire\"]"
 msgstr ""
+"\\n"
+"Количество выстрелов в очереди: Атака:%s/Защита:%s"
 
 #: src-en/data/text_tooltips.xml.append:63
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_target\"]"
@@ -304,7 +305,6 @@ msgid ""
 msgstr "\\nУрон системам: %d"
 
 #: src-en/data/text_tooltips.xml.append:67
-#, fuzzy
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
 msgstr ""
@@ -422,10 +422,9 @@ msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use\"]"
 msgstr "Использовать %s"
 
 #: src-en/data/text_tooltips.xml.append:98
-#, fuzzy
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use_scrap\"]"
-msgstr "Использовать %s + $d~"
+msgstr "Использовать %s + %d~"
 
 #: src-en/data/text_tooltips.xml.append:99
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_finish\"]"
@@ -478,11 +477,11 @@ msgstr "Неважно."
 #: src-en/data/text_tooltips.xml.append:110
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_uninstall\"]"
-msgstr ""
+msgstr "Удаление турели:"
 
 #: src-en/data/text_tooltips.xml.append:111
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_empty\"]"
-msgstr ""
+msgstr "Управление пустой турелью."
 
 #: src-en/data/text_tooltips.xml.append:112
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_leave\"]"
@@ -491,7 +490,7 @@ msgstr "Оставить пустым."
 #: src-en/data/text_tooltips.xml.append:113
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_install\"]"
-msgstr ""
+msgstr "Установить следующее:"
 
 #: src-en/data/text_tooltips.xml.append:115
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate\"]"
@@ -510,59 +509,68 @@ msgstr "\\n[???]"
 #: src-en/data/text_tooltips.xml.append:118
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_hover\"]"
-msgstr ""
+msgstr "Можно изготовить:"
 
 #: src-en/data/text_tooltips.xml.append:120
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_unset\"]"
-msgstr ""
+msgstr "Не установлено"
 
 #: src-en/data/text_tooltips.xml.append:121
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_current\"]"
-msgstr ""
+msgstr "Текущая клавиша:"
 
 #: src-en/data/text_tooltips.xml.append:122
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_currently\"]"
-msgstr ""
+msgstr "(в настоящее время это клавиша \\\"%s\\\")"
 
 #: src-en/data/text_tooltips.xml.append:124
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_valid\"]"
 msgstr ""
+"\\n"
+"Достижение Перебежчик: Прохождение признано действительным\\n"
+"Текущий экипаж корабля: Действителен"
 
 #: src-en/data/text_tooltips.xml.append:125
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_crew\"]"
 msgstr ""
+"\\n"
+"Достижение Перебежчик: прохождение признано действительным\\n"
+"Текущий экипаж корабля: Недействителен\\n"
+"Недействительный экипаж:"
 
 #: src-en/data/text_tooltips.xml.append:126
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_invalid\"]"
 msgstr ""
+"\\n"
+"Достижение Перебежчик: Неудачный забег"
 
 #: src-en/data/text_tooltips.xml.append:128
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_clone_cannon\"]"
-msgstr ""
+msgstr "Клон"
 
 #: src-en/data/text_tooltips.xml.append:130
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_iron\"]"
-msgstr ""
+msgstr "Репутация Железного дозора"
 
 #: src-en/data/text_tooltips.xml.append:131
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_dawn\"]"
-msgstr ""
+msgstr "Репутация Нового рассвета"
 
 #: src-en/data/text_tooltips.xml.append:133
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_ancient\"]"
-msgstr ""
+msgstr "Что-то старое..."
 
 #: src-en/data/text_tooltips.xml.append:134
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_clone_cannon\"]"
-msgstr ""
+msgstr "Что-то сомнительное с этической точки зрения."
 
 #: src-en/data/text_tooltips.xml.append:135
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_gatling\"]"
-msgstr ""
+msgstr "Устроить настоящий ад для своих противников!"
 
 #: src-en/data/text_tooltips.xml.append:136
 msgid ""
@@ -572,39 +580,41 @@ msgstr "Стоит ему попасть, и ты - труп."
 #: src-en/data/text_tooltips.xml.append:137
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_defense\"]"
-msgstr ""
+msgstr "Ангел-хранитель."
 
 #: src-en/data/text_tooltips.xml.append:138
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_combat\"]"
-msgstr ""
+msgstr "Ангел мести."
 
 #: src-en/data/text_tooltips.xml.append:139
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_scifi\"]"
-msgstr ""
+msgstr "НАСТОЯЩАЯ НАУКА!"
 
 #: src-en/data/text_tooltips.xml.append:140
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_sylvan\"]"
-msgstr ""
+msgstr "Ах ты, жадный, кровожадный предатель!"
 
 #: src-en/data/text_tooltips.xml.append:141
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_sylvan_honor\"]"
-msgstr ""
+msgstr "Иди и надери этим повстанцам задницы."
 
 #: src-en/data/text_tooltips.xml.append:143
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_soulplague\"]"
-msgstr ""
+msgstr "Вы жаждете новых турелей - а турели жаждут... ну, всего на свете."
 
 #: src-en/data/text_tooltips.xml.append:144
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_falseradiance\"]"
 msgstr ""
+"И вот, на восьмой день... ваши враги воскликнули страстным голосом, умоляя о "
+"спасении. Но оно так и не наступило."
 
 #: src-en/data/text_tooltips.xml.append:145
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_darkgod\"]"
-msgstr ""
+msgstr "Дела становятся немного мрачнее, чем хотелось бы, не так ли?"
