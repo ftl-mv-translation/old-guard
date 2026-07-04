@@ -16,26 +16,26 @@ msgstr ""
 #: src-en/data/text_events.xml.append:18
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_dawn\"]"
 msgstr ""
-"Nom : Base d'opérations avancée du New Dawn\n"
+"Nom : Base opérationnelle avancée de la Nouvelle Aube\n"
 "Type : Hostile\n"
 "Unique : Oui\n"
-"Faction dominante : Le New Dawn\n"
-"Niveau de menace rebelle : Très Élevé\n"
+"Faction dominante : La Nouvelle Aube\n"
+"Niveau de menace rebelle : Très élevé\n"
 "Emplacements d'intérêt : ???\n"
 "\n"
-"Le bastion militaire du New Dawn, manquant à la fois de provisions et d'alliés dans leur lutte contre l'Iron Watch, ils se sont tournés vers la rébellion pour obtenir de l'aide, malgré les protestations de certains membres du New Dawn."
+"Le bastion militaire de la Nouvelle Aube, à court de provisions et d'alliés dans leur lutte contre la Garde de Fer, ils se sont tournés vers la rébellion pour obtenir de l'aide, malgré les protestations de certains membres de la Nouvelle Aube."
 
 #: src-en/data/text_events.xml.append:28
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_battlecruiser\"]"
-msgstr "CROISEUR DE BATAILLE"
+msgstr "CROISEUR DE COMBAT"
 
 #: src-en/data/text_events.xml.append:30
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_iron\"]"
-msgstr "MAGASIN [IRON WATCH]"
+msgstr "MAGASIN [GARDE DE FER]"
 
 #: src-en/data/text_events.xml.append:31
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_store_og_dawn\"]"
-msgstr "MAGASIN [NEW DAWN]"
+msgstr "MAGASIN [NOUVELLE AUBE]"
 
 #: src-en/data/text_events.xml.append:32
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_ship\"]"
@@ -47,7 +47,7 @@ msgstr "BASE CACHÉE [!]"
 
 #: src-en/data/text_events.xml.append:34
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_dawn_vault\"]"
-msgstr "COFFRE-FORT DE DONNÉES [!]"
+msgstr "COFFRE_DONNÉES [!]"
 
 #: src-en/data/text_events.xml.append:36
 msgid ""
@@ -57,28 +57,28 @@ msgstr "Je désire... aucun changement."
 #: src-en/data/text_events.xml.append:37
 msgid ""
 "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_drone_original\"]"
-msgstr "Je désire... le Contrôle de Drone."
+msgstr "Je désire... le Contrôle des drones."
 
 #: src-en/data/text_events.xml.append:38
 msgid ""
 "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_drone\"]"
 msgstr ""
-"Je désire... le Contrôle de Drone. (remplacera le Contrôle de Tourelle)"
+"Je désire... le Contrôle des drones. (remplacera le Contrôle des tourelles)"
 
 #: src-en/data/text_events.xml.append:39
 msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_1\"]"
-msgstr "Je désire... le Contrôle de Tourelle."
+msgstr "Je désire... le Contrôle des tourelles."
 
 #: src-en/data/text_events.xml.append:40
 msgid ""
 "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_1_drone\"]"
 msgstr ""
-"Je désire... le Contrôle de Tourelle. (remplacera le Contrôle de Drone)"
+"Je désire... le Contrôle des tourelles. (remplacera le Contrôle des drones)"
 
 #: src-en/data/text_events.xml.append:41
 msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_2\"]"
-msgstr "Je désire... améliorer mon Contrôle de Tourelle."
+msgstr "Je désire... améliorer mon Contrôle des tourelles."
 
 #: src-en/data/text_events.xml.append:42
 msgid "data/text_events.xml.append$//text[@name=\"storage_choice_og_eatmote_3\"]"
-msgstr "Vous ne pouvez pas améliorer votre Contrôle de Tourelle davantage."
+msgstr "Vous ne pouvez pas améliorer davantage votre Contrôle des tourelles."

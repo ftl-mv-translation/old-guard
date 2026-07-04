@@ -8,124 +8,124 @@ msgstr ""
 #: src-en/data/sector_data.xml.append:44
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[1]"
-msgstr "Secteur Iron Watch"
+msgstr "Secteur de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:45
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[2]"
-msgstr "Espace Iron Watch"
+msgstr "Espace de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:46
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[3]"
-msgstr "Frontière Iron Watch"
+msgstr "Frontière de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:47
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[4]"
-msgstr "Territoire Iron Watch"
+msgstr "Territoire de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:48
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[5]"
-msgstr "Domaine Iron Watch"
+msgstr "Domaine de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:49
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[6]"
-msgstr "Mondes périphériques Iron Watch"
+msgstr "Mondes périphériques de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:50
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[7]"
-msgstr "Régions Iron Watch"
+msgstr "Régions de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:51
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[8]"
-msgstr "Parties Iron Watch"
+msgstr "Parties de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:52
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[9]"
-msgstr "Dominion Iron Watch"
+msgstr "Dominion de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:53
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[10]"
-msgstr "Terres Iron Watch"
+msgstr "Terres de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:54
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[11]"
-msgstr "Royaume Iron Watch"
+msgstr "Royaume de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:55
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[12]"
-msgstr "Secteur lointain Iron Watch"
+msgstr "Secteurs lointains de la Garde de Fer"
 
 #: src-en/data/sector_data.xml.append:123
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[1]"
-msgstr "Secteur Iron Watch [Solde !]"
+msgstr "Secteur de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:124
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[2]"
-msgstr "Espace Iron Watch [Solde !]"
+msgstr "Espace de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:125
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[3]"
-msgstr "Frontière Iron Watch [Solde !]"
+msgstr "Frontière de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:126
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[4]"
-msgstr "Territoire Iron Watch [Solde !]"
+msgstr "Territoire de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:127
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[5]"
-msgstr "Domaine Iron Watch [Solde !]"
+msgstr "Domaine de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:128
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[6]"
-msgstr "Mondes périphériques Iron Watch [Solde !]"
+msgstr "Mondes périphériques de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:129
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[7]"
-msgstr "Régions Iron Watch [Solde !]"
+msgstr "Régions de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:130
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[8]"
-msgstr "Parties Iron Watch [Solde !]"
+msgstr "Parties de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:131
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[9]"
-msgstr "Dominion Iron Watch [Solde !]"
+msgstr "Dominion de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:132
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[10]"
-msgstr "Terres Iron Watch [Solde !]"
+msgstr "Terres de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:133
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[11]"
-msgstr "Royaume Iron Watch [Solde !]"
+msgstr "Royaume de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:134
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[12]"
-msgstr "Secteur lointain Iron Watch [Solde !]"
+msgstr "Secteurs lointains de la Garde de Fer [Solde !]"
 
 #: src-en/data/sector_data.xml.append:202
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_DAWN_UNIQUE\"]/nameList/name"
-msgstr "Base d'opérations avancée du New Dawn [!]"
+msgstr "Base opérationnelle avancée de la Nouvelle Aube [!]"

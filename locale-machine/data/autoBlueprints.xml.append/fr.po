@@ -8,129 +8,129 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:176
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_SCOUT\"]/class"
-msgstr "Éclaireur Iron Watch"
+msgstr "Éclaireur de la Veille de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:200
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_INFILTRATOR\"]/class"
-msgstr "Infiltrateur Iron Watch"
+msgstr "Infiltré de la Veille de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:225
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_OUTRIDER\"]/class"
-msgstr "Explorateur Iron Watch"
+msgstr "Explorateur de la Veille de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:250
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_BOMBER\"]/class"
-msgstr "Bombardier Iron Watch"
+msgstr "Bombardier de la Veille de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:276
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_CORVETTE\"]/class"
-msgstr "Corvette Iron Watch"
+msgstr "Corvette de la Veille de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:303
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_FIGHTER\"]/class"
-msgstr "Chasseur Iron Watch"
+msgstr "Chasseur de la Veille de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:331
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_TRANSPORT\"]/class"
-msgstr "Transport Iron Watch"
+msgstr "Transporteur de la Veille de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:360
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_RAIDER\"]/class"
-msgstr "Pillard Iron Watch"
+msgstr "Pillard de la Veille de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:390
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_GUARD\"]/class"
-msgstr "Garde Iron Watch"
+msgstr "Garde de la Veille de Fer"
 
 #: src-en/data/autoBlueprints.xml.append:516
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_SCOUT\"]/class"
-msgstr "Éclaireur New Dawn"
+msgstr "Éclaireur de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:541
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_INFILTRATOR\"]/class"
-msgstr "Infiltrateur New Dawn"
+msgstr "Infiltré de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:567
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_OUTRIDER\"]/class"
-msgstr "Explorateur New Dawn"
+msgstr "Explorateur de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:593
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_BOMBER\"]/class"
-msgstr "Bombardier New Dawn"
+msgstr "Bombardier de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:620
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_CORVETTE\"]/class"
-msgstr "Corvette New Dawn"
+msgstr "Corvette de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:648
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_FIGHTER\"]/class"
-msgstr "Chasseur New Dawn"
+msgstr "Chasseur de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:677
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_TRANSPORT\"]/class"
-msgstr "Transport New Dawn"
+msgstr "Transporteur de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:707
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_RAIDER\"]/class"
-msgstr "Croiseur New Dawn"
+msgstr "Croiseur de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:738
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_GUARD\"]/class"
-msgstr "Garde New Dawn"
+msgstr "Garde de la Nouvelle Aube"
 
 #: src-en/data/autoBlueprints.xml.append:769
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_LEGION_ASSAULT_TURRET\"]/class"
-msgstr "Assaut Légionnaire"
+msgstr "Chasseur d'assaut légionnaire"
 
 #: src-en/data/autoBlueprints.xml.append:796
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_NORMAL\"]/class"
-msgstr "Croiseur Renégat"
+msgstr "Croiseur renégat"
 
 #: src-en/data/autoBlueprints.xml.append:824
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_CHALLENGE\"]/class"
-msgstr "Croiseur Renégat"
+msgstr "Croiseur renégat"
 
 #: src-en/data/autoBlueprints.xml.append:852
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_EXTREME\"]/class"
-msgstr "Croiseur Renégat"
+msgstr "Croiseur renégat"
 
 #: src-en/data/autoBlueprints.xml.append:880
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_CHAOS\"]/class"
-msgstr "Croiseur Renégat"
+msgstr "Croiseur renégat"
 
 #: src-en/data/autoBlueprints.xml.append:2242
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_SLUG_BATTLECRUISER\"]/class"
-msgstr "Croiseur de bataille Kleptocratie"
+msgstr "Cuirassé de la Kleptocratie"
 
 #: src-en/data/autoBlueprints.xml.append:2266
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_CLAN_BATTLECRUISER\"]/class"
-msgstr "Croiseur de bataille de la Guilde"
+msgstr "Cuirassé de la Guilde"
 
 #: src-en/data/autoBlueprints.xml.append:2290
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_CRYSTAL_BATTLECRUISER\"]/class"
-msgstr "Croiseur de bataille Impérial"
+msgstr "Cuirassé impérial"
