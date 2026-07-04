@@ -8,21 +8,21 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:2
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
 msgstr ""
-"Astuce : Les tourelles doivent être équipées sur le système de Contrôle de "
-"Tourelle."
+"Conseil : Les tourelles doivent être équipées sur le système de contrôle des"
+" tourelles."
 
 #: src-en/data/text_tooltips.xml.append:3
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_mini\"]"
 msgstr ""
-"Astuce : Les tourelles doivent être équipées sur le système de Contrôle de "
-"Tourelle. Les micro-tourelles peuvent être équipées sur les emplacements de "
-"tourelle petits et grands."
+"Conseil : Les tourelles doivent être équipées sur le système de contrôle des"
+" tourelles. Les micro tourelles peuvent être équipées sur les emplacements "
+"de tourelle petits et grands."
 
 #: src-en/data/text_tooltips.xml.append:4
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_base\"]"
 msgstr ""
-"Astuce : Les bases de tourelle peuvent être utilisées à la place d'un drone "
-"de défense pendant la fabrication de tourelle."
+"Conseil : Les bases de tourelles peuvent être utilisées à la place d'un "
+"drone de défense lors de la fabrication d'une tourelle."
 
 #: src-en/data/text_tooltips.xml.append:6
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret\"]"
@@ -30,7 +30,7 @@ msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:7
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:8
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_2\"]"
@@ -38,7 +38,7 @@ msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:9
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_2_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:10
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_3\"]"
@@ -46,7 +46,7 @@ msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:11
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_3_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:12
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_4\"]"
@@ -54,7 +54,7 @@ msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:13
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_4_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:14
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini\"]"
@@ -63,7 +63,7 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:15
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:16
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2\"]"
@@ -72,7 +72,7 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:17
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:18
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3\"]"
@@ -81,7 +81,7 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:19
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:20
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4\"]"
@@ -90,7 +90,7 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:21
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:22
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive\"]"
@@ -99,7 +99,7 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:23
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:24
 msgid ""
@@ -109,7 +109,7 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:25
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_2_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:26
 msgid ""
@@ -119,7 +119,7 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:27
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_single_enemy\"]"
-msgstr "Contrôle de Tourelle : Alimente la tourelle ennemie."
+msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret\"]"
@@ -218,155 +218,107 @@ msgstr "SYSTÈME PIRATÉ : LA TOURELLE PERD DE LA CHARGE."
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_time\"]"
-msgstr ""
-"Stats :\n"
-"Temps de charge :"
+msgstr "Stats :\\nTemps de charge :"
 
 #: src-en/data/text_tooltips.xml.append:54
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_charges\"]"
-msgstr ""
-"\n"
-"Charges maximales : %d"
+msgstr "\\nCharges maximales : %d"
 
 #: src-en/data/text_tooltips.xml.append:55
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_amount\"]"
-msgstr ""
-"\n"
-"Quantité de charge : %d"
+msgstr "\\nQuantité de charge : %d"
 
 #: src-en/data/text_tooltips.xml.append:56
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ammo\"]"
-msgstr ""
-"\n"
-"Consommation de missile : %g"
+msgstr "\\nConsommation de missiles : %g"
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chain\"]"
-msgstr ""
-"\n"
-"Effet de Chaîne : Réduit le temps de recharge de %d%%"
+msgstr "\\nEffet de chaîne : Réduit le temps de recharge de %d %%"
 
 #: src-en/data/text_tooltips.xml.append:58
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chainCap\"]"
-msgstr ""
-"\n"
-"Cap de réduction de Chaîne : %d%% (%d chaînes)"
+msgstr "\\nCap de réduction de chaîne : %d %% (%d chaînes)"
 
 #: src-en/data/text_tooltips.xml.append:59
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rotation\"]"
-msgstr ""
-"\n"
-"\n"
-"Vitesse de rotation : %d"
+msgstr "\\n\\nVitesse de rotation : %d"
 
 #: src-en/data/text_tooltips.xml.append:60
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_radius\"]"
-msgstr ""
-"\n"
-"Zone d'impact : %d"
+msgstr "\\nZone d'impact : %d"
 
 #: src-en/data/text_tooltips.xml.append:61
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rate\"]"
-msgstr ""
-"\n"
-"Cadence de tir :"
+msgstr "\\nCadence de tir :"
 
 #: src-en/data/text_tooltips.xml.append:62
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_autofire\"]"
-msgstr ""
-"\n"
-"Quantité de tir rafale : Attaque : %s / Défense : %s"
+msgstr "\\nQuantité de tir en rafale : Attaque:%s/Défense:%s"
 
 #: src-en/data/text_tooltips.xml.append:63
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_target\"]"
-msgstr ""
-"\n"
-"Cible du projectile : %s"
+msgstr "\\nCible du projectile : %s"
 
 #: src-en/data/text_tooltips.xml.append:65
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_damage\"]"
-msgstr ""
-"\n"
-"Dégâts de base à la coque : %d"
+msgstr "\\nDégâts de base à la coque : %d"
 
 #: src-en/data/text_tooltips.xml.append:66
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_sysDamage\"]"
-msgstr ""
-"\n"
-"Dégâts totaux au système : %d"
+msgstr "\\nDégâts totaux au système : %d"
 
 #: src-en/data/text_tooltips.xml.append:67
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
-msgstr ""
-"\n"
-"Dégâts totaux à l'équipage : %d"
+msgstr "\\nDégâts totaux à l'équipage : %d"
 
 #: src-en/data/text_tooltips.xml.append:68
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ionDamage\"]"
-msgstr ""
-"\n"
-"Dégâts ioniques totaux : %d"
+msgstr "\\nDégâts ioniques totaux : %d"
 
 #: src-en/data/text_tooltips.xml.append:69
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_pierce\"]"
-msgstr ""
-"\n"
-"Perforation de bouclier : %d"
+msgstr "\\nPerforation de bouclier : %d"
 
 #: src-en/data/text_tooltips.xml.append:70
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_hullBust\"]"
-msgstr ""
-"\n"
-"Inflige 2x dégâts aux pièces sans système"
+msgstr "\\nFait 2x plus de dégâts aux salles sans système"
 
 #: src-en/data/text_tooltips.xml.append:71
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_lockdown\"]"
-msgstr ""
-"\n"
-"Verrouille les pièces à l'impact"
+msgstr "\\nVerrouille les salles à l'impact"
 
 #: src-en/data/text_tooltips.xml.append:73
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_fireChance\"]"
-msgstr ""
-"\n"
-"Chance de feu : %d%%"
+msgstr "\\nChances de feu : %d %%"
 
 #: src-en/data/text_tooltips.xml.append:74
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_breachChance\"]"
-msgstr ""
-"\n"
-"Chance de brèche : %d%% (Ajustée : %d%%)"
+msgstr "\\nChances de brèche : %d %% (Ajusté : %d %%)"
 
 #: src-en/data/text_tooltips.xml.append:75
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_stunChance\"]"
-msgstr ""
-"\n"
-"Chance d'étourdissement : %d%% (%d secondes de durée)"
+msgstr "\\nChances d'étourdissement : %d %% (d'une durée de %d secondes)"
 
 #: src-en/data/text_tooltips.xml.append:76
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_effect\"]"
-msgstr ""
-"\n"
-"Durée de l'effet : %d secondes"
+msgstr "\\nDurée de l'effet : d'une durée de %d secondes"
 
 #: src-en/data/text_tooltips.xml.append:78
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price\"]"
-msgstr ""
-"\n"
-"\n"
-"Prix par défaut : %d~ - Prix de vente : %d~"
+msgstr "\\n\\nPrix par défaut : %d~   -   Prix de vente : %d~"
 
 #: src-en/data/text_tooltips.xml.append:80
 msgid ""
@@ -376,20 +328,19 @@ msgstr "Temps de charge plus rapide"
 #: src-en/data/text_tooltips.xml.append:82
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_offence\"]"
-msgstr "Régler la tourelle en mode défensif."
+msgstr "Réglez la tourelle en mode défensif."
 
 #: src-en/data/text_tooltips.xml.append:83
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_defence\"]"
-msgstr "Régler la tourelle en mode offensif."
+msgstr "Réglez la tourelle en mode offensif."
 
 #: src-en/data/text_tooltips.xml.append:84
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_autoFire\"]"
 msgstr ""
-"Basculer pour activer/désactiver le tir automatique des tourelles.\n"
-"\n"
-"CTRL GAUCHE + VISER peut forcer une tourelle à faire l'opposé du réglage actuel"
+"Activer/Désactiver le tir automatique des tourelles.\\n\\nCTRL GAUCHE + "
+"VISER peut forcer une tourelle à faire l'opposé du réglage actuel"
 
 #: src-en/data/text_tooltips.xml.append:86
 msgid ""
@@ -398,9 +349,7 @@ msgstr "Charges : %d/%d"
 
 #: src-en/data/text_tooltips.xml.append:87
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_time\"]"
-msgstr ""
-"\n"
-"Temps de charge : %.1f/%.1f"
+msgstr "\\nTemps de charge : %.1f/%.1f"
 
 #: src-en/data/text_tooltips.xml.append:89
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones\"]"
@@ -419,12 +368,12 @@ msgstr "Tous les projectiles solides et drones"
 #: src-en/data/text_tooltips.xml.append:92
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles\"]"
-msgstr "Projectiles non-solides"
+msgstr "Projectiles non solides"
 
 #: src-en/data/text_tooltips.xml.append:93
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_projectiles\"]"
-msgstr "Projectiles non-solides et drones"
+msgstr "Projectiles non solides et drones"
 
 #: src-en/data/text_tooltips.xml.append:94
 msgid ""
@@ -437,12 +386,12 @@ msgstr "Tous les projectiles et drones"
 
 #: src-en/data/text_tooltips.xml.append:97
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use\"]"
-msgstr "Utiliser votre %s"
+msgstr "Utilisez votre %s"
 
 #: src-en/data/text_tooltips.xml.append:98
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use_scrap\"]"
-msgstr "Utiliser votre %s + %d~"
+msgstr "Utilisez votre %s + %d~"
 
 #: src-en/data/text_tooltips.xml.append:99
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_finish\"]"
@@ -466,22 +415,16 @@ msgstr "%s Nécessite :"
 #: src-en/data/text_tooltips.xml.append:103
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_atleast\"]"
-msgstr ""
-"\n"
-"  Au moins %d :"
+msgstr "\\n  Au moins %d :"
 
 #: src-en/data/text_tooltips.xml.append:104
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list\"]"
-msgstr ""
-"\n"
-"    %s"
+msgstr "\\n    %s"
 
 #: src-en/data/text_tooltips.xml.append:105
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list_scrap\"]"
-msgstr ""
-"\n"
-"    %s + %d~"
+msgstr "\\n    %s + %d~"
 
 #: src-en/data/text_tooltips.xml.append:106
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_craft\"]"
@@ -490,7 +433,7 @@ msgstr "Fabriquer cet objet."
 #: src-en/data/text_tooltips.xml.append:107
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_unknown\"]"
-msgstr "Tourelle Inconnue"
+msgstr "Tourelle inconnue"
 
 #: src-en/data/text_tooltips.xml.append:109
 msgid ""
@@ -500,11 +443,11 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:110
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_uninstall\"]"
-msgstr "Désinstaller la Tourelle :"
+msgstr "Désinstaller la tourelle :"
 
 #: src-en/data/text_tooltips.xml.append:111
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_empty\"]"
-msgstr "Gérer la Tourelle Vide."
+msgstr "Gérer une tourelle vide."
 
 #: src-en/data/text_tooltips.xml.append:112
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_leave\"]"
@@ -522,16 +465,12 @@ msgstr "Peut être utilisé pour fabriquer :"
 #: src-en/data/text_tooltips.xml.append:116
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_item\"]"
-msgstr ""
-"\n"
-"[%s]"
+msgstr "\\n[%s]"
 
 #: src-en/data/text_tooltips.xml.append:117
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_mystery\"]"
-msgstr ""
-"\n"
-"[???]"
+msgstr "\\n[???]"
 
 #: src-en/data/text_tooltips.xml.append:118
 msgid ""
@@ -549,28 +488,23 @@ msgstr "Touche actuelle :"
 #: src-en/data/text_tooltips.xml.append:122
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_currently\"]"
-msgstr "(actuellement est la touche \\\"%s\\\")"
+msgstr "(est actuellement la touche \\\"%s\\\")"
 
 #: src-en/data/text_tooltips.xml.append:124
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_valid\"]"
 msgstr ""
-"\n"
-"Succès Allégeance Rebelle : Partie Valide\n"
-"Équipage actuel du vaisseau : Valide"
+"\\nSuccès Allégeance rebelle : Partie valide\\nÉquipage actuel du vaisseau :"
+" Valide"
 
 #: src-en/data/text_tooltips.xml.append:125
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_crew\"]"
 msgstr ""
-"\n"
-"Succès Allégeance Rebelle : Partie Valide\n"
-"Équipage actuel du vaisseau : Invalide\n"
-"Équipage invalide :"
+"\\nSuccès Allégeance rebelle : Partie valide\\nÉquipage actuel du vaisseau :"
+" Invalide\\nÉquipage invalide :"
 
 #: src-en/data/text_tooltips.xml.append:126
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_invalid\"]"
-msgstr ""
-"\n"
-"Succès Allégeance Rebelle : Partie Invalide"
+msgstr "\\nSuccès Allégeance rebelle : Partie invalide"
 
 #: src-en/data/text_tooltips.xml.append:128
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_clone_cannon\"]"
@@ -578,11 +512,11 @@ msgstr "Cloner"
 
 #: src-en/data/text_tooltips.xml.append:130
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_iron\"]"
-msgstr "Réputation Iron Watch"
+msgstr "Réputation Garde de Fer"
 
 #: src-en/data/text_tooltips.xml.append:131
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_dawn\"]"
-msgstr "Réputation New Dawn"
+msgstr "Réputation Nouvelle Aube"
 
 #: src-en/data/text_tooltips.xml.append:133
 msgid ""
@@ -597,7 +531,7 @@ msgstr "Quelque chose d'éthiquement douteux."
 #: src-en/data/text_tooltips.xml.append:135
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_gatling\"]"
-msgstr "Déchaînez l'enfer sur vos opposants !"
+msgstr "Déchaînez l'enfer sur vos adversaires !"
 
 #: src-en/data/text_tooltips.xml.append:136
 msgid ""
@@ -607,12 +541,12 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:137
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_defense\"]"
-msgstr "Ange Gardien."
+msgstr "Ange gardien."
 
 #: src-en/data/text_tooltips.xml.append:138
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_combat\"]"
-msgstr "Ange de la Vengeance."
+msgstr "Ange de la vengeance."
 
 #: src-en/data/text_tooltips.xml.append:139
 msgid ""
@@ -627,14 +561,13 @@ msgstr "Espèce de traître cupide et meurtrier."
 #: src-en/data/text_tooltips.xml.append:141
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_sylvan_honor\"]"
-msgstr "Allez botter quelques culs rebelles."
+msgstr "Allez botter des culs de rebelles."
 
 #: src-en/data/text_tooltips.xml.append:143
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_soulplague\"]"
 msgstr ""
-"Vous avez faim de plus de tourelles - les tourelles ont faim de plus... eh "
-"bien, de tout."
+"Vous avez faim de tourelles - les tourelles ont faim de... eh bien, tout."
 
 #: src-en/data/text_tooltips.xml.append:144
 msgid ""

@@ -19,7 +19,7 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "BLINDAGE RÉFLÉCHISSANT :\n"
-"Réduit de moitié les dégâts des rayons frappant ce vaisseau, en arrondissant à l'inférieur, mais pas en dessous de 1."
+"Réduit de moitié les dégâts des rayons touchant ce vaisseau, en arrondissant à l'inférieur, mais pas en dessous de 1."
 
 #: src-en/data/hyperspace.xml.append:143
 msgid ""
@@ -27,66 +27,64 @@ msgid ""
 "append:shipIcon[3]/tooltip"
 msgstr ""
 "PRÉ-ALLUMEUR DE TOURELLE :\n"
-"Les tourelles de cet ennemi seront entièrement chargées au début du combat."
+"Les tourelles de cet ennemi seront complètement chargées au début du combat."
 
 #: src-en/data/hyperspace.xml.append:148
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
-"PRÉ-ÉNERGISER DE TOURELLE :\n"
-"Les tourelles de cet ennemi seront chargées à moitié au début du combat."
+"PRÉ-ÉNERGISANT DE TOURELLE :\n"
+"Les tourelles de cet ennemi seront à moitié chargées au début du combat."
 
 #: src-en/data/hyperspace.xml.append:153
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
-"TOURELLES NEW DAWN :\n"
-"Cet ennemi possède des tourelles New Dawn, lorsqu'elles touchent, les pièces seront temporairement rendues vulnérables et recevront +1 dégât système lorsqu'elles seront touchées, cependant ces tourelles rendent également leurs systèmes correspondants vulnérables."
+"TOURELLES DE LA NOUVELLE AUBE :\n"
+"Cet ennemi possède des tourelles de la Nouvelle Aube ; lorsqu'elles touchent, les pièces deviennent temporairement vulnérables et reçoivent +1 dégât système, cependant ces tourelles rendent aussi leurs systèmes correspondants vulnérables."
 
 #: src-en/data/hyperspace.xml.append:158
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
-"CROISEUR DE BATAILLE :\n"
-"Cet ennemi est équipé d'une technologie de tourelle spécialisée, vainquez-le pour prendre la tourelle de butin spécialisée pour vous-même."
+"CROISEUR DE COMBAT :\n"
+"Cet ennemi est équipé d'une technologie de tourelle spécialisée ; battez-les pour récupérer la tourelle de butin spécialisée."
 
 #: src-en/data/hyperspace.xml.append:207
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/name"
-msgstr "Économie de Guerre"
+msgstr "Économie de guerre"
 
 #: src-en/data/hyperspace.xml.append:208
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/description"
-msgstr ""
-"En tant que vaisseau de classe Pillard, créez votre propre nouvelle "
-"tourelle."
+msgstr "En tant que vaisseau de classe Raider, créez votre propre tourelle."
 
 #: src-en/data/hyperspace.xml.append:213
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/name"
-msgstr "Marcher sur le serpent à sonnettes"
+msgstr "Marcher sur le serpent à sonnette"
 
 #: src-en/data/hyperspace.xml.append:214
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/description"
 msgstr ""
-"Vaincre un vaisseau New Dawn en utilisant un vaisseau de classe Pillard."
+"Battez un vaisseau de la Nouvelle Aube avec un vaisseau de classe Raider."
 
 #: src-en/data/hyperspace.xml.append:219
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/name"
-msgstr "Lourd Fardeau"
+msgstr "Levage lourd"
 
 #: src-en/data/hyperspace.xml.append:220
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/description"
 msgstr ""
-"En tant que vaisseau de classe Pillard : Atteindre le Secteur 8 sans acheter"
-" d'armes ou de systèmes de drones (ou les améliorer en tant que systèmes de "
+"En tant que vaisseau de classe Raider : Atteignez le secteur 8 sans acheter "
+"d'armes ou de systèmes de drones (ou en les améliorant comme systèmes de "
 "départ du vaisseau)."
 
 #: src-en/data/hyperspace.xml.append:272
@@ -98,70 +96,70 @@ msgstr "La mort par mille coupures"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_1\"]/description"
 msgstr ""
-"Améliorer toutes vos micro-tourelles au niveau de puissance 3 en tant que "
-"vaisseau de classe Exécuteur."
+"Améliorez toutes vos micro tourelles à la puissance 3 en tant que vaisseau "
+"de classe Exécuteur."
 
 #: src-en/data/hyperspace.xml.append:278
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/name"
-msgstr "Exécution Parfaite"
+msgstr "Exécution parfaite"
 
 #: src-en/data/hyperspace.xml.append:279
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/description"
 msgstr ""
-"En tant que vaisseau de classe Exécuteur : Gagner une bataille sans subir de"
-" dégâts à la coque, et sans boucliers ni camouflage."
+"En tant que vaisseau de classe Exécuteur : Gagnez une bataille sans subir de"
+" dégâts à la coque et sans boucliers ni camouflage."
 
 #: src-en/data/hyperspace.xml.append:284
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/name"
-msgstr "Ordre Exécutif"
+msgstr "Ordre exécutif"
 
 #: src-en/data/hyperspace.xml.append:285
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/description"
 msgstr ""
-"Atteindre le Secteur 8 avec un vaisseau de classe Exécuteur sans utiliser "
+"Atteignez le secteur 8 avec un vaisseau de classe Exécuteur sans utiliser "
 "d'autres systèmes que les tourelles, les boucliers, les moteurs, l'oxygène, "
 "le camouflage, les systèmes médicaux et les sous-systèmes."
 
 #: src-en/data/hyperspace.xml.append:475
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_1\"]/name"
-msgstr "Défense Ponctuelle"
+msgstr "Défense ponctuelle"
 
 #: src-en/data/hyperspace.xml.append:476
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_1\"]/description"
 msgstr ""
-"Abattre 5 projectiles ou drones dans un seul combat en tant que vaisseau de "
-"classe Pointe de Lance."
+"Abattez 5 projectiles ou drones en un seul combat en tant que vaisseau de "
+"classe Fer de lance."
 
 #: src-en/data/hyperspace.xml.append:481
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/name"
-msgstr "Allégeance Rebelle"
+msgstr "Allégeance rebelle"
 
 #: src-en/data/hyperspace.xml.append:482
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/description"
 msgstr ""
-"Atteindre le Secteur 8 sans sauter vers une nouvelle balise avec un seul "
-"membre d'équipage non-humain à bord d'un vaisseau de classe Pointe de Lance."
+"Atteignez le secteur 8 sans sauter vers une nouvelle balise avec un seul "
+"membre d'équipage non humain à bord d'un vaisseau de classe Fer de lance."
 
 #: src-en/data/hyperspace.xml.append:487
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/name"
-msgstr "Briseur de Combo"
+msgstr "Briseur de combo"
 
 #: src-en/data/hyperspace.xml.append:488
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/description"
 msgstr ""
-"En tant que vaisseau de classe Pointe de Lance : Déclencher le dégât système"
-" bonus d'une tourelle New Dawn 6 fois à partir d'une seule application de "
-"l'effet."
+"En tant que vaisseau de classe Fer de lance : Déclenchez 6 fois le bonus de "
+"dégâts système d'une tourelle de la Nouvelle Aube à partir d'une seule "
+"application de l'effet."
 
 #: src-en/data/hyperspace.xml.append:541
 msgid ""
@@ -178,13 +176,13 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:547
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_2\"]/name"
-msgstr "Assaut Synchronisé"
+msgstr "Assaut synchronisé"
 
 #: src-en/data/hyperspace.xml.append:548
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_2\"]/description"
 msgstr ""
-"En tant que vaisseau de classe Colosse : Équiper la même tourelle dans tous "
+"En tant que vaisseau de classe Colosse : Équipez la même tourelle dans tous "
 "vos emplacements de tourelle."
 
 #: src-en/data/hyperspace.xml.append:553
@@ -196,8 +194,8 @@ msgstr "Ceci est mon fusil, ceux-ci sont mes canons !"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_3\"]/description"
 msgstr ""
-"Améliorer toutes vos grandes tourelles au niveau de puissance 5 en tant que "
-"vaisseau de classe Colosse."
+"Améliorez toutes vos grandes tourelles à la puissance 5 en tant que vaisseau"
+" de classe Colosse."
 
 #: src-en/data/hyperspace.xml.append:1040
 msgid ""
@@ -208,13 +206,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"human_og_dawn\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE : 30 s DURÉE : 15 s]\n"
+"[TEMPS DE RECHARGE : 30 s   DURÉE : 15 s]\n"
 "\t\t\t\tAccorde les effets suivants :\n"
 "\t\t\t\t-Évite d'être ciblé par l'équipage.\n"
-"\t\t\t\t-Dégâts augmentés de 50 %\n"
-"\t\t\t\t-Vitesse de sabotage augmentée de 25 %\n"
-"\t\t\t\t-La durée du camouflage se régénère passivement\n"
-"\t\t\t\t-La durée du camouflage diminue selon les actions suivantes :\n"
+"\t\t\t\t-Dégâts augmentés de 50 %.\n"
+"\t\t\t\t-Vitesse de sabotage augmentée de 25 %.\n"
+"\t\t\t\t-La durée du camouflage se régénère passivement.\n"
+"\t\t\t\t-La durée du camouflage se réduit lors des actions suivantes :\n"
 "\t\t\t\t\t-Attaquer, 1x\n"
 "\t\t\t\t\t-Réparer, 0.75x\n"
 "\t\t\t\t\t-Se déplacer, 0.25x"
@@ -231,105 +229,105 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1090
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_DAWN\"]/name"
-msgstr "New Dawn"
+msgstr "Nouvelle Aube"
 
 #: src-en/data/hyperspace.xml.append:1099
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/name"
-msgstr "Transport New Dawn"
+msgstr "Transporteur de la Nouvelle Aube"
 
 #: src-en/data/hyperspace.xml.append:1100
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/secretDescription"
-msgstr "Obtenir le butin du transport de butin New Dawn."
+msgstr "Obtenez le butin du transport de butin de la Nouvelle Aube."
 
 #: src-en/data/hyperspace.xml.append:1101
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/description"
-msgstr "Obtenir le Laser Perforant 1 du transport de butin New Dawn."
+msgstr ""
+"Obtenez le Laser perforant I du transport de butin de la Nouvelle Aube."
 
 #: src-en/data/hyperspace.xml.append:1103
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/header"
-msgstr "Butin Acquis"
+msgstr "Butin acquis"
 
 #: src-en/data/hyperspace.xml.append:1107
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/name"
-msgstr "Croiseur de bataille Kleptocratie"
+msgstr "Cuirassé de la Kleptocratie"
 
 #: src-en/data/hyperspace.xml.append:1108
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/secretDescription"
-msgstr "Obtenir la tourelle de butin du Croiseur de bataille Kleptocratie."
+msgstr ""
+"Obtenez la tourelle de butin du croiseur de combat de la Kleptocratie."
 
 #: src-en/data/hyperspace.xml.append:1109
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/description"
 msgstr ""
-"Obtenir la Tourelle de Précision à Irradiation du Croiseur de bataille "
+"Obtenez la tourelle Aiguillon d'irradiation du croiseur de combat de la "
 "Kleptocratie."
 
 #: src-en/data/hyperspace.xml.append:1111
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_SLUG\"]/header"
-msgstr "Tourelle Acquise"
+msgstr "Tourelle acquise"
 
 #: src-en/data/hyperspace.xml.append:1115
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/name"
-msgstr "Croiseur de bataille de la Guilde"
+msgstr "Cuirassé de la Guilde"
 
 #: src-en/data/hyperspace.xml.append:1116
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/secretDescription"
-msgstr "Obtenir la tourelle de butin du Croiseur de bataille de la Guilde."
+msgstr "Obtenez la tourelle de butin du croiseur de combat de la Guilde."
 
 #: src-en/data/hyperspace.xml.append:1117
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/description"
 msgstr ""
-"Obtenir la Tourelle Laser à Irradiation du Croiseur de bataille de la "
-"Guilde."
+"Obtenez la tourelle Laser d'irradiation du croiseur de combat de la Guilde."
 
 #: src-en/data/hyperspace.xml.append:1119
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CLAN\"]/header"
-msgstr "Tourelle Acquise"
+msgstr "Tourelle acquise"
 
 #: src-en/data/hyperspace.xml.append:1123
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/name"
-msgstr "Croiseur de bataille Impérial"
+msgstr "Cuirassé impérial"
 
 #: src-en/data/hyperspace.xml.append:1124
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/secretDescription"
-msgstr "Obtenir la tourelle de butin du Croiseur de bataille Impérial."
+msgstr "Obtenez la tourelle de butin du croiseur de combat impérial."
 
 #: src-en/data/hyperspace.xml.append:1125
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/description"
-msgstr "Obtenir la Tourelle Lance-Éclats du Croiseur de bataille Impérial."
+msgstr "Obtenez la tourelle Lanceur d'éclats du croiseur de combat impérial."
 
 #: src-en/data/hyperspace.xml.append:1127
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_BATTLECRUISER_CRYSTAL\"]/header"
-msgstr "Tourelle Acquise"
+msgstr "Tourelle acquise"
 
 #: src-en/data/hyperspace.xml.append:1139
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/name"
-msgstr "Soutien de Tourelle"
+msgstr "Support de tourelle"
 
 #: src-en/data/hyperspace.xml.append:1140
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/description"
 msgstr ""
-"Vaincre le Renégat de classe Pillard C et obtenir la Tourelle à Chargeur "
-"Léger."
+"Battez le Renégat de classe Raider C et obtenez la tourelle Chargeur léger."
 
 #: src-en/data/hyperspace.xml.append:1142
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_OG_REN_IRON\"]/header"
-msgstr "Renégat Vaincu"
+msgstr "Renégat battu"
 
 #: src-en/data/hyperspace.xml.append:1156
 msgid ""

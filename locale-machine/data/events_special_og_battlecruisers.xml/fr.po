@@ -9,15 +9,15 @@ msgstr ""
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DESTROYED_OG_BATTLECRUISER_SLUG\"]/text"
 msgstr ""
-"En démantelant l'épave du Croiseur de bataille, vous trouvez une tourelle "
+"En démantelant l'épave du croiseur de combat, vous trouvez une tourelle "
 "fonctionnelle dérivant au milieu des débris."
 
 #: src-en/data/events_special_og_battlecruisers.xml:16
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DEAD_CREW_OG_BATTLECRUISER_SLUG\"]/text"
 msgstr ""
-"Le Croiseur de bataille a été vidé de son équipage. En le démantelant, vous "
-"trouvez une tourelle dans son stockage."
+"Le croiseur de combat a été vidé de son équipage. En le démantelant, vous "
+"trouvez une tourelle dans sa soute."
 
 #: src-en/data/events_special_og_battlecruisers.xml:27
 msgid ""
@@ -38,10 +38,10 @@ msgstr ""
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/text"
 msgstr ""
-"Un Croiseur de bataille maniant une technologie de tourelle puissante se "
-"trouve à cette balise. La Kleptocratie n'est pas connue pour être des "
-"marchands honnêtes, donc vous doutez que cette limace particulière ait mis "
-"la main sur ces tourelles honnêtement."
+"Un croiseur de combat utilisant une technologie de tourelle puissante se "
+"trouve à cette balise. La kleptocratie n'est pas connue pour ses marchands "
+"honnêtes, vous doutez donc que cette Limace ait obtenu ces tourelles "
+"honnêtement."
 
 #: src-en/data/events_special_og_battlecruisers.xml:35
 msgid ""
@@ -53,7 +53,7 @@ msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[1]/event/text"
 msgstr ""
 "Vous avez fait le choix risqué de combattre le vaisseau. Espérons que vous "
-"pourrez vous protéger de leur salve assez longtemps."
+"puissiez vous protéger de leur salve assez longtemps."
 
 #: src-en/data/events_special_og_battlecruisers.xml:40
 msgid ""
@@ -63,12 +63,12 @@ msgstr ""
 #: src-en/data/events_special_og_battlecruisers.xml:46
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[2]/text"
-msgstr "Éviter le Croiseur de bataille."
+msgstr "Évitez le croiseur de combat."
 
 #: src-en/data/events_special_og_battlecruisers.xml:48
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/choice[2]/event/text"
-msgstr "S'en prendre à un Croiseur de bataille est une mauvaise idée."
+msgstr "S'en prendre à un croiseur de combat est une mauvaise idée."
 
 #: src-en/data/events_special_og_battlecruisers.xml:50
 msgid ""
@@ -84,15 +84,15 @@ msgstr ""
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DESTROYED_OG_BATTLECRUISER_CLAN\"]/text"
 msgstr ""
-"En démantelant l'épave du Croiseur de bataille, vous trouvez une tourelle "
+"En démantelant l'épave du croiseur de combat, vous trouvez une tourelle "
 "fonctionnelle dérivant au milieu des débris."
 
 #: src-en/data/events_special_og_battlecruisers.xml:75
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DEAD_CREW_OG_BATTLECRUISER_CLAN\"]/text"
 msgstr ""
-"Le Croiseur de bataille a été vidé de son équipage. En le démantelant, vous "
-"trouvez une tourelle dans son stockage."
+"Le croiseur de combat a été vidé de son équipage. En le démantelant, vous "
+"trouvez une tourelle dans sa soute."
 
 #: src-en/data/events_special_og_battlecruisers.xml:86
 msgid ""
@@ -113,10 +113,10 @@ msgstr ""
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/text"
 msgstr ""
-"Un Croiseur de bataille maniant une technologie de tourelle puissante se "
-"trouve à cette balise. La Kleptocratie n'est pas connue pour être des "
-"marchands honnêtes, donc vous doutez que ce CLAN particulier ait mis la main"
-" sur ces tourelles honnêtement."
+"Un croiseur de combat utilisant une technologie de tourelle puissante se "
+"trouve à cette balise. La kleptocratie n'est pas connue pour ses marchands "
+"honnêtes, vous doutez donc que cette GUILDE ait obtenu ces tourelles "
+"honnêtement."
 
 #: src-en/data/events_special_og_battlecruisers.xml:94
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[1]/event/text"
 msgstr ""
 "Vous avez fait le choix risqué de combattre le vaisseau. Espérons que vous "
-"pourrez vous protéger de leur salve assez longtemps."
+"puissiez vous protéger de leur salve assez longtemps."
 
 #: src-en/data/events_special_og_battlecruisers.xml:99
 msgid ""
@@ -138,12 +138,12 @@ msgstr ""
 #: src-en/data/events_special_og_battlecruisers.xml:105
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[2]/text"
-msgstr "Éviter le Croiseur de bataille."
+msgstr "Évitez le croiseur de combat."
 
 #: src-en/data/events_special_og_battlecruisers.xml:107
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/choice[2]/event/text"
-msgstr "S'en prendre à un Croiseur de bataille est une mauvaise idée."
+msgstr "S'en prendre à un croiseur de combat est une mauvaise idée."
 
 #: src-en/data/events_special_og_battlecruisers.xml:109
 msgid ""
@@ -159,15 +159,15 @@ msgstr ""
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DESTROYED_OG_BATTLECRUISER_CRYSTAL\"]/text"
 msgstr ""
-"En démantelant l'épave du Croiseur de bataille, vous trouvez une tourelle "
+"En démantelant l'épave du croiseur de combat, vous trouvez une tourelle "
 "fonctionnelle dérivant au milieu des débris."
 
 #: src-en/data/events_special_og_battlecruisers.xml:133
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"DEAD_CREW_OG_BATTLECRUISER_CRYSTAL\"]/text"
 msgstr ""
-"Le Croiseur de bataille a été vidé de son équipage. En le démantelant, vous "
-"trouvez une tourelle dans son stockage."
+"Le croiseur de combat a été vidé de son équipage. En le démantelant, vous "
+"trouvez une tourelle dans sa soute."
 
 #: src-en/data/events_special_og_battlecruisers.xml:144
 msgid ""
@@ -189,9 +189,9 @@ msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/text"
 msgstr ""
 "L'Empire Cristalien est plus territorial que tout autre gouvernement ou "
-"espèce. Un Croiseur de bataille, maniant une technologie de tourelle "
-"spécialisée, patrouille la balise, mais pour une fois, ils ne semblent pas "
-"se soucier de votre présence."
+"espèce. Un croiseur de combat, équipé d'une technologie de tourelle "
+"spécialisée, patrouille à la balise, mais pour une fois, ils ne semblent pas"
+" se soucier de votre présence."
 
 #: src-en/data/events_special_og_battlecruisers.xml:151
 msgid ""
@@ -203,7 +203,7 @@ msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[1]/event/text"
 msgstr ""
 "Vous avez fait le choix risqué de combattre le vaisseau. Espérons que vous "
-"pourrez vous protéger de leur salve assez longtemps."
+"puissiez vous protéger de leur salve assez longtemps."
 
 #: src-en/data/events_special_og_battlecruisers.xml:156
 msgid ""
@@ -213,12 +213,12 @@ msgstr ""
 #: src-en/data/events_special_og_battlecruisers.xml:162
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[2]/text"
-msgstr "Éviter le Croiseur de bataille."
+msgstr "Évitez le croiseur de combat."
 
 #: src-en/data/events_special_og_battlecruisers.xml:164
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/choice[2]/event/text"
-msgstr "S'en prendre à un Croiseur de bataille est une mauvaise idée."
+msgstr "S'en prendre à un croiseur de combat est une mauvaise idée."
 
 #: src-en/data/events_special_og_battlecruisers.xml:166
 msgid ""
