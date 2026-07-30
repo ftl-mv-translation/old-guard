@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-07-31 14:36+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -38,13 +38,13 @@ msgid ""
 msgstr "极限超频动力[外]"
 
 #: src-en/data/blueprints.xml.append:20
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/desc"
 msgstr ""
 "炮塔旋转速度 +50%。\n"
 "\t\n"
-"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
+"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件"
+"槽位。若拥有炮塔控制系统，可在内部升级菜单中免费转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
@@ -62,13 +62,13 @@ msgid ""
 msgstr "弹道加速器[外]"
 
 #: src-en/data/blueprints.xml.append:39
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/desc"
 msgstr ""
 "炮塔射弹速度提升50%。\n"
 "\t\n"
-"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
+"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件"
+"槽位。若拥有炮塔控制系统，可在内部升级菜单中免费转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
@@ -86,19 +86,18 @@ msgid ""
 msgstr "手操灵敏度[外]"
 
 #: src-en/data/blueprints.xml.append:58
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/desc"
 msgstr ""
 "炮塔在手动瞄准时获得 180 的旋转速度。\n"
 "\t\n"
-"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
+"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件"
+"槽位。若拥有炮塔控制系统，可在内部升级菜单中免费转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:68
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/title"
-msgstr "扩展电路"
+msgstr "适应改装"
 
 #: src-en/data/blueprints.xml.append:69
 msgid ""
@@ -106,24 +105,23 @@ msgid ""
 msgstr "开发人员信息"
 
 #: src-en/data/blueprints.xml.append:76
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/title"
-msgstr "拓展电路[外]"
+msgstr "适应改装[X]"
 
 #: src-en/data/blueprints.xml.append:77
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
 msgstr ""
 "拓展自适应炮塔的插槽，使其可装配所有尺寸的炮塔。\n"
 "\t\n"
-"[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
+"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件"
+"槽位。若拥有炮塔控制系统，可在内部升级菜单中免费转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:86
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_2_LARGE\"]/title"
-msgstr ""
+msgstr "次级适应改装"
 
 #: src-en/data/blueprints.xml.append:87
 msgid ""
@@ -133,21 +131,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:94
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/title"
-msgstr ""
+msgstr "次级适应改装[X]"
 
 #: src-en/data/blueprints.xml.append:95
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/desc"
 msgstr ""
-"拓展自适应炮塔的插槽，使其可装配所有尺寸的炮塔。\n"
+"拓展次级自适应炮塔的插槽，使其可装配所有尺寸的炮塔。\n"
 "\t\n"
-"[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件槽位。若你已安装升级的克隆舱系统，可在内部升级菜单中免费将其转换为内部版本。"
+"\t[外] - 作为一项外部系统升级，此增强部件将提供正常效果，但会占用一个增强部件"
+"槽位。若拥有炮塔控制系统，可在内部升级菜单中免费转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY\"]/title"
-msgstr ""
+msgstr "次级炮塔"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
@@ -157,12 +155,16 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/title"
-msgstr ""
+msgstr "次级炮塔 [X]"
 
 #: src-en/data/blueprints.xml.append:113
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/desc"
 msgstr ""
+"安装次级自适应炮塔系统以取代无人机控制，此新系统不占用系统槽位。\n"
+"\t\n"
+"\t[外] - 作为外部系统升级，若您拥有炮塔控制系统，可在内部升级菜单中免费将此增"
+"强转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:123
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
@@ -242,31 +244,37 @@ msgid ""
 msgstr "自适应炮塔操控"
 
 #: src-en/data/blueprints.xml.append:256
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
-msgstr "为舰船炮塔供能，升级可缩短其充能时间。炮塔可在非战斗状态下重新部署，以适配舰船的最佳布局，并能最终升级为大型炮塔插槽。"
+msgstr ""
+"可在内部升级以在取代无人机控制的同时额外增加一个次级炮塔系统，次级系统不占用"
+"系统槽位。为舰船炮塔供能。升级可缩短炮塔蓄力时间。炮塔位置可在战斗外进行调整"
+"以最佳适配舰船，可在内部升级菜单中升级为大型炮塔槽位。"
 
 #: src-en/data/blueprints.xml.append:274
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_2\"]/title"
-msgstr ""
+msgstr "次级炮塔控制"
 
 #: src-en/data/blueprints.xml.append:275
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_2\"]/desc"
-msgstr "为舰船炮塔供能，升级可缩短其充能时间。炮塔可在非战斗状态下重新部署，以适配舰船的最佳布局，并能最终升级为大型炮塔插槽。"
+msgstr ""
+"为舰船炮塔供能。升级可缩短炮塔蓄力时间。炮塔位置可在战斗外进行调整以最佳适配"
+"舰船，可在内部升级菜单中升级为大型炮塔槽位。"
 
 #: src-en/data/blueprints.xml.append:293
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_single\"]/title"
-msgstr ""
+msgstr "先进炮塔控制"
 
 #: src-en/data/blueprints.xml.append:294
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_single\"]/desc"
 msgstr ""
+"作为无人机系统的替代方案，仅适用于无法以其他方式安装炮塔的舰船，拥有更高的最"
+"大系统等级。为舰船炮塔供能。升级可缩短炮塔蓄力时间。炮塔位置可在战斗外进行调"
+"整以最佳适配舰船，可在内部升级菜单中升级为大型炮塔槽位。"
 
 #: src-en/data/blueprints.xml.append:314
 msgid ""
@@ -286,25 +294,31 @@ msgstr "一个不同寻常的货箱。里面装着什么，你可说不准。要
 #: src-en/data/blueprints.xml.append:332
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_EQUALISER_PERFORMANCE\"]/title"
-msgstr ""
+msgstr "性能升级"
 
 #: src-en/data/blueprints.xml.append:340
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/title"
-msgstr ""
+msgstr "性能升级[X]"
 
 #: src-en/data/blueprints.xml.append:341
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/desc"
 msgstr ""
+"系统均衡器的锁定时间减少50%。\n"
+"    \n"
+"[外] - 作为外部系统升级，此增强将提供正常效果，但会占用一个增强槽位。若您拥有"
+"系统均衡器子系统，可在内部升级菜单中免费转换为内部版本。"
 
 #: src-en/data/blueprints.xml.append:351
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/title"
-msgstr ""
+msgstr "系统均衡器"
 
 #: src-en/data/blueprints.xml.append:352
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/desc"
 msgstr ""
+"激活时平衡系统伤害，将其重新分配至所有选定系统，冷却时间20秒。升级可使该系统"
+"同时减少舰船承受的总伤害。"
 
 #: src-en/data/blueprints.xml.append:367
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/desc"
@@ -344,10 +358,10 @@ msgid ""
 msgstr "受到0.6倍灼烧伤害"
 
 #: src-en/data/blueprints.xml.append:403
-#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/desc"
 msgstr ""
-"一名新黎明的士兵，装备了个人隐身装置，该装置的能量会在执行行动时消耗。\n"
+"精英人类船员，一名新黎明的士兵，装备了个人隐身装置，该装置的能量会在执行行动"
+"时消耗。\n"
 "\n"
 "\t继承的人类特性：轻微窒息抗性，技能学习速度加快"
 
@@ -373,31 +387,37 @@ msgstr "受到0.7倍战斗伤害与0.6倍灼烧伤害"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/desc"
 msgstr ""
+"超级精英人类船员。一名午夜烈阳的特工，配备微型黑客装置，能够间歇性地在整场战"
+"斗中禁用敌方一个系统。\n"
+"\n"
+"\t继承人类基础属性：轻微窒息抗性"
 
 #: src-en/data/blueprints.xml.append:441
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/title"
-msgstr ""
+msgstr "午夜烈阳特工"
 
 #: src-en/data/blueprints.xml.append:442
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/short"
-msgstr ""
+msgstr "特工"
 
 #: src-en/data/blueprints.xml.append:445
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[1]"
 msgstr ""
+"主动能力：在当前房间部署一个几乎不可摧毁的黑客装置，该装置将在战斗剩余时间内"
+"反复黑入当前舱室，无法以武器、无人机或护盾为目标。"
 
 #: src-en/data/blueprints.xml.append:446
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[2]"
-msgstr ""
+msgstr "在船员战斗中造成1.5倍伤害"
 
 #: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[3]"
-msgstr ""
+msgstr "以1.5倍速度破坏系统"
 
 #: src-en/data/blueprints.xml.append:448
 msgid ""
@@ -407,26 +427,32 @@ msgstr "受到0.7倍战斗伤害与0.6倍灼烧伤害"
 #: src-en/data/blueprints.xml.append:449
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[5]"
-msgstr ""
+msgstr "训练有素，掌握2级技能"
 
 #: src-en/data/blueprints.xml.append:453
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/desc"
 msgstr ""
+"一名重要的铁幕守望科学家，曾在铁幕守望中子星研究站（NSRS）被午夜烈阳摧毁前担"
+"任该站站长。\n"
+"\n"
+"\t继承人类基础属性：轻微窒息抗性，学习技能速度更快"
 
 #: src-en/data/blueprints.xml.append:457
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/title"
-msgstr ""
+msgstr "研究员"
 
 #: src-en/data/blueprints.xml.append:458
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/short"
-msgstr ""
+msgstr "研究员"
 
 #: src-en/data/blueprints.xml.append:461
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[1]"
 msgstr ""
+"主动能力：部署一架能够锁定所有类型弹丸和无人机的防御无人机，可摧毁弹丸但只能"
+"眩晕无人机。"
 
 #: src-en/data/blueprints.xml.append:462
 msgid ""
@@ -441,13 +467,12 @@ msgstr "当处于星云中时，揭示相邻的房间"
 #: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[4]"
-msgstr ""
+msgstr "远程伤害 ×2"
 
 #: src-en/data/blueprints.xml.append:465
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[5]"
-msgstr "1.25倍维修速度"
+msgstr "1.5倍维修速度"
 
 #: src-en/data/blueprints.xml.append:466
 msgid ""
@@ -458,96 +483,100 @@ msgstr "受到0.6倍灼烧伤害"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/desc"
 msgstr ""
+"一名重要的铁幕守望外交官，由铁幕守望指挥部派遣，前往联邦寻求支持以对抗叛军威"
+"胁。将被送往联邦基地。"
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/title"
-msgstr ""
+msgstr "外交官"
 
 #: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/short"
-msgstr ""
+msgstr "外交官"
 
 #: src-en/data/blueprints.xml.append:477
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[1]"
 msgstr ""
+"主动能力：变为可控状态，能够以正常速率进行操作、战斗和修理，在生命值低于或等"
+"于25点时触发。"
 
 #: src-en/data/blueprints.xml.append:478
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[2]"
-msgstr ""
+msgstr "正常船员存在时变为可控状态"
 
 #: src-en/data/blueprints.xml.append:479
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[3]"
-msgstr ""
+msgstr "无法控制"
 
 #: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[4]"
-msgstr ""
+msgstr "无法战斗或操作系统"
 
 #: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[5]"
-msgstr ""
+msgstr "0.5倍修理速度，1.0倍灭火速度"
 
 #: src-en/data/blueprints.xml.append:482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[6]"
-msgstr ""
+msgstr "韧性与决心使其受到的环境伤害降低"
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/desc"
-msgstr ""
+msgstr "一名人类平民，在打开商店或选择新星区时将奖励25废料。"
 
 #: src-en/data/blueprints.xml.append:488
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/title"
-msgstr ""
+msgstr "人类平民"
 
 #: src-en/data/blueprints.xml.append:489
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/short"
-msgstr ""
+msgstr "平民"
 
 #: src-en/data/blueprints.xml.append:492
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[1]"
-msgstr ""
+msgstr "正常船员存在时变为可控状态"
 
 #: src-en/data/blueprints.xml.append:493
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[2]"
-msgstr ""
+msgstr "不占用船员槽位"
 
 #: src-en/data/blueprints.xml.append:494
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[3]"
-msgstr ""
+msgstr "无法控制"
 
 #: src-en/data/blueprints.xml.append:495
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[4]"
-msgstr ""
+msgstr "无法战斗或操作系统"
 
 #: src-en/data/blueprints.xml.append:496
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[5]"
-msgstr ""
+msgstr "0.25倍修理速度，1.0倍灭火速度"
 
 #: src-en/data/blueprints.xml.append:497
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[6]"
-msgstr ""
+msgstr "韧性与决心使其受到的环境伤害降低"
 
 #: src-en/data/blueprints.xml.append:540
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/desc"
-msgstr ""
+msgstr "一名螳螂族平民，在打开商店或选择新星区时将奖励您5废料。"
 
 #: src-en/data/blueprints.xml.append:542
 msgid ""
