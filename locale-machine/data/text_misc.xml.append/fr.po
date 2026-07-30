@@ -8,22 +8,32 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_loc\"]"
 msgstr ""
+"Les coordonnées de la balise seront dans le faisceau de l'étoile à neutrons "
+"au prochain saut."
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_static_loc\"]"
 msgstr ""
+"Les coordonnées de la balise sont à proximité immédiate d'un pulsar, vous "
+"serez sous les effets du rayon à neutrons."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_og_neutron_beam\"]"
 msgstr ""
+"Vous êtes dans le rayon de l'étoile à neutrons. Les radiations endommageront"
+" tous les systèmes et l'équipage à bord du vaisseau. L'équipage sera protégé"
+" s'il se trouve dans des pièces où les systèmes opérationnels absorbent les "
+"dégâts à la place."
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_og_triplet\"]"
 msgstr ""
+"Astuce : Les armes Triplet s'enchaînent deux fois avant de se réinitialiser "
+"lors de la troisième salve."
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"ship_unlock_og_two_wins\"]"
-msgstr ""
+msgstr "Débloquez deux configurations du \\1 pour débloquer le \\2"
 
 #: src-en/data/text_misc.xml.append:12
 msgid ""
@@ -45,7 +55,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:16
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_unlock\"]"
-msgstr ""
+msgstr "Débloquez 2 vaisseaux de classe Pillard."
 
 #: src-en/data/text_misc.xml.append:17
 msgid ""
@@ -81,7 +91,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:24
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_unlock\"]"
-msgstr ""
+msgstr "Débloquez 2 vaisseaux de classe Fer de lance."
 
 #: src-en/data/text_misc.xml.append:25
 msgid ""
@@ -99,6 +109,8 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_HUNTER_unlock\"]"
 msgstr ""
+"Traquez le mystérieux vaisseau fantôme dans la Zone d'Exclusion de l'Étoile "
+"à Neutrons."
 
 #: src-en/data/text_misc.xml.append:29
 msgid ""
@@ -115,7 +127,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:32
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DRIFTER_unlock\"]"
-msgstr ""
+msgstr "Débloquez 2 vaisseaux de classe Chasseur."
 
 #: src-en/data/text_misc.xml.append:33
 msgid ""
@@ -181,18 +193,28 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_SILAS_unlock\"]"
 msgstr ""
+"Consultez les conseils d'un certain scientifique humain au sujet d'un "
+"certain artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_HORUS_unlock\"]"
 msgstr ""
+"Consultez les conseils d'un certain diplomate humain au sujet d'un certain "
+"artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:47
 msgid "data/text_misc.xml.append$//text[@name=\"loot_og_dawn_1\"]"
 msgstr ""
+"BUTIN DU NOUVEAU RÉGIME\n"
+"Applique une vulnérabilité aux pièces touchées pendant 5 secondes\n"
+"-1 seconde de temps de recharge"
 
 #: src-en/data/text_misc.xml.append:50
 msgid "data/text_misc.xml.append$//text[@name=\"loot_og_midnight_1\"]"
 msgstr ""
+"BUTIN DU MIDNIGHT SUN\n"
+"Pirate les pièces touchées pendant 2 secondes\n"
+"-1 seconde de temps de recharge par chaîne"
 
 #: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_slug_1\"]"
@@ -317,26 +339,27 @@ msgstr "Système de contrôle des tourelles avancées installé"
 
 #: src-en/data/text_misc.xml.append:95
 msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser\"]"
-msgstr ""
+msgstr "Égaliseur de système"
 
 #: src-en/data/text_misc.xml.append:96
 msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser_installed\"]"
-msgstr ""
+msgstr "Égaliseur de système installé"
 
 #: src-en/data/text_misc.xml.append:97
 msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_level\"]"
-msgstr ""
+msgstr "Égalise et réduit les dégâts de : %d%%"
 
 #: src-en/data/text_misc.xml.append:98
 msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_button_hover\"]"
-msgstr ""
+msgstr "Égaliser les dégâts sur les systèmes de vaisseau sélectionnés."
 
 #: src-en/data/text_misc.xml.append:99
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_on\"]"
-msgstr ""
+msgstr "Sera égalisé. Appuyez pour exclure le système de l'égalisation."
 
 #: src-en/data/text_misc.xml.append:100
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_off\"]"
 msgstr ""
+"Ne sera pas égalisé. Appuyez pour inclure le système dans l'égalisation."

@@ -53,17 +53,17 @@ msgstr "Garde de la Veille de Fer"
 #: src-en/data/autoBlueprints.xml.append:547
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_EXECUTOR\"]/class"
-msgstr ""
+msgstr "Exécuteur Iron Watch"
 
 #: src-en/data/autoBlueprints.xml.append:576
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_STATION\"]/class"
-msgstr ""
+msgstr "Station Iron Watch"
 
 #: src-en/data/autoBlueprints.xml.append:602
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_STATION_DAMAGED\"]/class"
-msgstr ""
+msgstr "Station Iron Watch"
 
 #: src-en/data/autoBlueprints.xml.append:722
 msgid ""
@@ -143,47 +143,47 @@ msgstr "Croiseur renégat"
 #: src-en/data/autoBlueprints.xml.append:1223
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_SCOUT\"]/class"
-msgstr ""
+msgstr "Éclaireur Midnight Sun"
 
 #: src-en/data/autoBlueprints.xml.append:1248
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_INFILTRATOR\"]/class"
-msgstr ""
+msgstr "Infiltré Midnight Sun"
 
 #: src-en/data/autoBlueprints.xml.append:1274
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_OUTRIDER\"]/class"
-msgstr ""
+msgstr "Explorateur Midnight Sun"
 
 #: src-en/data/autoBlueprints.xml.append:1300
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_BOMBER\"]/class"
-msgstr ""
+msgstr "Bombardier Midnight Sun"
 
 #: src-en/data/autoBlueprints.xml.append:1328
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_CORVETTE\"]/class"
-msgstr ""
+msgstr "Corvette Midnight Sun"
 
 #: src-en/data/autoBlueprints.xml.append:1357
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_FIGHTER\"]/class"
-msgstr ""
+msgstr "Chasseur Midnight Sun"
 
 #: src-en/data/autoBlueprints.xml.append:1387
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Transport Midnight Sun"
 
 #: src-en/data/autoBlueprints.xml.append:1417
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_GUARD\"]/class"
-msgstr ""
+msgstr "Vaisseau de combat Midnight Sun"
 
 #: src-en/data/autoBlueprints.xml.append:1447
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_HUNTER\"]/class"
-msgstr ""
+msgstr "Chasseur Midnight Sun"
 
 #: src-en/data/autoBlueprints.xml.append:3039
 msgid ""

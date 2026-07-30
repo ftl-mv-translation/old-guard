@@ -9,12 +9,15 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_OG_TURRETS\"]/text"
 msgstr ""
+"\"Aaaaah. Étrangerrr étrangerrr, je vendrais peut-être normalement des "
+"armesss, mais j'ai rassemblé pas mal de ssstock de tourellesss dernièrement."
+" Peut-être pourrrriez-vous en utiliser une ?\""
 
 #: src-en/data/events_special_multiverse.xml.append:19
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"SYLVAN_TRADES_CHOICE_1\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Acheter des tourelles."
 
 #: src-en/data/events_special_multiverse.xml.append:61
 msgid ""

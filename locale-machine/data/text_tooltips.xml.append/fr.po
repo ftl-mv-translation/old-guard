@@ -8,10 +8,15 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:2
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
 msgstr ""
+"Astuce : Les tourelles doivent être équipées sur le système de contrôle de "
+"tourelle."
 
 #: src-en/data/text_tooltips.xml.append:3
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_mini\"]"
 msgstr ""
+"Astuce : Les tourelles doivent être équipées sur le système de contrôle de "
+"tourelle. Les micro-tourelles peuvent être équipées sur les emplacements de "
+"tourelle petits et grands."
 
 #: src-en/data/text_tooltips.xml.append:4
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_base\"]"
@@ -119,10 +124,13 @@ msgstr "Contrôle des tourelles : Alimente la tourelle ennemie."
 #: src-en/data/text_tooltips.xml.append:28
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_equaliser\"]"
 msgstr ""
+"Égaliseur de système : Égaliser les dégâts sur les systèmes de vaisseau "
+"sélectionnés."
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_equaliser_enemy\"]"
 msgstr ""
+"Égaliseur de système : Égalise les dégâts sur les systèmes du vaisseau."
 
 #: src-en/data/text_tooltips.xml.append:31
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret\"]"
@@ -171,7 +179,7 @@ msgstr "Draine temporairement la charge de la tourelle ennemie."
 
 #: src-en/data/text_tooltips.xml.append:42
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_equaliser\"]"
-msgstr ""
+msgstr "Empêcher le système de s'activer."
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_player\"]"
@@ -225,7 +233,7 @@ msgstr "SYSTÈME PIRATÉ : LA TOURELLE PERD DE LA CHARGE."
 
 #: src-en/data/text_tooltips.xml.append:55
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_equaliser_player\"]"
-msgstr ""
+msgstr "SYSTÈME PIRATÉ : SYSTÈME GELÉ."
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_time\"]"
@@ -330,12 +338,12 @@ msgstr "\\nDurée de l'effet : d'une durée de %d secondes"
 #: src-en/data/text_tooltips.xml.append:82
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_neutron_damage\"]"
-msgstr ""
+msgstr "\\nDégâts de rayon : %g par seconde"
 
 #: src-en/data/text_tooltips.xml.append:83
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_neutron_duration\"]"
-msgstr ""
+msgstr "\\nDurée du rayon : %.1f secondes"
 
 #: src-en/data/text_tooltips.xml.append:85
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price\"]"
@@ -344,7 +352,7 @@ msgstr "\\n\\nPrix par défaut : %d~   -   Prix de vente : %d~"
 #: src-en/data/text_tooltips.xml.append:86
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price_short\"]"
-msgstr ""
+msgstr "\\n\\n%d~   -   %d~"
 
 #: src-en/data/text_tooltips.xml.append:88
 msgid ""
@@ -379,7 +387,7 @@ msgstr "\\nTemps de charge : %.1f/%.1f"
 
 #: src-en/data/text_tooltips.xml.append:97
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_none\"]"
-msgstr ""
+msgstr "Aucun"
 
 #: src-en/data/text_tooltips.xml.append:98
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones\"]"
@@ -445,7 +453,7 @@ msgstr "%s Nécessite :"
 #: src-en/data/text_tooltips.xml.append:112
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_atleast\"]"
-msgstr ""
+msgstr "\\n  Au moins %d :"
 
 #: src-en/data/text_tooltips.xml.append:113
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list\"]"
@@ -543,12 +551,15 @@ msgstr "Cloner"
 #: src-en/data/text_tooltips.xml.append:138
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_midnight_hacking_name\"]"
-msgstr ""
+msgstr "Drone de piratage"
 
 #: src-en/data/text_tooltips.xml.append:139
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_midnight_hacking_text\"]"
 msgstr ""
+"Drone de piratage\\nRetiré lors d'un saut, ou lorsque le système est "
+"entièrement endommagé.\\n\\nTemps actuel :%.1f secondes\\nTemps de recharge "
+":%d secondes\\nDurée du piratage :%d secondes"
 
 #: src-en/data/text_tooltips.xml.append:141
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_iron\"]"
@@ -606,7 +617,7 @@ msgstr "Allez botter des culs de rebelles."
 #: src-en/data/text_tooltips.xml.append:153
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_chaingun_gold\"]"
-msgstr ""
+msgstr "Une récréation d'une infâme arme gatling"
 
 #: src-en/data/text_tooltips.xml.append:155
 msgid ""

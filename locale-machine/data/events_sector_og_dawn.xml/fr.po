@@ -451,16 +451,23 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[1]"
 msgstr ""
+"Le capitaine du Nouveau Régime lance une dernière injure alors que le "
+"vaisseau est pulvérisé."
 
 #: src-en/data/events_sector_og_dawn.xml:349
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[2]"
 msgstr ""
+"La coque du vaisseau du Nouveau Régime se disperse dans l'espace. Vous "
+"foncez pour récupérer les débris."
 
 #: src-en/data/events_sector_og_dawn.xml:350
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[3]"
 msgstr ""
+"Le vaisseau du Nouveau Régime explose, éteignant toute vie à l'intérieur. "
+"Votre équipage évite leurs restes pendant qu'ils récupèrent les morceaux du "
+"vaisseau."
 
 #: src-en/data/events_sector_og_dawn.xml:351
 msgid ""
@@ -478,30 +485,44 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[2]"
 msgstr ""
+"Sans un mot, le capitaine du Nouveau Régime tombe au sol, cherchant son "
+"souffle alors que la vie s'éteint dans ses yeux. Vous récupérez la coque de "
+"leur vaisseau."
 
 #: src-en/data/events_sector_og_dawn.xml:361
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[3]"
 msgstr ""
+"\"Vous allez le regretter ! Le karma revient toujours aux gens comme vous. "
+"Maudits soyez-vous, Rebelles... le Nouveau Régime va...\" Il meurt avant de "
+"pouvoir terminer sa dernière remarque."
 
 #: src-en/data/events_sector_og_dawn.xml:365
 msgid "data/events_sector_og_dawn.xml$//event[@name=\"ESCAPE_OG_DAWN\"]/text"
 msgstr ""
+"Les scans montrent que le vaisseau du Nouveau Régime tente de s'échapper. "
+"Détruisez-le avant qu'il ne puisse fuir !"
 
 #: src-en/data/events_sector_og_dawn.xml:378
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[1]"
 msgstr ""
+"Le vaisseau du Nouveau Régime vous a échappé, vous abandonnant à la balise."
 
 #: src-en/data/events_sector_og_dawn.xml:379
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[2]"
 msgstr ""
+"Vos tentatives pour détruire le vaisseau du Nouveau Régime ont échoué, et le"
+" vaisseau s'est échappé."
 
 #: src-en/data/events_sector_og_dawn.xml:382
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"GOTAWAY_OG_DAWN_REMAINS\"]/text"
 msgstr ""
+"Le vaisseau du Nouveau Régime a peut-être réussi à s'échapper, mais tout "
+"n'est pas perdu. Une traînée de ferraille provenant de l'épave a été laissée"
+" derrière, que vous récupérez."
 
 #: src-en/data/events_sector_og_dawn.xml:433
 msgid ""
@@ -630,6 +651,11 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/text"
 msgstr ""
+"Le marchand, maintenant en sueur, continue nerveusement : \"Comme je le "
+"disais, ce n'est PAS une authentique tourelle du Nouveau Régime, c'est "
+"plutôt une, euh... une réplique, oui, une réplique, elle ne fonctionne pas "
+"du tout. C'est juste une pièce de collection, vous ne seriez pas intéressé "
+"par ça.\""
 
 #: src-en/data/events_sector_og_dawn.xml:508
 msgid ""
@@ -717,6 +743,11 @@ msgstr "Le menacer de le signaler s'il ne baisse pas encore le prix."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[2]/event/text"
 msgstr ""
+"Vous adoptez un ton sévère et menacez à nouveau le marchand, mais cette "
+"fois-ci, il est encore moins inquiet. Finalement, vous regardez vers "
+"l'endroit où se trouvait la tourelle pour réaliser qu'elle a disparu ; le "
+"marchand a réussi à la cacher sans que vous ne vous en rendiez compte, et "
+"sans rien à signaler, vos menaces tombent à plat."
 
 #: src-en/data/events_sector_og_dawn.xml:556
 msgid ""
@@ -803,6 +834,11 @@ msgstr "Ignorer et faire ses achats."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/text"
 msgstr ""
+"Vous êtes arrivé à la balise pour découvrir l'épave d'un vaisseau du Nouveau"
+" Régime. Rien dans la zone n'indique qu'une bataille a eu lieu ici ; il "
+"semble plutôt que l'épave ait été créée par le champ d'astéroïdes présent. "
+"Si vous voulez fouiller les débris, vous devrez entrer dans le champ "
+"d'astéroïdes."
 
 #: src-en/data/events_sector_og_dawn.xml:626
 msgid ""
@@ -910,6 +946,10 @@ msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"\"Un Rebelle de la Fédération ? Je ne pensais pas voir des gens comme vous ici, ne vous inquiétez pas, il n'y a pas de rebelles dans les parages, nous ne sommes pas obligés d'être ennemis.\"\n"
+"Le capitaine du transport marque une pause, réfléchissant.\n"
+"\"Dites, vous n'auriez pas des provisions en trop ? Nous devions récupérer des fournitures à cet avant-poste, mais apparemment, ils n'en ont jamais reçu du dernier transport.\"\n"
+"\"Nous serions heureux de vous payer avec de l'équipement excédentaire ou du personnel.\""
 
 #: src-en/data/events_sector_og_dawn.xml:698
 msgid ""
@@ -1288,6 +1328,10 @@ msgstr "Le détruire pour la ferraille et les ressources."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/event/text"
 msgstr ""
+"Vous ouvrez le feu sur l'avant-poste ; il se désintègre rapidement sous vos "
+"armes, ses tourelles sous-dimensionnées ne parvenant à vous toucher que "
+"quelques fois. Malheureusement, il a réussi à alerter la flotte rebelle de "
+"votre position avant d'être détruit."
 
 #: src-en/data/events_sector_og_dawn.xml:918
 msgid ""
@@ -1338,6 +1382,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/text"
 msgstr ""
+"Vous arrivez à la balise face à face avec un vaisseau du Nouveau Régime et un vaisseau rebelle ; vous vous préparez immédiatement pour la bataille à venir avant de réaliser que les vaisseaux ne s'intéressent pas à vous, mais ont leurs armes braquées l'un sur l'autre.\n"
+"D'après ce que vous pouvez entendre via les communications publiques, vous comprenez que le capitaine du Nouveau Régime en a assez d'écouter les ordres de ces \"stupides capitaines rebelles qui ne savent même pas faire la différence entre l'arrière-train d'une limace et celui de leur propre mère\". Et le capitaine rebelle est très mécontent de l'insubordination du vaisseau du Nouveau Régime."
 
 #: src-en/data/events_sector_og_dawn.xml:994
 msgid ""
@@ -1570,6 +1616,13 @@ msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
 msgstr ""
+"Vous acceptez d'aider et vous séparez du vaisseau du Nouveau Régime ; après "
+"quelques minutes de recherche, le vaisseau du Nouveau Régime disparaît au "
+"loin, hors de portée de vos capteurs. Ce n'est que quelques minutes plus "
+"tard que le vaisseau de l'Iron Watch apparaît, révélé derrière un gros "
+"astéroïde lent. Ils déduisent correctement que vous faites partie de "
+"l'équipe de chasse et ne vous laissent aucune chance ; préparez-vous au "
+"combat."
 
 #: src-en/data/events_sector_og_dawn.xml:1131
 msgid ""
@@ -1757,6 +1810,8 @@ msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
 msgstr ""
+"Vous leur transférez les fournitures et recevez leur ferraille, un bon vieil"
+" échange de ressources à l'ancienne."
 
 #: src-en/data/events_sector_og_dawn.xml:1242
 msgid ""
@@ -1927,6 +1982,8 @@ msgstr "Enquêter sur l'épave."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/text"
 msgstr ""
+"Vous vous approchez de l'épave ; il y a plusieurs conteneurs de fret parmi les débris, mais ils semblent tous ouverts ; quelqu'un est déjà passé par ici.\n"
+"Un moment plus tard, vous découvrez qui c'est : un éclaireur du Nouveau Régime se révèle derrière des astéroïdes. Il est évident qu'ils ont subi des dégâts à leurs moteurs, comme en témoigne la fine traînée d'huile et d'autres fluides s'échappant derrière eux."
 
 #: src-en/data/events_sector_og_dawn.xml:1364
 msgid ""
@@ -1937,6 +1994,11 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Le capitaine du vaisseau semble paniqué : \"S'il vous plaît, Capitaine, vous"
+" devez nous aider, j'ai sauvé tous ceux que j'ai pu trouver, mais notre "
+"vaisseau ne tiendra pas beaucoup plus longtemps. Je vous en supplie, prenez-"
+"nous, nous et notre cargaison, à bord et sortez-nous du champ d'astéroïdes, "
+"il y a un avant-poste tout près.\""
 
 #: src-en/data/events_sector_og_dawn.xml:1368
 msgid ""
@@ -2049,6 +2111,12 @@ msgstr "Temps pour atteindre l'avant-poste."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/text"
 msgstr ""
+"Vous y êtes arrivé, vous vous amarrez à l'avant-poste et tout le monde s'en "
+"sort avec succès. L'équipage du vaisseau est très reconnaissant. Un des "
+"soldats du Nouveau Régime s'approche de vous : \"Pensez-vous que je pourrais"
+" rejoindre votre vaisseau comme membre d'équipage ? C'était assez ennuyeux "
+"de travailler à l'escorte du transport, du moins jusqu'à ce que je pense que"
+" nous allions mourir.\""
 
 #: src-en/data/events_sector_og_dawn.xml:1452
 msgid ""
@@ -2132,6 +2200,9 @@ msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"3\"]/event/choice[1]/event/text"
 msgstr ""
+"Ils vous transfèrent les coordonnées et la caisse de cargaison, ils vous "
+"donnent un avertissement rapide de ne pas l'ouvrir avant de vous laisser "
+"partir."
 
 #: src-en/data/events_sector_og_dawn.xml:1516
 msgid ""
@@ -2182,6 +2253,9 @@ msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
+"Vos tentatives pour établir un contact sont immédiatement interrompues "
+"lorsqu'ils réalisent qui vous êtes ; il semble qu'ils espéraient que l'un "
+"des leurs vienne à leur secours."
 
 #: src-en/data/events_sector_og_dawn.xml:1547
 msgid ""
@@ -2264,6 +2338,9 @@ msgstr "(Caisse de chargement) Lui montrer la caisse de chargement."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/text"
 msgstr ""
+"\"Oh, vous ne mentiez pas, c'est bien là, veuillez l'apporter et me suivre, ce n'est pas loin d'ici.\"\n"
+"\n"
+"Un moment plus tard, vous vous retrouvez dans un laboratoire à l'aspect étrange, il y a plusieurs tables inoccupées dans la pièce, mais vous êtes dirigé vers une table légèrement plus grande au milieu."
 
 #: src-en/data/events_sector_og_dawn.xml:1603
 msgid ""
@@ -2286,6 +2363,11 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Il tourne son attention vers vous, ne semblant pas vraiment se soucier de "
+"qui il parle. \"Je vous présente le PRÉ-ALLUMEUR de tourelle, une version "
+"améliorée de notre succès, le Pré-énergisant. Je suppose que l'assembler "
+"n'était pas nécessaire, mais j'aime avoir un prototype final, cela donne une"
+" impression d'achèvement.\""
 
 #: src-en/data/events_sector_og_dawn.xml:1613
 msgid ""
@@ -2296,6 +2378,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"À peine un instant plus tard, toute la station est secouée par une énorme explosion, des sirènes et des alarmes commencent à hurler et les gens commencent à courir partout. L'ingénieur se tourne vers une console à proximité, affichant rapidement les caméras extérieures de la station.\n"
+"Sur l'écran, vous pouvez distinguer un vaisseau à l'aspect étrange se découpant contre l'étoile voisine. \"C'est exactement ce que je craignais.\" L'ingénieur se tourne vers vous. \"Capitaine, quel type de vaisseau avez-vous ?\" \"Un croiseur, excellent ! Prenez le Pré-allumeur de tourelle, j'ai sauvegardé les plans sur un centre de données sécurisé. En revanche, je ne peux pas risquer que le prototype physique tombe entre leurs mains, s'il vous plaît, prenez-le avec vous et sortez d'ici. Quoi que vous fassiez, ne le laissez pas tomber entre les mains de la Rébellion.\""
 
 #: src-en/data/events_sector_og_dawn.xml:1620
 msgid ""
@@ -2516,6 +2600,12 @@ msgstr ""
 #: src-en/data/events_sector_og_dawn.xml:1858
 msgid "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/text"
 msgstr ""
+"Vous êtes arrivé à la balise face à face avec une paire de vaisseaux de "
+"l'Iron Watch, l'un d'eux est juste un chasseur ordinaire, mais l'autre a une"
+" conception inhabituelle, un vaisseau plus grand de la taille d'un croiseur."
+" Une vision inhabituelle dans ce secteur, la plupart des membres de l'Iron "
+"Watch ont été forcés de partir ou ont rejoint leurs chefs en se tournant "
+"vers le Nouveau Régime."
 
 #: src-en/data/events_sector_og_dawn.xml:1861
 msgid ""
@@ -2651,7 +2741,7 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-99\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Le Nouveau Régime n'acceptera pas votre aide."
 
 #: src-en/data/events_sector_og_dawn.xml:1924
 msgid ""
@@ -2774,6 +2864,15 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/choice[1]/event/text"
 msgstr ""
+"Vous dirigez le croiseur pour enquêter sur l'escorte que vous avez détruite,"
+" ils commencent à fouiller l'épave à la recherche de consoles ou de systèmes"
+" intacts. Ce n'est que quelques minutes plus tard que vous recevez un "
+"contact de leur part : \"Aha, Capitaine, nous l'avons trouvé, ils se sont en"
+" fait installés à l'intérieur d'un gros astéroïde dans le même système que "
+"le coffre-fort de données ; malheureusement, d'après la transcription de la "
+"cargaison que nous avons trouvée, il semble qu'ils soient très proches "
+"d'être prêts, nous devons y arriver aussi vite que possible, nous vous "
+"envoyons l'emplacement maintenant.\""
 
 #: src-en/data/events_sector_og_dawn.xml:2007
 msgid ""
@@ -2809,6 +2908,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN\"]/text"
 msgstr ""
+"Malgré un feu nourri, le vaisseau du Nouveau Régime a réussi à déclencher un"
+" saut d'urgence, se glissant dans le vide juste au moment où ses systèmes "
+"commençaient à lâcher."
 
 #: src-en/data/events_sector_og_dawn.xml:2043
 msgid ""
@@ -2849,6 +2951,9 @@ msgstr "La localisation de la base secrète de la Veille de Fer."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/text"
 msgstr ""
+"Vous êtes arrivé au point de rendez-vous, le croiseur du Nouveau Régime est "
+"déjà là. \"Vous êtes là Capitaine, nous pouvons donc partir, suivez-moi et "
+"préparez-vous au combat.\""
 
 #: src-en/data/events_sector_og_dawn.xml:2073
 msgid ""
@@ -2859,6 +2964,8 @@ msgstr "Suivre le croiseur."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/text"
 msgstr ""
+"Vous suivez le croiseur, en passant devant plusieurs gros astéroïdes flottant dans le vide. Vous ne vous rendez même pas compte quand vous arrivez à la base de l'Iron Watch jusqu'à ce que vous soyez juste devant, vous captez le plus faible signal sur vos capteurs au centre d'un gros astéroïde, protégé de la détection par l'épaisse couche de roche.\n"
+"Maintenant que vous savez où se trouve leur base, il ne vous faut pas longtemps pour localiser l'entrée, une grotte naturelle dans l'astéroïde qui mène à l'intérieur."
 
 #: src-en/data/events_sector_og_dawn.xml:2078
 msgid ""
@@ -2869,6 +2976,13 @@ msgstr "Suivre le croiseur à l'intérieur."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Vous finissez par déboucher dans un espace caverneux, plus petit que ce à "
+"quoi vous vous attendiez, mais rempli de conteneurs de fret et de quelques "
+"structures temporaires. Cependant, un scan rapide indique que la base est "
+"vide, abandonnée. Le vaisseau du Nouveau Régime, réalisant cela également, "
+"fait rapidement demi-tour par où vous êtes venus, avec toute la puissance de"
+" ses moteurs. \"Capitaine, nous avons fait une erreur, ils ont déjà bougé le"
+" coffre-fort de données, je dois y retourner maintenant !\""
 
 #: src-en/data/events_sector_og_dawn.xml:2082
 msgid ""
@@ -2920,6 +3034,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/event/text"
 msgstr ""
+"Le capitaine du Nouveau Régime est déçu et repart de son côté, espérant que "
+"son vaisseau sera assez puissant seul."
 
 #: src-en/data/events_sector_og_dawn.xml:2116
 msgid ""
@@ -3022,6 +3138,10 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/text"
 msgstr ""
+"Vous êtes arrivé au point de rendez-vous, le croiseur de l'Iron Watch est "
+"déjà là, aux côtés d'une petite flotte de navires militaires plus petits. "
+"\"Vous êtes là Capitaine, nous pouvons donc partir, suivez-moi et préparez-"
+"vous au combat.\""
 
 #: src-en/data/events_sector_og_dawn.xml:2185
 msgid ""
@@ -3048,6 +3168,14 @@ msgstr "\"Aye, nous serons là.\""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Les navires plus petits engagent le combat en premier, attirant les "
+"défenseurs loin de la station, et neutralisant bon nombre des tourelles "
+"construites sur la station. Tout semble bien se passer jusqu'à ce qu'un "
+"grand vaisseau du Nouveau Régime se révèle de derrière la station, se "
+"dirigeant droit vers vous et le croiseur de l'Iron Watch. \"Vous devez "
+"arrêter ce vaisseau, nous sommes chargés en équipage et en équipement, nous "
+"ne sommes pas réellement équipés pour le combat vaisseau contre vaisseau. "
+"Vous devez les empêcher d'arriver jusqu'à nous.\""
 
 #: src-en/data/events_sector_og_dawn.xml:2197
 msgid ""
@@ -3071,6 +3199,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/event/text"
 msgstr ""
+"Le capitaine du Nouveau Régime est déçu et repart de son côté, espérant que "
+"son vaisseau sera assez puissant seul."
 
 #: src-en/data/events_sector_og_dawn.xml:2214
 msgid ""
@@ -3086,6 +3216,12 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_FAIL\"]/text"
 msgstr ""
+"Le vaisseau du Nouveau Régime se détourne de vous et commence à faire feu "
+"sur le vaisseau de l'Iron Watch ; vous le voyez se désintégrer sous le tir "
+"continu, finissant par se briser en morceaux, anéantissant tout espoir de "
+"raid réussi. Le reste de la force de l'Iron Watch tombe autour de vous, les "
+"défenses du Nouveau Régime se tournant vers vous, vous forçant à reculer ; "
+"vous êtes finalement forcé de fuir, ou bien d'être détruit."
 
 #: src-en/data/events_sector_og_dawn.xml:2231
 msgid ""
@@ -3235,31 +3371,40 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/text"
 msgstr ""
+"Vous trouvez ici une grande colonie du Nouveau Régime, un certain nombre de "
+"stations sont en orbite autour de la planète. Le magasin attire votre "
+"attention et vos capteurs en premier grâce à la balise qu'il émet, mais à "
+"côté de cela se trouve un grand avant-poste militaire du Nouveau Régime, "
+"plusieurs vaisseaux armés sont amarrés à l'avant-poste."
 
 #: src-en/data/events_sector_og_dawn.xml:2333
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/choice[@req=\"OG_DAWN_NEUTRON_REROUTE_INITIATE\"]/text"
 msgstr ""
+"Vous reconnaissez le vaisseau du Nouveau Régime que vous avez rencontré dans"
+" le secteur de l'Iron Watch."
 
 #: src-en/data/events_sector_og_dawn.xml:2337
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/choice[@req=\"OG_DAWN_NEUTRON_REROUTE_FRIENDLY\"]/text"
-msgstr ""
+msgstr "(Réputation Positive) Payer pour entrer dans l'avant-poste."
 
 #: src-en/data/events_sector_og_dawn.xml:2341
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/choice[@req=\"OG_DAWN_NEUTRON_REROUTE_NEGATIVE\"]/text"
-msgstr ""
+msgstr "(Réputation Négative/Neutre) L'avant-poste vous refuse l'entrée."
 
 #: src-en/data/events_sector_og_dawn.xml:2345
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/choice[4]/text"
-msgstr ""
+msgstr "Juste explorer le magasin."
 
 #: src-en/data/events_sector_og_dawn.xml:2347
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_STORE_REAL\"]/text"
 msgstr ""
+"Vous avez un peu de temps pour faire quelque chose à bord de votre vaisseau "
+"pendant que vous êtes ici."
 
 #: src-en/data/events_sector_og_dawn.xml:2350
 msgid ""
@@ -3275,6 +3420,10 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_INITIATE\"]/text"
 msgstr ""
+"Vous entrez dans un salon, plusieurs officiers du Nouveau Régime sont "
+"présents. L'un des officiers vous reconnaît : \"Ah, Capitaine, je vois que "
+"vous êtes arrivé ici en toute sécurité. J'espérais pouvoir vous parler, si "
+"vous avez un moment.\""
 
 #: src-en/data/events_sector_og_dawn.xml:2364
 msgid ""
@@ -3285,6 +3434,10 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_FRIENDLY\"]/text"
 msgstr ""
+"Vous entrez dans un salon, plusieurs officiers du Nouveau Régime sont "
+"présents. L'un des officiers vous reconnaît : \"Ah, Capitaine, j'ai entendu "
+"parler de vos exploits. J'espérais en fait pouvoir vous parler, si vous avez"
+" un moment.\""
 
 #: src-en/data/events_sector_og_dawn.xml:2374
 msgid ""
@@ -3295,6 +3448,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_QUEST\"]/text"
 msgstr ""
+"\"Capitaine. La nouvelle de vos actions dans l'espace du Nouveau Régime a voyagé vite, les supérieurs sont impressionnés.\n"
+"Nous sommes conscients de votre accord actuel avec la Fédération, et nous n'avons aucune intention de vous retirer de votre mission.\n"
+"Cependant, comme l'Iron Watch ne fait pas partie de la Fédération, cela ne devrait pas être un problème pour vous de nous aider contre eux, en échange d'une grosse somme d'argent bien sûr.\""
 
 #: src-en/data/events_sector_og_dawn.xml:2385
 msgid ""
@@ -3305,6 +3461,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_QUEST\"]/choice/event/text"
 msgstr ""
+"\"Nos forces de renseignement mènent une mission dans une forteresse secrète"
+" de l'Iron Watch, au plus profond de l'espace inexploré. En conséquence, "
+"l'Iron Watch contacte ses alliés dans la région pour obtenir du soutien.\""
 
 #: src-en/data/events_sector_og_dawn.xml:2389
 msgid ""
@@ -3315,6 +3474,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_QUEST\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Avec une attaque imminente et des alliés affluant dans le secteur, vous devriez pouvoir vous fondre dans la masse sans problème. Une fois sur place, nos membres dans le secteur vous rechercheront.\n"
+"\n"
+"Vous avez reçu l'autorisation d'accéder aux coordonnées du secteur. Si vous choisissez de vous y rendre, un membre du Nouveau Régime sera prêt à vous informer de la mission. Bonne chance, Capitaine.\""
 
 #: src-en/data/events_sector_og_dawn.xml:2397
 msgid ""

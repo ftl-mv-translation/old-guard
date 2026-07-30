@@ -9,18 +9,22 @@ msgstr ""
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Demander au Dr Silas à ce sujet."
 
 #: src-en/data/events_sector_showdown.xml.append:8
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Demander à la Diplomate Horus à ce sujet."
 
 #: src-en/data/events_sector_showdown.xml.append:14
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_OG_SILAS\"]/text"
 msgstr ""
+"\"La technologie du Moteur Multiversel est trop précieuse pour être détruite"
+" comme ça, nous avons déjà porté un coup incroyable à la rébellion, faire "
+"exploser la bombe condamnerait un nombre incalculable d'univers à être "
+"éternellement sous le contrôle des rebelles.\""
 
 #: src-en/data/events_sector_showdown.xml.append:18
 msgid ""
@@ -31,6 +35,10 @@ msgstr ""
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_OG_HORUS\"]/text"
 msgstr ""
+"\"Quand j'ai demandé à être livré à la BASE DE LA FÉDÉRATION, et que vous "
+"avez ACCEPTÉ, pourquoi avez-vous pensé que c'était une bonne idée de "
+"m'emmener ici ? Je ne voulais pas faire partie de tout cela, et je ne veux "
+"certainement pas être pulvérisé !\""
 
 #: src-en/data/events_sector_showdown.xml.append:27
 msgid ""

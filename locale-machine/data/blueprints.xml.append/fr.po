@@ -295,25 +295,32 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:332
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_EQUALISER_PERFORMANCE\"]/title"
-msgstr ""
+msgstr "Amélioration de performance"
 
 #: src-en/data/blueprints.xml.append:340
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/title"
-msgstr ""
+msgstr "Chargeur d'égaliseur [X]"
 
 #: src-en/data/blueprints.xml.append:341
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/desc"
 msgstr ""
+"Le temps de verrouillage de l'Égaliseur de système est réduit de 50 %.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations si vous possédez le sous-système Égaliseur de système."
 
 #: src-en/data/blueprints.xml.append:351
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/title"
-msgstr ""
+msgstr "Égaliseur de système"
 
 #: src-en/data/blueprints.xml.append:352
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/desc"
 msgstr ""
+"L'activation équilibre les dégâts subis par les systèmes en les "
+"redistribuant sur tous les systèmes sélectionnés, temps de recharge de 20 "
+"secondes. L'amélioration permet à ce système de réduire également les dégâts"
+" totaux subis par le vaisseau."
 
 #: src-en/data/blueprints.xml.append:367
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/desc"
@@ -357,6 +364,9 @@ msgstr "Subit 0,6x les dégâts des incendies"
 #: src-en/data/blueprints.xml.append:403
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/desc"
 msgstr ""
+"Membre d'équipage Humain d'élite. Un soldat du Nouveau Régime, équipé d'un dispositif de camouflage personnel dont la charge se draine lors de l'exécution d'actions.\n"
+"\n"
+"\tStats héritées des Humains : résistance mineure à la suffocation, apprend les compétences plus rapidement"
 
 #: src-en/data/blueprints.xml.append:407
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/title"
@@ -383,31 +393,38 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/desc"
 msgstr ""
+"Membre d'équipage Humain super d'élite. Un agent du Midnight Sun, équipé d'un dispositif de piratage miniaturisé capable de désactiver par intermittence un système pendant toute une bataille.\n"
+"\n"
+"\tStats héritées des Humains : résistance mineure à la suffocation"
 
 #: src-en/data/blueprints.xml.append:441
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/title"
-msgstr ""
+msgstr "Agent du Midnight Sun"
 
 #: src-en/data/blueprints.xml.append:442
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/short"
-msgstr ""
+msgstr "Agent"
 
 #: src-en/data/blueprints.xml.append:445
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[1]"
 msgstr ""
+"Capacité active : Déploie un dispositif de piratage presque indestructible "
+"dans la pièce actuelle, qui piratera cette pièce à plusieurs reprises pour "
+"le reste du combat. Ne peut pas cibler les armes, les drones ou les "
+"boucliers."
 
 #: src-en/data/blueprints.xml.append:446
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[2]"
-msgstr ""
+msgstr "Inflige 1,5x dégâts en combat d'équipage"
 
 #: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[3]"
-msgstr ""
+msgstr "Sabote les systèmes à une vitesse de 1,5x"
 
 #: src-en/data/blueprints.xml.append:448
 msgid ""
@@ -417,26 +434,32 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:449
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[5]"
-msgstr ""
+msgstr "Entraîné aux compétences de niveau 2"
 
 #: src-en/data/blueprints.xml.append:453
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/desc"
 msgstr ""
+"Un scientifique important de l'Iron Watch, anciennement à la tête de la station de recherche sur les étoiles à neutrons (NSRS) de l'Iron Watch avant qu'elle ne soit détruite par le Midnight Sun.\n"
+"\n"
+"\tStats héritées des Humains : résistance mineure à la suffocation, apprend les compétences plus rapidement"
 
 #: src-en/data/blueprints.xml.append:457
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/title"
-msgstr ""
+msgstr "Chercheur"
 
 #: src-en/data/blueprints.xml.append:458
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/short"
-msgstr ""
+msgstr "Chercheur"
 
 #: src-en/data/blueprints.xml.append:461
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[1]"
 msgstr ""
+"Capacité active : Déploie un drone de défense capable de cibler tous les "
+"types de projectiles et de drones, détruira les projectiles mais étourdira "
+"seulement les drones."
 
 #: src-en/data/blueprints.xml.append:462
 msgid ""
@@ -453,12 +476,12 @@ msgstr "Révèle les pièces adjacentes dans une nébuleuse"
 #: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[4]"
-msgstr ""
+msgstr "Multiplicateur de dégâts à distance 2x"
 
 #: src-en/data/blueprints.xml.append:465
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[5]"
-msgstr ""
+msgstr "Vitesse de réparation 1,5x"
 
 #: src-en/data/blueprints.xml.append:466
 msgid ""
@@ -469,136 +492,149 @@ msgstr "Subit 0,6x les dégâts des incendies"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/desc"
 msgstr ""
+"Un diplomate important de l'Iron Watch, envoyé par le commandement de l'Iron"
+" Watch pour chercher le soutien de la Fédération contre la menace rebelle. "
+"Doit être livré à la base de la Fédération."
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/title"
-msgstr ""
+msgstr "Diplomate"
 
 #: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/short"
-msgstr ""
+msgstr "Diplomate"
 
 #: src-en/data/blueprints.xml.append:477
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[1]"
 msgstr ""
+"Capacité active : Devient contrôlable, capable de piloter, combattre et "
+"réparer à des taux normaux, se déclenche à 25 PV ou moins."
 
 #: src-en/data/blueprints.xml.append:478
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[2]"
-msgstr ""
+msgstr "Devient contrôlable en présence d'un membre d'équipage normal"
 
 #: src-en/data/blueprints.xml.append:479
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[3]"
-msgstr ""
+msgstr "Ne peut pas être contrôlé"
 
 #: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[4]"
-msgstr ""
+msgstr "Ne peut pas combattre ni piloter de systèmes"
 
 #: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[5]"
-msgstr ""
+msgstr "Vitesse de réparation 0,5x, vitesse d'extinction 1,0x"
 
 #: src-en/data/blueprints.xml.append:482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[6]"
 msgstr ""
+"Sa résilience et sa détermination lui permettent de subir moins de dégâts "
+"environnementaux"
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/desc"
 msgstr ""
+"Un civil humain, vous récompensera avec 25 ferrailles lors de l'ouverture "
+"d'un magasin ou du choix d'un nouveau secteur."
 
 #: src-en/data/blueprints.xml.append:488
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/title"
-msgstr ""
+msgstr "Civil Humain"
 
 #: src-en/data/blueprints.xml.append:489
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/short"
-msgstr ""
+msgstr "Civil"
 
 #: src-en/data/blueprints.xml.append:492
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[1]"
-msgstr ""
+msgstr "Devient contrôlable en présence d'un membre d'équipage normal"
 
 #: src-en/data/blueprints.xml.append:493
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[2]"
-msgstr ""
+msgstr "Ne consomme pas d'emplacement d'équipage"
 
 #: src-en/data/blueprints.xml.append:494
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[3]"
-msgstr ""
+msgstr "Ne peut pas être contrôlé"
 
 #: src-en/data/blueprints.xml.append:495
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[4]"
-msgstr ""
+msgstr "Ne peut pas combattre ni piloter de systèmes"
 
 #: src-en/data/blueprints.xml.append:496
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[5]"
-msgstr ""
+msgstr "Vitesse de réparation 0,25x, vitesse d'extinction 1,0x"
 
 #: src-en/data/blueprints.xml.append:497
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[6]"
 msgstr ""
+"Sa résilience et sa détermination lui permettent de subir moins de dégâts "
+"environnementaux"
 
 #: src-en/data/blueprints.xml.append:540
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/desc"
 msgstr ""
+"Un civil Mantis, vous récompensera avec 5 ferrailles lors de l'ouverture "
+"d'un magasin ou du choix d'un nouveau secteur."
 
 #: src-en/data/blueprints.xml.append:542
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/title"
-msgstr ""
+msgstr "Civil Mantis"
 
 #: src-en/data/blueprints.xml.append:543
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/short"
-msgstr ""
+msgstr "Civil"
 
 #: src-en/data/blueprints.xml.append:546
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[1]"
-msgstr ""
+msgstr "Devient contrôlable en présence d'un membre d'équipage normal"
 
 #: src-en/data/blueprints.xml.append:547
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[2]"
-msgstr ""
+msgstr "Ne consomme pas d'emplacement d'équipage"
 
 #: src-en/data/blueprints.xml.append:548
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[3]"
-msgstr ""
+msgstr "Ne peut pas être contrôlé"
 
 #: src-en/data/blueprints.xml.append:549
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[4]"
-msgstr ""
+msgstr "Ne peut pas piloter ni réparer les systèmes"
 
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[5]"
-msgstr ""
+msgstr "Inflige 1,25x dégâts en combat"
 
 #: src-en/data/blueprints.xml.append:551
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[6]"
-msgstr ""
+msgstr "Vitesse de déplacement 1,2x"
 
 #: src-en/data/blueprints.xml.append:576
 msgid ""
@@ -955,17 +991,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1010
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/title"
-msgstr ""
+msgstr "Tourelle Laser Triplet"
 
 #: src-en/data/blueprints.xml.append:1011
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/short"
-msgstr ""
+msgstr "L. Triplet"
 
 #: src-en/data/blueprints.xml.append:1012
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/desc"
 msgstr ""
+"Tourelle laser qui s'enchaîne rapidement, mais qui se réinitialise à un "
+"statut non enchaîné après avoir tiré sa dernière rafale au maximum de sa "
+"chaîne."
 
 #: src-en/data/blueprints.xml.append:1031
 msgid ""
@@ -1004,17 +1043,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1073
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/title"
-msgstr ""
+msgstr "'Éventre-Espace' Ver. 0.5"
 
 #: src-en/data/blueprints.xml.append:1074
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/short"
-msgstr ""
+msgstr "'Éventreur 0.5'"
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/desc"
 msgstr ""
+"Une récréation de l'infâme tourelle Gatling 'Éventre-Espace' de Sylvan, "
+"utilisant une tourelle Vulcain à chaîne."
 
 #: src-en/data/blueprints.xml.append:1097
 msgid ""
@@ -1055,47 +1096,55 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/title"
-msgstr ""
+msgstr "Tourelle Phaseur"
 
 #: src-en/data/blueprints.xml.append:1140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/short"
-msgstr ""
+msgstr "Phaseur"
 
 #: src-en/data/blueprints.xml.append:1141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/desc"
 msgstr ""
+"Les phaseurs percent toutes les couches de bouclier, infligeant des dégâts "
+"ioniques sur la première couche, ainsi que des dégâts supplémentaires au "
+"système touché."
 
 #: src-en/data/blueprints.xml.append:1160
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/title"
-msgstr ""
+msgstr "Tourelle Stunner"
 
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/short"
-msgstr ""
+msgstr "Paralyseur"
 
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/desc"
 msgstr ""
+"Les armes étourdissantes fonctionnent comme des ions normaux, mais "
+"paralysent aussi temporairement l'équipage dans la pièce touchée."
 
 #: src-en/data/blueprints.xml.append:1181
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/title"
-msgstr ""
+msgstr "Tourelle Radion"
 
 #: src-en/data/blueprints.xml.append:1182
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/short"
-msgstr ""
+msgstr "Radion"
 
 #: src-en/data/blueprints.xml.append:1183
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/desc"
 msgstr ""
+"Qu'est-ce qu'un radion, demandez-vous ? Eh bien, c'est un ion, mais avec des"
+" radiations. Quelque chose comme ça. Très utile pour les éliminations par "
+"asphyxie."
 
 #: src-en/data/blueprints.xml.append:1202
 msgid ""
@@ -1117,7 +1166,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1226
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/title"
-msgstr ""
+msgstr "Tourelle à Cristal Lourd"
 
 #: src-en/data/blueprints.xml.append:1227
 msgid ""
@@ -1128,11 +1177,13 @@ msgstr "Cristal"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/desc"
 msgstr ""
+"Tourelle à projectile modifiée qui tire un cristal lourd perçant les "
+"boucliers."
 
 #: src-en/data/blueprints.xml.append:1247
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/title"
-msgstr ""
+msgstr "Tourelle à Cristal Lourd Élite"
 
 #: src-en/data/blueprints.xml.append:1248
 msgid ""
@@ -1143,36 +1194,43 @@ msgstr "€ Cristal"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/desc"
 msgstr ""
+"Tourelle à projectile modifiée qui tire un cristal lourd perçant les "
+"boucliers. Variante Élite qui applique toujours le verrouillage et perce 2 "
+"boucliers."
 
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/title"
-msgstr ""
+msgstr "Tourelle à Éclats Cristaliens"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/short"
-msgstr ""
+msgstr "Éclats C."
 
 #: src-en/data/blueprints.xml.append:1270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/desc"
 msgstr ""
+"Tire un groupe de 4 projectiles cristallins qui percent chacun 1 couche de "
+"bouclier."
 
 #: src-en/data/blueprints.xml.append:1289
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/title"
-msgstr ""
+msgstr "Tourelle à Éclats Cristaliens Élite"
 
 #: src-en/data/blueprints.xml.append:1290
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/short"
-msgstr ""
+msgstr "€ Éclats C."
 
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/desc"
 msgstr ""
+"Tire un groupe de 4 projectiles cristallins. Variante Élite qui applique "
+"toujours le verrouillage et perce 2 boucliers."
 
 #: src-en/data/blueprints.xml.append:1313
 msgid ""
@@ -1194,12 +1252,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1334
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/title"
-msgstr ""
+msgstr "Tourelle à Double Missile"
 
 #: src-en/data/blueprints.xml.append:1335
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/short"
-msgstr ""
+msgstr "M. Double"
 
 #: src-en/data/blueprints.xml.append:1336
 msgid ""
@@ -1247,32 +1305,40 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1396
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/title"
-msgstr ""
+msgstr "Tourelle à Bulbe Lourd Élite"
 
 #: src-en/data/blueprints.xml.append:1397
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/short"
-msgstr ""
+msgstr "€ Bulbe L."
 
 #: src-en/data/blueprints.xml.append:1398
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/desc"
 msgstr ""
+"Cette arme utilise des bulbes de plantes géantes de la planète natale des "
+"Orchidées comme munitions. Les bulbes se comportent comme des missiles, mais"
+" ont un coût en munitions réduit de moitié. Version Élite puissante avec un "
+"étourdissement garanti et un coût en munitions réduit."
 
 #: src-en/data/blueprints.xml.append:1416
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/title"
-msgstr ""
+msgstr "Tourelle à Bulbe Solaire Élite"
 
 #: src-en/data/blueprints.xml.append:1417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/short"
-msgstr ""
+msgstr "€ Bulbe S."
 
 #: src-en/data/blueprints.xml.append:1418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/desc"
 msgstr ""
+"Cette arme utilise des bulbes de plantes géantes de la planète natale des "
+"Orchidées comme munitions. Cette arme à bulbe modifiée crée des incendies au"
+" lieu de brèches. Version Élite puissante avec un étourdissement garanti et "
+"un coût en munitions réduit."
 
 #: src-en/data/blueprints.xml.append:1437
 msgid ""
@@ -1330,17 +1396,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/title"
-msgstr ""
+msgstr "Tourelle Flak Incendiaire"
 
 #: src-en/data/blueprints.xml.append:1503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/short"
-msgstr ""
+msgstr "Flak Incendiaire"
 
 #: src-en/data/blueprints.xml.append:1504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/desc"
 msgstr ""
+"Tire 4 projectiles enflammés ayant une chance accrue de déclencher un "
+"incendie."
 
 #: src-en/data/blueprints.xml.append:1526
 msgid ""
@@ -1449,42 +1517,48 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1655
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/title"
-msgstr ""
+msgstr "Micro-Tourelle d'Irradiation"
 
 #: src-en/data/blueprints.xml.append:1656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/short"
-msgstr ""
+msgstr "Micro Rad"
 
 #: src-en/data/blueprints.xml.append:1657
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/desc"
 msgstr ""
+"Une tourelle laser spécialisée qui inflige des dégâts biologiques et "
+"handicape l'équipage, sans dégâts au système ou à la coque. Cette tourelle "
+"est également capable d'assurer un rôle de défense en abattant les lasers "
+"ennemis."
 
 #: src-en/data/blueprints.xml.append:1676
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/title"
-msgstr ""
+msgstr "Micro-Tourelle Laser à Chaîne"
 
 #: src-en/data/blueprints.xml.append:1677
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/short"
-msgstr ""
+msgstr "Micro L.C."
 
 #: src-en/data/blueprints.xml.append:1678
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/desc"
 msgstr ""
+"Ce laser à double charge voit son temps de recharge diminuer à mesure qu'il "
+"tire."
 
 #: src-en/data/blueprints.xml.append:1697
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/title"
-msgstr ""
+msgstr "Micro-Tourelle Accélérateur de Particules"
 
 #: src-en/data/blueprints.xml.append:1698
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/short"
-msgstr ""
+msgstr "Micro Part."
 
 #: src-en/data/blueprints.xml.append:1699
 msgid ""
@@ -1496,32 +1570,35 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/title"
-msgstr ""
+msgstr "Micro-Tourelle à Cristal"
 
 #: src-en/data/blueprints.xml.append:1723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/short"
-msgstr ""
+msgstr "Micro C."
 
 #: src-en/data/blueprints.xml.append:1724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/desc"
 msgstr ""
+"Tourelle à projectile modifiée qui tire un cristal perçant les boucliers."
 
 #: src-en/data/blueprints.xml.append:1743
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/title"
-msgstr ""
+msgstr "Micro-Tourelle à Cristal Élite"
 
 #: src-en/data/blueprints.xml.append:1744
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/short"
-msgstr ""
+msgstr "€ Micro C."
 
 #: src-en/data/blueprints.xml.append:1745
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/desc"
 msgstr ""
+"Tourelle à projectile modifiée qui tire un cristal perçant les boucliers. "
+"Variante Élite qui applique toujours le verrouillage et perce 2 boucliers."
 
 #: src-en/data/blueprints.xml.append:1767
 msgid ""
@@ -1543,17 +1620,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/title"
-msgstr ""
+msgstr "Micro-Tourelle Ion Incendiaire"
 
 #: src-en/data/blueprints.xml.append:1789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/short"
-msgstr ""
+msgstr "Micro I.I."
 
 #: src-en/data/blueprints.xml.append:1790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/desc"
 msgstr ""
+"Cette tourelle ionique assure une défense efficace contre les drones tout en"
+" soutenant l'offensive. Celle-ci déclenche des incendies dans le système "
+"touché."
 
 #: src-en/data/blueprints.xml.append:1812
 msgid ""
@@ -1745,62 +1825,71 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2060
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/title"
-msgstr ""
+msgstr "Noyau de Neutrons"
 
 #: src-en/data/blueprints.xml.append:2061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/short"
-msgstr ""
+msgstr "Neutron"
 
 #: src-en/data/blueprints.xml.append:2062
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/desc"
 msgstr ""
+"Le noyau de l'arme d'artillerie du Chasseur Midnight Sun, peut être rendu "
+"fonctionnel et équipé dans un emplacement de tourelle. Doit être amélioré "
+"via la fabrication de tourelles."
 
 #: src-en/data/blueprints.xml.append:2081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/title"
-msgstr ""
+msgstr "Tourelle à Neutrons Ver. 1"
 
 #: src-en/data/blueprints.xml.append:2082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/short"
-msgstr ""
+msgstr "Neutron 1"
 
 #: src-en/data/blueprints.xml.append:2083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/desc"
 msgstr ""
+"Tire un puissant rayon qui exploite la puissance d'une étoile à neutrons "
+"pour éventrer les vaisseaux ennemis."
 
 #: src-en/data/blueprints.xml.append:2102
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/title"
-msgstr ""
+msgstr "Tourelle à Neutrons Ver. 2"
 
 #: src-en/data/blueprints.xml.append:2103
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/short"
-msgstr ""
+msgstr "Neutron 2"
 
 #: src-en/data/blueprints.xml.append:2104
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/desc"
 msgstr ""
+"Tire un puissant rayon qui exploite la puissance d'une étoile à neutrons "
+"pour éventrer les vaisseaux ennemis."
 
 #: src-en/data/blueprints.xml.append:2123
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/title"
-msgstr ""
+msgstr "Tourelle à Neutrons Ver. 3"
 
 #: src-en/data/blueprints.xml.append:2124
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/short"
-msgstr ""
+msgstr "Neutron 3"
 
 #: src-en/data/blueprints.xml.append:2125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/desc"
 msgstr ""
+"Tire un puissant rayon qui exploite la puissance d'une étoile à neutrons "
+"pour éventrer les vaisseaux ennemis."
 
 #: src-en/data/blueprints.xml.append:2148
 msgid ""
@@ -3020,92 +3109,112 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5974
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/class"
-msgstr ""
+msgstr "Classe Chasseur"
 
 #: src-en/data/blueprints.xml.append:5975
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/name"
-msgstr ""
+msgstr "Lueur Lunaire"
 
 #: src-en/data/blueprints.xml.append:5976
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/desc"
 msgstr ""
+"Ce vaisseau élégant est construit autour d'un prototype d'artillerie à rayon"
+" qui tire un puissant rayon de radiation capable de détruire l'équipage "
+"comme les systèmes."
 
 #: src-en/data/blueprints.xml.append:6062
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/class"
-msgstr ""
+msgstr "Classe Chasseur"
 
 #: src-en/data/blueprints.xml.append:6063
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/name"
-msgstr ""
+msgstr "Bonifacio"
 
 #: src-en/data/blueprints.xml.append:6064
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/desc"
 msgstr ""
+"Une variante exportée du croiseur classe Chasseur, envoyée à la rébellion "
+"aux côtés de l'un des agents formés par le Nouveau Régime."
 
 #: src-en/data/blueprints.xml.append:6150
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/class"
-msgstr ""
+msgstr "Classe Chasseur"
 
 #: src-en/data/blueprints.xml.append:6151
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/name"
-msgstr ""
+msgstr "Rayon Lunaire"
 
 #: src-en/data/blueprints.xml.append:6152
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/desc"
 msgstr ""
+"Une version améliorée du rayon à neutrons initial, cette fois sous forme de "
+"tourelle, capable d'infliger une quantité incroyable de dégâts une fois "
+"améliorée."
 
 #: src-en/data/blueprints.xml.append:6242
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/class"
-msgstr ""
+msgstr "Classe Vagabond"
 
 #: src-en/data/blueprints.xml.append:6243
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/name"
-msgstr ""
+msgstr "Aile de Nuit"
 
 #: src-en/data/blueprints.xml.append:6244
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/desc"
 msgstr ""
+"Un engin d'assaut léger conçu pour être rapide et furtif, parfait pour les "
+"opérations secrètes sous le couvert de l'obscurité. La petite taille du "
+"vaisseau a empêché l'installation de grandes tourelles ; les ingénieurs ont "
+"plutôt overclocké les systèmes de micro-tourelles pour augmenter leur "
+"létalité."
 
 #: src-en/data/blueprints.xml.append:6331
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/class"
-msgstr ""
+msgstr "Classe Vagabond"
 
 #: src-en/data/blueprints.xml.append:6332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/name"
-msgstr ""
+msgstr "Corte"
 
 #: src-en/data/blueprints.xml.append:6333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/desc"
 msgstr ""
+"Un agent du Midnight Sun et un Ace MFK ont trahi le Nouveau Régime et la "
+"Rébellion et se sont échappés avec ce vaisseau rapide."
 
 #: src-en/data/blueprints.xml.append:6417
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/class"
-msgstr ""
+msgstr "Classe Vagabond"
 
 #: src-en/data/blueprints.xml.append:6418
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/name"
-msgstr ""
+msgstr "Hyperlumière"
 
 #: src-en/data/blueprints.xml.append:6419
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/desc"
 msgstr ""
+"Autrefois agents de renseignement d'élite pour le Midnight Sun, cet équipage"
+" s'est retrouvé bloqué dans un multivers inconnu sans aucun moyen de rentrer"
+" chez eux. Sans beaucoup d'options, ils se sont tournés vers les courses de "
+"rue, et se sont révélés tout aussi impitoyables sur la piste qu'ils "
+"l'avaient été sur le terrain."
 
 #: src-en/data/blueprints.xml.append:6506
 msgid ""
@@ -3250,47 +3359,53 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7169
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/class"
-msgstr ""
+msgstr "Croiseur de Silas"
 
 #: src-en/data/blueprints.xml.append:7170
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/name"
-msgstr ""
+msgstr "L'Arpenteur"
 
 #: src-en/data/blueprints.xml.append:7172
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/desc"
 msgstr ""
+"Le vaisseau personnel de Silas repose sur des tourelles et des drones de "
+"défense pour survivre jusqu'à ce qu'il puisse activer ses boucliers."
 
 #: src-en/data/blueprints.xml.append:7255
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/class"
-msgstr ""
+msgstr "Croiseur d'Horus"
 
 #: src-en/data/blueprints.xml.append:7256
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/name"
-msgstr ""
+msgstr "Le Faucon"
 
 #: src-en/data/blueprints.xml.append:7258
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/desc"
 msgstr ""
+"Cette fois, Horus est prête. Elle a sorti un vieux mastodonte du musée, rien"
+" ne peut plus se mettre en travers de sa route !"
 
 #: src-en/data/blueprints.xml.append:7357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/title"
-msgstr ""
+msgstr "Artillerie à Neutrons"
 
 #: src-en/data/blueprints.xml.append:7358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/short"
-msgstr ""
+msgstr "Artillerie"
 
 #: src-en/data/blueprints.xml.append:7359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/desc"
 msgstr ""
+"[Temps de recharge de base : 20] Tire un rayon de radiation concentré à "
+"travers le vaisseau ennemi, endommageant les systèmes et l'équipage."
 
 #: src-en/data/blueprints.xml.append:7378
 msgid ""
@@ -3312,12 +3427,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/title"
-msgstr ""
+msgstr "Laser Triplet Ver. 2"
 
 #: src-en/data/blueprints.xml.append:7418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/short"
-msgstr ""
+msgstr "Triplet 2"
 
 #: src-en/data/blueprints.xml.append:7420
 msgid ""
@@ -3329,32 +3444,36 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7462
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/title"
-msgstr ""
+msgstr "Laser Triplet Ver. 1"
 
 #: src-en/data/blueprints.xml.append:7463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/short"
-msgstr ""
+msgstr "Triplet 1"
 
 #: src-en/data/blueprints.xml.append:7465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/desc"
 msgstr ""
+"Arme laser qui s'enchaîne rapidement, mais qui se réinitialise à un statut "
+"non enchaîné après avoir tiré sa dernière rafale au maximum de sa chaîne."
 
 #: src-en/data/blueprints.xml.append:7505
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/title"
-msgstr ""
+msgstr "Laser Triplet Ver. 2"
 
 #: src-en/data/blueprints.xml.append:7506
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/short"
-msgstr ""
+msgstr "Triplet 2"
 
 #: src-en/data/blueprints.xml.append:7508
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/desc"
 msgstr ""
+"Arme laser qui s'enchaîne rapidement, mais qui se réinitialise à un statut "
+"non enchaîné après avoir tiré sa dernière rafale au maximum de sa chaîne."
 
 #: src-en/data/blueprints.xml.append:7551
 msgid ""
@@ -3393,7 +3512,7 @@ msgstr "Les tourelles sont immédiatement disponibles après un saut SPL."
 #: src-en/data/blueprints.xml.append:7576
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_MANNABLE_MICRO\"]/title"
-msgstr ""
+msgstr "Micro-Tourelles pilotables"
 
 #: src-en/data/blueprints.xml.append:7577
 msgid ""
@@ -3412,34 +3531,42 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7592
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD\"]/title"
-msgstr ""
+msgstr "Barrière Synchrotron"
 
 #: src-en/data/blueprints.xml.append:7593
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD\"]/desc"
 msgstr ""
+"Protège contre les effets du rayon de radiation d'une étoile à neutrons, "
+"absorbant les dégâts et les dissipant dans le système des moteurs. Le "
+"vaisseau possède une immunité ionique tant que le bouclier est actif, mais "
+"celui-ci se désactive lorsque les moteurs sont à 1 barre ou moins."
 
 #: src-en/data/blueprints.xml.append:7601
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD_LOCKED\"]/title"
-msgstr ""
+msgstr "Barrière Synchrotron"
 
 #: src-en/data/blueprints.xml.append:7602
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD_LOCKED\"]/desc"
 msgstr ""
+"Protège contre les effets du rayon de radiation d'une étoile à neutrons, "
+"absorbant les dégâts et les dissipant dans le système des moteurs. Le "
+"vaisseau possède une immunité ionique tant que le bouclier est actif, mais "
+"celui-ci se désactive lorsque les moteurs sont à 1 barre ou moins."
 
 #: src-en/data/blueprints.xml.append:7613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FOCUS_OG_SILAS\"]/title"
-msgstr ""
+msgstr "Drone Focalisation"
 
 #: src-en/data/blueprints.xml.append:7614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FOCUS_OG_SILAS\"]/short"
-msgstr ""
+msgstr "Drone Focalisation"
 
 #: src-en/data/blueprints.xml.append:7630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_LASER_OG_SILAS\"]/title"
-msgstr ""
+msgstr "Drone Laser"

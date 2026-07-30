@@ -45,19 +45,19 @@ msgstr "Dirigez-vous vers le secteur de la Nouvelle Aube."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Sauter vers la Zone d'Exclusion de l'Étoile à Neutrons."
 
 #: src-en/data/events_special_lightspeed.xml.append:41
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Sauter vers la Zone d'Exclusion de l'Étoile à Neutrons."
 
 #: src-en/data/events_special_lightspeed.xml.append:48
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Aller dans un secteur de l'Iron Watch."
 
 #: src-en/data/events_special_lightspeed.xml.append:52
 msgid ""

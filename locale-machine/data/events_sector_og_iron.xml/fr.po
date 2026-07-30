@@ -256,6 +256,12 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_WAVER\"]/event[3]/text"
 msgstr ""
+"Le garde se gratte le visage. \"Comme vous le savez probablement, l'Iron "
+"Watch n'est pas soumis aux lois ou à la juridiction de la Fédération. Cela "
+"dit, je comprends que votre cause représente les meilleurs intérêts de "
+"chacun ici. La Fédération n'est peut-être pas notre amie, mais la Rébellion "
+"ne l'est pas non plus. Je vous ferai cette faveur, mais ne vous attendez pas"
+" à ce que tout le monde soit aussi généreux.\""
 
 #: src-en/data/events_sector_og_iron.xml:200
 msgid ""
@@ -456,6 +462,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_DOUBLE_OG_IRON\"]/text"
 msgstr ""
+"[RÉPUTATION AUGMENTÉE X2 - IRON WATCH]\n"
+"\tVous avez accompli une bonne action ici aux yeux de l'Iron Watch. Continuez à effectuer des actions comme celle-ci et vous pourriez commencer à bénéficier d'un soutien positif de l'Iron Watch et de ses alliés."
 
 #: src-en/data/events_sector_og_iron.xml:341
 msgid ""
@@ -501,16 +509,18 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/text"
 msgstr ""
+"Vous êtes arrivé à la balise longue portée. Une fois le générateur SPL chargé, vous pourrez effectuer un saut pour rejoindre le prochain secteur.\n"
+"Une station Iron Watch protège la balise de tout malfaiteur et surveille le trafic sortant du secteur."
 
 #: src-en/data/events_sector_og_iron.xml:384
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[@req=\"OG_IRON_FINISH_POSITIVE\"]/text"
-msgstr ""
+msgstr "(Réputation > 1) La station tente de vous contacter."
 
 #: src-en/data/events_sector_og_iron.xml:388
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[@req=\"OG_IRON_FINISH_NEGATIVE\"]/text"
-msgstr ""
+msgstr "(Réputation < 2) La station vous ignore."
 
 #: src-en/data/events_sector_og_iron.xml:392
 msgid ""
@@ -531,6 +541,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/text"
 msgstr ""
+"\"Capitaine. La nouvelle de vos actions dans l'espace de l'Iron Watch a voyagé vite, les supérieurs sont impressionnés.\n"
+"Nous sommes conscients de votre accord actuel avec la Fédération concernant la rébellion, et nous n'avons aucune intention de vous retirer de votre mission.\n"
+"Ce que nous avons, cependant, c'est une proposition, une proposition qui, nous le pensons, sert vos intérêts autant que les nôtres.\""
 
 #: src-en/data/events_sector_og_iron.xml:411
 msgid ""
@@ -541,6 +554,10 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/text"
 msgstr ""
+"\"Nos forces de renseignement ont découvert que le Nouveau Régime se "
+"coordonne avec la flotte rebelle. Leur cible est une forteresse secrète de "
+"l'Iron Watch au plus profond de l'espace inexploré, nous pensons que leur "
+"flotte est déjà en route.\""
 
 #: src-en/data/events_sector_og_iron.xml:415
 msgid ""
@@ -551,6 +568,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Avec une attaque imminente, l'Amiral Micari de la flotte de défense de l'Iron Watch a personnellement demandé votre aide. Ensemble, nous avons l'opportunité de porter un coup décisif à nos deux ennemis en une seule bataille.\n"
+"\n"
+"Vous avez reçu l'autorisation d'accéder aux coordonnées du secteur. Si vous choisissez de vous y rendre, recherchez l'Amiral Micari dès votre arrivée à la balise d'entrée. Bonne chance, Capitaine.\""
 
 #: src-en/data/events_sector_og_iron.xml:422
 msgid ""
@@ -787,6 +807,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/text"
 msgstr ""
+"Vous arrivez à la balise pour découvrir un vaisseau de l'Iron Watch. Le capitaine semble assez désemparé, car vous pouvez entendre des cris sur les canaux publics.\n"
+"\"Que voulez-vous dire par 'ce n'est pas une tourelle' ?\" Vous pouvez entendre le bruit faible de l'un de leurs membres d'équipage essayant d'expliquer quelque chose que le capitaine ne comprend manifestement pas.\n"
+"\"Alors nous nous sommes fait ARNAQUER ? Ce marchand sournois, ohhh si je le revois, il est mort !\""
 
 #: src-en/data/events_sector_og_iron.xml:647
 msgid ""
@@ -797,6 +820,12 @@ msgstr "Continuer à écouter."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/text"
 msgstr ""
+"Finalement, la colère du capitaine atteint un crescendo et il ordonne que la"
+" soi-disant tourelle soit jetée par le sas. \"Je veux qu'elle disparaisse de"
+" ma vue, sortez-nous d'ICI !\" Sur ce, le vaisseau de l'Iron Watch saute. "
+"Maintenant que vous êtes seul, vous avez le temps de ramasser la "
+"\"tourelle\" et de l'examiner vous-même, il s'avère qu'il ne s'agissait que "
+"d'un simple drone de défense."
 
 #: src-en/data/events_sector_og_iron.xml:653
 msgid ""
@@ -1239,6 +1268,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/text"
 msgstr ""
+"Le vaisseau de l'Iron Watch finit par disparaître de la vue alors qu'il "
+"fouille le champ d'astéroïdes."
 
 #: src-en/data/events_sector_og_iron.xml:1001
 msgid ""
@@ -1269,6 +1300,9 @@ msgstr "Attaquer le vaisseau pour réclamer l'épave pour vous-même."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/text"
 msgstr ""
+"Alors que vous alimentez vos armes, le vaisseau de l'Iron Watch semble "
+"remarquer ce que vous faites, leur capitaine crache quelques jurons mais "
+"active ses propres armes en réponse."
 
 #: src-en/data/events_sector_og_iron.xml:1022
 msgid ""
@@ -1313,6 +1347,9 @@ msgstr "Attaquer le vaisseau pour réclamer l'épave pour vous-même."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/text"
 msgstr ""
+"Alors que vous alimentez vos armes, le vaisseau de l'Iron Watch semble "
+"remarquer ce que vous faites, leur capitaine crache quelques jurons mais "
+"active ses propres armes en réponse."
 
 #: src-en/data/events_sector_og_iron.xml:1051
 msgid ""
@@ -1412,7 +1449,7 @@ msgstr ""
 #: src-en/data/events_sector_og_iron.xml:1151
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Tirez parti des dégâts et attaquez-les."
 
 #: src-en/data/events_sector_og_iron.xml:1153
 msgid ""
@@ -1650,6 +1687,10 @@ msgstr "Enquêter."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/text"
 msgstr ""
+"La plupart des débris sont inutiles, mais vous finissez par trouver un "
+"conteneur de fret, et à l'intérieur, une tourelle à l'aspect inhabituel. Il "
+"semble que cette tourelle avait une destination spécifique, un avant-poste à"
+" proximité. Vous notez les coordonnées."
 
 #: src-en/data/events_sector_og_iron.xml:1318
 msgid ""
@@ -1814,6 +1855,10 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"Finalement, ils répondent : \"Renégat, si vous voulez savoir quoi que ce "
+"soit, vous allez devoir faire vos preuves. Il y a un dépôt de ravitaillement"
+" de l'Iron Watch à proximité, allez là-bas et détruisez-le, ensuite nous "
+"discuterons.\" Sur ce, ils sautent."
 
 #: src-en/data/events_sector_og_iron.xml:1429
 msgid ""
@@ -2027,6 +2072,10 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/text"
 msgstr ""
+"Cette balise a été placée trop près d'une étoile à neutrons ! Le champ de "
+"radiation va temporairement ioniser vos systèmes. Les vaisseaux de l'Iron "
+"Watch ont apparemment été conçus pour rester assez efficaces en présence de "
+"pulsars, vous allez passer un sale quart d'heure."
 
 #: src-en/data/events_sector_og_iron.xml:1607
 msgid ""
@@ -2037,6 +2086,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/text"
 msgstr ""
+"Cette balise a été placée trop près d'une étoile à neutrons ! Le champ de "
+"radiation va temporairement ioniser vos systèmes. Un pirate, apparemment "
+"inconscient du danger du pulsar, s'approche pour engager le combat."
 
 #: src-en/data/events_sector_og_iron.xml:1617
 msgid ""
@@ -2092,6 +2144,7 @@ msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"(Réputation Positive) Se renseigner sur le vaisseau auprès de l'avant-poste."
 
 #: src-en/data/events_sector_og_iron.xml:1661
 msgid ""
@@ -2174,6 +2227,8 @@ msgstr "Est-ce que cela vous ferait changer d'avis ?"
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/text"
 msgstr ""
+"L'avant-poste reçoit votre ferraille : \"Bien que votre don soit très "
+"gentil, nous ne pouvons toujours rien vous dire sur ce vaisseau.\""
 
 #: src-en/data/events_sector_og_iron.xml:1717
 msgid ""
@@ -2184,6 +2239,12 @@ msgstr "Offrir un pot-de-vin plus important."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"L'avant-poste reçoit votre ferraille : \"Ah ça, c'est quelque chose que nous"
+" ne pouvons pas vous dire, mais récemment nos communications ont "
+"effectivement mal fonctionné et ont envoyé des informations sécurisées sur "
+"les canaux publics, cela nécessite vraiment une vérification...\" Un instant"
+" plus tard, votre équipage capte l'emplacement d'un vaisseau diffusé sur "
+"l'un des canaux publics."
 
 #: src-en/data/events_sector_og_iron.xml:1727
 msgid ""
@@ -2234,6 +2295,12 @@ msgstr "Offrir un pot-de-vin plus important."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
 msgstr ""
+"L'avant-poste reçoit votre ferraille : \"Ah ça, c'est quelque chose que nous"
+" ne pouvons pas vous dire, mais récemment nos communications ont "
+"effectivement mal fonctionné et ont envoyé des informations sécurisées sur "
+"les canaux publics, cela nécessite vraiment une vérification...\" Un instant"
+" plus tard, votre équipage capte l'emplacement d'un vaisseau diffusé sur "
+"l'un des canaux publics."
 
 #: src-en/data/events_sector_og_iron.xml:1767
 msgid ""
@@ -2491,6 +2558,12 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
 msgstr ""
+"Le vaisseau de l'Iron Watch s'est en grande partie remis de l'attaque, ils "
+"vous contactent : \"Nous vous sommes reconnaissants de votre aide Capitaine,"
+" nous ne sommes pas sûrs que nous aurions survécu sans elle. Peut-être est-"
+"il temps que nous prenions une présence plus active dans votre guerre contre"
+" la rébellion. Nous enverrons les plans du prototype à la Fédération, peut-"
+"être seront-ils en mesure de l'utiliser.\""
 
 #: src-en/data/events_sector_og_iron.xml:1933
 msgid ""
@@ -2501,6 +2574,11 @@ msgstr ""
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/text"
 msgstr ""
+"Le vaisseau du Nouveau Régime reste méfiant à votre égard même après le "
+"combat. Vous les regardez s'approcher de l'épave et extraire soigneusement "
+"un seul composant ; vous ne savez pas ce que c'est, mais une fois cela fait,"
+" ils reculent loin de l'épave, sans intérêt pour le reste. Vous recevez un "
+"simple remerciement avant qu'ils ne partent."
 
 #: src-en/data/events_sector_og_iron.xml:1944
 msgid ""

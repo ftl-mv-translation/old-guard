@@ -133,4 +133,4 @@ msgstr "Base opérationnelle avancée de la Nouvelle Aube [!]"
 #: src-en/data/sector_data.xml.append:283
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_NEUTRON\"]/nameList/name"
-msgstr ""
+msgstr "Zone d'Exclusion de l'Étoile à Neutrons"

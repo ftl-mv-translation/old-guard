@@ -195,7 +195,7 @@ msgstr "Contrôle des Tourelles."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Égaliseur de système."
 
 #: src-en/data/events_special_storage.xml.append:179
 msgid ""
@@ -561,24 +561,26 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_OG_EQUALISER_BOOSTER\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Amélioration de performance. [NON DISPONIBLE : Vous avez déjà atteint le "
+"niveau maximal de cette amélioration]"
 
 #: src-en/data/events_special_storage.xml.append:495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_OG_EQUALISER_BOOSTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Amélioration de performance. [Coût : 35~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_BATTERY_GENERATOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Générateur d'urgence. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:503
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_BATTERY_GENERATOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Générateur d'urgence. [Coût : 55~, 7{]"
 
 #: src-en/data/events_special_storage.xml.append:507
 msgid ""
@@ -589,11 +591,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/text"
 msgstr ""
+"Vous êtes sur le point d'installer une amélioration de performance pour l'égaliseur.\n"
+"\t[Effets : Le temps de recharge de l'Égaliseur de système est réduit de 50 %]"
 
 #: src-en/data/events_special_storage.xml.append:515
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/choice[@req=\"og_equaliser\"]/text"
-msgstr ""
+msgstr "Effectuer l'amélioration. [Coût : 35~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:517
 msgid ""
@@ -629,12 +633,14 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/text"
 msgstr ""
+"Vous êtes sur le point d'installer l'amélioration Générateur d'urgence.\n"
+"\t[Effets : Permet d'ignorer les coûts d'énergie et de carburant des augmentations de combat.]"
 
 #: src-en/data/events_special_storage.xml.append:553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"og_equaliser\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Effectuer l'amélioration. [Coût : 55~, 7{]"
 
 #: src-en/data/events_special_storage.xml.append:555
 msgid ""
@@ -653,6 +659,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"og_equaliser\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Cette amélioration n'est pas disponible. Vous avez besoin de l'Égaliseur de "
+"système de niveau 2."
 
 #: src-en/data/events_special_storage.xml.append:571
 msgid ""

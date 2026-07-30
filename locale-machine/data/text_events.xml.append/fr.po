@@ -28,6 +28,14 @@ msgstr ""
 #: src-en/data/text_events.xml.append:27
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_neutron\"]"
 msgstr ""
+"Nom : Zone d'Exclusion de l'Étoile à Neutrons\n"
+"Type : Neutre\n"
+"Unique : Oui\n"
+"Faction Dominante : L'Iron Watch\n"
+"Niveau de Menace Rebelle : Élevé (Flotte Neutre)\n"
+"Emplacements d'intérêt : Station de Recherche sur les Neutrons\n"
+"\n"
+"La sécurité varie au sein de l'espace de l'Iron Watch, vous y trouverez un large éventail de groupes. L'Iron Watch est un collectif d'explorateurs, de scientifiques et de pirates, qui se sont tous aventurés dans l'espace non civilisé, que ce soit par désespoir ou par curiosité."
 
 #: src-en/data/text_events.xml.append:37
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_battlecruiser\"]"
@@ -55,11 +63,11 @@ msgstr "COFFRE_DONNÉES [!]"
 
 #: src-en/data/text_events.xml.append:44
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_ghost\"]"
-msgstr ""
+msgstr "FANTÔME [!]"
 
 #: src-en/data/text_events.xml.append:46
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_neutron_station\"]"
-msgstr ""
+msgstr "STATION DE RECHERCHE [!]"
 
 #: src-en/data/text_events.xml.append:48
 msgid ""
@@ -99,3 +107,4 @@ msgstr "Vous ne pouvez pas améliorer davantage votre Contrôle des tourelles."
 msgid ""
 "data/text_events.xml.append$//text[@name=\"og_federation_base_diplomat_choice\"]"
 msgstr ""
+"(Diplomate Horus) Livrer le diplomate au Commandement de la Fédération."
