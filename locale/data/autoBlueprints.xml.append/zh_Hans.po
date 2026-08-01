@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-08-02 01:36+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-old-guard/dataautoblueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/autoBlueprints.xml.append:303
 msgid ""
@@ -53,17 +60,17 @@ msgstr "铁幕守望守卫舰"
 #: src-en/data/autoBlueprints.xml.append:547
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_EXECUTOR\"]/class"
-msgstr ""
+msgstr "铁幕守望执法者"
 
 #: src-en/data/autoBlueprints.xml.append:576
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_STATION\"]/class"
-msgstr ""
+msgstr "铁幕守望空间站"
 
 #: src-en/data/autoBlueprints.xml.append:602
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_STATION_DAMAGED\"]/class"
-msgstr ""
+msgstr "铁幕守望空间站"
 
 #: src-en/data/autoBlueprints.xml.append:722
 msgid ""
@@ -143,59 +150,59 @@ msgstr "变元者星舰"
 #: src-en/data/autoBlueprints.xml.append:1223
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_SCOUT\"]/class"
-msgstr ""
+msgstr "午夜烈阳侦察舰"
 
 #: src-en/data/autoBlueprints.xml.append:1248
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_INFILTRATOR\"]/class"
-msgstr ""
+msgstr "午夜烈阳渗透舰"
 
 #: src-en/data/autoBlueprints.xml.append:1274
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_OUTRIDER\"]/class"
-msgstr ""
+msgstr "午夜烈阳先驱舰"
 
 #: src-en/data/autoBlueprints.xml.append:1300
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_BOMBER\"]/class"
-msgstr ""
+msgstr "午夜烈阳轰炸舰"
 
 #: src-en/data/autoBlueprints.xml.append:1328
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_CORVETTE\"]/class"
-msgstr ""
+msgstr "午夜烈阳轻型护卫舰"
 
 #: src-en/data/autoBlueprints.xml.append:1357
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_FIGHTER\"]/class"
-msgstr ""
+msgstr "午夜烈阳战斗舰"
 
 #: src-en/data/autoBlueprints.xml.append:1387
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_TRANSPORT\"]/class"
-msgstr ""
+msgstr "午夜烈阳运输舰"
 
 #: src-en/data/autoBlueprints.xml.append:1417
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_GUARD\"]/class"
-msgstr ""
+msgstr "午夜烈阳超级战舰"
 
 #: src-en/data/autoBlueprints.xml.append:1447
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_HUNTER\"]/class"
-msgstr ""
+msgstr "午夜烈阳猎手舰"
 
 #: src-en/data/autoBlueprints.xml.append:3039
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_SLUG_BATTLECRUISER\"]/class"
-msgstr ""
+msgstr "星盗会战列巡洋舰"
 
 #: src-en/data/autoBlueprints.xml.append:3063
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_CLAN_BATTLECRUISER\"]/class"
-msgstr ""
+msgstr "异猎会战列巡洋舰"
 
 #: src-en/data/autoBlueprints.xml.append:3087
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_CRYSTAL_BATTLECRUISER\"]/class"
-msgstr ""
+msgstr "水晶帝国战列巡洋舰"
