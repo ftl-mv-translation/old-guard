@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-02 01:36+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_special_jukeboxxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -33,12 +33,13 @@ msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"[style[color:F64B2D]]OG：禁区[[/style]]\n"
+"作曲：Lizzard"
 
 #: src-en/data/events_special_jukebox.xml.append:28
-#, fuzzy
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[4]/text"
 msgstr ""
-"[style[color:F64B2D]]OG：铁幕守望[[/style]]\n"
+"[style[color:F64B2D]]OG：辐射区[[/style]]\n"
 "作曲：Lizzard"
