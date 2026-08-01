@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-02 01:36+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/dataevents_sector_og_neutronxml/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -16,6 +16,8 @@ msgstr ""
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/text"
 msgstr ""
+"叛军舰队已控制此信标，但遭遇了铁幕守望部队的抵抗。远处舰船激战正酣时，一艘精"
+"英舰船脱离编队向你袭来。"
 
 #: src-en/data/events_sector_og_neutron.xml:30
 msgid ""
@@ -25,17 +27,19 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:34
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "（先进引擎）尝试逃离精英舰船。"
 
 #: src-en/data/events_sector_og_neutron.xml:38
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "（杰瑞）“你好！”"
 
 #: src-en/data/events_sector_og_neutron.xml:51
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/text"
 msgstr ""
+"叛军舰队已控制此信标，但遭遇了铁幕守望部队的抵抗。远处舰船激战正酣时，一艘MFK"
+"王牌脱离编队向你袭来。"
 
 #: src-en/data/events_sector_og_neutron.xml:58
 msgid ""
@@ -45,12 +49,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:62
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "（先进引擎）尝试逃离精英舰船。"
 
 #: src-en/data/events_sector_og_neutron.xml:66
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "（杰瑞）“你好！”"
 
 #: src-en/data/events_sector_og_neutron.xml:81
 msgid ""
@@ -90,6 +94,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:123
 msgid "data/events_sector_og_neutron.xml$//event[@name=\"START_OG_NEUTRON\"]/text"
 msgstr ""
+"抵达信标将你传送到了铁幕守望舰队的中央。舰队没有注意到你，你观察到大多数舰船"
+"正忙于准备应对即将到来的叛军舰队，工程舰船正在照料几艘正在维修中的舰船。\n"
+"\n"
+"你的传感器在该星区探测到一个巨大的能量信号——一颗中子星，即使从这里也能看到。"
+"你不确定铁幕守望是如何在这样一个东西附近生存下来的，如果你被它的光束击中，它"
+"肯定会撕裂你的舰船。"
 
 #: src-en/data/events_sector_og_neutron.xml:132
 msgid ""
@@ -107,6 +117,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/text"
 msgstr ""
+"你被一连串漫不经心的军官引导穿过，最终与米卡里上将面对面——正是那位亲自请求你"
+"帮助的上将。\n"
+"\n"
+"“舰长，很高兴你来了。如你所知，我是第四防御舰队的米卡里上将。闲话少叙，我就直"
+"说了。\n"
+"当初我请求你协助时，本意是让你与舰队并肩作战。叛军舰队已经摧毁了我们好几个前"
+"沿哨站，坦率地说，我们确实非常需要像你这样有能力的舰船加入前线。”"
 
 #: src-en/data/events_sector_og_neutron.xml:146
 msgid ""
@@ -117,6 +134,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/text"
 msgstr ""
+"“计划有变。两小时前，我们收到了来自研究基地的求救信号——就是你在这个星区可能已"
+"经注意到的那颗中子星旁边的那个基地。在我们弄清情况之前，信号就中断了。可能只"
+"是设备故障，但我担心最坏的情况。”\n"
+"\t\t\t\n"
+"“我不能把任何舰船从前线调走，去跟进那个求救信号，叛军舰队太近了。但那个研究基"
+"地正是我们出现在这里的首要原因之一，我不能透露细节，但它很重要，所以我不能无"
+"视那个求救信号。”"
 
 #: src-en/data/events_sector_og_neutron.xml:152
 msgid ""
@@ -127,11 +151,16 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/choice/event/text"
 msgstr ""
+"“这就是你出场的时候了，舰长。我需要你去调查那个求救信号，确保基地安然无恙。如"
+"果处理完那边的事后还有时间，我们很感激你能为前线提供的任何帮助，但那个基地是"
+"最高优先级。”\n"
+"\n"
+"“祝你好运，舰长。”"
 
 #: src-en/data/events_sector_og_neutron.xml:158
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "请求支援。"
 
 #: src-en/data/events_sector_og_neutron.xml:162
 msgid ""
@@ -146,52 +175,58 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:175
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/text"
-msgstr ""
+msgstr "一名军官为你接通了附近一艘支援舰船的安全线路，该舰船正等待你的命令。"
 
 #: src-en/data/events_sector_og_neutron.xml:177
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[1]/text"
-msgstr ""
+msgstr "修理。"
 
 #: src-en/data/events_sector_og_neutron.xml:179
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "数架维修无人机被派往你处进行修理。"
 
 #: src-en/data/events_sector_og_neutron.xml:184
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[2]/text"
-msgstr ""
+msgstr "燃料。"
 
 #: src-en/data/events_sector_og_neutron.xml:186
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "一架加油无人机被派往你处为你的舰船加油。"
 
 #: src-en/data/events_sector_og_neutron.xml:193
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[3]/text"
-msgstr ""
+msgstr "弹药。"
 
 #: src-en/data/events_sector_og_neutron.xml:195
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[3]/event/text"
-msgstr ""
+msgstr "一架补给无人机被派往你处为你的舰船补充弹药。"
 
 #: src-en/data/events_sector_og_neutron.xml:202
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[4]/text"
-msgstr ""
+msgstr "无人机部件。"
 
 #: src-en/data/events_sector_og_neutron.xml:204
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[4]/event/text"
-msgstr ""
+msgstr "一架补给无人机被派往你处为你的舰船补充物资。"
 
 #: src-en/data/events_sector_og_neutron.xml:214
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/text"
 msgstr ""
+"在你还没来得及与任何铁幕守望舰船互动之前，一艘隐藏在不远处小行星带中的新黎明"
+"舰船联系了你。\n"
+"\n"
+"“太好了，你成功到达了这里，而且铁幕守望没有起任何疑心。你可能还记得，这个星区"
+"有一颗你传感器可能探测到的中子星。铁幕守望并非在这里建立了研究基地，而是当最"
+"初的科学家加入铁幕守望后，这个星区被划入了中子星禁区。”"
 
 #: src-en/data/events_sector_og_neutron.xml:218
 msgid ""
@@ -202,6 +237,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/text"
 msgstr ""
+"“他们在这里的工作催生了许多新技术。你可能已经注意到，许多铁幕守望的护盾都配备"
+"了专门设计用于抵御中子星辐射的防护装置。这正是我们的目标。我们已经设法从铁幕"
+"守望的舰船上偷取或掠夺了许多这种防护装置的复制品，但这还不足以装备我们的情报"
+"人员以外的人，我们需要这项技术的原理图和设计方案。”"
 
 #: src-en/data/events_sector_og_neutron.xml:222
 msgid ""
@@ -212,16 +251,22 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/text"
 msgstr ""
+"“这就是你出场的时候了。我们相信这项技术的原理图就存放在围绕中子星运行的原始研"
+"究站中。我们的情报人员已经准备好他们的舰船对该空间站发动突袭，但随着叛军舰队"
+"逼近，他们已加强了对该设施的防护。我们需要你提供一个佯动，让我们的情报人员能"
+"够足够接近该设施以发起突袭。”"
 
 #: src-en/data/events_sector_og_neutron.xml:226
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "同意执行任务。"
 
 #: src-en/data/events_sector_og_neutron.xml:228
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"“太好了，我会上传研究基地的位置——虽然它就在中子星轨道上，倒也不难找。我们的特"
+"工将准备好，一旦你引开守卫，他们就会行动。祝你好运。”"
 
 #: src-en/data/events_sector_og_neutron.xml:230
 msgid ""
@@ -236,12 +281,14 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:240
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "拒绝执行任务。"
 
 #: src-en/data/events_sector_og_neutron.xml:242
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"“好吧，不管你是否参与，突袭都会照常进行。我会上传研究基地的位置，虽然它并不难"
+"找。如果你现身了，我们就当你入伙了。”"
 
 #: src-en/data/events_sector_og_neutron.xml:244
 msgid ""
@@ -271,12 +318,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:283
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_RESEARCH_STATION\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "铁幕守望研究站的位置。"
 
 #: src-en/data/events_sector_og_neutron.xml:296
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_RESEARCH_STATION_RETURN\"]/text"
-msgstr ""
+msgstr "你有片刻时间可以在船上做些事情。"
 
 #: src-en/data/events_sector_og_neutron.xml:298
 msgid ""
@@ -302,6 +349,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_FINISHER\"]/deadCrew/text"
 msgstr ""
+"“你会后悔的！因果报应总会降临在像你这样的人身上。该死的变元者们……新黎明会……”"
+"他们没来得及说完最后一句话便死去了。"
 
 #: src-en/data/events_sector_og_neutron.xml:326
 msgid ""
@@ -312,6 +361,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/text"
 msgstr ""
+"研究站悬挂在中子星轨道上，距离近到辐射无法避免，你需要避免在此处停留过久。\n"
+"\n"
+"当你将舰船驶近空间站并开始对接程序时，立刻可以明显看出出了状况——空间站的船体"
+"上布满损伤划痕，半数太阳能板已完全失踪。"
 
 #: src-en/data/events_sector_og_neutron.xml:337
 msgid ""
@@ -322,6 +375,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/text"
 msgstr ""
+"气闸通向空间站内部，幸好这部分尽管受损仍保持了气压。\n"
+"你立刻与一个身穿白色科学家外套的身影面对面。“你是铁幕守望的人？差不多就行，快"
+"进来。”"
 
 #: src-en/data/events_sector_og_neutron.xml:342
 msgid ""
@@ -332,16 +388,28 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/text"
 msgstr ""
+"你被引向附近的一间会议室，一个大屏幕正在循环播放各种看起来十分危险的舰船图像"
+"，设计风格隐蔽——那一定就是袭击空间站的东西。\n"
+"\n"
+"“我们遭到了攻击，那艘船，”他们指了指屏幕上的那一艘，“是我们从未见过的东西。我"
+"们听说过关于这种‘幽灵’舰船的故事，但没有人认真考虑过它们的存在。我们几乎没看"
+"到它来，它从中子星的方向出现，辐射屏蔽了我们的传感器。它们装备了我们自己的同"
+"步辐射屏障——正是在这个空间站上开发的，用于保护我们的舰船免受中子星辐射的伤害"
+"。”"
 
 #: src-en/data/events_sector_og_neutron.xml:348
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "警报在整个空间站内响起。"
 
 #: src-en/data/events_sector_og_neutron.xml:350
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"警报在整个空间站内刺耳作响，墙上的屏幕切换显示出一艘新涂装的新黎明舰船。鉴于"
+"空间站现在毫无防御能力，你是唯一有能力阻止新黎明舰船彻底摧毁空间站的人。你冲"
+"回自己的舰船，脱离空间站。现在你已离开空间站的保护范围，必须在敌人和辐射的双"
+"重威胁下生存下来。"
 
 #: src-en/data/events_sector_og_neutron.xml:353
 msgid ""
@@ -352,6 +420,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/text"
 msgstr ""
+"你迅速返回空间站同步辐射屏障的安全范围内。与空间站对接后，你回到会议室找到那"
+"位科学家，他正在房间里来回踱步。\n"
+"\n"
+"“那不会是他们的最后一次行动。那艘隐形船——有人称之为‘幽灵’船——它来这里不只是为"
+"了摧毁我们。不，它是来偷我们的同步辐射屏障库存的，但更糟的是，他们偷走了原理"
+"图。以前他们只能通过从我们自己的舰船上偷取设备来获得这些装置，但现在他们可以"
+"开始自行制造这些设备了。”"
 
 #: src-en/data/events_sector_og_neutron.xml:369
 msgid ""
@@ -362,6 +437,11 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/text"
 msgstr ""
+"“不过好消息是，我们开始在屏障中放置追踪装置。我们应该能够追踪被那艘‘幽灵’船偷"
+"走的那批，如果我们行动够快，或许还能阻止原理图离开这个星区。”\n"
+"\n"
+"“我在此恳请你的帮助，我们需要找回原理图。希望这个请求不会太过分，但我想和你一"
+"起走，我向你保证，在船上我不会成为累赘。”"
 
 #: src-en/data/events_sector_og_neutron.xml:375
 msgid ""
@@ -372,6 +452,13 @@ msgstr "接受他们登船。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"“我意识到我忘了自我介绍。西拉斯博士，愿为您效劳。”\n"
+"“还有一件事，这座空间站已经完了，在离中子星这么近的地方，它已经没有修复的可能"
+"了。如果你能让大家安全登船，我们可以把仅剩的那台同步辐射屏障转移到你的舰船上—"
+"—就是目前连接着空间站的那一台。”\n"
+"\t\t\t\t\t\n"
+"你将剩余的空间站人员装载到你的舰船上，随后西拉斯博士让人小心地将同步辐射屏障"
+"移到你的舰船上，并将其集成到你的引擎系统中。"
 
 #: src-en/data/events_sector_og_neutron.xml:386
 msgid ""
@@ -382,16 +469,25 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"你成功将空间站的工作人员送至附近的前哨站。当你离开时，你目睹空间站在辐射的全"
+"力冲击下解体。"
 
 #: src-en/data/events_sector_og_neutron.xml:394
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "拒绝此提议。"
 
 #: src-en/data/events_sector_og_neutron.xml:396
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"“那我就和空间站的其他工作人员一起留下吧。祝你接下来的任务顺利，舰长。”\n"
+"“还有一件事，这座空间站已经完了，在离中子星这么近的地方，它已经没有修复的可能"
+"了。如果你能让大家安全登船，我们可以把仅剩的那台同步辐射屏障转移到你的舰船上—"
+"—就是目前连接着空间站的那一台。”\n"
+"\t\t\t\t\t\n"
+"你将剩余的空间站人员装载到你的舰船上，随后那位科学家让人小心地将同步辐射屏障"
+"移到你的舰船上，并将其集成到你的引擎系统中。"
 
 #: src-en/data/events_sector_og_neutron.xml:404
 msgid ""
@@ -402,16 +498,20 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"你成功将空间站的工作人员送至附近的前哨站。当你离开时，你目睹空间站在辐射的全"
+"力冲击下解体。"
 
 #: src-en/data/events_sector_og_neutron.xml:426
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_IRON_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "携带被盗同步辐射屏障的“幽灵”舰船的位置。"
 
 #: src-en/data/events_sector_og_neutron.xml:432
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_IRON_QUEST\"]/text"
 msgstr ""
+"你与那艘“幽灵”舰船面对面相遇，它亲眼看起来更加危险。外形流畅、全副武装，这注"
+"定是一场硬仗。你根本没机会避开战斗，因为你已经进入了他们的武器射程。"
 
 #: src-en/data/events_sector_og_neutron.xml:434
 msgid ""
@@ -421,12 +521,14 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:443
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_DAWN_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "背叛你的那艘午夜烈阳舰船的位置。"
 
 #: src-en/data/events_sector_og_neutron.xml:449
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_DAWN_QUEST\"]/text"
 msgstr ""
+"你与那艘午夜烈阳舰船面对面相遇。外形流畅、全副武装，这注定是一场硬仗。你根本"
+"没机会避开战斗，因为你已经进入了他们的武器射程。"
 
 #: src-en/data/events_sector_og_neutron.xml:451
 msgid ""
@@ -437,11 +539,15 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_MIDFIGHT_RESET\"]/text"
 msgstr ""
+"敌舰启动了紧急推进器，径直飞向脉冲星。当你转身追击时，脉冲星向你的路径中喷射"
+"出一团磁化等离子体和太阳粒子，阻止了你继续追赶。\n"
+"\n"
+"你的计算机根据他们的飞行轨迹计算出，在他们绕回来之前，你大约有30秒的时间。"
 
 #: src-en/data/events_sector_og_neutron.xml:467
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_MIDFIGHT_RESET\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "“幽灵”舰船将在这段时间内绕过脉冲星并重新进入战斗范围！"
 
 #: src-en/data/events_sector_og_neutron.xml:472
 msgid ""
@@ -457,6 +563,8 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DEADCREW\"]/loadEventList/event/text"
 msgstr ""
+"最后一批船员终于倒下死去，这次是真的死了。舰船内数个区域已被封锁并加固装甲，"
+"不管里面有什么，很可能都很重要。"
 
 #: src-en/data/events_sector_og_neutron.xml:486
 msgid ""
@@ -474,6 +582,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DEADCREW_RESET\"]/text"
 msgstr ""
+"就在你以为已经结束时，敌舰驾驶舱内的一系列面板突然弹开，笨拙地倒出了一堆克隆"
+"士兵到甲板上。"
 
 #: src-en/data/events_sector_og_neutron.xml:500
 msgid ""
@@ -484,6 +594,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_RESUME\"]/text"
 msgstr ""
+"战斗重新开始，但这次有些不同——看来他们在舰船深处隐藏了某种超级武器，而且它终"
+"于上线了！"
 
 #: src-en/data/events_sector_og_neutron.xml:510
 msgid ""
@@ -494,6 +606,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DESTROYED\"]/text"
 msgstr ""
+"舰船爆炸，碎片四散飞溅。你的传感器探测到数个装甲区域在爆炸中保持完好，不管里"
+"面有什么，很可能都可以打捞回收。"
 
 #: src-en/data/events_sector_og_neutron.xml:519
 msgid ""
@@ -511,6 +625,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_SALVAGE_SILAS\"]/text"
 msgstr ""
+"你搜索了那些装甲区域，大多数都没什么值得注意的东西。不过，其中一个区域里有一"
+"个数据库。西拉斯博士检查了一下：“啊哈，这里面有同步辐射屏障的原理图，还有这艘"
+"舰船本身的设计图。我会把后者上传到你的舰船上，然后销毁屏障的原理图。” 推进器"
+"只响了一声刺耳的尖叫，片刻之后就停了下来——坏掉了。"
 
 #: src-en/data/events_sector_og_neutron.xml:533
 msgid ""
@@ -521,6 +639,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_SALVAGE\"]/text"
 msgstr ""
+"你搜索了那些装甲区域，大多数都没什么值得注意的东西。不过，其中一个区域里有一"
+"个数据库，快速检查后发现其中包含同步辐射屏障的原理图，以及这艘舰船本身的设计"
+"图。你将两者都复制到自己的舰船上，然后销毁了数据库。"
 
 #: src-en/data/events_sector_og_neutron.xml:542
 msgid ""
@@ -531,6 +652,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_WEAPON\"]/text"
 msgstr ""
+"最终你偶然发现了似乎是那门巨炮武器的核心部件。你设法将它从扭曲的装甲中取出，"
+"看起来它部分功能尚存，但你需要一门强大武器的零件和一个炮塔槽位来安装它。"
 
 #: src-en/data/events_sector_og_neutron.xml:550
 msgid ""
@@ -550,7 +673,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:566
 msgid ""
 "data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_IRON_RESEARCH_STATION\"]/deadCrew/text"
-msgstr ""
+msgstr "空间站最后一批武装人员倒下死去。你返回自己的舰船，等待午夜烈阳的通讯。"
 
 #: src-en/data/events_sector_og_neutron.xml:571
 msgid ""
@@ -561,6 +684,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/text"
 msgstr ""
+"研究站悬挂在中子星轨道上，距离近到辐射无法避免，你需要避免在此处停留过久。\n"
+"\n"
+"空间站看起来防御森严，安装了几座炮塔和武器，此外似乎还被某种奇怪的护盾保护着"
+"，免受辐射侵害——大部分呈紫色，但在辐射最强处燃烧着亮蓝色。"
 
 #: src-en/data/events_sector_og_neutron.xml:583
 msgid ""
@@ -571,6 +698,12 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/text"
 msgstr ""
+"没过多久，你的通讯器传来一阵噼啪声，有信号接入。信号是窄束加密的，你的传感器"
+"无法定位其来源。\n"
+"\n"
+"“所以你就是他们派来的人，我希望你足够优秀。不过客气话就到此为止了……” 一艘几乎"
+"就在你头顶上方的舰船解除了隐身——正是信号的来源。它几乎通体漆黑，唯一的色彩是"
+"驾驶舱附近一枚小小的金色太阳徽章。"
 
 #: src-en/data/events_sector_og_neutron.xml:589
 msgid ""
@@ -581,6 +714,12 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/text"
 msgstr ""
+"“……我们是新黎明情报部门，或许有些人称我们为午夜烈阳。我们将突袭这座空间站，但"
+"需要你提供一个佯动，以便我们能悄悄接近并夺取我们的目标——同步辐射原理图。”\n"
+"\n"
+"“当你发起攻击时，如果可能的话，瘫痪他们的防御，但至关重要的是不要摧毁空间站。"
+"为了确保任务高效进行，我们会派一名我们自己的船员到你的舰船上，监督你这边的行"
+"动。”"
 
 #: src-en/data/events_sector_og_neutron.xml:595
 msgid ""
@@ -591,21 +730,28 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"午夜烈阳特工通过短程传送器抵达你的舰船。在快速检查了你的舰船后，他们进入驾驶"
+"舱就位，以监督此次攻击。\n"
+"\n"
+"没过多久，特工收到了一条加密信息，他们转向你：“我们已经准备好了，舰长，我们会"
+"在你发出信号后行动。”"
 
 #: src-en/data/events_sector_og_neutron.xml:604
 msgid ""
 "data/events_sector_og_neutron.xml$//triggeredEvent[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN_MISSION\"]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "在此期间与空间站战斗并生存下来，确保空间站不被摧毁！"
 
 #: src-en/data/events_sector_og_neutron.xml:610
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "开始攻击。"
 
 #: src-en/data/events_sector_og_neutron.xml:622
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_FAILED\"]/text"
 msgstr ""
+"“我们对您非常失望，舰长。不要再联系我们了。” 说完，午夜烈阳收回了他们的船员，"
+"跃迁离开了。"
 
 #: src-en/data/events_sector_og_neutron.xml:624
 msgid ""
@@ -617,7 +763,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_FAILED\"]/choice[@req=\"human_og_midnight\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "也许你本应更小心些，不要摧毁那座空间站。"
 
 #: src-en/data/events_sector_og_neutron.xml:634
 msgid ""
@@ -639,6 +785,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_SYNCHROTRON\"]/deadCrew/text"
 msgstr ""
+"“你会后悔的！因果报应总会降临在像你这样的人身上。该死的变元者们……新黎明会……”"
+"他们没来得及说完最后一句话便死去了。"
 
 #: src-en/data/events_sector_og_neutron.xml:652
 msgid ""
@@ -649,21 +797,30 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_BARRIER_GET\"]/text"
 msgstr ""
+"在舰船的残骸中，你发现了完好无损的同步辐射屏障。在查阅了该设备的扫描数据后，"
+"你成功将其安装到了自己的舰船上。"
 
 #: src-en/data/events_sector_og_neutron.xml:665
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/text"
 msgstr ""
+"你的传感器探测到午夜烈阳舰船脱离空间站，迅速撤退至安全区域。看来你在这里的任"
+"务已经完成了。你开始自行脱离空间站。\n"
+"\n"
+"午夜烈阳特工冲向你：“你在做什么，舰长？我还没有收到信号，我们不应该现在就脱离"
+"。”"
 
 #: src-en/data/events_sector_og_neutron.xml:669
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/text"
-msgstr ""
+msgstr "向他展示午夜烈阳舰船已经脱离并撤至安全区域。"
 
 #: src-en/data/events_sector_og_neutron.xml:671
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/text"
 msgstr ""
+"“但为什么……”他们突然停住了。你看不见头盔下的脸，但他们的肢体语言给你一种感觉—"
+"—出了大问题。他们似乎在与装甲内部的某种系统进行交互。"
 
 #: src-en/data/events_sector_og_neutron.xml:673
 msgid ""
@@ -674,6 +831,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/text"
 msgstr ""
+"午夜烈阳舰船开始为其跃迁推进器充能。“我们本希望这座空间站能替我们完成任务，遗"
+"憾的是你超出了我们的预期，舰长。再见。”"
 
 #: src-en/data/events_sector_og_neutron.xml:678
 msgid ""
@@ -684,6 +843,11 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"没过多久，一艘新的舰船解除了隐身——这次是一艘更传统的新黎明舰船。你的一名船员"
+"转向你：“舰长，那艘船拒绝我们的呼叫，扫描显示他们正在将武器系统上线。”\n"
+"\n"
+"旁边的特工变得异常静止。当他开口时，声音很轻：“这不在我收到的任何任务简报中。"
+"”"
 
 #: src-en/data/events_sector_og_neutron.xml:685
 msgid ""
@@ -694,6 +858,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"特工转身面对你，现在微微佝偻着，似乎已经放弃了之前试图做的任何事情。\n"
+"“他们告诉我这是一次干净的撤离行动。进去，协调，然后离开。至于之后如何处理你——"
+"是买你闭嘴，还是由我们亲自让你沉默——我不知道。显然还有其他的计划，一些我不知"
+"道的计划。我早该知道事情不会这么简单。”"
 
 #: src-en/data/events_sector_og_neutron.xml:690
 msgid ""
@@ -704,25 +872,28 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“我知道那艘午夜烈阳舰船去了哪里。附近有一个小型午夜烈阳前哨站，他们会在那里卸"
+"下屏障和原理图。如果你想要复仇——就像我一样——那里就是我们该去的地方。”\n"
+"\n"
+"“我想正式加入你的船员队伍。很明显午夜烈阳已经放弃我了，而你是我复仇的最佳选择"
+"。”"
 
 #: src-en/data/events_sector_og_neutron.xml:698
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "准备战斗。"
 
 #: src-en/data/events_sector_og_neutron.xml:719
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[1]"
-msgstr ""
+msgstr "午夜烈阳舰长在舰船被摧毁的瞬间爆出了最后一句脏话。"
 
 #: src-en/data/events_sector_og_neutron.xml:720
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[2]"
 msgstr "铁幕守望舰船的船体在太空中解体四散。你随即飞近，打捞剩余的残骸。"
 
 #: src-en/data/events_sector_og_neutron.xml:721
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[3]"
 msgstr ""
@@ -740,7 +911,6 @@ msgid ""
 msgstr "\"你的杀戮欲…总有一天会成为你的致命弱点，变元者。你只证明了…联邦相比叛军…好不到哪去…\""
 
 #: src-en/data/events_sector_og_neutron.xml:731
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_MIDNIGHT\"]/text[2]"
 msgstr ""
@@ -750,7 +920,7 @@ msgstr ""
 #: src-en/data/events_sector_og_neutron.xml:732
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_MIDNIGHT\"]/text[3]"
-msgstr ""
+msgstr "“你会后悔的！因果报应总会降临在像你这样的人身上。该死的变元者……”"
 
 #: src-en/data/events_sector_og_neutron.xml:738
 msgid ""
@@ -813,7 +983,6 @@ msgid ""
 msgstr "\"把我们东西都拿走吧，我们就当刚才的事从没发生过。\""
 
 #: src-en/data/events_sector_og_neutron.xml:761
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"ESCAPE_OG_MIDNIGHT\"]/text"
 msgstr "扫描显示，铁幕守望的舰船正试图逃跑。在它逃脱之前，摧毁它！"
@@ -821,15 +990,14 @@ msgstr "扫描显示，铁幕守望的舰船正试图逃跑。在它逃脱之前
 #: src-en/data/events_sector_og_neutron.xml:774
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_MIDNIGHT\"]/text[1]"
-msgstr ""
+msgstr "午夜烈阳舰船从你的掌控中溜走，将你遗弃在信标处。"
 
 #: src-en/data/events_sector_og_neutron.xml:775
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_MIDNIGHT\"]/text[2]"
-msgstr ""
+msgstr "你摧毁午夜烈阳舰船的尝试失败了，那艘船已经逃走。"
 
 #: src-en/data/events_sector_og_neutron.xml:778
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GOTAWAY_OG_MIDNIGHT_REMAINS\"]/text"
 msgstr ""
@@ -857,7 +1025,6 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_sector_og_neutron.xml:821
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/text"
 msgstr ""
@@ -908,21 +1075,25 @@ msgstr "船员已全部死亡，整艘船现在归你所有。船上的货物任
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/text"
 msgstr ""
+"这是该星系中为数不多的定居点之一，这颗行星受到极其浓密的大气层保护，能减轻部"
+"分辐射的影响。商店位于行星表面。"
 
 #: src-en/data/events_sector_og_neutron.xml:866
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/text"
-msgstr ""
+msgstr "飞向行星表面。"
 
 #: src-en/data/events_sector_og_neutron.xml:868
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/event/text"
 msgstr ""
+"浓厚的大气层意味着需要一段时间才能下降到表面，在中子星风暴中航行至此可能会很"
+"困难。"
 
 #: src-en/data/events_sector_og_neutron.xml:871
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "距离抵达行星表面所需的时间！"
 
 #: src-en/data/events_sector_og_neutron.xml:876
 msgid ""
@@ -932,12 +1103,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:882
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[2]/text"
-msgstr ""
+msgstr "无视这颗行星。"
 
 #: src-en/data/events_sector_og_neutron.xml:884
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你准备进行下一次跃迁。"
 
 #: src-en/data/events_sector_og_neutron.xml:886
 msgid ""
@@ -952,7 +1123,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:897
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET_ARRIVE\"]/text"
-msgstr ""
+msgstr "你终于抵达了行星表面，稍作休息后便前往商店。"
 
 #: src-en/data/events_sector_og_neutron.xml:900
 msgid ""
@@ -977,17 +1148,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:932
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/text"
-msgstr ""
+msgstr "求救信标似乎来自一座小型铁幕守望前哨站，正遭到一艘奇怪隐形舰船的攻击！"
 
 #: src-en/data/events_sector_og_neutron.xml:935
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[1]/text"
-msgstr ""
+msgstr "营救商店。"
 
 #: src-en/data/events_sector_og_neutron.xml:937
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你准备战斗。"
 
 #: src-en/data/events_sector_og_neutron.xml:940
 msgid ""
@@ -1002,7 +1173,7 @@ msgstr "无视哨站。"
 #: src-en/data/events_sector_og_neutron.xml:948
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "幸运的是，那艘舰船仍未察觉你的存在。"
 
 #: src-en/data/events_sector_og_neutron.xml:950
 msgid ""
@@ -1017,7 +1188,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:961
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_WIN\"]/text"
-msgstr ""
+msgstr "你已将商店从攻击者手中救出。商店主人提出进行交易。"
 
 #: src-en/data/events_sector_og_neutron.xml:964
 msgid ""
@@ -1028,16 +1199,23 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/text"
 msgstr ""
+"一艘小型运输船漂流在这个信标处，传感器显示该舰船已严重受损，仅以最低限度的电"
+"力维持着两名船员的生存，他们蜷缩在舰船后部。"
 
 #: src-en/data/events_sector_og_neutron.xml:981
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[1]/text"
-msgstr ""
+msgstr "对接并营救他们。"
 
 #: src-en/data/events_sector_og_neutron.xml:983
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[1]/event/text"
 msgstr ""
+"里面的两名人类明显受到惊吓，半饥半冻。他们解释说，他们几乎没能挺过中子星风暴"
+"经过该地区时被困住的那段时间。\n"
+"\n"
+"他们对你的帮助非常感激，并提出一旦你将他们送到安全的地方——比如出口信标或商店—"
+"—就会给你报酬。"
 
 #: src-en/data/events_sector_og_neutron.xml:988
 msgid ""
@@ -1058,6 +1236,8 @@ msgstr "无视这艘舰船。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[2]/event/text"
 msgstr ""
+"你离开了那艘船和它的船员，任由他们无助地漂流。他们的传感器，以及舰船的大部分"
+"其他系统都离线了，所以至少他们不会知道自己曾多么接近被拯救。"
 
 #: src-en/data/events_sector_og_neutron.xml:1002
 msgid ""
@@ -1073,21 +1253,24 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/text"
 msgstr ""
+"这个信标不幸被放置在一颗大型脉冲星旁边，更糟的是它还位于一个小行星带中心。\n"
+"\n"
+"唯一的好处是，正因为这个地方太危险，没有人能开采这个小行星带中的宝贵资源。"
 
 #: src-en/data/events_sector_og_neutron.xml:1020
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"BEAM_MINING\"]/text"
-msgstr ""
+msgstr "（采矿设备 - 15秒）尝试开采小行星。"
 
 #: src-en/data/events_sector_og_neutron.xml:1024
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_MINING_DRONE\"]/text"
-msgstr ""
+msgstr "（采矿无人机 - 15秒）尝试开采小行星。[-1|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1026
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_MINING_DRONE\"]/event/text"
-msgstr ""
+msgstr "你发射采矿无人机，开始切割你的舰船无法触及的岩面。"
 
 #: src-en/data/events_sector_og_neutron.xml:1031
 msgid ""
@@ -1097,17 +1280,17 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:1037
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"SCRAP_COLLECTOR\"]/text"
-msgstr ""
+msgstr "（废料回收臂 - 30秒）尝试开采小行星。"
 
 #: src-en/data/events_sector_og_neutron.xml:1041
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_BEAM_DRONE\"]/text"
-msgstr ""
+msgstr "（光束无人机 - 30秒）尝试开采小行星。[-1|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1043
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_BEAM_DRONE\"]/event/text"
-msgstr ""
+msgstr "你发射光束无人机，开始切割你的舰船无法触及的岩面。"
 
 #: src-en/data/events_sector_og_neutron.xml:1048
 msgid ""
@@ -1117,32 +1300,32 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:1054
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"BLUELIST_BEAMS_DAMAGE\"]/text"
-msgstr ""
+msgstr "（破坏性光束武器 - 30秒）尝试开采小行星。[-1|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1058
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "（磁力臂 - 45秒）尝试开采小行星。"
 
 #: src-en/data/events_sector_og_neutron.xml:1062
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr ""
+msgstr "（工程船员 - 45秒）尝试开采小行星。[-1|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1066
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[8]/text"
-msgstr ""
+msgstr "（无设备 - 60秒）尝试开采小行星。"
 
 #: src-en/data/events_sector_og_neutron.xml:1070
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[9]/text"
-msgstr ""
+msgstr "忽略小行星带。"
 
 #: src-en/data/events_sector_og_neutron.xml:1072
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[9]/event/text"
-msgstr ""
+msgstr "你做好准备尽快跃迁。"
 
 #: src-en/data/events_sector_og_neutron.xml:1074
 msgid ""
@@ -1157,12 +1340,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:1085
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_60\"]/text"
-msgstr ""
+msgstr "你开始切割附近的小行星，传感器显示那里含有有用的矿物。"
 
 #: src-en/data/events_sector_og_neutron.xml:1089
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_60\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "距离从小行星中提取完矿物所需的时间。"
 
 #: src-en/data/events_sector_og_neutron.xml:1094
 msgid ""
@@ -1172,12 +1355,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:1099
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_45\"]/text"
-msgstr ""
+msgstr "你开始切割附近的小行星，传感器显示那里含有有用的矿物。"
 
 #: src-en/data/events_sector_og_neutron.xml:1103
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_45\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "距离从小行星中提取完矿物所需的时间。"
 
 #: src-en/data/events_sector_og_neutron.xml:1108
 msgid ""
@@ -1187,12 +1370,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:1113
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_30\"]/text"
-msgstr ""
+msgstr "你开始切割附近的小行星，传感器显示那里含有有用的矿物。"
 
 #: src-en/data/events_sector_og_neutron.xml:1117
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_30\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "距离从小行星中提取完矿物所需的时间。"
 
 #: src-en/data/events_sector_og_neutron.xml:1122
 msgid ""
@@ -1202,12 +1385,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:1127
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_15\"]/text"
-msgstr ""
+msgstr "你开始切割附近的小行星，传感器显示那里含有有用的矿物。"
 
 #: src-en/data/events_sector_og_neutron.xml:1131
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_15\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "距离从小行星中提取完矿物所需的时间。"
 
 #: src-en/data/events_sector_og_neutron.xml:1136
 msgid ""
@@ -1217,12 +1400,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:1141
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_FINISH\"]/text"
-msgstr ""
+msgstr "你小心地从最近的小行星中尽可能多地提取可用材料。"
 
 #: src-en/data/events_sector_og_neutron.xml:1158
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/text"
-msgstr ""
+msgstr "你遇到了一艘奇怪舰船的残骸。看起来是你听说过的那种新黎明舰船。"
 
 #: src-en/data/events_sector_og_neutron.xml:1160
 msgid ""
@@ -1232,7 +1415,7 @@ msgstr "调查。"
 #: src-en/data/events_sector_og_neutron.xml:1162
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "在你还没来得及调查之前，那艘船突然启动了——你的扫描显示它现在被魂灵族控制着！"
 
 #: src-en/data/events_sector_og_neutron.xml:1165
 msgid ""
@@ -1267,7 +1450,7 @@ msgstr "接受他们的投降。"
 #: src-en/data/events_sector_og_neutron.xml:1203
 msgid ""
 "data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_NEUTRON_PIRATE_MANTIS_LIFEBOAT\"]/surrender/choice[1]/event/text"
-msgstr ""
+msgstr "他们转交了报酬。"
 
 #: src-en/data/events_sector_og_neutron.xml:1207
 msgid ""
@@ -1293,36 +1476,42 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/text"
 msgstr ""
+"你抵达信标，发现一艘海盗船正在检查一艘小型救生艇——小到甚至没有配备超光速推进"
+"器。\n"
+"\n"
+"海盗们正在公共频道上广播：“听着伙计们，16个人实在太多了，没人想买你们。你们现"
+"在有救生艇了，你们会找到办法的，我肯定。祝你们好运。” 说完，海盗们便脱离了那"
+"艘救生艇。"
 
 #: src-en/data/events_sector_og_neutron.xml:1248
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[1]/text"
-msgstr ""
+msgstr "让海盗离开。"
 
 #: src-en/data/events_sector_og_neutron.xml:1250
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/text"
-msgstr ""
+msgstr "你将注意力转向救生艇，扫描显示——那不可能吧？16只该死的螳螂？"
 
 #: src-en/data/events_sector_og_neutron.xml:1252
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/choice[1]/text"
-msgstr ""
+msgstr "提出让他们登船并将他们送到安全的地方。"
 
 #: src-en/data/events_sector_og_neutron.xml:1254
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "螳螂们承诺会守规矩，他们说一旦你将他们送到安全的地方，会重重酬谢你。"
 
 #: src-en/data/events_sector_og_neutron.xml:1259
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/choice[2]/text"
-msgstr ""
+msgstr "别管他们。"
 
 #: src-en/data/events_sector_og_neutron.xml:1265
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[2]/text"
-msgstr ""
+msgstr "攻击海盗。"
 
 #: src-en/data/events_sector_og_neutron.xml:1267
 msgid ""
@@ -1337,7 +1526,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:1276
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[3]/text"
-msgstr ""
+msgstr "无视海盗和救生艇。"
 
 #: src-en/data/events_sector_og_neutron.xml:1278
 msgid ""
@@ -1358,16 +1547,22 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/text"
 msgstr ""
+"你在一个小行星带中心的信标处抵达，鉴于周围的残骸数量，这里显然是个受欢迎的目"
+"的地。\n"
+"附近你探测到一艘铁幕守望舰船，他们似乎在打捞残骸，搜寻任何有价值的东西，他们"
+"似乎无视了你。"
 
 #: src-en/data/events_sector_og_neutron.xml:1297
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[1]/text"
-msgstr ""
+msgstr "打捞残骸。"
 
 #: src-en/data/events_sector_og_neutron.xml:1299
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[1]/event/text"
 msgstr ""
+"你开始打捞残骸，但在铁幕守望打捞者用一束精准的激光打断你的工作之前，你没能弄"
+"到多少有价值的东西。"
 
 #: src-en/data/events_sector_og_neutron.xml:1303
 msgid ""
@@ -1377,12 +1572,12 @@ msgstr "准备战斗！"
 #: src-en/data/events_sector_og_neutron.xml:1309
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[2]/text"
-msgstr ""
+msgstr "攻击那艘船。"
 
 #: src-en/data/events_sector_og_neutron.xml:1311
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你准备好武器并上前攻击，他们一定一直在监视你，并也准备好了自己的武器。"
 
 #: src-en/data/events_sector_og_neutron.xml:1314
 msgid ""
@@ -1413,71 +1608,75 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/text"
 msgstr ""
+"你抵达信标，发现一艘铁幕守望舰船正在照料一颗围绕脉冲星运行的小型卫星。他们似"
+"乎正在试图修理卫星的某个部件，你可以看到他们的一名船员在船外。"
 
 #: src-en/data/events_sector_og_neutron.xml:1340
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/text"
-msgstr ""
+msgstr "呼叫那艘船。"
 
 #: src-en/data/events_sector_og_neutron.xml:1342
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/text"
 msgstr ""
+"“你好，舰长。不知你能否帮我们一个忙，我们的卫星似乎出了故障，我们已经连续几周"
+"只收到垃圾数据了。你能帮忙看一下吗？”"
 
 #: src-en/data/events_sector_og_neutron.xml:1344
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
-msgstr ""
+msgstr "（铁幕守望船员）让你的铁幕守望船员查看一下。"
 
 #: src-en/data/events_sector_og_neutron.xml:1348
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr ""
+msgstr "（工程师船员）让你的工程师查看一下。"
 
 #: src-en/data/events_sector_og_neutron.xml:1352
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGI\"]/text"
-msgstr ""
+msgstr "（半械族船员）让你的半械族船员查看一下。"
 
 #: src-en/data/events_sector_og_neutron.xml:1356
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/text"
-msgstr ""
+msgstr "（修理无人机）部署一架修理无人机。"
 
 #: src-en/data/events_sector_og_neutron.xml:1360
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_SABOTEUR\"]/text"
-msgstr ""
+msgstr "（蛞蝓族破坏者）让你的蛞蝓族船员黑客入侵卫星以调查故障。"
 
 #: src-en/data/events_sector_og_neutron.xml:1364
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "（黑客系统）黑客入侵卫星以调查故障。"
 
 #: src-en/data/events_sector_og_neutron.xml:1368
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_LANIUS\"]/text"
-msgstr ""
+msgstr "（食铁族船员）让你的食铁族船员查看一下。"
 
 #: src-en/data/events_sector_og_neutron.xml:1372
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "（高级武器）尝试敲击式维护。"
 
 #: src-en/data/events_sector_og_neutron.xml:1376
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[9]/text"
-msgstr ""
+msgstr "自己查看一下。"
 
 #: src-en/data/events_sector_og_neutron.xml:1380
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[10]/text"
-msgstr ""
+msgstr "表示你帮不上忙。"
 
 #: src-en/data/events_sector_og_neutron.xml:1382
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[10]/event/text"
-msgstr ""
+msgstr "“太可惜了，不过还是谢谢你听我们说完。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1384
 msgid ""
@@ -1492,12 +1691,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_og_neutron.xml:1396
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[2]/text"
-msgstr ""
+msgstr "攻击那艘船。"
 
 #: src-en/data/events_sector_og_neutron.xml:1398
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你准备好武器并上前攻击，他们一定一直在监视你，并也准备好了自己的武器。"
 
 #: src-en/data/events_sector_og_neutron.xml:1401
 msgid ""
@@ -1528,26 +1727,37 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_DETECTION\"]/text"
 msgstr ""
+"你找出了故障原因——卫星被安装了窃听装置。这似乎是一次非常高科技的行动，他们几"
+"乎没有留下痕迹，但你设法恢复了一些被删除的数据——一张黑暗隐形舰船飞离卫星的快"
+"照，你只能勉强辨认出侧面有一枚模糊的金色徽章，但仅此而已。“哇！谢谢你的帮助，"
+"我们会把这件事上报上级的，你可以拿走我们能提供的补给，谢谢。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1442
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_REPAIR\"]/text"
 msgstr ""
+"你设法找出了故障原因——卫星似乎被安装了窃听装置，有人试图暗中破坏卫星，但遗憾"
+"的是没有留下任何关于肇事者的痕迹。“哇，干得好，请务必收下这些补给作为感谢，我"
+"们以后会留意更多类似的窃听装置，或者在找到肇事者之前一直保持警惕。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1446
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_REPAIR_PARTIAL\"]/text"
 msgstr ""
+"你发现了一些故障，但与问题无关。“感谢你的帮助，即使我们似乎离解决方案还很远，"
+"请收下一些补给作为感谢。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1450
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_NOHELP\"]/text"
-msgstr ""
+msgstr "“感谢你的尝试，但这显然行不通。”他们礼貌但坚决地自己继续修理。"
 
 #: src-en/data/events_sector_og_neutron.xml:1453
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_FAILURE\"]/text"
 msgstr ""
+"“你在干什么！你毁了卫星，你在想什么！够了，你要赔偿替换的费用！”说完他们激活"
+"了武器，准备战斗！"
 
 #: src-en/data/events_sector_og_neutron.xml:1456
 msgid ""
@@ -1568,6 +1778,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/text"
 msgstr ""
+"你抵达信标，发现求救信号的来源是一艘民用穿梭机，而他们求救的原因是一艘新黎明"
+"舰船正用热武器向他们逼近。"
 
 #: src-en/data/events_sector_og_neutron.xml:1494
 msgid ""
@@ -1608,6 +1820,11 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/text"
 msgstr ""
+"你将注意力转回民用穿梭机，不难找到他们。穿梭机严重受损，远超出修复范围，尤其"
+"是在这种偏远地方。\n"
+"\n"
+"穿梭机上的乘员——两名人类——请求你将他们送到最近的安全区，他们承诺抵达后会公平"
+"地酬谢你。"
 
 #: src-en/data/events_sector_og_neutron.xml:1524
 msgid ""
@@ -1617,47 +1834,55 @@ msgstr "接受他们登船。"
 #: src-en/data/events_sector_og_neutron.xml:1526
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/choice[1]/event/text"
-msgstr ""
+msgstr "他们登上你的船，并热切地承诺尽量不惹麻烦，不挡路。"
 
 #: src-en/data/events_sector_og_neutron.xml:1531
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/choice[2]/text"
-msgstr ""
+msgstr "任由他们自生自灭。"
 
 #: src-en/data/events_sector_og_neutron.xml:1539
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/text"
 msgstr ""
+"令你沮丧的是，求救信号来自一艘明确标识为海盗的船只。扫描显示他们已受损，虽未"
+"到无法修复的地步，但问题已相当严重。\n"
+"\n"
+"他们立即在开放频道上联系你，可能是想抢在你激活武器之前开口。‘听着舰长，我不跟"
+"你玩把戏，我知道我们看起来什么样——一个容易得手的目标，对吧？’"
 
 #: src-en/data/events_sector_og_neutron.xml:1543
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/text"
-msgstr ""
+msgstr "听听他们要说什么。"
 
 #: src-en/data/events_sector_og_neutron.xml:1545
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/text"
 msgstr ""
+"“我们被那颗大恒星的射线击中了，那颗牛顿星还是什么来着，真把我们搞惨了，但我们"
+"有件值得你花时间的东西——一件货真价实的新黎明科技！我们自己没搞明白怎么用，但"
+"我敢肯定它很有价值，毕竟这就是我们被困在这里的原因。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1547
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "购买那件“科技”，以换取他们修复超光速推进器所需的零件。[35~, 3|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1555
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你把零件卸给他们，他们把那件“科技”送了过来，你的电脑将其识别为炮塔预充能器。"
 
 #: src-en/data/events_sector_og_neutron.xml:1559
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "拒绝提议。"
 
 #: src-en/data/events_sector_og_neutron.xml:1561
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你离开那艘船让它自生自灭，并准备下一次跃迁。"
 
 #: src-en/data/events_sector_og_neutron.xml:1563
 msgid ""
@@ -1687,7 +1912,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_sector_og_neutron.xml:1585
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你离开那艘船让它自生自灭，并准备进行下一次跃迁。"
 
 #: src-en/data/events_sector_og_neutron.xml:1587
 msgid ""
@@ -1723,16 +1948,18 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/text"
 msgstr ""
+"求救信号来自一艘铁幕守望运输舰，严重受损，有黑色液体从引擎中泄漏。运输舰的炮"
+"塔勉强抵挡着另一艘舰船的攻击——那艘船几乎通体漆黑，看起来是隐形舰船设计。"
 
 #: src-en/data/events_sector_og_neutron.xml:1638
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[1]/text"
-msgstr ""
+msgstr "援助运输舰。"
 
 #: src-en/data/events_sector_og_neutron.xml:1640
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，上前保护运输舰。"
 
 #: src-en/data/events_sector_og_neutron.xml:1643
 msgid ""
@@ -1742,12 +1969,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_og_neutron.xml:1649
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[2]/text"
-msgstr ""
+msgstr "无视运输舰。"
 
 #: src-en/data/events_sector_og_neutron.xml:1651
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你离开运输舰让它自生自灭，并准备下一次跃迁。"
 
 #: src-en/data/events_sector_og_neutron.xml:1653
 msgid ""
@@ -1763,19 +1990,26 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/text"
 msgstr ""
+"解决了那艘隐形舰船后，你将注意力转回铁幕守望运输舰，它的状况很糟糕，扫描显示"
+"它急需进行大规模修理。\n"
+"\n"
+"运输舰呼叫了你，一个穿着铁幕守望配色制服、看起来很重要女性迎接了你。‘我是外交"
+"官荷鲁斯，想必你就是我听说过的那个联邦变元者吧？感谢你的帮助，不过我还有另一"
+"个请求。据我所知，你正前往联邦首都——17号节点，对吗？’"
 
 #: src-en/data/events_sector_og_neutron.xml:1668
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[1]/text"
-msgstr ""
+msgstr "“我们正是去那里。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1670
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/text"
 msgstr ""
+"“那我请求你让我登船，我必须赶到联邦基地。我与联邦指挥部有个关于叛军威胁的会议"
+"，准时赶到那里至关重要，我的船员告诉我我的舰船已经无法胜任那段航程了。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1672
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[1]/text"
 msgstr "接受他们登船。"
@@ -1783,39 +2017,41 @@ msgstr "接受他们登船。"
 #: src-en/data/events_sector_og_neutron.xml:1674
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你与运输舰对接，接上外交官，其余船员留下，将运输舰护送到安全地点进行修理。"
 
 #: src-en/data/events_sector_og_neutron.xml:1679
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[2]/text"
-msgstr ""
+msgstr "拒绝请求。"
 
 #: src-en/data/events_sector_og_neutron.xml:1681
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你礼貌地拒绝了，她明显很失望，但没有进一步强求。"
 
 #: src-en/data/events_sector_og_neutron.xml:1687
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "“我们不是去那里，抱歉。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1689
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/text"
 msgstr ""
+"“那太遗憾了，恐怕我可能赶不上了。如果你看到有其他船往那个方向去，能不能请他们"
+"顺路来接我？我会在铁幕守望研究站等。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1691
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "“实际上我们正好要去那里。”"
 
 #: src-en/data/events_sector_og_neutron.xml:1695
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "祝她好运。"
 
 #: src-en/data/events_sector_og_neutron.xml:1697
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "说完，你开始准备超光速推进器进行下一次跃迁。"
