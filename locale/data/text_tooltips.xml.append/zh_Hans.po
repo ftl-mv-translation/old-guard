@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-02 01:36+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datatext_tooltipsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -13,12 +13,10 @@ msgstr ""
 "X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_tooltips.xml.append:2
-#, fuzzy
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
 msgstr "提示：炮塔必须装配到炮塔操控系统上。"
 
 #: src-en/data/text_tooltips.xml.append:3
-#, fuzzy
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_mini\"]"
 msgstr "提示：炮塔必须装配到炮塔操控系统上。微型炮塔可装配在小型或大型炮塔插槽上。"
 
@@ -125,353 +123,354 @@ msgstr "炮塔操控：为敌方炮塔供能。"
 
 #: src-en/data/text_tooltips.xml.append:28
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_equaliser\"]"
-msgstr ""
+msgstr "系统均衡器：在选定的舰船系统间均衡伤害。"
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_equaliser_enemy\"]"
-msgstr ""
+msgstr "系统均衡器：在舰船系统间均衡伤害。"
 
 #: src-en/data/text_tooltips.xml.append:31
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:32
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_2\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:33
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_3\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:34
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_4\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:35
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:36
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_2\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:37
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_3\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:38
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_4\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:39
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:40
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_2\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:41
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_single\"]"
-msgstr ""
+msgstr "暂时消耗敌方炮塔的充能。"
 
 #: src-en/data/text_tooltips.xml.append:42
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_equaliser\"]"
-msgstr ""
+msgstr "阻止系统激活。"
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:45
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_2_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:46
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_3_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:47
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_4_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:48
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:49
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_2_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:50
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_3_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:51
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_4_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:52
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_2_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:54
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_single_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：炮塔正在失去充能。"
 
 #: src-en/data/text_tooltips.xml.append:55
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_equaliser_player\"]"
-msgstr ""
+msgstr "系统被黑客入侵：系统冻结。"
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_time\"]"
-msgstr ""
+msgstr "Stats:\\n充能时间："
 
 #: src-en/data/text_tooltips.xml.append:58
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_charges\"]"
-msgstr ""
+msgstr "\\n最大充能次数：%d"
 
 #: src-en/data/text_tooltips.xml.append:59
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_amount\"]"
-msgstr ""
+msgstr "\\n充能值：%d"
 
 #: src-en/data/text_tooltips.xml.append:60
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ammo\"]"
-msgstr ""
+msgstr "\\n导弹消耗：%g"
 
 #: src-en/data/text_tooltips.xml.append:61
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chain\"]"
-msgstr ""
+msgstr "\\n链式效果：冷却时间减少 %d%%"
 
 #: src-en/data/text_tooltips.xml.append:62
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chainCap\"]"
-msgstr ""
+msgstr "\\n链式减益上限：%%d%%（%d 次链式）"
 
 #: src-en/data/text_tooltips.xml.append:63
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rotation\"]"
-msgstr ""
+msgstr "\\n\\n旋转速度：%d"
 
 #: src-en/data/text_tooltips.xml.append:64
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_radius\"]"
-msgstr ""
+msgstr "\\n散射半径：%d"
 
 #: src-en/data/text_tooltips.xml.append:65
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rate\"]"
-msgstr ""
+msgstr "\\n射速："
 
 #: src-en/data/text_tooltips.xml.append:66
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_autofire\"]"
-msgstr ""
+msgstr "\\n爆发射击数量：进攻：%s/防御：%s"
 
 #: src-en/data/text_tooltips.xml.append:67
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_target\"]"
-msgstr ""
+msgstr "\\n弹丸目标：%s"
 
 #: src-en/data/text_tooltips.xml.append:69
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_damage\"]"
-msgstr ""
+msgstr "\\n船体伤害：%d"
 
 #: src-en/data/text_tooltips.xml.append:70
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_sysDamage\"]"
-msgstr ""
+msgstr "\\n系统伤害：%d"
 
 #: src-en/data/text_tooltips.xml.append:71
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
-msgstr ""
+msgstr "\\n船员伤害：%d"
 
 #: src-en/data/text_tooltips.xml.append:72
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ionDamage\"]"
-msgstr ""
+msgstr "\\n离子伤害：%d"
 
 #: src-en/data/text_tooltips.xml.append:73
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_pierce\"]"
-msgstr ""
+msgstr "\\n护盾穿透：%d"
 
 #: src-en/data/text_tooltips.xml.append:74
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_hullBust\"]"
-msgstr ""
+msgstr "\\n对无系统房间造成2倍伤害"
 
 #: src-en/data/text_tooltips.xml.append:75
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_lockdown\"]"
-msgstr ""
+msgstr "\\n命中时封锁房间"
 
 #: src-en/data/text_tooltips.xml.append:77
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_fireChance\"]"
-msgstr ""
+msgstr "\\n起火概率：%d%%"
 
 #: src-en/data/text_tooltips.xml.append:78
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_breachChance\"]"
-msgstr ""
+msgstr "\\n破舱概率：%d%%（调整后：%d%%）"
 
 #: src-en/data/text_tooltips.xml.append:79
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_stunChance\"]"
-msgstr ""
+msgstr "\\n眩晕概率：%d%%（持续 %d 秒）"
 
 #: src-en/data/text_tooltips.xml.append:80
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_effect\"]"
-msgstr ""
+msgstr "\\n效果持续时间：%d 秒"
 
 #: src-en/data/text_tooltips.xml.append:82
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_neutron_damage\"]"
-msgstr ""
+msgstr "\\n光束伤害：每秒 %g"
 
 #: src-en/data/text_tooltips.xml.append:83
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_neutron_duration\"]"
-msgstr ""
+msgstr "\\n光束持续时间：%.1f 秒"
 
 #: src-en/data/text_tooltips.xml.append:85
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price\"]"
-msgstr ""
+msgstr "\\n\\n默认价格：%d~ - 出售价格：%d~"
 
 #: src-en/data/text_tooltips.xml.append:86
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price_short\"]"
-msgstr ""
+msgstr "\\n\\n%d~ - %d~"
 
 #: src-en/data/text_tooltips.xml.append:88
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_power_increase\"]"
-msgstr ""
+msgstr "充能时间缩短"
 
 #: src-en/data/text_tooltips.xml.append:90
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_offence\"]"
-msgstr ""
+msgstr "将炮塔设置为防御模式。"
 
 #: src-en/data/text_tooltips.xml.append:91
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_defence\"]"
-msgstr ""
+msgstr "将炮塔设置为进攻模式。"
 
 #: src-en/data/text_tooltips.xml.append:92
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_autoFire\"]"
 msgstr ""
+"切换以自动激活/停用炮塔开火。\\n\\n左 CTRL + 瞄准可强制炮塔执行与当前设置相反"
+"的操作"
 
 #: src-en/data/text_tooltips.xml.append:94
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_charges\"]"
-msgstr ""
+msgstr "充能：%d/%d"
 
 #: src-en/data/text_tooltips.xml.append:95
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_time\"]"
-msgstr ""
+msgstr "\\n充能时间：%.1f/%.1f"
 
 #: src-en/data/text_tooltips.xml.append:97
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_none\"]"
-msgstr ""
+msgstr "无"
 
 #: src-en/data/text_tooltips.xml.append:98
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones\"]"
-msgstr ""
+msgstr "无人机"
 
 #: src-en/data/text_tooltips.xml.append:99
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_missiles\"]"
-msgstr ""
+msgstr "所有实体弹丸"
 
 #: src-en/data/text_tooltips.xml.append:100
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_missiles\"]"
-msgstr ""
+msgstr "所有实体弹丸和无人机"
 
 #: src-en/data/text_tooltips.xml.append:101
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles\"]"
-msgstr ""
+msgstr "非实体弹丸"
 
 #: src-en/data/text_tooltips.xml.append:102
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_projectiles\"]"
-msgstr ""
+msgstr "非实体弹丸和无人机"
 
 #: src-en/data/text_tooltips.xml.append:103
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles_missiles\"]"
-msgstr ""
+msgstr "所有弹丸"
 
 #: src-en/data/text_tooltips.xml.append:104
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_all\"]"
-msgstr ""
+msgstr "所有弹丸和无人机"
 
 #: src-en/data/text_tooltips.xml.append:106
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use\"]"
-msgstr ""
+msgstr "使用你的 %s"
 
 #: src-en/data/text_tooltips.xml.append:107
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use_scrap\"]"
-msgstr ""
+msgstr "使用你的 %s + %d~"
 
 #: src-en/data/text_tooltips.xml.append:108
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_finish\"]"
-msgstr ""
+msgstr "你按照提供的蓝图操作，最终得到了一件新物品。"
 
 #: src-en/data/text_tooltips.xml.append:109
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_blueprint\"]"
-msgstr ""
+msgstr "蓝图："
 
 #: src-en/data/text_tooltips.xml.append:110
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_mystery\"]"
-msgstr ""
+msgstr "???"
 
 #: src-en/data/text_tooltips.xml.append:111
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_requires\"]"
-msgstr ""
+msgstr "%s 需要："
 
 #: src-en/data/text_tooltips.xml.append:112
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_atleast\"]"
-msgstr ""
+msgstr "\\n  至少 %d："
 
 #: src-en/data/text_tooltips.xml.append:113
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list\"]"
-msgstr ""
+msgstr "\\n    %s"
 
 #: src-en/data/text_tooltips.xml.append:114
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list_scrap\"]"
-msgstr ""
+msgstr "\\n    %s + %d~"
 
 #: src-en/data/text_tooltips.xml.append:115
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_craft\"]"
-msgstr ""
+msgstr "制作此物品。"
 
 #: src-en/data/text_tooltips.xml.append:116
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_unknown\"]"
-msgstr ""
+msgstr "未知炮塔"
 
 #: src-en/data/text_tooltips.xml.append:118
-#, fuzzy
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_nevermind\"]"
 msgstr "算了。"
@@ -479,11 +478,11 @@ msgstr "算了。"
 #: src-en/data/text_tooltips.xml.append:119
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_uninstall\"]"
-msgstr ""
+msgstr "卸载炮塔："
 
 #: src-en/data/text_tooltips.xml.append:120
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_empty\"]"
-msgstr ""
+msgstr "管理空炮塔。"
 
 #: src-en/data/text_tooltips.xml.append:121
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_leave\"]"
@@ -492,88 +491,90 @@ msgstr "保持为空。"
 #: src-en/data/text_tooltips.xml.append:122
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_install\"]"
-msgstr ""
+msgstr "安装此物："
 
 #: src-en/data/text_tooltips.xml.append:124
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate\"]"
-msgstr ""
+msgstr "可用于制作："
 
 #: src-en/data/text_tooltips.xml.append:125
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_item\"]"
-msgstr ""
+msgstr "\\n[%s]"
 
 #: src-en/data/text_tooltips.xml.append:126
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_mystery\"]"
-msgstr ""
+msgstr "\\n[???]"
 
 #: src-en/data/text_tooltips.xml.append:127
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_hover\"]"
-msgstr ""
+msgstr "可制作成："
 
 #: src-en/data/text_tooltips.xml.append:129
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_unset\"]"
-msgstr ""
+msgstr "未设置"
 
 #: src-en/data/text_tooltips.xml.append:130
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_current\"]"
-msgstr ""
+msgstr "当前按键："
 
 #: src-en/data/text_tooltips.xml.append:131
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_currently\"]"
-msgstr ""
+msgstr "(当前为 \\\"%s\\\" 键)"
 
 #: src-en/data/text_tooltips.xml.append:133
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_valid\"]"
-msgstr ""
+msgstr "\\n叛军效忠成就：有效流程\\n当前舰船船员：有效"
 
 #: src-en/data/text_tooltips.xml.append:134
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_crew\"]"
-msgstr ""
+msgstr "\\n叛军效忠成就：有效流程\\n当前舰船船员：无效\\n无效船员："
 
 #: src-en/data/text_tooltips.xml.append:135
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_invalid\"]"
-msgstr ""
+msgstr "\\n叛军效忠成就：无效流程"
 
 #: src-en/data/text_tooltips.xml.append:137
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_clone_cannon\"]"
-msgstr ""
+msgstr "克隆"
 
 #: src-en/data/text_tooltips.xml.append:138
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_midnight_hacking_name\"]"
-msgstr ""
+msgstr "黑客无人机"
 
 #: src-en/data/text_tooltips.xml.append:139
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_midnight_hacking_text\"]"
 msgstr ""
+"黑客无人机\\n跃迁时或系统完全损坏时移除。\\n\\n当前时间：%.1f秒\\n冷却时间"
+"：%d秒\\n黑客持续时间：%d秒"
 
 #: src-en/data/text_tooltips.xml.append:141
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_iron\"]"
-msgstr ""
+msgstr "铁幕守望声望"
 
 #: src-en/data/text_tooltips.xml.append:142
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_dawn\"]"
-msgstr ""
+msgstr "新黎明声望"
 
 #: src-en/data/text_tooltips.xml.append:144
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_ancient\"]"
-msgstr ""
+msgstr "陈旧之物……"
 
 #: src-en/data/text_tooltips.xml.append:145
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_clone_cannon\"]"
-msgstr ""
+msgstr "道德上存疑之物."
 
 #: src-en/data/text_tooltips.xml.append:146
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_gatling\"]"
-msgstr ""
+msgstr "向你的敌人释放地狱！"
 
 #: src-en/data/text_tooltips.xml.append:147
 msgid ""
@@ -583,44 +584,44 @@ msgstr "让它打中你，你就已经死了。"
 #: src-en/data/text_tooltips.xml.append:148
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_defense\"]"
-msgstr ""
+msgstr "守护天使。"
 
 #: src-en/data/text_tooltips.xml.append:149
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_combat\"]"
-msgstr ""
+msgstr "复仇天使。"
 
 #: src-en/data/text_tooltips.xml.append:150
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_scifi\"]"
-msgstr ""
+msgstr "真正的科学！"
 
 #: src-en/data/text_tooltips.xml.append:151
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_sylvan\"]"
-msgstr ""
+msgstr "你这个贪婪、杀人的叛徒。"
 
 #: src-en/data/text_tooltips.xml.append:152
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_sylvan_honor\"]"
-msgstr ""
+msgstr "去踢爆那些叛军的屁股吧。"
 
 #: src-en/data/text_tooltips.xml.append:153
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_chaingun_gold\"]"
-msgstr ""
+msgstr "一把臭名昭著的转管炮的复刻品"
 
 #: src-en/data/text_tooltips.xml.append:155
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_soulplague\"]"
-msgstr ""
+msgstr "你对更多炮塔充满渴望——炮塔们渴望更多……好吧，一切。"
 
 #: src-en/data/text_tooltips.xml.append:156
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_falseradiance\"]"
-msgstr ""
+msgstr "然后，在第八天……你的敌人发出热切的呼喊——祈求救赎。但那永远不会到来。"
 
 #: src-en/data/text_tooltips.xml.append:157
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_darkgod\"]"
-msgstr ""
+msgstr "情况变得比你期望的更黑暗了，不是吗？"
