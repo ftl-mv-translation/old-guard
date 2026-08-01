@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
+"PO-Revision-Date: 2026-08-02 01:36+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datatext_miscxmlappend/zh_Hans/>\n"
@@ -14,24 +14,25 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_loc\"]"
-msgstr ""
+msgstr "下一次跃迁的信标坐标将位于中子星光束范围内。"
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_static_loc\"]"
-msgstr ""
+msgstr "信标坐标紧邻一颗脉冲星，将处于中子光束的影响之下。"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_og_neutron_beam\"]"
 msgstr ""
+"你正处于中子星光束范围内。辐射将损伤舰船上所有系统和船员。船员在拥有正常运行"
+"系统的房间内会受到保护——由该系统代替吸收伤害。"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_og_triplet\"]"
-msgstr ""
+msgstr "提示：三重武器会链式两次，然后在第三轮齐射时重置。"
 
 #: src-en/data/text_misc.xml.append:10
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"ship_unlock_og_two_wins\"]"
-msgstr "使用任意两种 \\1布局获胜，即可解锁\\2"
+msgstr "解锁任意两种 \\1 的布局以解锁 \\2"
 
 #: src-en/data/text_misc.xml.append:12
 msgid ""
@@ -49,10 +50,9 @@ msgid ""
 msgstr "完成该星舰2个成就。"
 
 #: src-en/data/text_misc.xml.append:16
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_unlock\"]"
-msgstr "使用任意 2 艘掠夺者级舰船获胜。"
+msgstr "解锁任意 2 艘掠夺者级舰船获胜。"
 
 #: src-en/data/text_misc.xml.append:17
 msgid ""
@@ -80,10 +80,9 @@ msgid ""
 msgstr "完成该星舰2个成就。"
 
 #: src-en/data/text_misc.xml.append:24
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_unlock\"]"
-msgstr "使用任意 2 艘先锋级舰船获胜。"
+msgstr "解锁任意 2 艘先锋级舰船获胜。"
 
 #: src-en/data/text_misc.xml.append:25
 msgid ""
@@ -98,7 +97,7 @@ msgstr "完成该星舰2个成就。"
 #: src-en/data/text_misc.xml.append:28
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_HUNTER_unlock\"]"
-msgstr ""
+msgstr "在中子星禁区中追猎那艘神秘的魂灵族舰船。"
 
 #: src-en/data/text_misc.xml.append:29
 msgid ""
@@ -113,7 +112,7 @@ msgstr "完成该星舰2个成就。"
 #: src-en/data/text_misc.xml.append:32
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DRIFTER_unlock\"]"
-msgstr ""
+msgstr "解锁任意2艘猎手级舰船。"
 
 #: src-en/data/text_misc.xml.append:33
 msgid ""
@@ -162,14 +161,13 @@ msgstr "使用铁血维和星舰抵达第 5 星区，即可解锁本舰船。"
 
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_SILAS_unlock\"]"
-msgstr ""
+msgstr "就某件神器向某位人类科学家咨询意见，以解锁此舰船。"
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_HORUS_unlock\"]"
-msgstr ""
+msgstr "就某件神器向某位人类外交官咨询意见，以解锁此舰船。"
 
 #: src-en/data/text_misc.xml.append:47
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"loot_og_dawn_1\"]"
 msgstr ""
 "战利品：新黎明劫掠\n"
@@ -179,22 +177,41 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:50
 msgid "data/text_misc.xml.append$//text[@name=\"loot_og_midnight_1\"]"
 msgstr ""
+"午夜烈阳战利品\n"
+"黑客对舱室持续增加2秒\n"
+"每次链式减少1秒冷却时间"
 
 #: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_slug_1\"]"
 msgstr ""
+"蛞蝓族战利品\n"
+"+1 系统伤害，+15 船员伤害\n"
+"+20% 破舱概率"
 
 #: src-en/data/text_misc.xml.append:57
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_clan_1\"]"
 msgstr ""
+"异种战利品\n"
+"被击中的船员眩晕3秒\n"
+"+120 追踪\n"
+"-0.5秒冷却时间"
 
 #: src-en/data/text_misc.xml.append:61
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_crystal_1\"]"
 msgstr ""
+"水晶战利品\n"
+"发射水晶地雷\n"
+"+120 追踪\n"
+"+1 弹丸\n"
+"+5秒冷却时间"
 
 #: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_federation_1\"]"
 msgstr ""
+"联邦战利品\n"
+"可锁定所有弹丸和无人机\n"
+"+2 充能次数\n"
+"-1秒冷却时间"
 
 #: src-en/data/text_misc.xml.append:72
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret\"]"
@@ -270,44 +287,43 @@ msgstr "自适应炮塔操控系统已安装"
 
 #: src-en/data/text_misc.xml.append:90
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_2\"]"
-msgstr ""
+msgstr "次级炮塔控制"
 
 #: src-en/data/text_misc.xml.append:91
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_2_installed\"]"
-msgstr ""
+msgstr "次级炮塔控制系统已安装"
 
 #: src-en/data/text_misc.xml.append:92
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single\"]"
-msgstr ""
+msgstr "先进炮塔控制"
 
 #: src-en/data/text_misc.xml.append:93
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single_installed\"]"
-msgstr "自适应炮塔操控系统已安装"
+msgstr "先进炮塔控制系统已安装"
 
 #: src-en/data/text_misc.xml.append:95
 msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser\"]"
-msgstr ""
+msgstr "系统均衡器"
 
 #: src-en/data/text_misc.xml.append:96
 msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser_installed\"]"
-msgstr ""
+msgstr "系统均衡器已安装"
 
 #: src-en/data/text_misc.xml.append:97
 msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_level\"]"
-msgstr ""
+msgstr "均衡并减少伤害：%d%%"
 
 #: src-en/data/text_misc.xml.append:98
 msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_button_hover\"]"
-msgstr ""
+msgstr "在选定的舰船系统间均衡伤害。"
 
 #: src-en/data/text_misc.xml.append:99
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_on\"]"
-msgstr ""
+msgstr "将被均衡。按下可将该系统从均衡中排除。"
 
 #: src-en/data/text_misc.xml.append:100
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_off\"]"
-msgstr ""
+msgstr "不会被均衡。按下可将该系统纳入均衡。"
