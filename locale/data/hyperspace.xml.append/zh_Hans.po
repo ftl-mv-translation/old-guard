@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-02 01:36+0000\n"
+"PO-Revision-Date: 2026-08-03 04:36+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datahyperspace-xml-append/zh_Hans/>\n"
@@ -238,7 +238,7 @@ msgstr "驾驶漂流者级舰船，让两个微型炮塔控制系统都以最高
 #: src-en/data/hyperspace.xml.append:665
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_2\"]/name"
-msgstr "魂灵族舰船"
+msgstr "幽灵舰船"
 
 #: src-en/data/hyperspace.xml.append:666
 msgid ""
@@ -369,7 +369,7 @@ msgstr "从新黎明战利品运输舰上获取战利品。"
 #: src-en/data/hyperspace.xml.append:1833
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_DAWN\"]/description"
-msgstr "从新黎明战利品运输舰上获取穿透激光 I。"
+msgstr "从新黎明战利品运输舰上获取穿刺激光 I。"
 
 #: src-en/data/hyperspace.xml.append:1835
 msgid ""
