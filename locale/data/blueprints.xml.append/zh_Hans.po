@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-02 01:36+0000\n"
+"PO-Revision-Date: 2026-08-03 04:36+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datablueprintsxmlappend/zh_Hans/>\n"
@@ -710,7 +710,7 @@ msgstr ""
 "[微型激光炮塔]\n"
 "[轻型激光炮塔]\n"
 "[微型离子炮塔]\n"
-"[微型针刺光点炮塔]"
+"[微型光点炮塔]"
 
 #: src-en/data/blueprints.xml.append:691
 msgid ""
@@ -869,12 +869,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:905
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/title"
-msgstr "穿透激光炮塔"
+msgstr "穿刺激光炮塔"
 
 #: src-en/data/blueprints.xml.append:906
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/short"
-msgstr "穿透激光。"
+msgstr "穿刺激光。"
 
 #: src-en/data/blueprints.xml.append:907
 msgid ""
@@ -1207,12 +1207,12 @@ msgstr "这种武器使用来自兰花母星的巨型植物果核作为弹药。
 #: src-en/data/blueprints.xml.append:1375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/title"
-msgstr "太阳果核炮塔"
+msgstr "日光果核炮塔"
 
 #: src-en/data/blueprints.xml.append:1376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/short"
-msgstr "太阳果核。"
+msgstr "日光果核。"
 
 #: src-en/data/blueprints.xml.append:1377
 msgid ""
@@ -1239,7 +1239,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1416
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/title"
-msgstr "日光果核炮塔"
+msgstr "精英日光果核炮塔"
 
 #: src-en/data/blueprints.xml.append:1417
 msgid ""
@@ -1376,12 +1376,12 @@ msgstr "这款激光炮塔虽难以独自应对敌舰，但其高旋转速度使
 #: src-en/data/blueprints.xml.append:1613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/title"
-msgstr "微型离子激光炮塔"
+msgstr "微型老旧激光炮塔"
 
 #: src-en/data/blueprints.xml.append:1614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/short"
-msgstr "微型离子激光。"
+msgstr "微型老旧激光。"
 
 #: src-en/data/blueprints.xml.append:1615
 msgid ""
@@ -3214,7 +3214,7 @@ msgstr "[基础冷却：20] 发射一束集中的辐射光束穿透敌舰，伤�
 #: src-en/data/blueprints.xml.append:7378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/title"
-msgstr "穿透激光I"
+msgstr "穿刺激光I"
 
 #: src-en/data/blueprints.xml.append:7379
 msgid ""
