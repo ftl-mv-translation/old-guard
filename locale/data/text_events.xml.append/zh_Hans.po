@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-02 01:36+0000\n"
+"PO-Revision-Date: 2026-08-03 04:36+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datatext_eventsxmlappend/zh_Hans/>\n"
@@ -87,7 +87,7 @@ msgstr "数据金库 [!]"
 
 #: src-en/data/text_events.xml.append:44
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_ghost\"]"
-msgstr "魂灵族 [!]"
+msgstr "幽灵 [!]"
 
 #: src-en/data/text_events.xml.append:46
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_neutron_station\"]"
