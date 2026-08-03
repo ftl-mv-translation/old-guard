@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-08-04 18:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -16,23 +16,32 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_loc\"]"
 msgstr ""
+"Координаты маяка окажутся в поле действия следующего импульса нейтронной "
+"звезды."
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_static_loc\"]"
 msgstr ""
+"Координаты маяка находятся в непосредственной близости от пульсара, поэтому "
+"он будет подвергаться воздействию нейтронного импульса."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_og_neutron_beam\"]"
 msgstr ""
+"Вы находитесь в зоне действия импульса нейтронной звезды. Излучение нанесет "
+"ущерб всем системам и экипажу на всем корабле. Экипаж будет защищен, пока "
+"находится в отсеках с работающими системами, которые поглощают ущерб вместо "
+"него."
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_og_triplet\"]"
 msgstr ""
+"Совет: оружие типа \"тройной\" производит две серии выстрелов подряд, а "
+"затем сбрасывается при третьей серии."
 
 #: src-en/data/text_misc.xml.append:10
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"ship_unlock_og_two_wins\"]"
-msgstr "Пройдите игру на любых двух типах из \\1, чтобы разблокировать \\2"
+msgstr "Разблокируйте любые два типа из \\1, чтобы разблокировать \\2"
 
 #: src-en/data/text_misc.xml.append:12
 msgid ""
@@ -55,10 +64,9 @@ msgstr ""
 "корабль."
 
 #: src-en/data/text_misc.xml.append:16
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_unlock\"]"
-msgstr "Пройдите игру на 2 любых кораблях класса \"Рейдер\"."
+msgstr "Разблокируйте любые 2 корабля класса \"Рейдер\"."
 
 #: src-en/data/text_misc.xml.append:17
 msgid ""
@@ -96,10 +104,9 @@ msgstr ""
 "корабль."
 
 #: src-en/data/text_misc.xml.append:24
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_unlock\"]"
-msgstr "Победите на любых 2 кораблях класса \"Острие\"."
+msgstr "Разблокируйте любые 2 корабля класса \"Острие\"."
 
 #: src-en/data/text_misc.xml.append:25
 msgid ""
@@ -119,6 +126,8 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_HUNTER_unlock\"]"
 msgstr ""
+"Отправиться на поиски таинственного корабля призраков в Зона отчуждения "
+"нейтронной звезды."
 
 #: src-en/data/text_misc.xml.append:29
 msgid ""
@@ -137,7 +146,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:32
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DRIFTER_unlock\"]"
-msgstr ""
+msgstr "Разблокируйте любые 2 корабля класса \"Охотник\"."
 
 #: src-en/data/text_misc.xml.append:33
 msgid ""
@@ -205,13 +214,16 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_SILAS_unlock\"]"
 msgstr ""
+"Посоветуйтесь с определенным человеком по поводу конкретного артефакта, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_HORUS_unlock\"]"
 msgstr ""
+"Посоветуйтесь с человеком-дипломатом по поводу конкретного артефакта, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:47
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"loot_og_dawn_1\"]"
 msgstr ""
 "ПРОТОТИП НОВОГО РАССВЕТА\n"
@@ -221,6 +233,9 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:50
 msgid "data/text_misc.xml.append$//text[@name=\"loot_og_midnight_1\"]"
 msgstr ""
+"ПРОТОТИП ПОЛУНОЧНОГО СОЛНЦА\n"
+"Хакеры наносят урон по отсекам в течение 2 секунд\n"
+"-1 секунда времени перезарядки за каждую цепь"
 
 #: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_slug_1\"]"
@@ -345,26 +360,29 @@ msgstr "Продвинутая Адаптивная система управл�
 
 #: src-en/data/text_misc.xml.append:95
 msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser\"]"
-msgstr ""
+msgstr "Системный эквалайзер"
 
 #: src-en/data/text_misc.xml.append:96
 msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser_installed\"]"
-msgstr ""
+msgstr "Системный эквалайзер установлен"
 
 #: src-en/data/text_misc.xml.append:97
 msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_level\"]"
-msgstr ""
+msgstr "Уравнивает и уменьшает урон на: %d%%"
 
 #: src-en/data/text_misc.xml.append:98
 msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_button_hover\"]"
-msgstr ""
+msgstr "Равномерно распределяет урон по выбранным системам корабля."
 
 #: src-en/data/text_misc.xml.append:99
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_on\"]"
 msgstr ""
+"Будет выполнено уравнивание. Нажмите, чтобы исключить систему из уравнивания."
 
 #: src-en/data/text_misc.xml.append:100
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_off\"]"
 msgstr ""
+"Не будет подвергаться уравниванию. Нажмите, чтобы включить систему в "
+"уравнивание."
