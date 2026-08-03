@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
+"PO-Revision-Date: 2026-08-04 18:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
@@ -307,25 +307,33 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:332
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_EQUALISER_PERFORMANCE\"]/title"
-msgstr ""
+msgstr "Улучшение эффективности"
 
 #: src-en/data/blueprints.xml.append:340
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/title"
-msgstr ""
+msgstr "Зарядный эквалайзер [В]"
 
 #: src-en/data/blueprints.xml.append:341
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/desc"
 msgstr ""
+"Время перезарядки Системного эквалайзера сокращается на 50%.\n"
+"    \n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но "
+"занимает слот модуля. Может быть бесплатно конвертировано во внутреннюю "
+"версию Системного эквалайзера."
 
 #: src-en/data/blueprints.xml.append:351
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/title"
-msgstr ""
+msgstr "Системный эквалайзер"
 
 #: src-en/data/blueprints.xml.append:352
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/desc"
 msgstr ""
+"Активация уравновешивает повреждения систем, перераспределяя урон между "
+"всеми выбранными системами; время перезарядки 20 секунд. Улучшение позволяет "
+"этой системе также снижать общий урон, наносимый кораблю."
 
 #: src-en/data/blueprints.xml.append:367
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/desc"
@@ -367,11 +375,10 @@ msgid ""
 msgstr "Получает 0.6х урона от огня"
 
 #: src-en/data/blueprints.xml.append:403
-#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/desc"
 msgstr ""
-"Солдат Нового рассвета, оснащенный персональным устройством невидимости, "
-"заряд которого расходуется при выполнении действий.\n"
+"Элита людей. Солдат Нового рассвета, оснащенный персональным устройством "
+"невидимости, заряд которого расходуется при выполнении действий.\n"
 "\n"
 "\tНаследует характеристики людей: небольшое сопротивление удушью, быстрее "
 "изучает навыки"
@@ -402,31 +409,40 @@ msgstr "Получает 0.7x урона в бою с экипажем и 0.6x �
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/desc"
 msgstr ""
+"Суперэлитный человек. Оперативник Полуночного солнца, оснащенный миниатюрным "
+"хакерским устройством, способным периодически выводить систему из строя на "
+"протяжении всего боя.\n"
+"\n"
+"\tНаследует характеристики людей: небольшое сопротивление удушью"
 
 #: src-en/data/blueprints.xml.append:441
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/title"
-msgstr ""
+msgstr "Оперативник Полуночного солнца"
 
 #: src-en/data/blueprints.xml.append:442
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/short"
-msgstr ""
+msgstr "Оперативник"
 
 #: src-en/data/blueprints.xml.append:445
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Размещает в текущем помещении практически "
+"неуничтожимое хакерское устройство, которое будет неоднократно взламывать "
+"систему в этом помещении до конца боя; не может воздействовать на оружие, "
+"дроны или щиты."
 
 #: src-en/data/blueprints.xml.append:446
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[2]"
-msgstr ""
+msgstr "Наносит 1.5х урона экипажу"
 
 #: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[3]"
-msgstr ""
+msgstr "1.5х скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:448
 msgid ""
@@ -436,7 +452,7 @@ msgstr "Получает 0.7x урона в бою с экипажем и 0.6x �
 #: src-en/data/blueprints.xml.append:449
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[5]"
-msgstr ""
+msgstr "Обучен навыкам 2-го уровня"
 
 #: src-en/data/blueprints.xml.append:453
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/desc"
@@ -971,12 +987,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1010
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/title"
-msgstr ""
+msgstr "Тройная лазерная турель"
 
 #: src-en/data/blueprints.xml.append:1011
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/short"
-msgstr ""
+msgstr "Трой. лаз."
 
 #: src-en/data/blueprints.xml.append:1012
 msgid ""
@@ -3347,12 +3363,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/title"
-msgstr ""
+msgstr "Тройной лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:7418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/short"
-msgstr ""
+msgstr "Тройной II"
 
 #: src-en/data/blueprints.xml.append:7420
 msgid ""
@@ -3364,32 +3380,38 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7462
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/title"
-msgstr ""
+msgstr "Тройной лазер мод. I"
 
 #: src-en/data/blueprints.xml.append:7463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/short"
-msgstr ""
+msgstr "Тройной I"
 
 #: src-en/data/blueprints.xml.append:7465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/desc"
 msgstr ""
+"Лазерное оружие, которое быстро накапливает цепи, но после выстрела "
+"последней серии при максимальной длине цепи возвращается в состояние без "
+"цепи."
 
 #: src-en/data/blueprints.xml.append:7505
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/title"
-msgstr ""
+msgstr "Тройной лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:7506
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/short"
-msgstr ""
+msgstr "Тройной II"
 
 #: src-en/data/blueprints.xml.append:7508
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/desc"
 msgstr ""
+"Лазерное оружие, которое быстро накапливает цепи, но после выстрела "
+"последней серии при максимальной длине цепи возвращается в состояние без "
+"цепи."
 
 #: src-en/data/blueprints.xml.append:7551
 msgid ""
