@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-30 10:36+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-08-04 18:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datatext_eventsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -51,6 +51,17 @@ msgstr ""
 #: src-en/data/text_events.xml.append:27
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_neutron\"]"
 msgstr ""
+"Название: Зона отчуждения нейтронной звезды\n"
+"Тип: Нейтральный\n"
+"Уникальный: Да\n"
+"Доминирующая фракция: Железный дозор\n"
+"Уровень угрозы повстанцев: Высокий (нейтральный флот)\n"
+"Места, представляющие интерес: Станция исследования нейтронов\n"
+"\n"
+"Уровень безопасности в пространстве Железного дозора варьируется - здесь вы "
+"встретите самые разные группы. Железный дозор - это объединение "
+"исследователей, ученых и пиратов, которые отважились отправиться в "
+"неизведанное пространство - то ли из отчаяния, то ли из любопытства."
 
 #: src-en/data/text_events.xml.append:37
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_battlecruiser\"]"
@@ -82,7 +93,7 @@ msgstr "ПРИЗРАК [!]"
 
 #: src-en/data/text_events.xml.append:46
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_neutron_station\"]"
-msgstr ""
+msgstr "ИССЛЕДОВАТЕЛЬСКАЯ СТАНЦИЯ [!]"
 
 #: src-en/data/text_events.xml.append:48
 msgid ""
@@ -119,4 +130,4 @@ msgstr "Вы не можете дальше улучшать Управлени�
 #: src-en/data/text_events.xml.append:57
 msgid ""
 "data/text_events.xml.append$//text[@name=\"og_federation_base_diplomat_choice\"]"
-msgstr ""
+msgstr "(Дипломат Хорус) Доставить дипломата в штаб Федерации."
