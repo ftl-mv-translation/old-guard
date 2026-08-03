@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-04 18:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -22,14 +22,15 @@ msgstr ""
 "Вражеские турели вращаются на 100% быстрее."
 
 #: src-en/data/hyperspace.xml.append:156
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[2]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
-"ОТРАЖАЮЩЕЕ ПОКРЫТИЕ:\n"
-"Уменьшает урон от лучей, попадающих в этот корабль, в два раза, округляя в "
-"меньшую сторону, но не ниже 1."
+"Синхротронный барьер:\n"
+"Этот противник защищен от ионного урона и радиации. Вместо этого урон "
+"поглощается системой двигателей в качестве урона системе; у этого противника "
+"повышен максимальный уровень двигателей, но снижена способность уклонения на "
+"10%."
 
 #: src-en/data/hyperspace.xml.append:161
 msgid ""
@@ -212,72 +213,84 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:602
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_1\"]/name"
-msgstr ""
+msgstr "Беззвучные клыки"
 
 #: src-en/data/hyperspace.xml.append:603
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_1\"]/description"
 msgstr ""
+"Выиграйте сражение, не открыв огонь из оружия, турели или дрона по "
+"вражескому кораблю, управляя кораблем класса \"Охотник\"."
 
 #: src-en/data/hyperspace.xml.append:608
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_2\"]/name"
-msgstr ""
+msgstr "Изолированный"
 
 #: src-en/data/hyperspace.xml.append:609
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_2\"]/description"
 msgstr ""
+"На корабле класса \"Охотник\": не допускайте получения ионного урона по "
+"щитам, двигателям, турелям, оружию или дронам в течение всего сектора."
 
 #: src-en/data/hyperspace.xml.append:614
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_3\"]/name"
-msgstr ""
+msgstr "Экстерминатор"
 
 #: src-en/data/hyperspace.xml.append:615
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_3\"]/description"
 msgstr ""
+"На корабле класса \"Охотник\": уничтожьте исследовательскую станцию "
+"Железного дозора до завершения рейда в Зоне отчуждения нейтронной звезды."
 
 #: src-en/data/hyperspace.xml.append:659
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_1\"]/name"
-msgstr ""
+msgstr "Все на палубу"
 
 #: src-en/data/hyperspace.xml.append:660
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_1\"]/description"
 msgstr ""
+"На корабле класса \"Дрифтер\": обе системы управления микротурелями должны "
+"быть укомплектованы экипажем на максимальном уровне."
 
 #: src-en/data/hyperspace.xml.append:665
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_2\"]/name"
-msgstr ""
+msgstr "Корабль-призрак"
 
 #: src-en/data/hyperspace.xml.append:666
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_2\"]/description"
 msgstr ""
+"На корабле класса \"Дрифтер\": выиграйте сражение, при этом все члены вашего "
+"экипажа должны остаться в живых и находиться на вражеском корабле."
 
 #: src-en/data/hyperspace.xml.append:671
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_3\"]/name"
-msgstr ""
+msgstr "Вооруженный до зубов"
 
 #: src-en/data/hyperspace.xml.append:672
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_3\"]/description"
 msgstr ""
+"На корабле класса \"Дрифтер\": улучшить все наступательные системы (оружие, "
+"дроны и турели) до максимальной мощности."
 
 #: src-en/data/hyperspace.xml.append:835
 msgid "data/hyperspace.xml.append$//unique_og_silas[@name=\"Dr. Silas\"]/@name"
-msgstr ""
+msgstr "Доктор Силас"
 
 #: src-en/data/hyperspace.xml.append:847
 msgid ""
 "data/hyperspace.xml.append$//unique_og_iron_diplomat[@name=\"Horus "
 "Weber\"]/@name"
-msgstr ""
+msgstr "Хорус Вебер"
 
 #: src-en/data/hyperspace.xml.append:1452
 msgid ""
@@ -302,31 +315,47 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1555
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"og_midnight_main_power\"]/buttonText"
-msgstr ""
+msgstr "ХАК"
 
 #: src-en/data/hyperspace.xml.append:1556
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"og_midnight_main_power\"]/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: ОТСУТСТВУЕТ]\n"
+"\t\t\t\tРазмещает в текущем помещении практически неуничтожимое хакерское "
+"устройство, которое будет неоднократно взламывать систему текущего помещения "
+"до конца боя.\n"
+"\t\t\t\tПри использовании телепортирует Оперативника обратно на его базовый "
+"корабль, если это возможно.\n"
+"\t\t\t\tНе может нацеливаться на оружие, дроны или щиты.\n"
+"\t\t\t\tВзлом длится 10 секунд.\n"
+"\t\t\t\tВремя перезарядки Дрона-взломщика составляет 20 секунд."
 
 #: src-en/data/hyperspace.xml.append:1621
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"OG_SILAS_DRONE\"]/buttonText"
-msgstr ""
+msgstr "ДРОН"
 
 #: src-en/data/hyperspace.xml.append:1622
 msgid "data/hyperspace.xml.append$//powerEffect[@name=\"OG_SILAS_DRONE\"]/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с  ДЛИТЕЛЬНОСТЬ: 10с]\n"
+"\t\t\t\tРазвертывает защитный дрон, способный наводиться на все типы "
+"снарядов и дронов; уничтожает снаряды, но дроны лишь оглушает."
 
 #: src-en/data/hyperspace.xml.append:1680
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_og_iron_diplomat\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПАНИКА"
 
 #: src-en/data/hyperspace.xml.append:1681
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_og_iron_diplomat\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 5с  ДЛИТЕЛЬНОСТЬ: 20с]\n"
+"\t\t\t\tСтановится управляемым, способным вести бой, осуществлять ремонт и "
+"обслуживать системы на обычном уровне.\n"
+"\t\t\t\tАктивируется при уровне здоровья ниже 25."
 
 #: src-en/data/hyperspace.xml.append:1791
 msgid ""
@@ -345,12 +374,12 @@ msgstr "Новый рассвет"
 #: src-en/data/hyperspace.xml.append:1811
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_IRON_NEUTRON\"]/name"
-msgstr ""
+msgstr "Зона отчуждения"
 
 #: src-en/data/hyperspace.xml.append:1820
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_OG_IRON_NEUTRON_IRRADIATED\"]/name"
-msgstr ""
+msgstr "Облученный"
 
 #: src-en/data/hyperspace.xml.append:1829
 msgid ""
@@ -382,17 +411,17 @@ msgstr "Прототип получен"
 #: src-en/data/hyperspace.xml.append:1839
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_MIDNIGHT\"]/name"
-msgstr ""
+msgstr "Транспортник Полуночного солнца"
 
 #: src-en/data/hyperspace.xml.append:1840
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_MIDNIGHT\"]/secretDescription"
-msgstr ""
+msgstr "Получите прототип из транспортника Полуночного солнца."
 
 #: src-en/data/hyperspace.xml.append:1841
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_OG_MIDNIGHT\"]/description"
-msgstr ""
+msgstr "Получите Тройной лазер мод. II из транспортника Полуночного солнца."
 
 #: src-en/data/hyperspace.xml.append:1843
 msgid ""
