@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-04 18:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -202,7 +202,7 @@ msgstr "Управление турелью."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Системный эквалайзер."
 
 #: src-en/data/events_special_storage.xml.append:179
 msgid ""
@@ -568,24 +568,26 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_OG_EQUALISER_BOOSTER\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Улучшение эффективности. [НЕДОСТУПНО: Вы установили максимальное количество "
+"улучшений этого типа]"
 
 #: src-en/data/events_special_storage.xml.append:495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_OG_EQUALISER_BOOSTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Улучшение эффективности. [Цена: 35~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_BATTERY_GENERATOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Аварийный генератор. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:503
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_BATTERY_GENERATOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Аварийный генератор. [Цена: 55~, 7{]"
 
 #: src-en/data/events_special_storage.xml.append:507
 msgid ""
@@ -596,12 +598,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение эффективности эквалайзера.\n"
+"\t[Эффекты: Время восстановления системного эквалайзера сокращается на 50%]"
 
 #: src-en/data/events_special_storage.xml.append:515
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/choice[@req=\"og_equaliser\"]/text"
-msgstr "Установить улучшение. [Цена: 35~, 3|]"
+msgstr "Установить улучшение. [Цена: 35~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:517
 msgid ""
@@ -637,13 +640,15 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/text"
 msgstr ""
+"Вы собираетесь установить Аварийный генератор.\n"
+"\t[Эффекты: Позволяет игнорировать затраты энергии и топлива на применение "
+"боевых модулей]"
 
 #: src-en/data/events_special_storage.xml.append:553
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"og_equaliser\""
 " and @lvl=\"2\"]/text"
-msgstr "Установить улучшение. [Цена: 35~, 3|]"
+msgstr "Установить улучшение. [Цена: 55~, 7|]"
 
 #: src-en/data/events_special_storage.xml.append:555
 msgid ""
@@ -661,7 +666,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"og_equaliser\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Вам нужен Системный эквалайзер 2-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:571
 msgid ""
