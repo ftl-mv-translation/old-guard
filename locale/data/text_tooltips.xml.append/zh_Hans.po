@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-02 01:36+0000\n"
+"PO-Revision-Date: 2026-08-03 04:36+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-old-guard/datatext_tooltipsxmlappend/zh_Hans/>\n"
@@ -256,7 +256,7 @@ msgstr "\\n链式效果：冷却时间减少 %d%%"
 #: src-en/data/text_tooltips.xml.append:62
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chainCap\"]"
-msgstr "\\n链式减益上限：%%d%%（%d 次链式）"
+msgstr "\\n链式减益上限：%d%%（%d 次链式）"
 
 #: src-en/data/text_tooltips.xml.append:63
 msgid ""
