@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
+"PO-Revision-Date: 2026-08-04 18:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_special_lightspeedxmlappend/ru/>\n"
@@ -53,20 +53,19 @@ msgstr "Перейти в сектор Нового рассвета."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Перейти в Зону отчуждения нейтронной звезды."
 
 #: src-en/data/events_special_lightspeed.xml.append:41
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Перейти в Зону отчуждения нейтронной звезды."
 
 #: src-en/data/events_special_lightspeed.xml.append:48
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[1]/text"
-msgstr "Перейти на передовую оперативную базу Нового рассвета."
+msgstr "Перейти в сектор Железного дозора."
 
 #: src-en/data/events_special_lightspeed.xml.append:52
 msgid ""
