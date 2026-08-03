@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-04 18:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_ironxml/ru/>\n"
 "Language: ru\n"
@@ -266,7 +266,6 @@ msgstr ""
 "пропустит вас через минуту\"."
 
 #: src-en/data/events_sector_og_iron.xml:196
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_WAVER\"]/event[3]/text"
 msgstr ""
@@ -393,7 +392,6 @@ msgid ""
 msgstr "Передумать и оставить сторожевой корабль в покое."
 
 #: src-en/data/events_sector_og_iron.xml:277
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/text"
 msgstr ""
@@ -471,11 +469,10 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_iron.xml:336
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_DOUBLE_OG_IRON\"]/text"
 msgstr ""
-"[РЕПУТАЦИЯ ПОВЫШЕНА - ЖЕЛЕЗНЫЙ ДОЗОР]\n"
+"[РЕПУТАЦИЯ ПОВЫШЕНА X2 - ЖЕЛЕЗНЫЙ ДОЗОР]\n"
 "\tВ глазах Железного дозора вы совершили доброе дело. Продолжайте "
 "действовать таким образом, и вы можете рассчитывать на поддержку Железного "
 "дозора и его союзников."
@@ -524,16 +521,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/text"
 msgstr ""
+"Вы прибыли к маяку дальнего действия. Когда ССД будет заряжен, вы сможете "
+"прыгнуть в следующий сектор.\n"
+"Станция Железного дозора защищает маяк от злоумышленников, а также "
+"контролирует движение судов, покидающих сектор."
 
 #: src-en/data/events_sector_og_iron.xml:384
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[@req=\"OG_IRON_FINISH_POSITIVE\"]/text"
-msgstr ""
+msgstr "(>1 репутация) Станция пытается связаться с вами."
 
 #: src-en/data/events_sector_og_iron.xml:388
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[@req=\"OG_IRON_FINISH_NEGATIVE\"]/text"
-msgstr ""
+msgstr "(<2 репутация) Станция вас игнорирует."
 
 #: src-en/data/events_sector_og_iron.xml:392
 msgid ""
@@ -554,6 +555,12 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/text"
 msgstr ""
+"\"Капитан. Новости о ваших действиях в пространстве Железного дозора быстро "
+"разнеслись, и высшее руководство впечатлено.\n"
+"Нам известно о вашем действующем соглашении с Федерацией относительно "
+"Восстания, и мы не намерены отвлекать вас от выполнения миссии.\n"
+"Однако у нас есть предложение, которое, как мы полагаем, отвечает как вашим, "
+"так и нашим интересам\"."
 
 #: src-en/data/events_sector_og_iron.xml:411
 msgid ""
@@ -564,6 +571,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/text"
 msgstr ""
+"\"Наши разведывательные службы выяснили, что Новый рассвет действует в "
+"координации с флотом повстанцев. Их целью является секретная крепость "
+"Железного дозора, расположенная глубоко в неизведанном космосе; мы полагаем, "
+"что их флот уже направляется туда\"."
 
 #: src-en/data/events_sector_og_iron.xml:415
 msgid ""
@@ -574,6 +585,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/text"
 msgstr ""
+"\"В связи с надвигающейся атакой адмирал Микари из флота Железного дозора "
+"лично обращается к вам с просьбой о помощи. Вместе у нас есть возможность "
+"нанести решающий удар по обоим нашим врагам в ходе одного сражения.\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\tВам предоставлен доступ к координатам сектора. Если вы решите "
+"отправиться туда, по прибытии к входному маяку найдите адмирала Микари. "
+"Удачи, капитан\"."
 
 #: src-en/data/events_sector_og_iron.xml:422
 msgid ""
@@ -739,10 +757,9 @@ msgstr ""
 "после себя след из обломков, которые вы собираете."
 
 #: src-en/data/events_sector_og_iron.xml:567
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/text"
-msgstr "Вокруг этой заправочной станции расположена обширная торговая площадка."
+msgstr "Рядом раскинулся большой рынок железного дозора."
 
 #: src-en/data/events_sector_og_iron.xml:570
 msgid ""
@@ -812,7 +829,6 @@ msgid ""
 msgstr "Просто отправиться в магазин."
 
 #: src-en/data/events_sector_og_iron.xml:643
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/text"
 msgstr ""
@@ -830,15 +846,15 @@ msgid ""
 msgstr "Продолжить слушать."
 
 #: src-en/data/events_sector_og_iron.xml:649
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/text"
 msgstr ""
 "В конце концов, гнев капитана достигает апогея, и он приказывает выбросить "
 "предполагаемую турель через шлюз. \"Я хочу, чтобы она исчезла из виду, "
 "УБИРАЕМСЯ ОТСЮДА!\" С этими словами корабль Железного дозора улетает прочь. "
-"Теперь у вас есть время, чтобы поднять на борт \"турель\" и осмотреть ее "
-"самостоятельно. Оказывается, это был простой защитный дрон."
+"Теперь, когда вы остались одни, у вас появилось время поднять \"турель\" и "
+"самостоятельно ее осмотреть - оказалось, что это был всего лишь простой "
+"защитный дрон."
 
 #: src-en/data/events_sector_og_iron.xml:653
 msgid ""
@@ -1278,7 +1294,6 @@ msgid ""
 msgstr "Вежливо отказаться."
 
 #: src-en/data/events_sector_og_iron.xml:999
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/text"
 msgstr ""
@@ -1311,7 +1326,6 @@ msgid ""
 msgstr "Атаковать корабль, чтобы завладеть обломками."
 
 #: src-en/data/events_sector_og_iron.xml:1019
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/text"
 msgstr ""
@@ -1359,7 +1373,6 @@ msgid ""
 msgstr "Атаковать корабль, чтобы завладеть обломками."
 
 #: src-en/data/events_sector_og_iron.xml:1048
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/text"
 msgstr ""
@@ -1465,7 +1478,6 @@ msgstr ""
 "благодарят вас за спасение."
 
 #: src-en/data/events_sector_og_iron.xml:1151
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/text"
 msgstr "Воспользоваться их уязвимой позицией и атаковать их."
@@ -1570,7 +1582,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_iron.xml:1224
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/text"
 msgstr "Извиниться и сказать, что ничем не можете помочь."
@@ -1702,7 +1713,6 @@ msgid ""
 msgstr "Исследовать."
 
 #: src-en/data/events_sector_og_iron.xml:1314
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/text"
 msgstr ""
@@ -1867,7 +1877,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_iron.xml:1421
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/choice/event/text"
@@ -2091,7 +2100,6 @@ msgstr ""
 "корабля предупреждают вас о приближающемся корабле с раскаленными орудиями."
 
 #: src-en/data/events_sector_og_iron.xml:1603
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/text"
 msgstr ""
@@ -2106,7 +2114,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_iron.xml:1613
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/text"
 msgstr ""
@@ -2163,11 +2170,10 @@ msgstr ""
 " сделать."
 
 #: src-en/data/events_sector_og_iron.xml:1657
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/text"
-msgstr "(Негативная репутация) Спросить об корабле на аванпосте."
+msgstr "(Положительная репутация) Спросить об корабле на аванпосте."
 
 #: src-en/data/events_sector_og_iron.xml:1661
 msgid ""
@@ -2244,7 +2250,6 @@ msgid ""
 msgstr "Это могло бы изменить ваше решение?"
 
 #: src-en/data/events_sector_og_iron.xml:1715
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/text"
 msgstr ""
@@ -2257,7 +2262,6 @@ msgid ""
 msgstr "Предложить более крупную взятку."
 
 #: src-en/data/events_sector_og_iron.xml:1722
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -2311,7 +2315,6 @@ msgid ""
 msgstr "Предложить более крупную взятку."
 
 #: src-en/data/events_sector_og_iron.xml:1762
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
 msgstr ""
@@ -2560,7 +2563,6 @@ msgid ""
 msgstr "Ничего не делать."
 
 #: src-en/data/events_sector_og_iron.xml:1930
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
 msgstr ""
@@ -2576,7 +2578,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_iron.xml:1941
-#, fuzzy
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/text"
 msgstr ""
