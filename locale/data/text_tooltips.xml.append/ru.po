@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-04 18:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datatext_tooltipsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -14,12 +14,10 @@ msgstr ""
 "X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_tooltips.xml.append:2
-#, fuzzy
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
 msgstr "Совет: турели должны быть оснащены системой управления турелями."
 
 #: src-en/data/text_tooltips.xml.append:3
-#, fuzzy
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_mini\"]"
 msgstr ""
 "Совет: турели должны быть оснащены системой управления турелями. Микротурели "
@@ -153,10 +151,11 @@ msgstr "Управление турелью: питает вражескую т�
 #: src-en/data/text_tooltips.xml.append:28
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_equaliser\"]"
 msgstr ""
+"Системный эквалайзер: выравнивает урон, наносимый выбранным системам корабля."
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_equaliser_enemy\"]"
-msgstr ""
+msgstr "Системный эквалайзер: выравнивает урон, наносимый системам корабля."
 
 #: src-en/data/text_tooltips.xml.append:31
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret\"]"
@@ -205,7 +204,7 @@ msgstr "Временно снижает заряд вражеской турел
 
 #: src-en/data/text_tooltips.xml.append:42
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_equaliser\"]"
-msgstr ""
+msgstr "Не допускайте включения системы."
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_player\"]"
@@ -259,7 +258,7 @@ msgstr "СИСТЕМА ВЗЛОМАНА: ЗАРЯД ТУРЕЛИ ИСТОЩАЕ�
 
 #: src-en/data/text_tooltips.xml.append:55
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_equaliser_player\"]"
-msgstr ""
+msgstr "СИСТЕМА ВЗЛОМАНА: СИСТЕМА ЗАВИСЛА."
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_time\"]"
@@ -365,11 +364,15 @@ msgstr "\\nДлительность эффекта: %d сек."
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_neutron_damage\"]"
 msgstr ""
+"\\n"
+"Урон луча: %g в сек."
 
 #: src-en/data/text_tooltips.xml.append:83
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_neutron_duration\"]"
 msgstr ""
+"\\n"
+"Длительность луча: %.1f сек."
 
 #: src-en/data/text_tooltips.xml.append:85
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price\"]"
@@ -378,7 +381,7 @@ msgstr "\\n\\nПокупка: %d~   -   Продажа: %d~\\n"
 #: src-en/data/text_tooltips.xml.append:86
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price_short\"]"
-msgstr ""
+msgstr "\\n\\n%d~   -   %d~"
 
 #: src-en/data/text_tooltips.xml.append:88
 msgid ""
@@ -413,7 +416,7 @@ msgstr "\\nВремя перезарядки: %.1f/%.1f"
 
 #: src-en/data/text_tooltips.xml.append:97
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_none\"]"
-msgstr ""
+msgstr "Нет"
 
 #: src-en/data/text_tooltips.xml.append:98
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones\"]"
@@ -478,7 +481,6 @@ msgid ""
 msgstr "%s, необходимо:"
 
 #: src-en/data/text_tooltips.xml.append:112
-#, fuzzy
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_atleast\"]"
 msgstr "\\n  Как минимум %d:"
@@ -502,7 +504,6 @@ msgid ""
 msgstr "Неизвестная турель"
 
 #: src-en/data/text_tooltips.xml.append:118
-#, fuzzy
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_nevermind\"]"
 msgstr "Неважно."
@@ -580,12 +581,17 @@ msgstr "Клон"
 #: src-en/data/text_tooltips.xml.append:138
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_midnight_hacking_name\"]"
-msgstr ""
+msgstr "Дрон-взломщик"
 
 #: src-en/data/text_tooltips.xml.append:139
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_midnight_hacking_text\"]"
 msgstr ""
+"Дрон-взломщик\\n"
+"Удаляется при прыжке или при полном повреждении системы.\\n\\n"
+"Текущее время: %.1f сек.\\n"
+"Время перехарядки: %d сек.\\n"
+"Продолжительность взлома: %d сек."
 
 #: src-en/data/text_tooltips.xml.append:141
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_iron\"]"
@@ -643,7 +649,7 @@ msgstr "Иди и надери этим повстанцам задницы."
 #: src-en/data/text_tooltips.xml.append:153
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_chaingun_gold\"]"
-msgstr ""
+msgstr "Реплика знаменитого пулемета Гатлинга"
 
 #: src-en/data/text_tooltips.xml.append:155
 msgid ""
