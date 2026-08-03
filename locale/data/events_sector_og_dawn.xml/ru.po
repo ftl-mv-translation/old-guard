@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-04 18:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_dawnxml/ru/>\n"
 "Language: ru\n"
@@ -453,27 +453,24 @@ msgid ""
 msgstr "Ничего не делать."
 
 #: src-en/data/events_sector_og_dawn.xml:348
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[1]"
 msgstr ""
-"Капитан Железного дозора выкрикивает последнюю ругань, когда корабль "
+"Капитан Нового рассвета выкрикивает последнюю ругань, когда корабль "
 "разрушается."
 
 #: src-en/data/events_sector_og_dawn.xml:349
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[2]"
 msgstr ""
-"Корпус корабля Железного дозора разлетается по космосу. Вы мчитесь собирать "
+"Корпус корабля Нового рассвета разлетается по космосу. Вы мчитесь собирать "
 "обломки."
 
 #: src-en/data/events_sector_og_dawn.xml:350
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DESTROYED_OG_DAWN\"]/text[3]"
 msgstr ""
-"Корабль Железного дозора взрывается, уничтожая всех, кто находится внутри. "
+"Корабль Нового рассвета взрывается, уничтожая всех, кто находится внутри. "
 "Ваш экипаж обыскивает обломки, поднимая на борт самое ценное."
 
 #: src-en/data/events_sector_og_dawn.xml:351
@@ -491,50 +488,44 @@ msgstr ""
 "доказательство того, что Федерация ничем не лучше Восстания...\""
 
 #: src-en/data/events_sector_og_dawn.xml:360
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[2]"
 msgstr ""
-"Без единого слова капитан Железного дозора падает на землю, задыхаясь, а "
+"Без единого слова капитан Нового рассвета падает на землю, задыхаясь, а "
 "жизнь угасает в его глазах. Вы разбираете корпус его корабля."
 
 #: src-en/data/events_sector_og_dawn.xml:361
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_DAWN\"]/text[3]"
 msgstr ""
 "\"Ты об этом пожалеешь! Карма всегда настигает таких, как ты. Проклятые "
-"Ренегаты... Железному дозору было бы лучше с повстанцами...\""
+"Ренегаты... Новый рассвет...\" - он умирает, не успев договорить эту "
+"последнюю фразу."
 
 #: src-en/data/events_sector_og_dawn.xml:365
-#, fuzzy
 msgid "data/events_sector_og_dawn.xml$//event[@name=\"ESCAPE_OG_DAWN\"]/text"
 msgstr ""
-"Сканирование показывает, что корабль Железного дозора пытается сбежать. "
+"Сканирование показывает, что корабль Нового рассвета пытается сбежать. "
 "Уничтожьте его, пока он не успел уйти!"
 
 #: src-en/data/events_sector_og_dawn.xml:378
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[1]"
 msgstr ""
-"Судно Железного дозора выскользнуло из ваших рук, оставив вас наедине у "
-"маяка."
+"Судно Нового рассвета выскользнуло из ваших рук, оставив вас наедине у маяка."
 
 #: src-en/data/events_sector_og_dawn.xml:379
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//textList[@name=\"TEXT_GOTAWAY_OG_DAWN\"]/text[2]"
 msgstr ""
-"Ваши попытки уничтожить корабль Железного дозора не увенчались успехом, и "
+"Ваши попытки уничтожить корабль Нового рассвета не увенчались успехом, и "
 "корабль сбежал."
 
 #: src-en/data/events_sector_og_dawn.xml:382
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"GOTAWAY_OG_DAWN_REMAINS\"]/text"
 msgstr ""
-"Судно Железного дозора может и сбежало, но не все потеряно. Оно оставило "
+"Судно Нового рассвета может и сбежало, но не все потеряно. Оно оставило "
 "после себя след из обломков, которые вы собираете."
 
 #: src-en/data/events_sector_og_dawn.xml:433
@@ -653,7 +644,6 @@ msgid ""
 msgstr "Ничего не делать."
 
 #: src-en/data/events_sector_og_dawn.xml:506
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP\"]/text"
 msgstr ""
@@ -740,7 +730,6 @@ msgid ""
 msgstr "Угрожать, что вы сообщите о нем, если он снова не снизит цену."
 
 #: src-en/data/events_sector_og_dawn.xml:552
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_TURRET_COVERUP_THREATEN\"]/choice[2]/event/text"
 msgstr ""
@@ -826,7 +815,6 @@ msgid ""
 msgstr "Не обращать внимания и просто заняться покупками."
 
 #: src-en/data/events_sector_og_dawn.xml:624
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DEBRIS_FIELD\"]/text"
 msgstr ""
@@ -933,7 +921,6 @@ msgid ""
 msgstr "Связаться с транспортом."
 
 #: src-en/data/events_sector_og_dawn.xml:693
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_SUPPLIES_NEEDED\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/text"
@@ -1311,7 +1298,6 @@ msgid ""
 msgstr "Разобрать его на лом и припасы."
 
 #: src-en/data/events_sector_og_dawn.xml:914
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_OUTPOST_FLEET\"]/choice[4]/event/text"
 msgstr ""
@@ -1366,7 +1352,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_dawn.xml:991
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REBEL_DAWN_INFIGHT\"]/text"
 msgstr ""
@@ -1603,7 +1588,6 @@ msgid ""
 msgstr "Согласиться помочь."
 
 #: src-en/data/events_sector_og_dawn.xml:1129
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP_PULSAR\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
@@ -1795,7 +1779,6 @@ msgid ""
 msgstr "Согласиться на обмен."
 
 #: src-en/data/events_sector_og_dawn.xml:1235
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_NEUTRAL_SHIP\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"2\"]/event/choice[1]/event/text"
@@ -1968,7 +1951,6 @@ msgid ""
 msgstr "Исследовать место крушения."
 
 #: src-en/data/events_sector_og_dawn.xml:1361
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/text"
 msgstr ""
@@ -1984,7 +1966,6 @@ msgid ""
 msgstr "Связаться с кораблем."
 
 #: src-en/data/events_sector_og_dawn.xml:1366
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -2100,7 +2081,6 @@ msgid ""
 msgstr "Пора отправляться к аванпосту."
 
 #: src-en/data/events_sector_og_dawn.xml:1449
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_DISTRESS_ASTEROID_OUTPOST\"]/text"
 msgstr ""
@@ -2184,7 +2164,6 @@ msgid ""
 msgstr "Согласиться доставить груз."
 
 #: src-en/data/events_sector_og_dawn.xml:1510
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"3\"]/event/choice[1]/event/text"
@@ -2236,7 +2215,6 @@ msgid ""
 msgstr "Ничего не делать."
 
 #: src-en/data/events_sector_og_dawn.xml:1543
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/text"
@@ -2321,7 +2299,6 @@ msgid ""
 msgstr "(Грузовой контейнер) Показать его."
 
 #: src-en/data/events_sector_og_dawn.xml:1599
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/text"
 msgstr ""
@@ -2349,7 +2326,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_dawn.xml:1611
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/text"
 msgstr ""
@@ -2365,7 +2341,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_og_dawn.xml:1616
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_PREIGN_QUEST_DESTINATION\"]/choice[1]/event/choice[1]/event/choice[@req=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -2599,7 +2574,6 @@ msgid ""
 msgstr "Вы получали отчеты о кораблях Железного дозора поблизости."
 
 #: src-en/data/events_sector_og_dawn.xml:1858
-#, fuzzy
 msgid "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/text"
 msgstr ""
 "Вы прибыли к маяку и столкнулись с парой кораблей Железного дозора. Один из "
@@ -2737,11 +2711,10 @@ msgstr ""
 "немедленно приступают к защите."
 
 #: src-en/data/events_sector_og_dawn.xml:1920
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_START\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-99\"]/event/choice[1]/text"
-msgstr "Помочь Железному дозору."
+msgstr "Новый рассвет не примет вашу помощь."
 
 #: src-en/data/events_sector_og_dawn.xml:1924
 msgid ""
@@ -2862,7 +2835,6 @@ msgstr ""
 "победили ранее."
 
 #: src-en/data/events_sector_og_dawn.xml:2002
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_RUN_CONT\"]/choice[1]/event/text"
 msgstr ""
@@ -2905,11 +2877,10 @@ msgstr ""
 "состоянии, решает уйти в прыжок."
 
 #: src-en/data/events_sector_og_dawn.xml:2039
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_DAWN_RUN\"]/text"
 msgstr ""
-"Несмотря на сильный обстрел, корабль Железного дозора сумел активировать "
+"Несмотря на сильный обстрел, корабль Нового рассвета сумел активировать "
 "аварийный прыжок и ускользнул в пустоту как раз в тот момент, когда его "
 "системы начали выходить из строя."
 
@@ -2948,7 +2919,6 @@ msgid ""
 msgstr "Местонахождение секретной базы Железного дозора."
 
 #: src-en/data/events_sector_og_dawn.xml:2071
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/text"
 msgstr ""
@@ -2962,7 +2932,6 @@ msgid ""
 msgstr "Следовать за крейсером."
 
 #: src-en/data/events_sector_og_dawn.xml:2075
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/text"
 msgstr ""
@@ -2980,7 +2949,6 @@ msgid ""
 msgstr "Следовать за крейсером внутрь."
 
 #: src-en/data/events_sector_og_dawn.xml:2080
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[1]/event/choice/event/text"
 msgstr ""
@@ -3038,7 +3006,6 @@ msgstr ""
 "\"На самом деле, мы подумали и решили, что лучше избежать этого конфликта\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2114
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_DAWN\"]/choice[2]/event/text"
 msgstr ""
@@ -3140,7 +3107,6 @@ msgstr ""
 "рейда."
 
 #: src-en/data/events_sector_og_dawn.xml:2183
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/text"
 msgstr ""
@@ -3166,7 +3132,6 @@ msgid ""
 msgstr "\"Да, мы будем там\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2192
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[1]/event/choice/event/text"
 msgstr ""
@@ -3196,7 +3161,6 @@ msgstr ""
 "\"На самом деле, мы подумали и решили, что лучше избежать этого конфликта\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2212
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_QUEST_IRON\"]/choice[2]/event/text"
 msgstr ""
@@ -3215,7 +3179,6 @@ msgid ""
 msgstr "Ничего не делать."
 
 #: src-en/data/events_sector_og_dawn.xml:2227
-#, fuzzy
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_HEIST_IRON_FAIL\"]/text"
 msgstr ""
@@ -3375,31 +3338,40 @@ msgstr ""
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/text"
 msgstr ""
+"Здесь вы обнаруживаете крупное поселение Нового рассвета, а на орбите "
+"планеты расположено несколько станций. Магазин привлекает ваше внимание и "
+"сначала фиксируется сенсора благодаря излучаемому им сигналу, но рядом с ним "
+"находится крупный военный аванпост Нового рассвета, к которому пристыкованы "
+"несколько вооруженных кораблей."
 
 #: src-en/data/events_sector_og_dawn.xml:2333
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/choice[@req=\"OG_DAWN_NEUTRON_REROUTE_INITIATE\"]/text"
 msgstr ""
+"Вы узнаете корабль Нового рассвета, с которым встретились в секторе "
+"Железного дозора."
 
 #: src-en/data/events_sector_og_dawn.xml:2337
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/choice[@req=\"OG_DAWN_NEUTRON_REROUTE_FRIENDLY\"]/text"
-msgstr ""
+msgstr "(Положительная репутация) Оплатить вход на аванпост."
 
 #: src-en/data/events_sector_og_dawn.xml:2341
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/choice[@req=\"OG_DAWN_NEUTRON_REROUTE_NEGATIVE\"]/text"
-msgstr ""
+msgstr "(Отрицательная/нейтральная репутация) Аванпост не пропустит вас."
 
 #: src-en/data/events_sector_og_dawn.xml:2345
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_NEUTRON\"]/choice[4]/text"
-msgstr ""
+msgstr "Просто посмотреть, что есть в магазине."
 
 #: src-en/data/events_sector_og_dawn.xml:2347
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"STOREEVENT_OG_DAWN_REROUTE_STORE_REAL\"]/text"
 msgstr ""
+"Пока вы здесь, у вас есть немного времени, чтобы чем-нибудь заняться на "
+"борту своего корабля."
 
 #: src-en/data/events_sector_og_dawn.xml:2350
 msgid ""
@@ -3415,6 +3387,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_INITIATE\"]/text"
 msgstr ""
+"Вы входите в зону отдыха, где находятся несколько офицеров Нового рассвета. "
+"Один из них узнает вас: \"А, капитан, вижу, вы благополучно добрались сюда. "
+"Я как раз надеялся с вами поговорить, если у вас есть минутка\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2364
 msgid ""
@@ -3425,6 +3400,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_FRIENDLY\"]/text"
 msgstr ""
+"Вы входите в зону отдыха, где находятся несколько офицеров Нового рассвета. "
+"Один из них узнает вас: \"А, капитан, я слышал о ваших подвигах. Я как раз "
+"надеялся с вами поговорить, если у вас есть минутка\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2374
 msgid ""
@@ -3435,6 +3413,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_QUEST\"]/text"
 msgstr ""
+"\"Капитан. Новости о ваших действиях в космосе Нового Рассвета быстро "
+"разнеслись, и высшее руководство впечатлено.\n"
+"Мы знаем о вашем действующем соглашении с Федерацией и не намерены отвлекать "
+"вас с миссии.\n"
+"Однако, поскольку Железный Дозор не входит в состав Федерации, вам не должно "
+"составить труда помочь нам в борьбе с ними - разумеется, в обмен на крупную "
+"сумму денег\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2385
 msgid ""
@@ -3445,6 +3430,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_QUEST\"]/choice/event/text"
 msgstr ""
+"\"Наши разведывательные подразделения проводят операцию в секретной крепости "
+"Железного дозора, расположенной в глубине неизведанного космоса. В связи с "
+"этим Железный дозор обратился за поддержкой к своим союзникам в этом "
+"регионе\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2389
 msgid ""
@@ -3455,6 +3444,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_dawn.xml$//event[@name=\"OG_DAWN_REROUTE_STORE_QUEST\"]/choice/event/choice/event/text"
 msgstr ""
+"\"В связи с надвигающейся атакой и прибытием союзников в этот сектор вы "
+"сможете незаметно смешаться с окружающими. Как только вы окажетесь на месте, "
+"наши люди в секторе свяжутся с вами.\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\tВам предоставлен доступ к координатам сектора. Если вы решите "
+"отправиться туда, там вас будет ждать член Нового рассвета, готовый "
+"проинформировать вас о задании. Удачи, капитан\"."
 
 #: src-en/data/events_sector_og_dawn.xml:2397
 msgid ""
