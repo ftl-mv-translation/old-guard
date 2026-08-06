@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-04 18:36+0000\n"
+"PO-Revision-Date: 2026-08-07 07:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_neutronxml/ru/>\n"
@@ -17,6 +17,9 @@ msgstr ""
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/text"
 msgstr ""
+"Флот повстанцев захватил этот маяк, но столкнулся с сопротивлением со "
+"стороны сил Железного дозора. Пока вдали бушует сражение, один из кораблей "
+"элиты отрывается от основной группы, чтобы вступить с вами в бой."
 
 #: src-en/data/events_sector_og_neutron.xml:30
 msgid ""
@@ -26,17 +29,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_neutron.xml:34
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "(Продв. Двигатели) Попытаться сбежать от элиты."
 
 #: src-en/data/events_sector_og_neutron.xml:38
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "(Джерри) \"Привет!\""
 
 #: src-en/data/events_sector_og_neutron.xml:51
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/text"
 msgstr ""
+"Флот повстанцев захватил контроль над этим маяком, но столкнулся с "
+"сопротивлением со стороны сил Железного дозора. Пока вдали бушует сражение, "
+"один из кораблей асов МФК отрывается от основной группы, чтобы вступить с "
+"вами в бой."
 
 #: src-en/data/events_sector_og_neutron.xml:58
 msgid ""
@@ -46,12 +53,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_neutron.xml:62
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "(Продв. Двигатели) Попытаться сбежать от элиты."
 
 #: src-en/data/events_sector_og_neutron.xml:66
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "(Джерри) \"Привет!\""
 
 #: src-en/data/events_sector_og_neutron.xml:81
 msgid ""
@@ -101,6 +108,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_og_neutron.xml:123
 msgid "data/events_sector_og_neutron.xml$//event[@name=\"START_OG_NEUTRON\"]/text"
 msgstr ""
+"Прибытие к маяку приводит вас в самую гущу флота Железного дозора. Флот не "
+"обращает на вас никакого внимания; вы замечаете, что большинство кораблей "
+"заняты подготовкой к встрече с приближающимся флотом повстанцев, а "
+"инженерные корабли обслуживают ряд судов, проходящих ремонт.\n"
+"\n"
+"Ваши сенсоры улавливают в этом секторе мощный энергетический след - "
+"нейтронную звезду, видимую даже отсюда. Вы не понимаете, как Железному "
+"дозору удалось выжить вблизи такого объекта: если вас поразит ее луч, он "
+"наверняка разорвет ваш корабль на части."
 
 #: src-en/data/events_sector_og_neutron.xml:132
 msgid ""
@@ -118,6 +134,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/text"
 msgstr ""
+"Вас проводят через целую череду равнодушных офицеров, пока вы, наконец, не "
+"оказываетесь лицом к лицу с адмиралом Микари - тем самым адмиралом, который "
+"лично обратился к вам за помощью.\n"
+"\n"
+"\"Капитан, рад, что вы прибыли. Как вы, возможно, знаете, я - адмирал Микари "
+"из 4-го оборонительного флота. Пожалею вас от лишних формальностей и перейду "
+"сразу к делу.\n"
+"Когда я первоначально обращался к вам за помощью, я имел в виду, что вы "
+"будете сражаться бок о бок с нашим флотом. Флот повстанцев уже уничтожил "
+"несколько наших передовых аванпостов, и, честно говоря, нам очень пригодился "
+"бы еще один такой же боеспособный корабль, как ваш, на передовой\"."
 
 #: src-en/data/events_sector_og_neutron.xml:146
 msgid ""
@@ -128,6 +155,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/text"
 msgstr ""
+"\"План изменился. Два часа назад мы получили сигнал бедствия с нашей "
+"исследовательской базы, расположенной прямо рядом с нейтронной звездой, "
+"которую вы, возможно, заметили в этом секторе. Сигнал прервался, прежде чем "
+"мы успели четко понять, что происходит. Возможно, это просто сбой "
+"оборудования, но я опасаюсь худшего\".\n"
+"\t\t\t\n"
+"\"Я не могу снять ни один из своих кораблей с линии фронта, чтобы проверить "
+"источник сигнала, пока флот повстанцев находится так близко. Но эта "
+"исследовательская база - одна из главных причин, почему мы вообще здесь. Я "
+"не могу раскрыть подробности, но она имеет огромное значение, поэтому я не "
+"могу просто проигнорировать сигнал бедствия\"."
 
 #: src-en/data/events_sector_og_neutron.xml:152
 msgid ""
@@ -138,11 +176,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/choice/event/text"
 msgstr ""
+"\"И вот тут-то вы и пригодитесь, капитан. Мне нужно, чтобы вы расследовали "
+"сигнал бедствия и убедились, что с базой все в порядке. Если после этого "
+"останется время, мы будем благодарны за любую помощь, которую вы сможете "
+"оказать на передовой, но эта база - главный приоритет\".\n"
+"\n"
+"\"Удачи вам, капитан\"."
 
 #: src-en/data/events_sector_og_neutron.xml:158
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Запросить помощь."
 
 #: src-en/data/events_sector_og_neutron.xml:162
 msgid ""
@@ -158,46 +202,48 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/text"
 msgstr ""
+"Офицер соединяет вас по защищенной линии с одним из находящихся поблизости "
+"кораблей поддержки, который ожидает ваших приказов."
 
 #: src-en/data/events_sector_og_neutron.xml:177
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[1]/text"
-msgstr ""
+msgstr "Ремонт."
 
 #: src-en/data/events_sector_og_neutron.xml:179
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Для вашего ремонта отправляются несколько ремонтных дронов."
 
 #: src-en/data/events_sector_og_neutron.xml:184
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[2]/text"
-msgstr ""
+msgstr "Топливо."
 
 #: src-en/data/events_sector_og_neutron.xml:186
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Для дозаправки вашего корабля отправляется дрон-заправщик."
 
 #: src-en/data/events_sector_og_neutron.xml:193
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[3]/text"
-msgstr ""
+msgstr "Боеприпасы."
 
 #: src-en/data/events_sector_og_neutron.xml:195
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Для пополнения запасов вашего корабля отправляется транспортный дрон."
 
 #: src-en/data/events_sector_og_neutron.xml:202
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[4]/text"
-msgstr ""
+msgstr "Дрон-комплекты."
 
 #: src-en/data/events_sector_og_neutron.xml:204
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Для пополнения запасов вашего корабля отправляется транспортный дрон."
 
 #: src-en/data/events_sector_og_neutron.xml:214
 msgid ""
@@ -223,6 +269,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/text"
 msgstr ""
+"\"Их работа здесь привела к появлению множества новых технологий. Вы, "
+"возможно, заметили, что многие щиты Железного дозора оснащены защитными "
+"устройствами, предназначенными для защиты от излучения нейтронной звезды. "
+"Именно это нам и нужно. Нам удалось похитить или добыть множество "
+"экземпляров этих защитных устройств с кораблей Железного дозора, но этого "
+"недостаточно, чтобы оснастить ими кого-то, кроме наших разведчиков. Нам "
+"нужны схемы и чертежи этой технологии\"."
 
 #: src-en/data/events_sector_og_neutron.xml:222
 msgid ""
@@ -233,16 +286,26 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/text"
 msgstr ""
+"\"И вот тут-то вам и предстоит сыграть свою роль. Мы полагаем, что схемы "
+"этой технологии хранятся на оригинальной исследовательской станции, "
+"находящейся на орбите рядом с нейтронной звездой. Наши разведчики "
+"подготовили свой корабль к штурму станции, но в связи с приближением флота "
+"повстанцев охрана объекта была усилена. Нам нужно, чтобы вы отвлекли "
+"внимание охраны, что позволит нашим разведчикам подойти к объекту достаточно "
+"близко, чтобы начать штурм\"."
 
 #: src-en/data/events_sector_og_neutron.xml:226
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Согласиться на выполнение миссии."
 
 #: src-en/data/events_sector_og_neutron.xml:228
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Отлично, я вышлю координаты исследовательской базы - хотя ее и так "
+"несложно найти, ведь она находится на орбите нейтронной звезды. Наши агенты "
+"будут готовы к штурму, как только вы отвлечете охранников. Удачи\"."
 
 #: src-en/data/events_sector_og_neutron.xml:230
 msgid ""
@@ -257,12 +320,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_og_neutron.xml:240
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отказаться от миссии."
 
 #: src-en/data/events_sector_og_neutron.xml:242
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Ну, рейд состоится независимо от вашего участия. Я пришлю координаты "
+"исследовательской базы - хотя ее и так несложно найти. Если вы появитесь, "
+"будем считать, что вы с нами\"."
 
 #: src-en/data/events_sector_og_neutron.xml:244
 msgid ""
@@ -292,12 +358,12 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_og_neutron.xml:283
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_RESEARCH_STATION\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение исследовательской станции Железного дозора."
 
 #: src-en/data/events_sector_og_neutron.xml:296
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_RESEARCH_STATION_RETURN\"]/text"
-msgstr ""
+msgstr "У вас есть время, чтобы что-нибудь сделать на борту своего корабля."
 
 #: src-en/data/events_sector_og_neutron.xml:298
 msgid ""
@@ -325,6 +391,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_FINISHER\"]/deadCrew/text"
 msgstr ""
+"\"Ты об этом пожалеешь! Карма всегда настигает таких, как ты. Проклятые "
+"Ренегаты... Новый рассвет...\" - он умирает, не успев договорить эту "
+"последнюю фразу."
 
 #: src-en/data/events_sector_og_neutron.xml:326
 msgid ""
@@ -335,6 +404,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/text"
 msgstr ""
+"Исследовательская станция находится на орбите нейтронной звезды, достаточно "
+"близко к ней, чтобы излучение было неизбежным, поэтому лучше не "
+"задерживаться здесь слишком долго.\n"
+"\n"
+"Когда вы приближаетесь к станции и начинаете процедуру стыковки, сразу "
+"становится ясно, что что-то пошло не так: корпус станции испещрен "
+"повреждениями, а половина солнечных панелей полностью отсутствует."
 
 #: src-en/data/events_sector_og_neutron.xml:337
 msgid ""
@@ -345,6 +421,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/text"
 msgstr ""
+"Шлюз открывается в станцию; к счастью, эта часть осталась под давлением, "
+"несмотря на повреждения.\n"
+"Вы сразу же оказываетесь лицом к лицу с фигурой в белом халате ученого. \"Вы "
+"из Железного дозора? Ладно. Заходите побыстрее\"."
 
 #: src-en/data/events_sector_og_neutron.xml:342
 msgid ""
@@ -355,16 +435,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/text"
 msgstr ""
+"Вас проводят в ближайший конференц-зал, на большом экране поочередно "
+"мелькают различные изображения опасно выглядящего корабля, "
+"сконструированного по принципу стелс - наверное, именно он и атаковал "
+"станцию.\n"
+"\n"
+"\"На нас напали. Этот корабль\", - он указывает на изображение на экране, - "
+"\"не похож ни на что из того, что мы видели раньше\". Мы слышали рассказы о "
+"подобных \"кораблей-призраков\", но никто не воспринимал их всерьез. Мы едва "
+"успели его заметить - он прилетел со стороны нейтронной звезды, скрытый от "
+"наших сенсоров из-за излучения. Их защищал один из наших собственных "
+"Синхротронных барьеров, разработанный здесь, на этой станции, чтобы защищать "
+"наши корабли от излучения нейтронной звезды\"."
 
 #: src-en/data/events_sector_og_neutron.xml:348
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "По всей станции срабатывают сигналы тревоги."
 
 #: src-en/data/events_sector_og_neutron.xml:350
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"По всей станции раздаются громкие сигналы тревоги, а на экране на стене "
+"появляется изображение нового корабля, окрашенного в цвета Нового рассвета. "
+"Поскольку станция сейчас совершенно беззащитна, у вас есть единственное "
+"средство, способное помешать кораблю Нового рассвета завершить ее "
+"уничтожение. Вы мчитесь обратно к своему кораблю и отстыковываетесь от "
+"станции; теперь, лишившись защиты станции, вам предстоит выжить, противостоя "
+"как врагу, так и воздействию излучения."
 
 #: src-en/data/events_sector_og_neutron.xml:353
 msgid ""
@@ -375,6 +474,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/text"
 msgstr ""
+"Вы быстро возвращаетесь в безопасное пространство, защищенное Синхротронным "
+"барьером станции. Пристыковавшись к станции, вы направляетесь обратно в "
+"конференц-зал к ученому, который сейчас ходит по комнате взад-вперед.\n"
+"\n"
+"\"Это еще не конец. Стелс корабль, \"корабль-призрак\", как его некоторые "
+"называют, прилетел сюда не только для того, чтобы уничтожить нас. Нет, он "
+"прилетел, чтобы украсть наши запасы Синхротронных барьеров, но, что еще "
+"хуже, они похитили чертежи. Раньше им удавалось заполучить эти устройства "
+"только путем кражи с наших собственных кораблей, но теперь они могут начать "
+"производить их самостоятельно\"."
 
 #: src-en/data/events_sector_og_neutron.xml:369
 msgid ""
@@ -385,6 +494,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/text"
 msgstr ""
+"\"Однако хорошая новость заключается в том, что мы начали устанавливать "
+"устройства слежения в барьерах; мы должны суметь отследить те схемы, которые "
+"похитил сам \"корабль-призрак\", и, если мы будем действовать достаточно "
+"быстро, возможно, нам удастся не допустить вывоза схем за пределы "
+"сектора\".\n"
+"\n"
+"\"Я смиренно прошу вашей помощи в этом деле - нам нужно вернуть чертежи. "
+"Надеюсь, я не прошу слишком многого, но я хотел бы отправиться с вами; "
+"уверяю вас, я не буду мешать на борту корабля\"."
 
 #: src-en/data/events_sector_og_neutron.xml:375
 msgid ""
@@ -395,6 +513,16 @@ msgstr "Принять его на борт."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Я понял, что забыл представиться. Доктор Сайлас, к вашим услугам\".\n"
+"\"Еще один момент: эта станция пришла в негодность, и в таком близком "
+"расположении к нейтронной звезде ее уже невозможно отремонтировать. Если вам "
+"удастся эвакуировать всех на борт в безопасное место, мы сможем перенести на "
+"ваш корабль единственный оставшийся синхротронный барьер - тот, который "
+"сейчас подключен к станции\".\n"
+"\t\t\t\t\t\n"
+"Вам удается эвакуировать оставшийся персонал станции на свой корабль, после "
+"чего доктор Сайлас аккуратно перемещает Синхротронный барьер на ваш корабль "
+"и интегрирует его в систему Двигателей."
 
 #: src-en/data/events_sector_og_neutron.xml:386
 msgid ""
@@ -405,16 +533,29 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Вы можете доставить персонал станции на ближайший аванпост, а уходя, "
+"наблюдаете, как станция разрушается под полной силой излучения."
 
 #: src-en/data/events_sector_og_neutron.xml:394
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отказаться от предложения."
 
 #: src-en/data/events_sector_og_neutron.xml:396
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Тогда я останусь с остальным персоналом станции. Удачи вам в продолжении "
+"миссии, капитан\".\n"
+"\"Еще одно дело: эта станция пришла в негодность, ее невозможно "
+"отремонтировать в такой непосредственной близости от нейтронной звезды. Если "
+"вам удастся эвакуировать всех на борт в безопасное место, мы сможем "
+"перенести на ваш корабль единственный оставшийся Синхротронный барьер - тот, "
+"который сейчас подключен к станции\".\n"
+"\t\t\t\t\t\n"
+"Вам удается переправить оставшихся сотрудников станции на свой корабль, "
+"после чего ученый аккуратно перемещает Синхротронный барьер на ваш корабль и "
+"интегрирует его в систему Двигателей."
 
 #: src-en/data/events_sector_og_neutron.xml:404
 msgid ""
@@ -425,16 +566,23 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Вы можете доставить персонал станции на ближайший аванпост, а уходя, "
+"наблюдаете, как станция разрушается под полной силой излучения."
 
 #: src-en/data/events_sector_og_neutron.xml:426
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_IRON_QUEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Местонахождение \"корабля-призрака\" с похищенными Синхротронными барьерами."
 
 #: src-en/data/events_sector_og_neutron.xml:432
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_IRON_QUEST\"]/text"
 msgstr ""
+"Вы оказываетесь лицом к лицу с \"кораблем-призраком\" - вживую он выглядит "
+"еще более угрожающе. Изящный и вооруженный до зубов, он, несомненно, станет "
+"серьезным противником. У вас нет возможности избежать сражения, так как вы "
+"сразу же попадаете в зону досягаемости его оружия."
 
 #: src-en/data/events_sector_og_neutron.xml:434
 msgid ""
@@ -444,12 +592,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_neutron.xml:443
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_DAWN_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение судна Полуночного солнца, которое вас предало."
 
 #: src-en/data/events_sector_og_neutron.xml:449
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_DAWN_QUEST\"]/text"
 msgstr ""
+"Вы оказываетесь лицом к лицу с кораблем Полуночного солнца. Это изящный и "
+"вооруженный до зубов корабль обещает нелегкий бой. У вас нет возможности "
+"избежать сражения, так как вы сразу же попадаете в зону действия его оружия."
 
 #: src-en/data/events_sector_og_neutron.xml:451
 msgid ""
@@ -460,11 +611,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_MIDFIGHT_RESET\"]/text"
 msgstr ""
+"Вражеский корабль включает аварийные двигатели и устремляется прямо к "
+"пульсару. Когда вы пытаетесь броситься в погоню, пульсар выбрасывает на "
+"вашем пути гигантскую массу намагниченной плазмы и солнечных частиц, отрезая "
+"вам путь.\n"
+"\n"
+"Бортовые компьютеры рассчитывают, что, судя по траектории полета противника, "
+"примерно через 30 секунд его корабль снова окажется на вашей стороне "
+"пульсара."
 
 #: src-en/data/events_sector_og_neutron.xml:467
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_MIDFIGHT_RESET\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "За это время \"корабль-призрак\" обогнет пульсар и вернется в зону боя!"
 
 #: src-en/data/events_sector_og_neutron.xml:472
 msgid ""
@@ -480,6 +639,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DEADCREW\"]/loadEventList/event/text"
 msgstr ""
+"Последние члены экипажа наконец падают замертво - на этот раз действительно "
+"мертвые. Ряд отсеков на корабле заблокированы и бронированы; что бы там ни "
+"находилось, это, скорее всего, имеет важное значение."
 
 #: src-en/data/events_sector_og_neutron.xml:486
 msgid ""
@@ -497,6 +659,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DEADCREW_RESET\"]/text"
 msgstr ""
+"Как только вы подумали, что все уже позади, в рулевой рубке вражеского "
+"корабля с грохотом распахнулась серия люков, и на палубу неуклюже вывалилось "
+"несколько клонированных солдат."
 
 #: src-en/data/events_sector_og_neutron.xml:500
 msgid ""
@@ -507,6 +672,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_RESUME\"]/text"
 msgstr ""
+"Сражение возобновляется, однако на этот раз что-то изменилось: похоже, у них "
+"в недрах корабля было спрятано какое-то супероружие, и оно наконец-то "
+"заработало!"
 
 #: src-en/data/events_sector_og_neutron.xml:510
 msgid ""
@@ -517,6 +685,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DESTROYED\"]/text"
 msgstr ""
+"Корабль взрывается, разбрасывая обломки во все стороны; ваши сенсоры "
+"фиксируют несколько бронированных секций, уцелевших при взрыве; что бы в них "
+"ни находилось, скорее всего, это можно подобрать."
 
 #: src-en/data/events_sector_og_neutron.xml:519
 msgid ""
@@ -534,6 +705,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_SALVAGE_SILAS\"]/text"
 msgstr ""
+"Вы осматриваете бронированные отсеки; в большинстве из них ничего "
+"примечательного нет, однако в одном из них находится банк данных. Доктор "
+"Сайлас осматривает его: \"Ага, здесь есть схемы Синхротронного барьера, а "
+"также схема самого корабля. Я загружу их на ваш корабль, а затем уничтожу "
+"схемы барьера\". Проходит всего мгновение, и накопитель начинает визжать, а "
+"через мгновение он останавливается - сломанный."
 
 #: src-en/data/events_sector_og_neutron.xml:533
 msgid ""
@@ -544,6 +721,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_SALVAGE\"]/text"
 msgstr ""
+"Вы осматриваете бронированные отсеки: в большинстве из них ничего "
+"примечательного нет, однако в одном из них находится банк данных. Беглый "
+"осмотр позволяет обнаружить как схему Синхротронного барьера, так и схему "
+"самого корабля. Вы копируете обе схемы на свой корабль, а затем уничтожаете "
+"банк данных."
 
 #: src-en/data/events_sector_og_neutron.xml:542
 msgid ""
@@ -554,6 +736,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_WEAPON\"]/text"
 msgstr ""
+"В конце концов вы натыкаетесь на то, что, судя по всему, является сердцем "
+"артиллерийского орудия; вам удается извлечь его из искореженной брони. Оно, "
+"похоже, частично исправно, но для его установки вам понадобятся детали от "
+"мощного оружия и слот для турели."
 
 #: src-en/data/events_sector_og_neutron.xml:550
 msgid ""
@@ -576,6 +762,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_IRON_RESEARCH_STATION\"]/deadCrew/text"
 msgstr ""
+"Последний из вооруженных сотрудников станции падает, погибнув. Вы "
+"возвращаетесь на свой корабль и ждете связи с Полуночным солнцем."
 
 #: src-en/data/events_sector_og_neutron.xml:571
 msgid ""
@@ -586,6 +774,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/text"
 msgstr ""
+"Исследовательская станция находится на орбите нейтронной звезды, достаточно "
+"близко к ней, чтобы излучение было неизбежным, поэтому лучше не "
+"задерживаться здесь слишком долго.\n"
+"\n"
+"Станция выглядит хорошо защищенной: на ней установлено несколько турелей и "
+"орудий; кроме того, она, по-видимому, защищена от излучения каким-то "
+"странным щитом, в основном фиолетового цвета, но светящимся ярко-синим там, "
+"где излучение наиболее сильное."
 
 #: src-en/data/events_sector_og_neutron.xml:583
 msgid ""
@@ -596,6 +792,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/text"
 msgstr ""
+"Не успело пройти и мгновения, как в вашем коммуникаторе раздался треск - "
+"поступил входящий сигнал. Сигнал передается узконаправленным лучом и "
+"зашифрован, ваши сенсоры не могут определить его источник.\n"
+"\n"
+"\"Так это тебя они и прислали. Надеюсь, ты достаточно хорош. Но хватит "
+"любезностей...\" Корабль отключает маскировку почти прямо над вами - это и "
+"есть источник сигнала. Он окрашен почти полностью в черный цвет, "
+"единственный цветной акцент - крошечный золотой эмблема в виде солнца возле "
+"рулевой рубки."
 
 #: src-en/data/events_sector_og_neutron.xml:589
 msgid ""
@@ -606,6 +811,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/text"
 msgstr ""
+"\"...Мы - разведчики Нового рассвета, или, как нас некоторые знают, "
+"Полуночное Солнце. Мы собираемся провести рейд на станцию, но нам нужно, "
+"чтобы вы отвлекли внимание охраны, чтобы мы смогли проникнуть достаточно "
+"близко и захватить нашу цель - чертежи Синхронизатора\".\n"
+"\n"
+"\"Когда начнете атаку, по возможности выведите из строя их системы защиты, "
+"но крайне важно, чтобы вы не уничтожили станцию. Для обеспечения выполнения "
+"миссии, мы отправим одного из наших членов экипажа, который будет "
+"контролировать вашу часть операции\"."
 
 #: src-en/data/events_sector_og_neutron.xml:595
 msgid ""
@@ -616,21 +830,31 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Оперативник Полуночного солнца прибывает с помощью телепортатора ближнего "
+"действия. После быстрого осмотра вашего корабля он занимает место в рулевой "
+"рубке, чтобы руководить атакой.\n"
+"\n"
+"Спустя всего несколько мгновений Оперативник получает зашифрованное "
+"сообщение, поворачивается к вам и говорит: \"Мы готовы, капитан, начнем по "
+"вашему сигналу\"."
 
 #: src-en/data/events_sector_og_neutron.xml:604
 msgid ""
 "data/events_sector_og_neutron.xml$//triggeredEvent[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN_MISSION\"]/triggeredEventBox/tooltip"
 msgstr ""
+"Выживите в бою со станцией до этого времени, не допустите ее уничтожения!"
 
 #: src-en/data/events_sector_og_neutron.xml:610
 msgid ""
 "data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Начать атаку."
 
 #: src-en/data/events_sector_og_neutron.xml:622
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_FAILED\"]/text"
 msgstr ""
+"\"Мы крайне разочарованы в вас, капитан. Больше не связывайтесь с нами\". С "
+"этими словами Полуночное солнце забрало свой экипаж и улетело."
 
 #: src-en/data/events_sector_og_neutron.xml:624
 msgid ""
@@ -642,7 +866,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_FAILED\"]/choice[@req=\"human_og_midnight\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "Возможно, вам стоило быть более осторожным, чтобы не разрушить станцию."
 
 #: src-en/data/events_sector_og_neutron.xml:634
 msgid ""
@@ -666,6 +890,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_SYNCHROTRON\"]/deadCrew/text"
 msgstr ""
+"\"Ты об этом пожалеешь! Карма всегда настигает таких, как ты. Проклятые "
+"Ренегаты... Новый рассвет...\" - он умирает, не успев договорить эту "
+"последнюю фразу."
 
 #: src-en/data/events_sector_og_neutron.xml:652
 msgid ""
@@ -676,21 +903,32 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_BARRIER_GET\"]/text"
 msgstr ""
+"Среди обломков корабля вы обнаруживаете уцелевший Синхротронный барьер. "
+"Изучив сканы устройства, вы сможете установить его на свой корабль."
 
 #: src-en/data/events_sector_og_neutron.xml:665
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/text"
 msgstr ""
+"Ваши сенсоры фиксируют, что корабль Полуночного солнца отстыковывается от "
+"станции и быстро уходит в безопасное место - похоже, ваша миссия здесь "
+"завершена. Вы сами начинаете отстыковываться от станции.\n"
+"\n"
+"Оперативник Полуночного солнца подбегает к вам: \"Что вы делаете, капитан? Я "
+"не получил сигнал, мы пока не должны отстыковываться\"."
 
 #: src-en/data/events_sector_og_neutron.xml:669
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/text"
-msgstr ""
+msgstr "Показать ему, что судно Полуночного солнца уже ушло в безопасное место."
 
 #: src-en/data/events_sector_og_neutron.xml:671
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/text"
 msgstr ""
+"\"Но тогда почему...\" - он замолчал; под шлемом не видно его лицо, но по "
+"его жестам создается впечатление, что что-то идет совсем не так. Похоже, он "
+"взаимодействует с какой-то внутренней системой своей брони."
 
 #: src-en/data/events_sector_og_neutron.xml:673
 msgid ""
@@ -701,6 +939,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/text"
 msgstr ""
+"Корабль Полуночного солнца начинает зарядку своего прыжкового двигателя: "
+"\"Мы надеялись, что станция сделает эту работу за нас, но вы, к сожалению, "
+"превзошли наши ожидания, капитан. До свидания\"."
 
 #: src-en/data/events_sector_og_neutron.xml:678
 msgid ""
@@ -711,6 +952,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Не успело пройти и мгновения, как из-под маскировки вышел новый корабль - на "
+"этот раз более традиционное судно Нового рассвета. Один из членов вашего "
+"экипажа обратился к вам: \"Капитан, тот корабль не отвечает на наши вызовы, "
+"сканирование показывает, что они готовят оружие к бою\".\n"
+"\n"
+"Оперативник, стоявший рядом с вами, замер. Когда он наконец заговорил, его "
+"голос прозвучал тихо: \"Об этом не было ни слова на том инструктаже, который "
+"я получил\"."
 
 #: src-en/data/events_sector_og_neutron.xml:685
 msgid ""
@@ -721,6 +970,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Агент поворачивается к вам, теперь слегка сгорбившись, по-видимому, "
+"отказавшись от того, что он пытался сделать ранее.\n"
+"\"Мне сказали, что это будет обычная операция по похищению. Зайти, "
+"скоординировать действия, уйти. Что с вами мы разберемся позже - будь то "
+"покупка вашего молчания или то, что мы сами заставим вас замолчать, - я не "
+"знаю. По-видимому, были другие планы, о которых я не знал. Я должен был "
+"догадаться, что все не будет так просто\"."
 
 #: src-en/data/events_sector_og_neutron.xml:690
 msgid ""
@@ -731,31 +987,38 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Я знаю, куда направится корабль Полуночного солнца. Неподалеку есть "
+"небольшой аванпост Полуночного солнца - именно там они будут выгружать "
+"барьеры и схемы. Если вы, как и я, жаждете мести, то нам нужно отправиться "
+"именно туда\".\n"
+"\n"
+"\"Я хотел бы официально присоединиться к вашей команде. Понятно, что среди "
+"Полуночного солнца мне больше нет места, а вы - мой лучший шанс отомстить\"."
 
 #: src-en/data/events_sector_og_neutron.xml:698
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Приготовиться к бою."
 
 #: src-en/data/events_sector_og_neutron.xml:719
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[1]"
 msgstr ""
+"Капитан Полуночного солнца выкрикивает последнее ругательство, когда корабль "
+"превращается в прах."
 
 #: src-en/data/events_sector_og_neutron.xml:720
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[2]"
 msgstr ""
-"Корпус корабля Железного дозора разлетается по космосу. Вы мчитесь собирать "
-"обломки."
+"Корпус корабля Полуночного солнца разлетается по космосу. Вы мчитесь "
+"собирать обломки."
 
 #: src-en/data/events_sector_og_neutron.xml:721
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[3]"
 msgstr ""
-"Корабль Железного дозора взрывается, уничтожая всех, кто находится внутри. "
+"Корабль Полуночного солнца взрывается, уничтожая всех, кто находится внутри. "
 "Ваш экипаж обыскивает обломки, поднимая на борт самое ценное."
 
 #: src-en/data/events_sector_og_neutron.xml:722
@@ -773,17 +1036,18 @@ msgstr ""
 "доказательство того, что Федерация ничем не лучше Восстания...\""
 
 #: src-en/data/events_sector_og_neutron.xml:731
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_MIDNIGHT\"]/text[2]"
 msgstr ""
-"Без единого слова капитан Железного дозора падает на землю, задыхаясь, а "
+"Без единого слова капитан Полуночного солнца падает на землю, задыхаясь, а "
 "жизнь угасает в его глазах. Вы разбираете корпус его корабля."
 
 #: src-en/data/events_sector_og_neutron.xml:732
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_MIDNIGHT\"]/text[3]"
 msgstr ""
+"\"Вы об этом пожалеете! Карма всегда настигает таких, как вы. Черт бы вас "
+"побрал, Ренегаты...\""
 
 #: src-en/data/events_sector_og_neutron.xml:738
 msgid ""
@@ -858,29 +1122,30 @@ msgid ""
 msgstr "\"Возьмите все, что у нас есть, и давайте забудем, что здесь произошло\"."
 
 #: src-en/data/events_sector_og_neutron.xml:761
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"ESCAPE_OG_MIDNIGHT\"]/text"
 msgstr ""
-"Сканирование показывает, что корабль Железного дозора пытается сбежать. "
+"Сканирование показывает, что корабль Полуночного солнца пытается сбежать. "
 "Уничтожьте его, пока он не успел уйти!"
 
 #: src-en/data/events_sector_og_neutron.xml:774
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_MIDNIGHT\"]/text[1]"
 msgstr ""
+"Корабль Полуночного солнца ускользнул из ваших рук, оставив вас у маяка."
 
 #: src-en/data/events_sector_og_neutron.xml:775
 msgid ""
 "data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_MIDNIGHT\"]/text[2]"
 msgstr ""
+"Ваши попытки уничтожить корабль Полуночного солнца не увенчались успехом, и "
+"корабль ускользнул."
 
 #: src-en/data/events_sector_og_neutron.xml:778
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"GOTAWAY_OG_MIDNIGHT_REMAINS\"]/text"
 msgstr ""
-"Судно Железного дозора может и сбежало, но не все потеряно. Оно оставило "
+"Судно Полуночного солнца может и сбежало, но не все потеряно. Оно оставило "
 "после себя след из обломков, которые вы собираете."
 
 #: src-en/data/events_sector_og_neutron.xml:806
@@ -904,11 +1169,10 @@ msgid ""
 msgstr "Непосещенное место."
 
 #: src-en/data/events_sector_og_neutron.xml:821
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/text"
 msgstr ""
-"У этого маяка находится транспортный корабль Нового рассвета. Можно с "
+"У этого маяка находится транспортный корабль Полуночного солнца. Можно с "
 "уверенностью предположить, что на корабле находится какая-то особая техника. "
 "Если вы убьете его экипаж, груз будет вашим."
 
@@ -961,21 +1225,26 @@ msgstr ""
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/text"
 msgstr ""
+"Эта планета - одно из немногих поселений в системе - защищена невероятно "
+"плотной атмосферой, которая смягчает некоторые последствия радиации. Магазин "
+"расположен на поверхности планеты."
 
 #: src-en/data/events_sector_og_neutron.xml:866
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/text"
-msgstr ""
+msgstr "Спуститься на поверхность."
 
 #: src-en/data/events_sector_og_neutron.xml:868
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/event/text"
 msgstr ""
+"Из-за плотной атмосферы спуск на поверхность займет некоторое время, поэтому "
+"путешествие сюда в разгар нейтронной бури может оказаться затруднительным."
 
 #: src-en/data/events_sector_og_neutron.xml:871
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Время до вашего прибытия на поверхность планеты!"
 
 #: src-en/data/events_sector_og_neutron.xml:876
 msgid ""
@@ -985,7 +1254,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_neutron.xml:882
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на планету."
 
 #: src-en/data/events_sector_og_neutron.xml:884
 msgid ""
@@ -1006,6 +1275,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET_ARRIVE\"]/text"
 msgstr ""
+"Наконец-то вы попадаете на поверхность планеты и, прежде чем отправиться в "
+"магазин, делаете небольшую остановку, чтобы отдохнуть."
 
 #: src-en/data/events_sector_og_neutron.xml:900
 msgid ""
@@ -1031,16 +1302,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/text"
 msgstr ""
+"Судя по всему, сигнал бедствия исходит от небольшого аванпоста Железного "
+"дозора, подвергшегося нападению со стороны странного стелс-корабля!"
 
 #: src-en/data/events_sector_og_neutron.xml:935
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[1]/text"
-msgstr ""
+msgstr "Спасти магазин."
 
 #: src-en/data/events_sector_og_neutron.xml:937
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к бою."
 
 #: src-en/data/events_sector_og_neutron.xml:940
 msgid ""
@@ -1055,7 +1328,7 @@ msgstr "Не обращать внимания на аванпост."
 #: src-en/data/events_sector_og_neutron.xml:948
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "К счастью, на корабле никто не заметил вашего присутствия."
 
 #: src-en/data/events_sector_og_neutron.xml:950
 msgid ""
@@ -1071,6 +1344,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_WIN\"]/text"
 msgstr ""
+"Вы спасли магазин от нападавших. Владельцы магазина предлагают вам начать "
+"торговать."
 
 #: src-en/data/events_sector_og_neutron.xml:964
 msgid ""
@@ -1081,16 +1356,26 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/text"
 msgstr ""
+"У этого маяка дрейфует небольшой транспортный корабль; данные сенсоров "
+"показывают, что судно сильно повреждено и работает на минимальной мощности, "
+"необходимой для поддержания жизни двух человек, которые прижались друг к "
+"другу в кормовой части корабля."
 
 #: src-en/data/events_sector_og_neutron.xml:981
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[1]/text"
-msgstr ""
+msgstr "Пристыковаться и спасти их."
 
 #: src-en/data/events_sector_og_neutron.xml:983
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[1]/event/text"
 msgstr ""
+"Двое людей, находящихся внутри, явно потрясены, полуголодные и замерзшие. "
+"Они рассказывают, что едва выжили, оказавшись в эпицентре нейтронной бури, "
+"пронесшейся по этой местности.\n"
+"\n"
+"Они благодарны вам за помощь и предлагают вознаградить вас, как только вы "
+"доставите их в безопасное место, например, к выходному маяку или в магазин."
 
 #: src-en/data/events_sector_og_neutron.xml:988
 msgid ""
@@ -1111,6 +1396,10 @@ msgstr "Не обращать внимания на корабль."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[2]/event/text"
 msgstr ""
+"Вы покидаете корабль, и его экипаж остается беспомощно дрейфовать. Их "
+"сенсоры, как и большая часть остального оборудования корабля, вышли из "
+"строя, так что, по крайней мере, они не узнают, как близко они были к "
+"спасению."
 
 #: src-en/data/events_sector_og_neutron.xml:1002
 msgid ""
@@ -1126,21 +1415,32 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/text"
 msgstr ""
+"К сожалению, этот маяк установлен в непосредственной близости от крупного "
+"пульсара, а что еще хуже - он находится посреди астероидного поля.\n"
+"\n"
+"Единственный плюс заключается в том, что из-за высокой опасности этого места "
+"никому пока не удалось добыть ценные ресурсы в этом астероидном поле."
 
 #: src-en/data/events_sector_og_neutron.xml:1020
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"BEAM_MINING\"]/text"
 msgstr ""
+"(Горнодобывающее оборудование - 15с) Попытаться добыть полезные ископаемые "
+"из астероидов."
 
 #: src-en/data/events_sector_og_neutron.xml:1024
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_MINING_DRONE\"]/text"
 msgstr ""
+"(Шахтерский дрон - 15с) Попытаться добыть полезные ископаемые из астероидов. "
+"[-1|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1026
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_MINING_DRONE\"]/event/text"
 msgstr ""
+"Вы запускаете Шахтерский дрон, чтобы он начал вырезать породы в тех местах, "
+"до которых ваш корабль не может добраться."
 
 #: src-en/data/events_sector_og_neutron.xml:1031
 msgid ""
@@ -1151,16 +1451,22 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"SCRAP_COLLECTOR\"]/text"
 msgstr ""
+"(Кран для сбора лома - 30с) Попытаться добыть полезные ископаемые из "
+"астероидов."
 
 #: src-en/data/events_sector_og_neutron.xml:1041
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_BEAM_DRONE\"]/text"
 msgstr ""
+"(Лучевой дрон - 30с) Попытаться добыть полезные ископаемые из астероидов. [-"
+"1|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1043
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_BEAM_DRONE\"]/event/text"
 msgstr ""
+"Вы запускаете лучевой дрон, чтобы начать вырезать участки скал, до которых "
+"ваш корабль не может добраться."
 
 #: src-en/data/events_sector_og_neutron.xml:1048
 msgid ""
@@ -1171,31 +1477,37 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"BLUELIST_BEAMS_DAMAGE\"]/text"
 msgstr ""
+"(Оружие, наносящее урон лучами - 30с) Попытаться добыть полезные ископаемые "
+"из астероидов. [-1|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1058
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"MAGNET_ARM\"]/text"
 msgstr ""
+"(Магнитный кран - 45с) Попытаться добыть полезные ископаемые из астероидов."
 
 #: src-en/data/events_sector_og_neutron.xml:1062
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
 msgstr ""
+"(Член экипажа-Инженер - 45с) Попытаться добыть полезные ископаемые на "
+"астероидах. [-1|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1066
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[8]/text"
 msgstr ""
+"(Без оборудования - 60с) Попытаться добыть полезные ископаемые на астероидах."
 
 #: src-en/data/events_sector_og_neutron.xml:1070
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[9]/text"
-msgstr ""
+msgstr "Не обращать внимания на поле астероидов."
 
 #: src-en/data/events_sector_og_neutron.xml:1072
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[9]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку, чтобы сделать его как можно скорее."
 
 #: src-en/data/events_sector_og_neutron.xml:1074
 msgid ""
@@ -1211,11 +1523,13 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_60\"]/text"
 msgstr ""
+"Вы начинаете добычу на нескольких ближайших астероидах, где, по данным ваших "
+"сенсоров, имеются полезные минералы."
 
 #: src-en/data/events_sector_og_neutron.xml:1089
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_60\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Время, необходимое для добычи полезных ископаемых из астероида."
 
 #: src-en/data/events_sector_og_neutron.xml:1094
 msgid ""
@@ -1226,11 +1540,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_45\"]/text"
 msgstr ""
+"Вы начинаете добычу на нескольких ближайших астероидах, где, по данным ваших "
+"сенсоров, имеются полезные минералы."
 
 #: src-en/data/events_sector_og_neutron.xml:1103
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_45\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Время, необходимое для добычи полезных ископаемых из астероида."
 
 #: src-en/data/events_sector_og_neutron.xml:1108
 msgid ""
@@ -1241,11 +1557,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_30\"]/text"
 msgstr ""
+"Вы начинаете добычу на нескольких ближайших астероидах, где, по данным ваших "
+"сенсоров, имеются полезные минералы."
 
 #: src-en/data/events_sector_og_neutron.xml:1117
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_30\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Время, необходимое для добычи полезных ископаемых из астероида."
 
 #: src-en/data/events_sector_og_neutron.xml:1122
 msgid ""
@@ -1256,11 +1574,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_15\"]/text"
 msgstr ""
+"Вы начинаете добычу на нескольких ближайших астероидах, где, по данным ваших "
+"сенсоров, имеются полезные минералы."
 
 #: src-en/data/events_sector_og_neutron.xml:1131
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_15\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Время, необходимое для добычи полезных ископаемых из астероида."
 
 #: src-en/data/events_sector_og_neutron.xml:1136
 msgid ""
@@ -1271,11 +1591,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_FINISH\"]/text"
 msgstr ""
+"Вы тщательно добываете как можно больше пригодного к использованию сырья из "
+"ближайших астероидов."
 
 #: src-en/data/events_sector_og_neutron.xml:1158
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/text"
 msgstr ""
+"Вы наткнулись на обломки странного корабля. Похоже, это один из кораблей "
+"Нового рассвета, о которых вы слышали в этих краях."
 
 #: src-en/data/events_sector_og_neutron.xml:1160
 msgid ""
@@ -1286,6 +1610,8 @@ msgstr "Исследовать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/choice[1]/event/text"
 msgstr ""
+"Едва вы успеваете осмотреться, как корабль с грохотом запускается, и ваши "
+"сканеры показывают, что им управляют призраки!"
 
 #: src-en/data/events_sector_og_neutron.xml:1165
 msgid ""
@@ -1320,7 +1646,7 @@ msgstr "Принять их капитуляцию."
 #: src-en/data/events_sector_og_neutron.xml:1203
 msgid ""
 "data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_NEUTRON_PIRATE_MANTIS_LIFEBOAT\"]/surrender/choice[1]/event/text"
-msgstr ""
+msgstr "Они принимают плату."
 
 #: src-en/data/events_sector_og_neutron.xml:1207
 msgid ""
@@ -1346,36 +1672,48 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/text"
 msgstr ""
+"Вы прибываете к маяку и обнаруживаете пиратское судно, осматривающее, судя "
+"по всему, небольшую спасательную шлюпку - настолько маленькую, что она даже "
+"не оснащена ССД.\n"
+"\n"
+"Пираты передают сообщение по общедоступному каналу: \"Слушайте, ребята, 16 - "
+"это уже слишком, никто не хотел вас покупать, теперь у вас есть спасательная "
+"шлюпка, вы найдете себе занятие, я уверен. Удачи вам\". С этими словами "
+"пираты отстыковывают спасательную шлюпку."
 
 #: src-en/data/events_sector_og_neutron.xml:1248
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[1]/text"
-msgstr ""
+msgstr "Пусть пираты уйдут."
 
 #: src-en/data/events_sector_og_neutron.xml:1250
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/text"
 msgstr ""
+"Вы обращаете внимание на спасательную шлюпку, данные сканеров показывают... "
+"Это же не может быть правдой? 16 чертовых богомолов?"
 
 #: src-en/data/events_sector_og_neutron.xml:1252
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/choice[1]/text"
-msgstr ""
+msgstr "Предложить взять их на борт и доставить в безопасное место."
 
 #: src-en/data/events_sector_og_neutron.xml:1254
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/choice[1]/event/text"
 msgstr ""
+"Богомолы обещают, что будут вести себя хорошо, и говорят, что щедро "
+"вознаградят вас, если вы доставите их в безопасное место."
 
 #: src-en/data/events_sector_og_neutron.xml:1259
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/choice[2]/text"
-msgstr ""
+msgstr "Оставить их в покое."
 
 #: src-en/data/events_sector_og_neutron.xml:1265
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[2]/text"
-msgstr ""
+msgstr "Атаковать пиратов."
 
 #: src-en/data/events_sector_og_neutron.xml:1267
 msgid ""
@@ -1390,7 +1728,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_neutron.xml:1276
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[3]/text"
-msgstr ""
+msgstr "Не обращать внимания на пиратов и спасательную шлюпку."
 
 #: src-en/data/events_sector_og_neutron.xml:1278
 msgid ""
@@ -1411,16 +1749,25 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/text"
 msgstr ""
+"Вы прибываете к маяку, расположенному посреди астероидного поля. Судя по "
+"количеству обломков вокруг, это, по-видимому, популярное место.\n"
+"\n"
+"Неподалеку вы обнаруживаете корабль Железного дозора: судя по всему, они "
+"занимаются разборкой обломков в поисках чего-нибудь ценного и, похоже, не "
+"обращают на вас внимания."
 
 #: src-en/data/events_sector_og_neutron.xml:1297
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[1]/text"
-msgstr ""
+msgstr "Обыскать обломки."
 
 #: src-en/data/events_sector_og_neutron.xml:1299
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[1]/event/text"
 msgstr ""
+"Вы приступаете к извлечению ценностей из обломков, но не успеваете добыть "
+"ничего ценного, как мародеры из Железного дозора прерывает ваши усилия "
+"точным выстрелом из лазера."
 
 #: src-en/data/events_sector_og_neutron.xml:1303
 msgid ""
@@ -1430,12 +1777,14 @@ msgstr "Приготовиться к бою!"
 #: src-en/data/events_sector_og_neutron.xml:1309
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[2]/text"
-msgstr ""
+msgstr "Атаковать корабль."
 
 #: src-en/data/events_sector_og_neutron.xml:1311
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[2]/event/text"
 msgstr ""
+"Вы активируете оружие и начинаете атаку, но, видимо, они следили за вами и "
+"тоже активировали свое оружие."
 
 #: src-en/data/events_sector_og_neutron.xml:1314
 msgid ""
@@ -1466,71 +1815,82 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/text"
 msgstr ""
+"Прибыв к маяку, вы обнаруживаете корабль Железного дозора, обслуживающий "
+"небольшой спутник на орбите расположенного здесь пульсара. Похоже, они "
+"пытаются что-то починить на спутнике; вы можете разглядеть одного из членов "
+"их экипажа снаружи корабля."
 
 #: src-en/data/events_sector_og_neutron.xml:1340
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/text"
-msgstr ""
+msgstr "Связаться с кораблем."
 
 #: src-en/data/events_sector_og_neutron.xml:1342
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/text"
 msgstr ""
+"\"Здравствуйте, капитан. Не могли бы вы нам помочь? У нас, похоже, "
+"неисправность со спутником - уже несколько недель мы получаем только ложные "
+"данные. Не могли бы вы на него взглянуть?\""
 
 #: src-en/data/events_sector_og_neutron.xml:1344
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
 msgstr ""
+"(Член экипажа-Железный дозор) Попросить одного из членов вашего экипажа из "
+"числа Железного дозора взглянуть на него."
 
 #: src-en/data/events_sector_og_neutron.xml:1348
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Инженер) Пусть ваш Инженер его осмотрит."
 
 #: src-en/data/events_sector_og_neutron.xml:1352
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGI\"]/text"
-msgstr ""
+msgstr "(Член экипажа-энджи) Пусть ваш энджи его проверит."
 
 #: src-en/data/events_sector_og_neutron.xml:1356
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/text"
-msgstr ""
+msgstr "(Дрон-ремонтник) Запустить ремонтный дрон."
 
 #: src-en/data/events_sector_og_neutron.xml:1360
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_SABOTEUR\"]/text"
 msgstr ""
+"(Член экипажа-слизень Диверсант) Поручить своему слизню взломать спутник, "
+"чтобы выяснить причину сбоя."
 
 #: src-en/data/events_sector_og_neutron.xml:1364
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(Взломщик) Взломать спутник, чтобы выяснить причину сбоя."
 
 #: src-en/data/events_sector_og_neutron.xml:1368
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_LANIUS\"]/text"
-msgstr ""
+msgstr "(Член экипажа-ланиус) Пусть ваш ланиус взглянет на него."
 
 #: src-en/data/events_sector_og_neutron.xml:1372
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "(Продв. оружие) Попробовать провести обслуживание ударным методом."
 
 #: src-en/data/events_sector_og_neutron.xml:1376
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[9]/text"
-msgstr ""
+msgstr "Посмотреть самому."
 
 #: src-en/data/events_sector_og_neutron.xml:1380
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[10]/text"
-msgstr ""
+msgstr "Сказать, что вы не можете помочь."
 
 #: src-en/data/events_sector_og_neutron.xml:1382
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[10]/event/text"
-msgstr ""
+msgstr "\"Очень жаль, ну, в любом случае, спасибо, что выслушали нас\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1384
 msgid ""
@@ -1545,12 +1905,14 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_og_neutron.xml:1396
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[2]/text"
-msgstr ""
+msgstr "Атаковать корабль."
 
 #: src-en/data/events_sector_og_neutron.xml:1398
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[2]/event/text"
 msgstr ""
+"Вы активируете оружие и начинаете атаку, но, видимо, они следили за вами и "
+"тоже активировали свое оружие."
 
 #: src-en/data/events_sector_og_neutron.xml:1401
 msgid ""
@@ -1581,26 +1943,48 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_DETECTION\"]/text"
 msgstr ""
+"Вы выясняете причину сбоя: на спутнике была установлено прослушивающее "
+"устройство. Похоже, это была операция на самом высоком технологическом "
+"уровне - следы практически не осталось, но вам удалось восстановить часть "
+"удаленных данных: снимок темного стелс-корабля, улетающего от спутника. На "
+"борту можно разглядеть лишь едва заметный золотой знак, но больше ничего. "
+"\"Вау! Спасибо за помощь, мы обязательно доложим об этом по цепочке "
+"командования. Вы можете взять все припасы, которые мы можем выделить, "
+"спасибо\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1442
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_REPAIR\"]/text"
 msgstr ""
+"Вам удалось выяснить причину неисправности: оказывается, спутник "
+"прослушивали, кто-то пытался незаметно вывести его из строя, но, к "
+"сожалению, следов того, кто это сделал, не осталось. \"Вау, отличная работа! "
+"Вот, я настаиваю, чтобы вы взяли эти припасы в знак благодарности за помощь. "
+"Мы обязательно будем внимательнее следить за подобными случаями в будущем, "
+"пока виновный не будет найден\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1446
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_REPAIR_PARTIAL\"]/text"
 msgstr ""
+"Вы обнаружили несколько неисправностей, но ни одна из них не связана с "
+"данной поломкой. \"Спасибо за помощь, даже если мы, похоже, так и не "
+"приблизились к решению проблемы. Возьмите вот несколько мелочей в знак "
+"благодарности за то, что уделили нам время\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1450
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_NOHELP\"]/text"
 msgstr ""
+"\"Я ценю вашу попытку, но это явно ни к чему не приведет\". Они вежливо, но "
+"настойчиво возвращаются к тому, чтобы починить его самостоятельно."
 
 #: src-en/data/events_sector_og_neutron.xml:1453
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_FAILURE\"]/text"
 msgstr ""
+"\"Что ты наделал! Ты уничтожил спутник, о чем ты только думал! Хватит, ты за "
+"это заплатишь!\" С этими словами они активируют оружие и готовятся к бою!"
 
 #: src-en/data/events_sector_og_neutron.xml:1456
 msgid ""
@@ -1621,6 +2005,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/text"
 msgstr ""
+"Прибыв к месту сигнала бедствия, вы обнаруживаете, что источником сигнала "
+"является гражданский шаттл, а причиной их бедствия - корабль Нового "
+"рассвета, стремительно приближающийся к ним с готовым к бою оружием."
 
 #: src-en/data/events_sector_og_neutron.xml:1494
 msgid ""
@@ -1661,6 +2048,12 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/text"
 msgstr ""
+"Вы снова обращаете внимание на гражданский шаттл - его несложно обнаружить. "
+"Шаттл сильно поврежден, его уже невозможно отремонтировать, особенно здесь, "
+"в глуши.\n"
+"\n"
+"Пассажиры шаттла - двое людей - просят вас доставить их в ближайшую "
+"безопасную зону; они обещают щедро вознаградить вас по прибытии."
 
 #: src-en/data/events_sector_og_neutron.xml:1524
 msgid ""
@@ -1671,46 +2064,66 @@ msgstr "Принять его на борт."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/choice[1]/event/text"
 msgstr ""
+"Они поднимаются на борт и горячо обещают постараться не мешать и не "
+"вляпываться в неприятности."
 
 #: src-en/data/events_sector_og_neutron.xml:1531
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/choice[2]/text"
-msgstr ""
+msgstr "Оставить их на произвол судьбы."
 
 #: src-en/data/events_sector_og_neutron.xml:1539
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/text"
 msgstr ""
+"К вашему огорчению, сигнал бедствия исходит с явно пиратского судна. "
+"Результаты сканирования показывают, что оно повреждено - не настолько, чтобы "
+"его нельзя было отремонтировать, но повреждения достаточно серьезны, чтобы "
+"стать проблемой.\n"
+"\n"
+"Они сразу же связываются с вами по открытым каналам, вероятно, пытаясь "
+"опередить вас и не дать вам активировать оружие. \"Послушайте, капитан, я не "
+"буду с вами играть в игры. Я знаю, как мы выглядим - легкая мишень, верно?\""
 
 #: src-en/data/events_sector_og_neutron.xml:1543
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/text"
-msgstr ""
+msgstr "Выслушать их."
 
 #: src-en/data/events_sector_og_neutron.xml:1545
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/text"
 msgstr ""
+"\"Мы попали в луч той огромной звезды - ньютоновской звезды или как там ее "
+"называют - и это нас сильно подкосило, но у нас есть кое-что, что вам "
+"пригодится: подлинный образец технологии Нового Рассвета! Мы сами не смогли "
+"разобраться, как им пользоваться, но я уверен, что это ценная вещь - ведь "
+"именно из-за нее мы и застряли здесь\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1547
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[1]/text"
 msgstr ""
+"Купить \"технологию\" в обмен на детали, необходимые для ремонта их СДД "
+"привода. [35~, 3|]"
 
 #: src-en/data/events_sector_og_neutron.xml:1555
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы передаете им детали, а они присылают \"технологию\", которую ваш "
+"компьютер распознает как Предзажигатель турели."
 
 #: src-en/data/events_sector_og_neutron.xml:1559
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отказаться от предложения."
 
 #: src-en/data/events_sector_og_neutron.xml:1561
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Вы оставляете корабль на произвол судьбы и готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_neutron.xml:1563
 msgid ""
@@ -1741,6 +2154,7 @@ msgstr "Не обращать внимания на корабль."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[3]/event/text"
 msgstr ""
+"Вы оставляете корабль на произвол судьбы и готовитесь к следующему прыжку."
 
 #: src-en/data/events_sector_og_neutron.xml:1587
 msgid ""
@@ -1776,16 +2190,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/text"
 msgstr ""
+"Сигнал бедствия исходит от транспортного корабля Железного дозора, который "
+"получил серьезные повреждения, а из его двигателей вытекает темная жидкость. "
+"Турели транспортника с трудом отражают атаки другого судна, окрашенного "
+"почти полностью в черный цвет; судя по конструкции, это, по-видимому, стелс-"
+"корабль."
 
 #: src-en/data/events_sector_og_neutron.xml:1638
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[1]/text"
-msgstr ""
+msgstr "Помочь транспортнику."
 
 #: src-en/data/events_sector_og_neutron.xml:1640
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы активируете оружие и приступаете к защите транспортника."
 
 #: src-en/data/events_sector_og_neutron.xml:1643
 msgid ""
@@ -1795,12 +2214,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_og_neutron.xml:1649
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на транспортник."
 
 #: src-en/data/events_sector_og_neutron.xml:1651
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[2]/event/text"
 msgstr ""
+"Вы оставляете транспортник на произвол судьбы и готовитесь к следующему "
+"прыжку."
 
 #: src-en/data/events_sector_og_neutron.xml:1653
 msgid ""
@@ -1816,59 +2237,82 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/text"
 msgstr ""
+"Разобравшись со стелс-кораблем, вы снова обращаете внимание на транспортник "
+"Железного дозора - он в плачевном состоянии, сканирование показывает, что "
+"ему требуется серьезный ремонт, причем как можно скорее.\n"
+"\n"
+"Транспортник выходит на связь с вами, и вас приветствует важная на вид "
+"женщина в костюме цвета Железного дозора. \"Я - дипломат Хорус. Полагаю, "
+"вы - тот Ренегат Федерации, о котором я слышала? Спасибо за помощь, однако у "
+"меня к вам еще одна просьба. Насколько я понимаю, вы направляетесь в сторону "
+"столицы Федерации, Узла 17, верно?\""
 
 #: src-en/data/events_sector_og_neutron.xml:1668
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[1]/text"
-msgstr ""
+msgstr "\"Да\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1670
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/text"
 msgstr ""
+"\"Тогда я бы хотела попросить вас взять меня на борт - мне нужно добраться "
+"до базы Федерации. У меня назначена встреча с командованием Федерации по "
+"поводу угрозы со стороны повстанцев; для меня крайне важно успеть на эту "
+"встречу вовремя, а мой экипаж сообщает, что мой корабль уже не в том "
+"состоянии, чтобы совершить это путешествие\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1672
-#, fuzzy
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[1]/text"
-msgstr "Принять его на борт."
+msgstr "Принять ее на борт."
 
 #: src-en/data/events_sector_og_neutron.xml:1674
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[1]/event/text"
 msgstr ""
+"Вы стыкуетесь с транспортным кораблем и забираете на борт дипломата, а "
+"остальные члены экипажа остаются, чтобы доставить транспортное судно в "
+"безопасное место, где его можно будет отремонтировать."
 
 #: src-en/data/events_sector_og_neutron.xml:1679
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[2]/text"
-msgstr ""
+msgstr "Отказаться."
 
 #: src-en/data/events_sector_og_neutron.xml:1681
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[2]/event/text"
 msgstr ""
+"Вы вежливо отказываетесь, она явно разочарована, но больше не настаивает."
 
 #: src-en/data/events_sector_og_neutron.xml:1687
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "\"Нет, извините\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1689
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/text"
 msgstr ""
+"\"Очень жаль это слышать. Боюсь, что тогда я, возможно, не успею. Если "
+"увидите другие корабли, направляющиеся в ту сторону, не могли бы вы спросить "
+"у них, смогут ли они забрать меня по пути? Я буду на исследовательской базе "
+"Железного дозора\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1691
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "\"Вообще-то мы как раз туда и направляемся\"."
 
 #: src-en/data/events_sector_og_neutron.xml:1695
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Пожелать ей удачи."
 
 #: src-en/data/events_sector_og_neutron.xml:1697
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"После этого вы переключаете внимание на подготовку своего ССД привода к "
+"следующему прыжку."
