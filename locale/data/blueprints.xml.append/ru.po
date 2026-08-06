@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-08-07 07:36+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -457,21 +457,30 @@ msgstr "Обучен навыкам 2-го уровня"
 #: src-en/data/blueprints.xml.append:453
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/desc"
 msgstr ""
+"Выдающийся ученый Железного дозора, ранее возглавлявший Исследовательскую "
+"станцию Железного Дозора по изучению нейтронных звезд (ИСИНЗ) до того, как "
+"она была уничтожена Полуночным солнцем.\n"
+"\n"
+"\tНаследует характеристики людей: небольшое сопротивление удушью, быстрее "
+"изучает навыки"
 
 #: src-en/data/blueprints.xml.append:457
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/title"
-msgstr ""
+msgstr "Исследователь"
 
 #: src-en/data/blueprints.xml.append:458
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/short"
-msgstr ""
+msgstr "Исследователь"
 
 #: src-en/data/blueprints.xml.append:461
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Развертывает оборонительный дрон, способный "
+"отслеживать все типы снарядов и дронов; уничтожает снаряды, но дроны лишь "
+"оглушает."
 
 #: src-en/data/blueprints.xml.append:462
 msgid ""
@@ -488,13 +497,12 @@ msgstr "Видит соседние отсеки, находясь в туман
 #: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[4]"
-msgstr ""
+msgstr "Наносит 2х урона в дальнем бою"
 
 #: src-en/data/blueprints.xml.append:465
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[5]"
-msgstr "1.25x скорость ремонта"
+msgstr "1.5x скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:466
 msgid ""
@@ -505,136 +513,148 @@ msgstr "Получает 0.6х урона от огня"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/desc"
 msgstr ""
+"Важный дипломат Железного дозора, направленный командованием для поиска "
+"поддержки у Федерации в борьбе с угрозой со стороны повстанцев. Необходимо "
+"доставить на базу Федерации."
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/title"
-msgstr ""
+msgstr "Дипломат"
 
 #: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/short"
-msgstr ""
+msgstr "Дипломат"
 
 #: src-en/data/blueprints.xml.append:477
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Становится управляемым, может обслуживать системы, "
+"сражаться и ремонтировать с обычной скоростью; активируется при 25 ОЗ или "
+"ниже."
 
 #: src-en/data/blueprints.xml.append:478
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[2]"
-msgstr ""
+msgstr "Становится управляемым при наличии обычного экипажа"
 
 #: src-en/data/blueprints.xml.append:479
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[3]"
-msgstr ""
+msgstr "Не поддается контролю"
 
 #: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[4]"
-msgstr ""
+msgstr "Не может сражаться и не может обслуживать системы"
 
 #: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[5]"
-msgstr ""
+msgstr "0.5х скорость ремонта, 1х скорость тушения"
 
 #: src-en/data/blueprints.xml.append:482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[6]"
 msgstr ""
+"Благодаря своей стойкости и решимости, он получает меньше урона от окружения"
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/desc"
 msgstr ""
+"Гражданский человек вознаградит вас 25 единицами лома при посещении магазина "
+"или выборе нового сектора."
 
 #: src-en/data/blueprints.xml.append:488
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/title"
-msgstr ""
+msgstr "Гражданский человек"
 
 #: src-en/data/blueprints.xml.append:489
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/short"
-msgstr ""
+msgstr "Гражданский"
 
 #: src-en/data/blueprints.xml.append:492
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[1]"
-msgstr ""
+msgstr "Становится управляемым при наличии обычного экипажа"
 
 #: src-en/data/blueprints.xml.append:493
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[2]"
-msgstr ""
+msgstr "Не занимает место в экипаже"
 
 #: src-en/data/blueprints.xml.append:494
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[3]"
-msgstr ""
+msgstr "Не поддается контролю"
 
 #: src-en/data/blueprints.xml.append:495
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[4]"
-msgstr ""
+msgstr "Не может сражаться и не может обслуживать системы"
 
 #: src-en/data/blueprints.xml.append:496
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[5]"
-msgstr ""
+msgstr "0.5х скорость ремонта, 1х скорость тушения"
 
 #: src-en/data/blueprints.xml.append:497
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[6]"
 msgstr ""
+"Благодаря своей стойкости и решимости, он получает меньше урона от окружения"
 
 #: src-en/data/blueprints.xml.append:540
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/desc"
 msgstr ""
+"Гражданский богомол вознаградит вас 5 единицами лома при посещении магазина "
+"или выборе нового сектора."
 
 #: src-en/data/blueprints.xml.append:542
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/title"
-msgstr ""
+msgstr "Гражданский богомол"
 
 #: src-en/data/blueprints.xml.append:543
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/short"
-msgstr ""
+msgstr "Гражданский"
 
 #: src-en/data/blueprints.xml.append:546
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[1]"
-msgstr ""
+msgstr "Становится управляемым при наличии обычного экипажа"
 
 #: src-en/data/blueprints.xml.append:547
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[2]"
-msgstr ""
+msgstr "Не занимает место в экипаже"
 
 #: src-en/data/blueprints.xml.append:548
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[3]"
-msgstr ""
+msgstr "Не поддается контролю"
 
 #: src-en/data/blueprints.xml.append:549
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[4]"
-msgstr ""
+msgstr "Не может обслуживать или ремонтировать системы"
 
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[5]"
-msgstr ""
+msgstr "Наносит 1.25х урона в бою"
 
 #: src-en/data/blueprints.xml.append:551
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[6]"
-msgstr ""
+msgstr "1.2х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:576
 msgid ""
@@ -998,6 +1018,9 @@ msgstr "Трой. лаз."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/desc"
 msgstr ""
+"Лазерная турель, которая быстро переходит в режим цепной стрельбы, но после "
+"выстрела последней очереди при максимальной длине цепи возвращается в "
+"состояние без цепи."
 
 #: src-en/data/blueprints.xml.append:1031
 msgid ""
@@ -1036,17 +1059,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1073
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/title"
-msgstr ""
+msgstr "\"Пробудитель разломов\" мод. 0.5"
 
 #: src-en/data/blueprints.xml.append:1074
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/short"
-msgstr ""
+msgstr "Пробуд. 0.5"
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/desc"
 msgstr ""
+"Реплика знаменитого \"Пробудителя разломов\" Сильвана, созданная на базе "
+"цепной турели \"Вулкан\"."
 
 #: src-en/data/blueprints.xml.append:1097
 msgid ""
@@ -1086,47 +1111,53 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/title"
-msgstr ""
+msgstr "Фазерная турель"
 
 #: src-en/data/blueprints.xml.append:1140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/short"
-msgstr ""
+msgstr "Фаз. тур."
 
 #: src-en/data/blueprints.xml.append:1141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/desc"
 msgstr ""
+"Фазеры пробивают все слои щитов, нанося ионный урон первому слою щитов, а "
+"также дополнительный урон той системе, по которой был нанесен удар."
 
 #: src-en/data/blueprints.xml.append:1160
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/title"
-msgstr ""
+msgstr "Оглушающая турель"
 
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/short"
-msgstr ""
+msgstr "Огл. тур."
 
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/desc"
 msgstr ""
+"Оглушающее оружие действует во многом так же, как обычное ионное, но также "
+"временно парализует членов экипажа, находящихся в пораженном отсеке."
 
 #: src-en/data/blueprints.xml.append:1181
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/title"
-msgstr ""
+msgstr "Радионная турель"
 
 #: src-en/data/blueprints.xml.append:1182
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/short"
-msgstr ""
+msgstr "Рад. тур."
 
 #: src-en/data/blueprints.xml.append:1183
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/desc"
 msgstr ""
+"Что такое радион, спросите вы? Ну, это ион, но с радиацией. Что-то типа "
+"того. Очень полезен для убийств удушьем."
 
 #: src-en/data/blueprints.xml.append:1202
 msgid ""
@@ -1146,10 +1177,9 @@ msgstr ""
 "повреждения корпусу."
 
 #: src-en/data/blueprints.xml.append:1226
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/title"
-msgstr "Залповая кристаллическая турель"
+msgstr "Тяжелая кристаллическая турель"
 
 #: src-en/data/blueprints.xml.append:1227
 msgid ""
@@ -1157,18 +1187,16 @@ msgid ""
 msgstr "Кристалл"
 
 #: src-en/data/blueprints.xml.append:1228
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/desc"
 msgstr ""
-"Модифицированная кинетическая турель, выпускает 2 проникающих сквозь щиты "
-"кристалла."
+"Модифицированная кинетическая турель, стреляющая тяжелым кристаллом, "
+"пробивающим щиты."
 
 #: src-en/data/blueprints.xml.append:1247
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/title"
-msgstr "Элитная залповая кристаллическая турель"
+msgstr "Элитная тяжелая кристаллическая турель"
 
 #: src-en/data/blueprints.xml.append:1248
 msgid ""
@@ -1176,43 +1204,46 @@ msgid ""
 msgstr "€ Кристалл"
 
 #: src-en/data/blueprints.xml.append:1249
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/desc"
 msgstr ""
-"Модифицированная кинетическая турель, выпускает 2 проникающих сквозь щиты "
-"кристалла. Элитный вариант проникает сквозь 2 слоя щита, а запирание отсеков "
-"срабатывает каждый раз."
+"Модифицированная кинетическая турель, стреляющая тяжелым кристаллом, "
+"пробивающим щиты. Элитный вариант проникает сквозь 2 слоя щита, а запирание "
+"отсеков срабатывает каждый раз."
 
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/title"
-msgstr ""
+msgstr "Рассеивающая кристаллическая турель"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/short"
-msgstr ""
+msgstr "Расс. кристалл"
 
 #: src-en/data/blueprints.xml.append:1270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/desc"
 msgstr ""
+"Выпускает залп из 4 кристаллических снарядов, каждый из которых пробивает по "
+"1 слою щита."
 
 #: src-en/data/blueprints.xml.append:1289
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/title"
-msgstr ""
+msgstr "Єлитная рассеивающая кристаллическая турель"
 
 #: src-en/data/blueprints.xml.append:1290
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/short"
-msgstr ""
+msgstr "€ Расс. кристалл"
 
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/desc"
 msgstr ""
+"Выпускает залп из 4 кристаллических снарядов. Элитный вариант, который "
+"всегда запирает отсеки и пробивает 2 щита."
 
 #: src-en/data/blueprints.xml.append:1313
 msgid ""
@@ -1232,16 +1263,14 @@ msgstr ""
 " подходит для защиты, но неэффективна против вражеских систем."
 
 #: src-en/data/blueprints.xml.append:1334
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/title"
-msgstr "Четырехзарядная ракетная турель"
+msgstr "Двойная ракетная турель"
 
 #: src-en/data/blueprints.xml.append:1335
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/short"
-msgstr "Четыр. рак."
+msgstr "Двойная рак."
 
 #: src-en/data/blueprints.xml.append:1336
 msgid ""
@@ -1289,33 +1318,40 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1396
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/title"
-msgstr ""
+msgstr "Элитная тяжелая зерновая турель"
 
 #: src-en/data/blueprints.xml.append:1397
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/short"
-msgstr "€ Тяж. лаз."
+msgstr "€ Тяж. зер."
 
 #: src-en/data/blueprints.xml.append:1398
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/desc"
 msgstr ""
+"Это оружие использует в качестве боеприпасов ядра гигантских растений с "
+"родной планеты орхидей. Ядра ведут себя как ракеты, но при этом потребляют в "
+"два раза меньше боеприпасов. Мощная элитная версия, обеспечивающая "
+"гарантированные оглушение и сниженное потребление боеголовок."
 
 #: src-en/data/blueprints.xml.append:1416
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/title"
-msgstr ""
+msgstr "Элитная солнечная зерновая турель"
 
 #: src-en/data/blueprints.xml.append:1417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/short"
-msgstr ""
+msgstr "€ Сол. зер."
 
 #: src-en/data/blueprints.xml.append:1418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/desc"
 msgstr ""
+"Это оружие использует в качестве боеприпасов ядра гигантских растений с "
+"родной планеты орхидей. Этот модифицированный зерномет создает пожары вместо "
+"пробоин. Мощная элитная версия, обеспечивающая гарантированные оглушение и "
+"сниженное потребление боеголовок."
 
 #: src-en/data/blueprints.xml.append:1437
 msgid ""
@@ -1373,17 +1409,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/title"
-msgstr ""
+msgstr "Поджигающая осколочная турель"
 
 #: src-en/data/blueprints.xml.append:1503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/short"
-msgstr ""
+msgstr "Подж. тур."
 
 #: src-en/data/blueprints.xml.append:1504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/desc"
 msgstr ""
+"Выпускает 4 горящих снаряда, которые с повышенной вероятностью вызывают "
+"возгорание."
 
 #: src-en/data/blueprints.xml.append:1526
 msgid ""
@@ -1494,46 +1532,47 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1655
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/title"
-msgstr ""
+msgstr "Микрооблучающая турель"
 
 #: src-en/data/blueprints.xml.append:1656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/short"
-msgstr ""
+msgstr "Микрообл."
 
 #: src-en/data/blueprints.xml.append:1657
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/desc"
 msgstr ""
-"Особая лазерная турель, наносящая высокий биологический урон и выводящая из "
-"строя экипаж, но не повреждающая системы и корпус. Эта турель также "
-"чрезвычайно эффективна в защите, способная сбивать вражеские лазеры."
+"Особая лазерная турель, наносящая биологический урон и выводящая из строя "
+"экипаж, но не повреждающая системы и корпус. Эта турель также может "
+"выполнять защитные функции - способна сбивать вражеские лазеры."
 
 #: src-en/data/blueprints.xml.append:1676
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/title"
-msgstr ""
+msgstr "Микроцепная лазерная турель"
 
 #: src-en/data/blueprints.xml.append:1677
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/short"
-msgstr ""
+msgstr "Микроцеп. тур."
 
 #: src-en/data/blueprints.xml.append:1678
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/desc"
 msgstr ""
+"У этого зарядного лазера время перезарядки сокращается по мере увеличения "
+"количества выстрелов."
 
 #: src-en/data/blueprints.xml.append:1697
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/title"
-msgstr ""
+msgstr "Турель с ускорителем микрочастиц"
 
 #: src-en/data/blueprints.xml.append:1698
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/short"
-msgstr ""
+msgstr "Микрочас. тур."
 
 #: src-en/data/blueprints.xml.append:1699
 msgid ""
@@ -1545,39 +1584,35 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/title"
-msgstr ""
+msgstr "Микрокристаллическая турель"
 
 #: src-en/data/blueprints.xml.append:1723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/short"
-msgstr ""
+msgstr "Микрокрист. тур."
 
 #: src-en/data/blueprints.xml.append:1724
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/desc"
 msgstr ""
-"Модифицированная кинетическая турель, выпускает 2 проникающих сквозь щиты "
-"кристалла."
+"Модифицированная кинетическая турель, выпускающая кристаллы пробивающие щиты."
 
 #: src-en/data/blueprints.xml.append:1743
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/title"
-msgstr ""
+msgstr "Элитная микрокристаллическая турель"
 
 #: src-en/data/blueprints.xml.append:1744
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/short"
-msgstr "€ Микролаз."
+msgstr "€ Микрокрист."
 
 #: src-en/data/blueprints.xml.append:1745
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/desc"
 msgstr ""
-"Модифицированная кинетическая турель, выпускает 2 проникающих сквозь щиты "
-"кристалла. Элитный вариант проникает сквозь 2 слоя щита, а запирание отсеков "
+"Модифицированная кинетическая турель, выпускающая пробивающий щиты кристалл. "
+"Элитный вариант проникает сквозь 2 слоя щита, а запирание отсеков "
 "срабатывает каждый раз."
 
 #: src-en/data/blueprints.xml.append:1767
@@ -1600,17 +1635,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/title"
-msgstr ""
+msgstr "Микрозажигательная ионная турель"
 
 #: src-en/data/blueprints.xml.append:1789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/short"
-msgstr ""
+msgstr "Микрозаж. ион."
 
 #: src-en/data/blueprints.xml.append:1790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/desc"
 msgstr ""
+"Эта ионная турель обеспечивает эффективную защиту от дронов, при этом "
+"способна поддерживать наступательные действия корабля. Она вызывает пожары в "
+"пораженной системе."
 
 #: src-en/data/blueprints.xml.append:1812
 msgid ""
@@ -1801,62 +1839,71 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2060
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/title"
-msgstr ""
+msgstr "Нейтронное ядро"
 
 #: src-en/data/blueprints.xml.append:2061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/short"
-msgstr ""
+msgstr "Нейтрон"
 
 #: src-en/data/blueprints.xml.append:2062
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/desc"
 msgstr ""
+"Основной компонент артиллерии Полуночного солнца. Можно привести в рабочее "
+"состояние и установить в слот для турели. Модернизация осуществляется в "
+"процессе производства турели."
 
 #: src-en/data/blueprints.xml.append:2081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/title"
-msgstr ""
+msgstr "Нейтронная турель мод. I"
 
 #: src-en/data/blueprints.xml.append:2082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/short"
-msgstr ""
+msgstr "Нейтрон I"
 
 #: src-en/data/blueprints.xml.append:2083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/desc"
 msgstr ""
+"Выпускает мощный луч, использующий энергию нейтронной звезды, чтобы "
+"полностью уничтожить вражеские корабли."
 
 #: src-en/data/blueprints.xml.append:2102
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/title"
-msgstr ""
+msgstr "Нейтронная турель мод. II"
 
 #: src-en/data/blueprints.xml.append:2103
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/short"
-msgstr ""
+msgstr "Нейтрон II"
 
 #: src-en/data/blueprints.xml.append:2104
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/desc"
 msgstr ""
+"Выпускает мощный луч, использующий энергию нейтронной звезды, чтобы "
+"полностью уничтожить вражеские корабли."
 
 #: src-en/data/blueprints.xml.append:2123
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/title"
-msgstr ""
+msgstr "Нейтронная турель мод. III"
 
 #: src-en/data/blueprints.xml.append:2124
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/short"
-msgstr ""
+msgstr "Нейтрон III"
 
 #: src-en/data/blueprints.xml.append:2125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/desc"
 msgstr ""
+"Выпускает мощный луч, использующий энергию нейтронной звезды, чтобы "
+"полностью уничтожить вражеские корабли."
 
 #: src-en/data/blueprints.xml.append:2148
 msgid ""
@@ -2569,12 +2616,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:4310
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_FIRE\"]/title"
-msgstr ""
+msgstr "Осколочная"
 
 #: src-en/data/blueprints.xml.append:4311
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_FIRE\"]/short"
-msgstr ""
+msgstr "Оскол."
 
 #: src-en/data/blueprints.xml.append:4312
 msgid ""
@@ -3071,92 +3118,111 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5974
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/class"
-msgstr ""
+msgstr "Класс \"Охотник\""
 
 #: src-en/data/blueprints.xml.append:5975
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/name"
-msgstr ""
+msgstr "Лунный Блеск"
 
 #: src-en/data/blueprints.xml.append:5976
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/desc"
 msgstr ""
+"Это изящное судно построено на базе прототипа лучевой артиллерии, которая "
+"стреляет мощным радиационным лучем, способным уничтожить как экипаж, так и "
+"системы."
 
 #: src-en/data/blueprints.xml.append:6062
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/class"
-msgstr ""
+msgstr "Класс \"Охотник\""
 
 #: src-en/data/blueprints.xml.append:6063
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/name"
-msgstr ""
+msgstr "Бонифацио"
 
 #: src-en/data/blueprints.xml.append:6064
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/desc"
 msgstr ""
+"Экспортная версия крейсера класса \"Охотник\", отправленная к повстанцам "
+"вместе с одним из агентов Нового рассвета, прошедшим подготовку в рядах "
+"повстанцев."
 
 #: src-en/data/blueprints.xml.append:6150
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/class"
-msgstr ""
+msgstr "Класс \"Охотник\""
 
 #: src-en/data/blueprints.xml.append:6151
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/name"
-msgstr ""
+msgstr "Лунный Луч"
 
 #: src-en/data/blueprints.xml.append:6152
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/desc"
 msgstr ""
+"Усовершенствованная версия первого нейтронного луча, на этот раз в виде "
+"турели, способная наносить невероятный урон после модернизации."
 
 #: src-en/data/blueprints.xml.append:6242
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/class"
-msgstr ""
+msgstr "Класс \"Дрифтер\""
 
 #: src-en/data/blueprints.xml.append:6243
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/name"
-msgstr ""
+msgstr "Найтвинг"
 
 #: src-en/data/blueprints.xml.append:6244
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/desc"
 msgstr ""
+"Легкий штурмовой катер, созданный для быстрого и незаметного передвижения, "
+"идеально подходит для секретных операций под покровом тьмы. Небольшие "
+"размеры судна не позволили установить крупные турели, поэтому инженеры "
+"увеличили мощность микротурелей, чтобы повысить их боевую эффективность."
 
 #: src-en/data/blueprints.xml.append:6331
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/class"
-msgstr ""
+msgstr "Класс \"Дрифтер\""
 
 #: src-en/data/blueprints.xml.append:6332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/name"
-msgstr ""
+msgstr "Корте"
 
 #: src-en/data/blueprints.xml.append:6333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/desc"
 msgstr ""
+"Оперативник Полуночного солнце и ас МФК предали Новый рассвет и Восстание и "
+"скрылись на этом скоростном корабле."
 
 #: src-en/data/blueprints.xml.append:6417
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/class"
-msgstr ""
+msgstr "Класс \"Дрифтер\""
 
 #: src-en/data/blueprints.xml.append:6418
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/name"
-msgstr ""
+msgstr "Гиперсвет"
 
 #: src-en/data/blueprints.xml.append:6419
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/desc"
 msgstr ""
+"Эти ребята, некогда входившие в число элитных разведчиков Полуночного "
+"солнца, оказались застрявшими в неизвестной Мультивселенной, не имея "
+"возможности вернуться домой. У них не оставалось особого выбора, и они "
+"занялись уличными гонками, проявив на трассе такую же безжалостность, как и "
+"во время выполнения своих прежних заданий."
 
 #: src-en/data/blueprints.xml.append:6506
 msgid ""
@@ -3301,47 +3367,53 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7169
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/class"
-msgstr ""
+msgstr "Корабль Сайласа"
 
 #: src-en/data/blueprints.xml.append:7170
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/name"
-msgstr ""
+msgstr "Геодезист"
 
 #: src-en/data/blueprints.xml.append:7172
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/desc"
 msgstr ""
+"Личный корабль Сайласа полагается на турели и защитные дроны, чтобы выжить, "
+"пока не сможет активировать свои щиты."
 
 #: src-en/data/blueprints.xml.append:7255
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/class"
-msgstr ""
+msgstr "Корабль Хоруса"
 
 #: src-en/data/blueprints.xml.append:7256
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/name"
-msgstr ""
+msgstr "Сокол"
 
 #: src-en/data/blueprints.xml.append:7258
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/desc"
 msgstr ""
+"На этот раз Хорус готова. Она вытащила из музея старого гиганта - теперь "
+"ничто не сможет ей помешать!"
 
 #: src-en/data/blueprints.xml.append:7357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/title"
-msgstr ""
+msgstr "Нейтронная артиллерия"
 
 #: src-en/data/blueprints.xml.append:7358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/short"
-msgstr ""
+msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:7359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 20] Выпускает сконцентрированный радиационный луч, "
+"пронизывающий вражеский корабль и наносящий урон системам и экипажу."
 
 #: src-en/data/blueprints.xml.append:7378
 msgid ""
@@ -3448,7 +3520,7 @@ msgstr "Турели заряжены сразу после ССД-прыжка.
 #: src-en/data/blueprints.xml.append:7576
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_MANNABLE_MICRO\"]/title"
-msgstr ""
+msgstr "Управляемые микротурели"
 
 #: src-en/data/blueprints.xml.append:7577
 msgid ""
@@ -3467,34 +3539,42 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:7592
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD\"]/title"
-msgstr ""
+msgstr "Синхротронный барьер"
 
 #: src-en/data/blueprints.xml.append:7593
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD\"]/desc"
 msgstr ""
+"Защищает от воздействия радиационных лучей нейтронной звезды, поглощая урон "
+"и рассеивая его по всей системе двигателей. Пока щит активен, корабль "
+"обладает иммунитетом к ионам, однако щит отключается, когда заряд двигателей "
+"падает до 1 единицы или ниже."
 
 #: src-en/data/blueprints.xml.append:7601
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD_LOCKED\"]/title"
-msgstr ""
+msgstr "Синхротронный барьер"
 
 #: src-en/data/blueprints.xml.append:7602
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD_LOCKED\"]/desc"
 msgstr ""
+"Защищает от воздействия радиационных лучей нейтронной звезды, поглощая урон "
+"и рассеивая его по всей системе двигателей. Пока щит активен, корабль "
+"обладает иммунитетом к ионам, однако щит отключается, когда заряд двигателей "
+"падает до 1 единицы или ниже."
 
 #: src-en/data/blueprints.xml.append:7613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FOCUS_OG_SILAS\"]/title"
-msgstr ""
+msgstr "Фокусные дроны"
 
 #: src-en/data/blueprints.xml.append:7614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FOCUS_OG_SILAS\"]/short"
-msgstr ""
+msgstr "Фокусные дроны"
 
 #: src-en/data/blueprints.xml.append:7630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_LASER_OG_SILAS\"]/title"
-msgstr ""
+msgstr "Лазерные дроны"
