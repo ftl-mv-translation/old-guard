@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-04 18:36+0000\n"
+"PO-Revision-Date: 2026-08-07 07:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-old-guard/"
 "datahyperspace-xml-append/ru/>\n"
@@ -284,7 +284,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:835
 msgid "data/hyperspace.xml.append$//unique_og_silas[@name=\"Dr. Silas\"]/@name"
-msgstr "Доктор Силас"
+msgstr "Доктор Сайлас"
 
 #: src-en/data/hyperspace.xml.append:847
 msgid ""
