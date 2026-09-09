@@ -1,42 +1,51 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-09 23:47+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_sector_showdownxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_showdown.xml.append:4
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "사일러스 박사에게 의견을 묻는다."
 
 #: src-en/data/events_sector_showdown.xml.append:8
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "호루스 외교관에게 의견을 묻는다."
 
 #: src-en/data/events_sector_showdown.xml.append:14
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_OG_SILAS\"]/text"
 msgstr ""
+"\"다중우주 드라이브 기술은 이렇게 파괴하기엔 너무나 귀중합니다. 우리는 이미 "
+"반군에게 치명적인 타격을 입혔으며, 폭탄을 터뜨리는 것은 수많은 우주가 영원히 "
+"반군의 통제 아래 놓이도록 방치하는 꼴이 될 것입니다.\""
 
 #: src-en/data/events_sector_showdown.xml.append:18
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_OG_SILAS\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_showdown.xml.append:23
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_OG_HORUS\"]/text"
 msgstr ""
+"\"내가 '연방 기지'로 데려다달라고 했을 때 당신도 '동의'했으면서, 왜 나를 "
+"이런 곳으로 데려오는 게 좋은 생각이라고 판단한 겁니까? 난 이 모든 일에 "
+"말려들고 싶지 않았고, 폭사당하는 건 더더욱 사양입니다!\""
 
 #: src-en/data/events_sector_showdown.xml.append:27
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_OG_HORUS\"]/choice/text"
-msgstr ""
+msgstr "계속..."
