@@ -1,0 +1,3190 @@
+#
+msgid ""
+msgstr ""
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src-en/data/blueprints.xml.append:4
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION_ENEMY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:11
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:12
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:20
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:30
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_SPEED\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:31
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_SPEED\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:38
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:39
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:49
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_MANUAL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:50
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_MANUAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:57
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:58
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:68
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:69
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:76
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:77
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:86
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_2_LARGE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:87
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_2_LARGE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:94
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:95
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:104
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:105
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:112
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:113
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:123
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:124
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:141
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:142
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:159
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:160
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:177
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:178
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:195
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:196
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:210
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:211
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:225
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:226
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:240
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:241
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:255
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:256
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:274
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:275
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:293
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_single\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:294
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_single\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:314
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:315
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:316
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:332
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_EQUALISER_PERFORMANCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:340
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:341
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:351
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:352
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:367
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:371
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:372
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:375
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:376
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:377
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:378
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:403
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:407
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:408
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:411
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:412
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:437
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:441
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:442
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:445
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:446
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:447
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:448
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:449
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:453
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:457
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:458
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:461
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:462
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:463
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:464
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:465
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:466
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[6]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:471
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:473
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:474
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:477
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:478
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:479
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:480
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:481
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:482
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[6]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:486
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:488
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:489
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:492
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:493
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:494
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:495
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:496
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:497
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[6]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:540
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:542
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:543
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:546
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[1]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:547
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[2]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:548
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[3]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:549
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:550
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[5]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:551
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[6]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:576
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:577
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:578
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:600
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:601
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:602
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:622
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:623
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:624
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:645
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:646
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:647
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:666
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:667
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:668
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:691
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:692
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:693
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:715
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:716
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:717
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:736
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:737
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:738
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:757
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:758
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:759
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:778
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:779
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:780
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:799
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:800
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:801
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:821
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:822
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:823
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:842
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:843
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:844
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:863
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:864
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:865
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:884
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:885
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:886
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:905
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:906
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:907
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:926
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:927
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:928
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:947
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:948
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:949
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:968
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:969
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:970
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:989
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:990
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:991
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1010
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1011
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1012
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1031
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1032
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1033
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1052
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1053
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1054
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1073
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1074
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1075
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1097
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1098
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1099
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1118
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1119
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1120
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1139
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1140
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1141
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1160
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1161
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1162
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1181
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1182
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1183
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1202
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1203
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1204
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1226
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1227
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1228
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1247
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1248
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1249
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1268
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1269
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1270
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1289
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1290
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1291
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1313
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1314
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1315
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1334
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1335
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1336
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1355
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1356
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1357
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1375
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1376
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1377
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1396
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1397
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1398
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1416
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1417
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1418
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1437
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1438
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1439
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1461
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1462
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1463
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1481
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1482
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1483
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1502
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1503
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1504
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1526
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1527
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1528
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1547
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1548
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1549
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1568
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1569
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1570
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1592
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1593
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1594
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1613
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1614
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1615
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1634
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1635
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1636
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1655
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1656
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1657
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1676
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1677
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1678
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1697
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1698
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1699
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1722
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1723
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1724
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1743
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1744
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1745
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1767
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1768
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1769
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1788
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1789
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1790
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1812
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1813
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1814
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1836
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1837
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1838
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1860
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1861
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1862
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1884
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1885
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1886
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1906
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1907
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1908
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1928
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1929
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1930
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1950
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1951
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1952
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1972
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1973
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1974
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1994
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1995
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1996
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2016
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2017
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2018
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2038
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2039
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2040
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2060
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2061
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2062
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2081
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2082
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2083
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2102
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2103
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2104
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2123
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2124
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2125
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2148
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2149
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2150
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2168
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2169
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2170
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2188
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DARKNESS_MINI\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2189
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DARKNESS_MINI\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2190
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DARKNESS_MINI\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2208
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2209
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2210
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2503
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE_FAKE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2504
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE_FAKE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2505
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE_FAKE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2532
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_FALSERADIANCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2533
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_FALSERADIANCE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2534
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_FALSERADIANCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2726
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_DARKNESS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2727
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_DARKNESS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2728
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_DARKNESS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2788
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_SLUG_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2789
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_SLUG_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2790
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_SLUG_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2809
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CLAN_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2810
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CLAN_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2811
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CLAN_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2830
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2831
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2832
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2853
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_FEDERATION_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2854
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_FEDERATION_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2855
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_FEDERATION_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2875
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2876
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2877
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2912
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2913
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2914
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2949
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2950
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2951
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2989
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2990
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2991
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3037
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3038
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3039
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3072
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3073
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3074
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3115
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO_WEAK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3116
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO_WEAK\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3117
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3158
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3159
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3160
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3194
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3195
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3196
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3231
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3232
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3233
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3266
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3267
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3268
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3302
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_FROST\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3303
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_FROST\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3304
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_FROST\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3357
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3358
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3359
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3400
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3401
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3402
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3443
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_PIERCE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3444
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_PIERCE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3445
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_PIERCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3485
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_STUN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3486
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_STUN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3487
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_STUN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3527
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3528
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3529
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3574
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3575
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3576
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3617
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3618
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3619
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3660
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3661
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3662
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3699
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3700
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3701
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3739
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3740
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3741
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3779
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3780
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3781
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3820
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3821
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3822
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3859
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3860
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3861
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3900
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3901
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3902
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3940
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3941
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3942
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3979
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3980
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:3981
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4019
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4020
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4021
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4059
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4060
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4061
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4099
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4100
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4101
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4140
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE_ELITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4141
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE_ELITE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4142
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE_ELITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4181
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_CLONE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4182
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_CLONE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4183
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_CLONE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4224
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4225
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4226
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4264
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4265
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4266
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4310
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_FIRE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4311
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_FIRE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4312
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_FIRE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4351
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4352
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4353
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4375
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4376
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4377
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4399
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4400
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4401
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4423
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4424
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4425
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4447
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4448
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4449
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4482
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4483
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4484
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4514
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4515
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4516
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4551
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4552
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4553
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4588
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4589
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4590
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4628
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4629
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4630
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4671
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4672
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4673
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4711
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4712
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4713
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4750
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4751
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4752
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4774
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4775
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4776
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4800
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_SLUG_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4801
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_SLUG_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4802
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_SLUG_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4836
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_CLAN_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4837
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_CLAN_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4838
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_CLAN_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4882
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHARD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4883
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHARD\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4884
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHARD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4925
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_GUARD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4926
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_GUARD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4932
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_DAWN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4933
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_DAWN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4939
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4940
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4941
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5022
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5023
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5024
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5104
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5105
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5106
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5185
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5186
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5187
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5275
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5276
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5277
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5361
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5362
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5363
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5449
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5450
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5452
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5530
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5531
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5533
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5617
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5618
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5620
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5705
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5706
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5708
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5799
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5800
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5802
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5895
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5896
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5898
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5974
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5975
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5976
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6062
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6063
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6064
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6150
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6151
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6152
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6242
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6243
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6244
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6331
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6332
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6333
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6417
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6418
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6419
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6506
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6507
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6508
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6589
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6590
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6592
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6673
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6674
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6676
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6761
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6762
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6764
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6846
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6847
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6849
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6925
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6926
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6928
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7012
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7013
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7015
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7090
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7091
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7093
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7169
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7170
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7172
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7255
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7256
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7258
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7357
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7358
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7359
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7378
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7379
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7381
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7417
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7418
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7420
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7462
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7463
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7465
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7505
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7506
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7508
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7551
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7552
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7560
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE_WEAK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7561
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7568
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7569
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7576
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_MANNABLE_MICRO\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7577
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_MANNABLE_MICRO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7584
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_DAWN_INITIATE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7585
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"OG_DAWN_INITIATE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7592
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7593
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7601
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD_LOCKED\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7602
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD_LOCKED\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7613
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FOCUS_OG_SILAS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7614
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FOCUS_OG_SILAS\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7630
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_LASER_OG_SILAS\"]/title"
+msgstr ""
