@@ -1,302 +1,334 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-10 12:09+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
+"datatext_miscxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_loc\"]"
-msgstr ""
+msgstr "다음 도약 시 송신소 좌표가 중성자별 제트 방사선 영역 내에 위치하게 됩니다."
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_static_loc\"]"
-msgstr ""
+msgstr "송신소 좌표가 펄서와 매우 가까워 중성자 제트 방사선의 영향을 받게 됩니다."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_og_neutron_beam\"]"
 msgstr ""
+"중성자별의 제트 방사선 범위 내에 들어왔습니다. 방사선이 함선 전체의 모든 "
+"시스템과 선원에게 피해를 줍니다. 대신 피해를 흡수하는 작동 중인 시스템이 "
+"있는 방에 머무르는 동안 선원은 보호받습니다."
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_og_triplet\"]"
 msgstr ""
+"팁: 3연사 무기는 세 번째 발사 시 초기화되기 전까지 두 번 연속으로 중첩 "
+"효과를 얻습니다."
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"ship_unlock_og_two_wins\"]"
-msgstr ""
+msgstr "\\1의 두 가지 구조를 해금하면 \\2이(가) 해금됩니다."
 
 #: src-en/data/text_misc.xml.append:12
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_RAIDER_unlock\"]"
-msgstr ""
+msgstr "펄서에서 공격받고 있는 아이언 워치 프로토타입을 구출하십시오."
 
 #: src-en/data/text_misc.xml.append:13
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_RAIDER_2_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 A형 함선으로 8 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:14
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_RAIDER_3_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 함급 업적 중 2/3를 완료하십시오."
 
 #: src-en/data/text_misc.xml.append:16
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_unlock\"]"
-msgstr ""
+msgstr "습격급(Raider-Class) 함선 중 아무거나 2종을 해금하십시오."
 
 #: src-en/data/text_misc.xml.append:17
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_2_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 A형 함선으로 8 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:18
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_3_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 함급 업적 중 2/3를 완료하십시오."
 
 #: src-en/data/text_misc.xml.append:20
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_SPEAR_unlock\"]"
-msgstr ""
+msgstr "뉴 던의 데이터 저장소 강탈에 참여하거나 이를 저지하십시오."
 
 #: src-en/data/text_misc.xml.append:21
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_SPEAR_2_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 A형 함선으로 8 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:22
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_SPEAR_3_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 함급 업적 중 2/3를 완료하십시오."
 
 #: src-en/data/text_misc.xml.append:24
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_unlock\"]"
-msgstr ""
+msgstr "선봉급(Spearhead-Class) 함선 중 아무거나 2종을 해금하십시오."
 
 #: src-en/data/text_misc.xml.append:25
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_2_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 A형 함선으로 8 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:26
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_3_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 함급 업적 중 2/3를 완료하십시오."
 
 #: src-en/data/text_misc.xml.append:28
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_HUNTER_unlock\"]"
-msgstr ""
+msgstr "중성자별 제한 구역에서 의문스러운 유령선을 추적하십시오."
 
 #: src-en/data/text_misc.xml.append:29
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_HUNTER_2_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 A형 함선으로 8 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:30
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_HUNTER_3_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 함급 업적 중 2/3를 완료하십시오."
 
 #: src-en/data/text_misc.xml.append:32
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DRIFTER_unlock\"]"
-msgstr ""
+msgstr "추적급(Hunter-Class) 함선 중 아무거나 2종을 해금하십시오."
 
 #: src-en/data/text_misc.xml.append:33
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DRIFTER_2_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 A형 함선으로 8 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:34
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DRIFTER_3_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 함급 업적 중 2/3를 완료하십시오."
 
 #: src-en/data/text_misc.xml.append:36
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_REBEL_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 아이언 케스트렐 순양함으로 5 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:37
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_CURA_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 아이언 반군 순양함으로 5 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:38
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_SEPARATIST_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 아이언 이노베이션 순양함으로 5 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:39
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ANGEL_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 아이언 분리주의자 순양함으로 5 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:40
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ROCK_unlock\"]"
 msgstr ""
+"이 함선을 해금하려면 아이언 엔젤릭 데스브링어 순양함으로 5 구역에 "
+"도달하십시오."
 
 #: src-en/data/text_misc.xml.append:41
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_PEACEKEEPER_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 아이언 락맨 순양함으로 5 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:42
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_KNIGHT_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 아이언 평화유지군 순양함으로 5 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_SILAS_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 특정 유물에 대해 어떤 인간 과학자의 조언을 들으십시오."
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_HORUS_unlock\"]"
-msgstr ""
+msgstr "이 함선을 해금하려면 특정 유물에 대해 어떤 인간 외교관의 조언을 들으십시오."
 
 #: src-en/data/text_misc.xml.append:47
 msgid "data/text_misc.xml.append$//text[@name=\"loot_og_dawn_1\"]"
 msgstr ""
+"뉴 던 전리품\n"
+"명중한 선실에 5초 동안 취약 효과 적용\n"
+"쿨다운 -1초"
 
 #: src-en/data/text_misc.xml.append:50
 msgid "data/text_misc.xml.append$//text[@name=\"loot_og_midnight_1\"]"
 msgstr ""
+"미드나이트 선 전리품\n"
+"명중한 선실을 2초 동안 해킹\n"
+"체인당 쿨다운 -1초"
 
 #: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_slug_1\"]"
 msgstr ""
+"슬러그 전리품\n"
+"시스템 피해량 +1, 선원 피해량 +15\n"
+"균열 확률 +20%"
 
 #: src-en/data/text_misc.xml.append:57
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_clan_1\"]"
 msgstr ""
+"클랜 전리품\n"
+"명중한 선원을 3초 동안 기절시킴\n"
+"유도 성능 +120\n"
+"재사용 대기시간 -0.5초"
 
 #: src-en/data/text_misc.xml.append:61
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_crystal_1\"]"
 msgstr ""
+"크리스탈 전리품\n"
+"크리스탈 지뢰 발사\n"
+"유도 성능 +120\n"
+"투사체 +1\n"
+"재사용 대기시간 +5초"
 
 #: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_federation_1\"]"
 msgstr ""
+"연방 전리품\n"
+"모든 투사체 및 드론 조준 가능\n"
+"충전 횟수 +2\n"
+"재사용 대기시간 -1초"
 
 #: src-en/data/text_misc.xml.append:72
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret\"]"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:73
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_installed\"]"
-msgstr ""
+msgstr "포탑 제어 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:74
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_2\"]"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:75
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_2_installed\"]"
-msgstr ""
+msgstr "포탑 제어 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:76
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_3\"]"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:77
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_3_installed\"]"
-msgstr ""
+msgstr "포탑 제어실 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:78
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_4\"]"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:79
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_4_installed\"]"
-msgstr ""
+msgstr "포탑 제어 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:80
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini\"]"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:81
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_installed\"]"
-msgstr ""
+msgstr "포탑 제어 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:82
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2\"]"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:83
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2_installed\"]"
-msgstr ""
+msgstr "포탑 제어 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:84
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3\"]"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:85
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3_installed\"]"
-msgstr ""
+msgstr "포탑 제어실 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:86
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4\"]"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:87
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4_installed\"]"
-msgstr ""
+msgstr "포탑 제어실 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:88
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive\"]"
-msgstr ""
+msgstr "적응형 포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:89
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_installed\"]"
-msgstr ""
+msgstr "적응형 포탑 제어 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:90
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_2\"]"
-msgstr ""
+msgstr "보조 적응형 포탑 제어 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:91
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_2_installed\"]"
-msgstr ""
+msgstr "보조 적응형 포탑 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:92
 msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single\"]"
-msgstr ""
+msgstr "고급 포탑 제어실"
 
 #: src-en/data/text_misc.xml.append:93
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single_installed\"]"
-msgstr ""
+msgstr "고급 포탑 제어 시스템 설치됨"
 
 #: src-en/data/text_misc.xml.append:95
 msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser\"]"
-msgstr ""
+msgstr "시스템 균형기"
 
 #: src-en/data/text_misc.xml.append:96
 msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser_installed\"]"
-msgstr ""
+msgstr "시스템 균형기 설치됨"
 
 #: src-en/data/text_misc.xml.append:97
 msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_level\"]"
-msgstr ""
+msgstr "피해를 균등화하고 다음 비율만큼 감소시킴: %d%%"
 
 #: src-en/data/text_misc.xml.append:98
 msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_button_hover\"]"
-msgstr ""
+msgstr "선택한 함선 시스템 전체의 피해를 균등화합니다."
 
 #: src-en/data/text_misc.xml.append:99
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_on\"]"
-msgstr ""
+msgstr "균등화 대상입니다. 눌러서 이 시스템을 균등화 대상에서 제외합니다."
 
 #: src-en/data/text_misc.xml.append:100
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_off\"]"
-msgstr ""
+msgstr "균등화 대상이 아닙니다. 눌러서 이 시스템을 균등화 대상에 포함합니다."
