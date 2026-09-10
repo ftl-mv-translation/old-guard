@@ -1,620 +1,711 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-10 13:38+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
+"datatext_tooltipsxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_tooltips.xml.append:2
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
-msgstr ""
+msgstr "팁: 포탑은 포탑 제어 시스템에 장착해야 합니다."
 
 #: src-en/data/text_tooltips.xml.append:3
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_mini\"]"
 msgstr ""
+"팁: 포탑은 포탑 제어 시스템에 장착해야 합니다. 소형 포탑은 소형 및 대형 포탑 "
+"슬롯 모두에 장착할 수 있습니다."
 
 #: src-en/data/text_tooltips.xml.append:4
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret_base\"]"
-msgstr ""
+msgstr "팁: 포탑 제작 시 방어 드론 대신 포탑 기반을 사용할 수 있습니다."
 
 #: src-en/data/text_tooltips.xml.append:6
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret\"]"
 msgstr ""
+"포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다. 선원 배치 "
+"시 충전 시간이 감소합니다."
 
 #: src-en/data/text_tooltips.xml.append:7
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:8
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_2\"]"
 msgstr ""
+"포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다. 선원 배치 "
+"시 충전 시간이 감소합니다."
 
 #: src-en/data/text_tooltips.xml.append:9
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_2_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:10
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_3\"]"
 msgstr ""
+"포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다. 선원 배치 "
+"시 충전 시간이 감소합니다."
 
 #: src-en/data/text_tooltips.xml.append:11
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_3_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:12
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_4\"]"
 msgstr ""
+"포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다. 선원 배치 "
+"시 충전 시간이 감소합니다."
 
 #: src-en/data/text_tooltips.xml.append:13
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_4_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:14
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini\"]"
-msgstr ""
+msgstr "포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다."
 
 #: src-en/data/text_tooltips.xml.append:15
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:16
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2\"]"
-msgstr ""
+msgstr "포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다."
 
 #: src-en/data/text_tooltips.xml.append:17
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_2_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:18
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3\"]"
-msgstr ""
+msgstr "포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다."
 
 #: src-en/data/text_tooltips.xml.append:19
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_3_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:20
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4\"]"
-msgstr ""
+msgstr "포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다."
 
 #: src-en/data/text_tooltips.xml.append:21
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_mini_4_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:22
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive\"]"
 msgstr ""
+"포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다. 선원 배치 "
+"시 충전 시간이 감소합니다."
 
 #: src-en/data/text_tooltips.xml.append:23
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:24
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_2\"]"
 msgstr ""
+"포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다. 선원 배치 "
+"시 충전 시간이 감소합니다."
 
 #: src-en/data/text_tooltips.xml.append:25
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_2_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:26
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_single\"]"
 msgstr ""
+"포탑 제어실: 포탑을 클릭하여 모드를 설정하거나 표적을 지정합니다. 선원 배치 "
+"시 충전 시간이 감소합니다."
 
 #: src-en/data/text_tooltips.xml.append:27
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_turret_adaptive_single_enemy\"]"
-msgstr ""
+msgstr "포탑 제어실: 적 포탑에 전력을 공급합니다."
 
 #: src-en/data/text_tooltips.xml.append:28
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_equaliser\"]"
-msgstr ""
+msgstr "시스템 균형기: 선택한 함선 시스템 전체의 피해를 균등화합니다."
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_og_equaliser_enemy\"]"
-msgstr ""
+msgstr "시스템 균형기: 함선 시스템 전체의 피해를 균등화합니다."
 
 #: src-en/data/text_tooltips.xml.append:31
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:32
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_2\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:33
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_3\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:34
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_4\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:35
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:36
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_2\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:37
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_3\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:38
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_4\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:39
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:40
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_2\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:41
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_single\"]"
-msgstr ""
+msgstr "적 포탑의 충전량을 일시적으로 감소시킵니다."
 
 #: src-en/data/text_tooltips.xml.append:42
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_equaliser\"]"
-msgstr ""
+msgstr "시스템의 작동을 막습니다."
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:45
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_2_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:46
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_3_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:47
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_4_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:48
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:49
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_2_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:50
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_3_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:51
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_mini_4_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:52
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_2_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:54
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"hack_og_turret_adaptive_single_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 포탑 충전량 감소 중."
 
 #: src-en/data/text_tooltips.xml.append:55
 msgid "data/text_tooltips.xml.append$//text[@name=\"hack_og_equaliser_player\"]"
-msgstr ""
+msgstr "시스템 해킹됨: 시스템 정지됨."
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_time\"]"
 msgstr ""
+"스탯:\\n"
+"충전 시간:"
 
 #: src-en/data/text_tooltips.xml.append:58
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_charges\"]"
 msgstr ""
+"\\n"
+"최대 충전 횟수: %d"
 
 #: src-en/data/text_tooltips.xml.append:59
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_amount\"]"
 msgstr ""
+"\\n"
+"충전량: %d"
 
 #: src-en/data/text_tooltips.xml.append:60
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ammo\"]"
 msgstr ""
+"\\n"
+"미사일 소모량: %g"
 
 #: src-en/data/text_tooltips.xml.append:61
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chain\"]"
 msgstr ""
+"\\n"
+"체인 효과: 쿨다운 %d%% 감소"
 
 #: src-en/data/text_tooltips.xml.append:62
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_chainCap\"]"
 msgstr ""
+"\\n"
+"체인 감소 상한: %d%% (%d체인)"
 
 #: src-en/data/text_tooltips.xml.append:63
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rotation\"]"
 msgstr ""
+"\\n\\n"
+"회전 속도: %d"
 
 #: src-en/data/text_tooltips.xml.append:64
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_radius\"]"
 msgstr ""
+"\\n"
+"탄환 산탄도: %d"
 
 #: src-en/data/text_tooltips.xml.append:65
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_rate\"]"
 msgstr ""
+"\\n"
+"발사 속도:"
 
 #: src-en/data/text_tooltips.xml.append:66
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_autofire\"]"
 msgstr ""
+"\\n"
+"점사 수량: 공격:%s/방어:%s"
 
 #: src-en/data/text_tooltips.xml.append:67
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_target\"]"
 msgstr ""
+"\\n"
+"투사체 목표: %s"
 
 #: src-en/data/text_tooltips.xml.append:69
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_damage\"]"
 msgstr ""
+"\\n"
+"기본 선체 피해량: %d"
 
 #: src-en/data/text_tooltips.xml.append:70
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_sysDamage\"]"
 msgstr ""
+"\\n"
+"총 시스템 피해량: %d"
 
 #: src-en/data/text_tooltips.xml.append:71
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_persDamage\"]"
 msgstr ""
+"\\n"
+"총 선원 피해량: %d"
 
 #: src-en/data/text_tooltips.xml.append:72
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_ionDamage\"]"
 msgstr ""
+"\\n"
+"총 이온 피해량: %d"
 
 #: src-en/data/text_tooltips.xml.append:73
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_pierce\"]"
 msgstr ""
+"\\n"
+"방어막 관통: %d"
 
 #: src-en/data/text_tooltips.xml.append:74
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_hullBust\"]"
 msgstr ""
+"\\n"
+"시스템이 없는 방에 2배의 피해를 입힙니다"
 
 #: src-en/data/text_tooltips.xml.append:75
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_lockdown\"]"
 msgstr ""
+"\\n"
+"명중 시 방을 봉쇄합니다"
 
 #: src-en/data/text_tooltips.xml.append:77
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_fireChance\"]"
 msgstr ""
+"\\n"
+"화재 확률: %d%%"
 
 #: src-en/data/text_tooltips.xml.append:78
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_breachChance\"]"
 msgstr ""
+"\\n"
+"균열 확률: %d%% (보정치: %d%%)"
 
 #: src-en/data/text_tooltips.xml.append:79
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_stunChance\"]"
 msgstr ""
+"\\n"
+"기절 확률: %d%% (%d초 동안)"
 
 #: src-en/data/text_tooltips.xml.append:80
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_effect\"]"
 msgstr ""
+"\\n"
+"효과 지속 시간: %d초 동안"
 
 #: src-en/data/text_tooltips.xml.append:82
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_neutron_damage\"]"
 msgstr ""
+"\\n"
+"빔 피해량: 초당 %g"
 
 #: src-en/data/text_tooltips.xml.append:83
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_neutron_duration\"]"
 msgstr ""
+"\\n"
+"빔 지속 시간: %.1f초"
 
 #: src-en/data/text_tooltips.xml.append:85
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price\"]"
 msgstr ""
+"\\n\\n"
+"기본 가격: %d~   -   판매 가격: %d~"
 
 #: src-en/data/text_tooltips.xml.append:86
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_stats_price_short\"]"
-msgstr ""
+msgstr "\\n\\n%d~   -   %d~"
 
 #: src-en/data/text_tooltips.xml.append:88
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_power_increase\"]"
-msgstr ""
+msgstr "빠른 충전 시간"
 
 #: src-en/data/text_tooltips.xml.append:90
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_offence\"]"
-msgstr ""
+msgstr "포탑을 방어 모드로 설정합니다."
 
 #: src-en/data/text_tooltips.xml.append:91
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_defence\"]"
-msgstr ""
+msgstr "포탑을 공격 모드로 설정합니다."
 
 #: src-en/data/text_tooltips.xml.append:92
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_autoFire\"]"
 msgstr ""
+"포탑의 자동 발사 활성화/비활성화 전환.\\n\\n"
+"왼쪽 CTRL + 조준으로 현재 설정과 반대로 강제 작동 가능"
 
 #: src-en/data/text_tooltips.xml.append:94
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_charges\"]"
-msgstr ""
+msgstr "충전량: %d/%d"
 
 #: src-en/data/text_tooltips.xml.append:95
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hover_time\"]"
 msgstr ""
+"\\n"
+"충전 시간: %.1f/%.1f"
 
 #: src-en/data/text_tooltips.xml.append:97
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_none\"]"
-msgstr ""
+msgstr "없음"
 
 #: src-en/data/text_tooltips.xml.append:98
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones\"]"
-msgstr ""
+msgstr "드론"
 
 #: src-en/data/text_tooltips.xml.append:99
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_missiles\"]"
-msgstr ""
+msgstr "모든 실체 투사체"
 
 #: src-en/data/text_tooltips.xml.append:100
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_missiles\"]"
-msgstr ""
+msgstr "모든 실체 투사체 및 드론"
 
 #: src-en/data/text_tooltips.xml.append:101
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles\"]"
-msgstr ""
+msgstr "비실체 투사체"
 
 #: src-en/data/text_tooltips.xml.append:102
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_drones_projectiles\"]"
-msgstr ""
+msgstr "비실체 투사체 및 드론"
 
 #: src-en/data/text_tooltips.xml.append:103
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_projectiles_missiles\"]"
-msgstr ""
+msgstr "모든 투사체"
 
 #: src-en/data/text_tooltips.xml.append:104
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_type_all\"]"
-msgstr ""
+msgstr "모든 투사체 및 드론"
 
 #: src-en/data/text_tooltips.xml.append:106
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use\"]"
-msgstr ""
+msgstr "%s 사용"
 
 #: src-en/data/text_tooltips.xml.append:107
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_use_scrap\"]"
-msgstr ""
+msgstr "%s + %d~ 사용"
 
 #: src-en/data/text_tooltips.xml.append:108
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_finish\"]"
-msgstr ""
+msgstr "제공된 설계도를 따라 제작하여 새 아이템을 획득했습니다."
 
 #: src-en/data/text_tooltips.xml.append:109
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_blueprint\"]"
-msgstr ""
+msgstr "설계도:"
 
 #: src-en/data/text_tooltips.xml.append:110
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_mystery\"]"
-msgstr ""
+msgstr "???"
 
 #: src-en/data/text_tooltips.xml.append:111
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_requires\"]"
-msgstr ""
+msgstr "%s 필요 요구사항:"
 
 #: src-en/data/text_tooltips.xml.append:112
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_atleast\"]"
 msgstr ""
+"\\n"
+"최소 %d개:"
 
 #: src-en/data/text_tooltips.xml.append:113
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list\"]"
-msgstr ""
+msgstr "\\n%s"
 
 #: src-en/data/text_tooltips.xml.append:114
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_list_scrap\"]"
-msgstr ""
+msgstr "\\n%s + %d~"
 
 #: src-en/data/text_tooltips.xml.append:115
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_craft\"]"
-msgstr ""
+msgstr "이 아이템을 제작합니다."
 
 #: src-en/data/text_tooltips.xml.append:116
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_craft_unknown\"]"
-msgstr ""
+msgstr "알 수 없는 포탑"
 
 #: src-en/data/text_tooltips.xml.append:118
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_nevermind\"]"
-msgstr ""
+msgstr "취소."
 
 #: src-en/data/text_tooltips.xml.append:119
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_uninstall\"]"
-msgstr ""
+msgstr "포탑 해체:"
 
 #: src-en/data/text_tooltips.xml.append:120
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_empty\"]"
-msgstr ""
+msgstr "빈 포탑 슬롯 관리."
 
 #: src-en/data/text_tooltips.xml.append:121
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_leave\"]"
-msgstr ""
+msgstr "비워두기."
 
 #: src-en/data/text_tooltips.xml.append:122
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_manage_install\"]"
-msgstr ""
+msgstr "장착하기:"
 
 #: src-en/data/text_tooltips.xml.append:124
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate\"]"
-msgstr ""
+msgstr "다음 아이템 제작에 사용 가능:"
 
 #: src-en/data/text_tooltips.xml.append:125
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_item\"]"
-msgstr ""
+msgstr "\\n[%s]"
 
 #: src-en/data/text_tooltips.xml.append:126
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_mystery\"]"
-msgstr ""
+msgstr "\\n[???]"
 
 #: src-en/data/text_tooltips.xml.append:127
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_fabricate_hover\"]"
-msgstr ""
+msgstr "제작 가능 품목:"
 
 #: src-en/data/text_tooltips.xml.append:129
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_unset\"]"
-msgstr ""
+msgstr "설정 안 됨"
 
 #: src-en/data/text_tooltips.xml.append:130
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_current\"]"
-msgstr ""
+msgstr "현재 단축키:"
 
 #: src-en/data/text_tooltips.xml.append:131
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_key_currently\"]"
-msgstr ""
+msgstr "(현재 \"%s\" 키)"
 
 #: src-en/data/text_tooltips.xml.append:133
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_valid\"]"
 msgstr ""
+"\\n"
+"반군 충성도 업적: 조건 충족\\n"
+"현재 함선 선원: 조건 충족"
 
 #: src-en/data/text_tooltips.xml.append:134
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_crew\"]"
 msgstr ""
+"\\n"
+"반군 충성도 업적: 조건 충족\\n"
+"현재 함선 선원: 조건 미달\\n"
+"부적합한 선원:"
 
 #: src-en/data/text_tooltips.xml.append:135
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_ach_invalid\"]"
 msgstr ""
+"\\n"
+"반군 충성도 업적: 조건 미달"
 
 #: src-en/data/text_tooltips.xml.append:137
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_clone_cannon\"]"
-msgstr ""
+msgstr "클론"
 
 #: src-en/data/text_tooltips.xml.append:138
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_midnight_hacking_name\"]"
-msgstr ""
+msgstr "해킹 드론"
 
 #: src-en/data/text_tooltips.xml.append:139
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_midnight_hacking_text\"]"
 msgstr ""
+"해킹 드론\\n"
+"도약 시, 또는 시스템이 완파되면 제거됩니다.\\n\\n"
+"현재 시간:%.1f초\\n"
+"쿨다운:%d초\\n"
+"해킹 지속 시간:%d초"
 
 #: src-en/data/text_tooltips.xml.append:141
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_iron\"]"
-msgstr ""
+msgstr "아이언 워치 평판"
 
 #: src-en/data/text_tooltips.xml.append:142
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_dawn\"]"
-msgstr ""
+msgstr "뉴 던 평판"
 
 #: src-en/data/text_tooltips.xml.append:144
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_ancient\"]"
-msgstr ""
+msgstr "오래된 무언가..."
 
 #: src-en/data/text_tooltips.xml.append:145
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_clone_cannon\"]"
-msgstr ""
+msgstr "윤리적으로 의심스러운 무언가."
 
 #: src-en/data/text_tooltips.xml.append:146
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_gatling\"]"
-msgstr ""
+msgstr "적에게 지옥을 선사해 줄 것입니다!"
 
 #: src-en/data/text_tooltips.xml.append:147
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_laser\"]"
-msgstr ""
+msgstr "이것에 맞았다면 당신은 이미 죽은 것입니다."
 
 #: src-en/data/text_tooltips.xml.append:148
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_defense\"]"
-msgstr ""
+msgstr "수호천사."
 
 #: src-en/data/text_tooltips.xml.append:149
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_prime_combat\"]"
-msgstr ""
+msgstr "복수의 천사."
 
 #: src-en/data/text_tooltips.xml.append:150
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_scifi\"]"
-msgstr ""
+msgstr "진정한 과학!"
 
 #: src-en/data/text_tooltips.xml.append:151
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_sylvan\"]"
-msgstr ""
+msgstr "탐욕스러운 배신자여."
 
 #: src-en/data/text_tooltips.xml.append:152
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_sylvan_honor\"]"
-msgstr ""
+msgstr "반군들의 엉덩이를 걷어차주러 갑시다."
 
 #: src-en/data/text_tooltips.xml.append:153
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_chaingun_gold\"]"
-msgstr ""
+msgstr "악명 높은 개틀링 건의 재현품"
 
 #: src-en/data/text_tooltips.xml.append:155
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_soulplague\"]"
-msgstr ""
+msgstr "더 많은 포탑을 원하시나요 - 포탑은 더 많은... 음, 모든 것을 원합니다."
 
 #: src-en/data/text_tooltips.xml.append:156
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_falseradiance\"]"
 msgstr ""
+"그리고 여덟째 날... 당신의 적들은 간절한 목소리로 구원을 부르짖었습니다. "
+"하지만 구원은 끝내 오지 않을 것입니다."
 
 #: src-en/data/text_tooltips.xml.append:157
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_hidename_dd_darkgod\"]"
-msgstr ""
+msgstr "상황이 원했던 것보다 조금 더 어두워지고 있는 것 같지 않나요?"
