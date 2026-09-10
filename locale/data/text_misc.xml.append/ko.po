@@ -1,0 +1,302 @@
+#
+msgid ""
+msgstr ""
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_loc\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:5
+msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_static_loc\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_og_neutron_beam\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"tip_og_triplet\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"ship_unlock_og_two_wins\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:12
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_RAIDER_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:13
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_RAIDER_2_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:14
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_RAIDER_3_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:16
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:17
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_2_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:18
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_EXECUTOR_3_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:20
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_SPEAR_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:21
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_SPEAR_2_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:22
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_SPEAR_3_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:24
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:25
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_2_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:26
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DAWN_BIG_3_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:28
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_HUNTER_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:29
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_HUNTER_2_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:30
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_HUNTER_3_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:32
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DRIFTER_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:33
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DRIFTER_2_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:34
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_DRIFTER_3_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:36
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_REBEL_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:37
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_CURA_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:38
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_SEPARATIST_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:39
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ANGEL_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:40
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ROCK_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:41
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_PEACEKEEPER_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:42
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_KNIGHT_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:44
+msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_SILAS_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:45
+msgid "data/text_misc.xml.append$//text[@name=\"ship_CREW_SHIP_OG_HORUS_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:47
+msgid "data/text_misc.xml.append$//text[@name=\"loot_og_dawn_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:50
+msgid "data/text_misc.xml.append$//text[@name=\"loot_og_midnight_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:54
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_slug_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:57
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_clan_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:61
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_crystal_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:67
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_loot_federation_1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:72
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:73
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:74
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_2\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:75
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_2_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:76
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_3\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:77
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_3_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:78
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_4\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:79
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_4_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:80
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:81
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:82
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:83
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_2_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:84
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:85
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_3_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:86
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:87
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_mini_4_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:88
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:89
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:90
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_2\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:91
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_2_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:92
+msgid "data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:93
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"og_turret_adaptive_single_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:95
+msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:96
+msgid "data/text_misc.xml.append$//text[@name=\"og_equaliser_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:97
+msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_level\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:98
+msgid "data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_button_hover\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:99
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_on\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:100
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"og_lua_equaliser_system_hover_off\"]"
+msgstr ""
