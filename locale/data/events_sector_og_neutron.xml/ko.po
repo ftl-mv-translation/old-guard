@@ -1,0 +1,1803 @@
+#
+msgid ""
+msgstr ""
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src-en/data/events_sector_og_neutron.xml:23
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:30
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:34
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:38
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ELITE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:51
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:58
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:62
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:66
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"FLEET_OG_IRON_ACE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:81
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_EXECUTOR_OG_IRON_DESTROY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:84
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_EXECUTOR_OG_IRON_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:89
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_EXECUTOR_OG_IRON_DEADCREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:93
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_EXECUTOR_OG_IRON_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:105
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_EXECUTOR_OG_IRON_FOLLOWUP\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:107
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_EXECUTOR_OG_IRON_FOLLOWUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:111
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_EXECUTOR_OG_IRON_FOLLOWUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:123
+msgid "data/events_sector_og_neutron.xml$//event[@name=\"START_OG_NEUTRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:132
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"START_OG_NEUTRON\"]/choice[@req=\"og_neutron_dawn_aligned\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:136
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"START_OG_NEUTRON\"]/choice[@req=\"og_neutron_dawn_aligned\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:141
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:146
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:148
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:152
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:154
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:158
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:162
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:166
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_IRON\"]/choice/event/choice/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:175
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:177
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:179
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:184
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:186
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:193
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:195
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:202
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:204
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GUARD_OG_NEUTRON_FRIENDLY_SUPPORT\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:214
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:218
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:220
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:222
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:224
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:226
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:228
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:230
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:234
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:240
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:242
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:244
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:248
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_START_DAWN\"]/choice/event/choice/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:264
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"FINISH_BEACON_OG_NEUTRON\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:268
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"FINISH_BEACON_OG_NEUTRON\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:272
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"FINISH_BEACON_OG_NEUTRON\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:283
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_RESEARCH_STATION\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:296
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_RESEARCH_STATION_RETURN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:298
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_RESEARCH_STATION_RETURN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:302
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_RESEARCH_STATION_RETURN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:314
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_FINISHER\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:317
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_FINISHER\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:322
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_FINISHER\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:326
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_FINISHER\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:333
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:337
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:339
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:342
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:344
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:348
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:350
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:353
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_IRON\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:365
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:369
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:371
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:375
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:377
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:386
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:388
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:394
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:396
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:404
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:406
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_SAVED\"]/choice/event/choice[2]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:426
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_IRON_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:432
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_IRON_QUEST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:434
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_IRON_QUEST\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:443
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_DAWN_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:449
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_DAWN_QUEST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:451
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_GHOST_DAWN_QUEST\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:458
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_MIDFIGHT_RESET\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:467
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_MIDFIGHT_RESET\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:472
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_MIDFIGHT_RESET\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:476
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_MIDFIGHT_RESET\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:483
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DEADCREW\"]/loadEventList/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:486
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DEADCREW\"]/loadEventList/event/choice[@req=\"unique_og_silas\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:490
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DEADCREW\"]/loadEventList/event/choice[@req=\"unique_og_silas\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:497
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DEADCREW_RESET\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:500
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DEADCREW_RESET\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:508
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_RESUME\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:510
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_RESUME\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:516
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DESTROYED\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:519
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DESTROYED\"]/choice[@req=\"unique_og_silas\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:523
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_DESTROYED\"]/choice[@req=\"unique_og_silas\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:529
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_SALVAGE_SILAS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:533
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_SALVAGE_SILAS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:538
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_SALVAGE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:542
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_SALVAGE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:547
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_WEAPON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:550
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SHIP_OG_MIDNIGHT_HUNTER_WEAPON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:557
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_IRON_RESEARCH_STATION\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:561
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_IRON_RESEARCH_STATION\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:566
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_IRON_RESEARCH_STATION\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:571
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_IRON_RESEARCH_STATION\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:578
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:583
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:585
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:589
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:591
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:595
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:598
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:604
+msgid ""
+"data/events_sector_og_neutron.xml$//triggeredEvent[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN_MISSION\"]/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:610
+msgid ""
+"data/events_sector_og_neutron.xml$/dummyroot/FTL/event[@name=\"OG_NEUTRON_RESEARCH_STATION_DAWN\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:622
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_FAILED\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:624
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_FAILED\"]/choice[@req=\"human_og_midnight\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:626
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_FAILED\"]/choice[@req=\"human_og_midnight\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:634
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_FAILED\"]/choice[@req=\"human_og_midnight\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:641
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_SYNCHROTRON\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:644
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_SYNCHROTRON\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:649
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_SYNCHROTRON\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:652
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_RESEARCH_SYNCHROTRON\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:658
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_BARRIER_GET\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:665
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:669
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:671
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:673
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:675
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:678
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:681
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:685
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:687
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:690
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:692
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:698
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESEARCH_STATION_WON\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:719
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:720
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:721
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:722
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DESTROYED_OG_MIDNIGHT\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:730
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_MIDNIGHT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:731
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_MIDNIGHT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:732
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_MIDNIGHT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:738
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"SURRENDER_OG_MIDNIGHT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:747
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:748
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:749
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:750
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:751
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:752
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:753
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[7]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:754
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[8]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:755
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[9]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:756
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[10]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:757
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_SURRENDER_OG_MIDNIGHT\"]/text[11]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:761
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"ESCAPE_OG_MIDNIGHT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:774
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_MIDNIGHT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:775
+msgid ""
+"data/events_sector_og_neutron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_MIDNIGHT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:778
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"GOTAWAY_OG_MIDNIGHT_REMAINS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:806
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_MIDNIGHT_TRANSPORT_LOOT\"]/escape/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:817
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:818
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:819
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:821
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:824
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:826
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:829
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:835
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:837
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:839
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:843
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_OG_MIDNIGHT_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:850
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"TRANSPORT_CAPTURE_OG_MIDNIGHT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:864
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:866
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:868
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:871
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:876
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:882
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:884
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:886
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:890
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:897
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET_ARRIVE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:900
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET_ARRIVE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:904
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_PLANET_ARRIVE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:914
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_MIDNIGHT_STORE\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:922
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_MIDNIGHT_STORE\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:932
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:935
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:937
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:940
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:946
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:948
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:950
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:954
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_ATTACK\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:961
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:964
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"STOREVENT_OG_NEUTRON_MIDNIGHT_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:979
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:981
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:983
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:988
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:992
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:998
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1000
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1002
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1006
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_RESCUE_CIVILIAN\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1016
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1020
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"BEAM_MINING\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1024
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_MINING_DRONE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1026
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_MINING_DRONE\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1031
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_MINING_DRONE\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1037
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"SCRAP_COLLECTOR\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1041
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_BEAM_DRONE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1043
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_BEAM_DRONE\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1048
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"DRONE_CONTROL_BEAM_DRONE\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1054
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"BLUELIST_BEAMS_DAMAGE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1058
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1062
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1066
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1070
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1072
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[9]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1074
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[9]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1078
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_HAZARD_ASTEROID_FIELD\"]/choice[9]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1085
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_60\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1089
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_60\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1094
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_60\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1099
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_45\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1103
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_45\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1108
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_45\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1113
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_30\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1117
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_30\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1122
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_30\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1127
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_15\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1131
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_15\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1136
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_START_15\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1141
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_ASTEROID_FIELD_FINISH\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1158
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1160
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1162
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1165
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1171
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1173
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1175
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1179
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DAWN_WRECK\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1201
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_NEUTRON_PIRATE_MANTIS_LIFEBOAT\"]/surrender/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1203
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_NEUTRON_PIRATE_MANTIS_LIFEBOAT\"]/surrender/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1207
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_NEUTRON_PIRATE_MANTIS_LIFEBOAT\"]/surrender/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1221
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_NEUTRON_PIRATE_MANTIS_LIFEBOAT\"]/gotaway/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1229
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_NEUTRON_PIRATE_MANTIS_LIFEBOAT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1237
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_NEUTRON_PIRATE_MANTIS_LIFEBOAT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1244
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1248
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1250
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1252
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1254
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1259
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT_INSPECT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1265
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1267
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1270
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1276
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1278
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1280
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1284
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_MANTIS_LIFEBOAT\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1294
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1297
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1299
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1303
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1309
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1311
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1314
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1320
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1322
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1324
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1328
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_IRON_SCAVENGER\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1338
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1340
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1342
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1344
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1348
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1352
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGI\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1356
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1360
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_SABOTEUR\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1364
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"hacking\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1368
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1372
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"weapons\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1376
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1380
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[10]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1382
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[10]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1384
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[10]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1388
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[10]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1396
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1398
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1401
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1407
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1409
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1411
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1415
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1438
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_DETECTION\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1442
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_REPAIR\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1446
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_REPAIR_PARTIAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1450
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_NOHELP\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1453
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_FAILURE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1456
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST_OUTCOME_FAILURE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1475
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_DISTRESS_CIVILIAN\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1483
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_DAWN_DISTRESS_CIVILIAN\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1492
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1494
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1496
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1499
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1505
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1507
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1509
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1513
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1520
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1524
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1526
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1531
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_CIVILIAN_FOLLOWUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1539
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1543
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1545
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1547
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1555
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1559
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1561
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1563
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1567
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1573
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[1]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1579
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1583
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1585
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1587
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1591
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1598
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE_ATTACK\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1604
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DISTRESS_PIRATE_ATTACK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1618
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_MIDNIGHT_DIPLOMAT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1626
+msgid ""
+"data/events_sector_og_neutron.xml$//ship[@name=\"SHIP_OG_MIDNIGHT_DIPLOMAT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1636
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1638
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1640
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1643
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1649
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1651
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1653
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1657
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1664
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1668
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1670
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1672
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1674
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1679
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1681
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_EXPLAIN\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1687
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1689
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1691
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1695
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_neutron.xml:1697
+msgid ""
+"data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_DIPLOMAT_START_WIN\"]/choice[2]/event/choice[2]/event/text"
+msgstr ""
