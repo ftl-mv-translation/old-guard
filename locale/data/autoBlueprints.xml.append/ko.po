@@ -1,205 +1,208 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-10 05:46+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataautoblueprintsxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/autoBlueprints.xml.append:303
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_SCOUT\"]/class"
-msgstr ""
+msgstr "아이언 워치 정찰기"
 
 #: src-en/data/autoBlueprints.xml.append:327
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_INFILTRATOR\"]/class"
-msgstr ""
+msgstr "아이언 워치 침투선"
 
 #: src-en/data/autoBlueprints.xml.append:352
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_OUTRIDER\"]/class"
-msgstr ""
+msgstr "아이언 워치 선도함"
 
 #: src-en/data/autoBlueprints.xml.append:377
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_BOMBER\"]/class"
-msgstr ""
+msgstr "아이언 워치 폭격기"
 
 #: src-en/data/autoBlueprints.xml.append:403
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_CORVETTE\"]/class"
-msgstr ""
+msgstr "아이언 워치 초계함"
 
 #: src-en/data/autoBlueprints.xml.append:430
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_FIGHTER\"]/class"
-msgstr ""
+msgstr "아이언 워치 전투기"
 
 #: src-en/data/autoBlueprints.xml.append:458
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_TRANSPORT\"]/class"
-msgstr ""
+msgstr "아이언 워치 수송선"
 
 #: src-en/data/autoBlueprints.xml.append:487
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_RAIDER\"]/class"
-msgstr ""
+msgstr "아이언 워치 습격선"
 
 #: src-en/data/autoBlueprints.xml.append:517
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_GUARD\"]/class"
-msgstr ""
+msgstr "아이언 워치 경비정"
 
 #: src-en/data/autoBlueprints.xml.append:547
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_EXECUTOR\"]/class"
-msgstr ""
+msgstr "아이언 워치 집행함"
 
 #: src-en/data/autoBlueprints.xml.append:576
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_STATION\"]/class"
-msgstr ""
+msgstr "아이언 워치 정거장"
 
 #: src-en/data/autoBlueprints.xml.append:602
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_IRON_STATION_DAMAGED\"]/class"
-msgstr ""
+msgstr "아이언 워치 정거장"
 
 #: src-en/data/autoBlueprints.xml.append:722
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_SCOUT\"]/class"
-msgstr ""
+msgstr "뉴 던 정찰기"
 
 #: src-en/data/autoBlueprints.xml.append:747
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_INFILTRATOR\"]/class"
-msgstr ""
+msgstr "뉴 던 침투선"
 
 #: src-en/data/autoBlueprints.xml.append:773
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_OUTRIDER\"]/class"
-msgstr ""
+msgstr "뉴 던 선도함"
 
 #: src-en/data/autoBlueprints.xml.append:799
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_BOMBER\"]/class"
-msgstr ""
+msgstr "뉴 던 폭격기"
 
 #: src-en/data/autoBlueprints.xml.append:826
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_CORVETTE\"]/class"
-msgstr ""
+msgstr "뉴 던 초계함"
 
 #: src-en/data/autoBlueprints.xml.append:854
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_FIGHTER\"]/class"
-msgstr ""
+msgstr "뉴 던 전투기"
 
 #: src-en/data/autoBlueprints.xml.append:883
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_TRANSPORT\"]/class"
-msgstr ""
+msgstr "뉴 던 수송선"
 
 #: src-en/data/autoBlueprints.xml.append:913
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_RAIDER\"]/class"
-msgstr ""
+msgstr "뉴 던 순양함"
 
 #: src-en/data/autoBlueprints.xml.append:944
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_GUARD\"]/class"
-msgstr ""
+msgstr "뉴 던 경비정"
 
 #: src-en/data/autoBlueprints.xml.append:974
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_DAWN_SYNCHROTRON\"]/class"
-msgstr ""
+msgstr "뉴 던 초계함"
 
 #: src-en/data/autoBlueprints.xml.append:1003
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_LEGION_ASSAULT_TURRET\"]/class"
-msgstr ""
+msgstr "군단 강습함"
 
 #: src-en/data/autoBlueprints.xml.append:1030
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_NORMAL\"]/class"
-msgstr ""
+msgstr "배회자 순양함"
 
 #: src-en/data/autoBlueprints.xml.append:1058
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_CHALLENGE\"]/class"
-msgstr ""
+msgstr "배회자 순양함"
 
 #: src-en/data/autoBlueprints.xml.append:1086
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_EXTREME\"]/class"
-msgstr ""
+msgstr "배회자 순양함"
 
 #: src-en/data/autoBlueprints.xml.append:1114
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OGT_BOSS_IRON_CHAOS\"]/class"
-msgstr ""
+msgstr "배회자 순양함"
 
 #: src-en/data/autoBlueprints.xml.append:1223
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_SCOUT\"]/class"
-msgstr ""
+msgstr "미드나이트 선 정찰기"
 
 #: src-en/data/autoBlueprints.xml.append:1248
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_INFILTRATOR\"]/class"
-msgstr ""
+msgstr "미드나이트 선 침투선"
 
 #: src-en/data/autoBlueprints.xml.append:1274
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_OUTRIDER\"]/class"
-msgstr ""
+msgstr "미드나이트 선 선도함"
 
 #: src-en/data/autoBlueprints.xml.append:1300
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_BOMBER\"]/class"
-msgstr ""
+msgstr "미드나이트 선 폭격기"
 
 #: src-en/data/autoBlueprints.xml.append:1328
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_CORVETTE\"]/class"
-msgstr ""
+msgstr "미드나이트 선 초계함"
 
 #: src-en/data/autoBlueprints.xml.append:1357
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_FIGHTER\"]/class"
-msgstr ""
+msgstr "미드나이트 선 전투기"
 
 #: src-en/data/autoBlueprints.xml.append:1387
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_TRANSPORT\"]/class"
-msgstr ""
+msgstr "미드나이트 선 수송선"
 
 #: src-en/data/autoBlueprints.xml.append:1417
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_GUARD\"]/class"
-msgstr ""
+msgstr "미드나이트 선 전함"
 
 #: src-en/data/autoBlueprints.xml.append:1447
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_MIDNIGHT_HUNTER\"]/class"
-msgstr ""
+msgstr "미드나이트 선 추적함"
 
 #: src-en/data/autoBlueprints.xml.append:3039
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_SLUG_BATTLECRUISER\"]/class"
-msgstr ""
+msgstr "도둑정 순양전함"
 
 #: src-en/data/autoBlueprints.xml.append:3063
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_CLAN_BATTLECRUISER\"]/class"
-msgstr ""
+msgstr "길드 순양전함"
 
 #: src-en/data/autoBlueprints.xml.append:3087
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"OG_CRYSTAL_BATTLECRUISER\"]/class"
-msgstr ""
+msgstr "제국 순양전함"
