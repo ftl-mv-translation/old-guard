@@ -1,140 +1,143 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-10 05:38+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
+"datasector_dataxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/sector_data.xml.append:45
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[1]"
-msgstr ""
+msgstr "아이언 워치 구역"
 
 #: src-en/data/sector_data.xml.append:46
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[2]"
-msgstr ""
+msgstr "아이언 워치의 우주"
 
 #: src-en/data/sector_data.xml.append:47
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[3]"
-msgstr ""
+msgstr "아이언 워치 개척지"
 
 #: src-en/data/sector_data.xml.append:48
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[4]"
-msgstr ""
+msgstr "아이언 워치 영토"
 
 #: src-en/data/sector_data.xml.append:49
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[5]"
-msgstr ""
+msgstr "아이언 워치 정착지"
 
 #: src-en/data/sector_data.xml.append:50
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[6]"
-msgstr ""
+msgstr "아이언 워치 외곽 성단"
 
 #: src-en/data/sector_data.xml.append:51
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[7]"
-msgstr ""
+msgstr "아이언 워치 지구"
 
 #: src-en/data/sector_data.xml.append:52
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[8]"
-msgstr ""
+msgstr "아이언 워치 소유지"
 
 #: src-en/data/sector_data.xml.append:53
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[9]"
-msgstr ""
+msgstr "아이언 워치 자치령"
 
 #: src-en/data/sector_data.xml.append:54
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[10]"
-msgstr ""
+msgstr "아이언 워치 세력권"
 
 #: src-en/data/sector_data.xml.append:55
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[11]"
-msgstr ""
+msgstr "아이언 워치 영역"
 
 #: src-en/data/sector_data.xml.append:56
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON\"]/nameList/name[12]"
-msgstr ""
+msgstr "아이언 워치 외곽 지역"
 
 #: src-en/data/sector_data.xml.append:126
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[1]"
-msgstr ""
+msgstr "아이언 워치 구역 [할인!]"
 
 #: src-en/data/sector_data.xml.append:127
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[2]"
-msgstr ""
+msgstr "아이언 워치 의 우주 [할인!]"
 
 #: src-en/data/sector_data.xml.append:128
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[3]"
-msgstr ""
+msgstr "아이언 워치 개척지 [할인!]"
 
 #: src-en/data/sector_data.xml.append:129
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[4]"
-msgstr ""
+msgstr "아이언 워치 영토 [할인!]"
 
 #: src-en/data/sector_data.xml.append:130
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[5]"
-msgstr ""
+msgstr "아이언 워치 정착지 [할인!]"
 
 #: src-en/data/sector_data.xml.append:131
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[6]"
-msgstr ""
+msgstr "아이언 워치 외곽 성단 [할인!]"
 
 #: src-en/data/sector_data.xml.append:132
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[7]"
-msgstr ""
+msgstr "아이언 워치 지구 [할인!]"
 
 #: src-en/data/sector_data.xml.append:133
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[8]"
-msgstr ""
+msgstr "아이언 워치 소유지 [할인!]"
 
 #: src-en/data/sector_data.xml.append:134
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[9]"
-msgstr ""
+msgstr "아이언 워치 자치령 [할인!]"
 
 #: src-en/data/sector_data.xml.append:135
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[10]"
-msgstr ""
+msgstr "아이언 워치 세력권 [할인!]"
 
 #: src-en/data/sector_data.xml.append:136
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[11]"
-msgstr ""
+msgstr "아이언 워치 영역 [할인!]"
 
 #: src-en/data/sector_data.xml.append:137
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_IRON_HEKTAR\"]/nameList/name[12]"
-msgstr ""
+msgstr "아이언 워치 외곽 지역 [할인!]"
 
 #: src-en/data/sector_data.xml.append:207
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_DAWN_UNIQUE\"]/nameList/name"
-msgstr ""
+msgstr "뉴 던 전방 작전 기지 [!]"
 
 #: src-en/data/sector_data.xml.append:283
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OG_NEUTRON\"]/nameList/name"
-msgstr ""
+msgstr "중성자별 제한 구역"
