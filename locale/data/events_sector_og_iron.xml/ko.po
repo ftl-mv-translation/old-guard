@@ -1,0 +1,2159 @@
+#
+msgid ""
+msgstr ""
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src-en/data/events_sector_og_iron.xml:10
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DESTROY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:13
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:18
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEADCREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:22
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:34
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:43
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:47
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:55
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:56
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:57
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:59
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:63
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:71
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:72
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:73
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:75
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:81
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:87
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_START_OG_IRON\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:88
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_START_OG_IRON\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:101
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"START_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:105
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"START_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:109
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"START_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:114
+msgid "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:116
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:118
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:121
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:127
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:129
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:136
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:140
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:142
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:146
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:150
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_CONTROL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:154
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_AFFECT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:158
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:162
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:166
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:172
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:174
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:176
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:179
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:185
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:187
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:196
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_WAVER\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:200
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:202
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:204
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:207
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:215
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:218
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:220
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:222
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:226
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:232
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:236
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:241
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:249
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:250
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:251
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:256
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:260
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:264
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[@req=\"weapons\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:268
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:270
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:275
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:277
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:279
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:283
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:291
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_REQUEST\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:294
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_REQUEST\"]/event[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:299
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEMAND\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:303
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:306
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:311
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:314
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:322
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:327
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON_COMBAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:331
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON_COMBAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:336
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_DOUBLE_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:341
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:346
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:352
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:356
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:361
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON_COMBAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:366
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON_COMBAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:380
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:384
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[@req=\"OG_IRON_FINISH_POSITIVE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:388
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[@req=\"OG_IRON_FINISH_NEGATIVE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:392
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:396
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:400
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:406
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:411
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:413
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:415
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:417
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:422
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:426
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:430
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:446
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:447
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:448
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:449
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:457
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:458
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:459
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:465
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"SURRENDER_OG_IRON\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:474
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:475
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:476
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:477
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:478
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:479
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:480
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[7]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:481
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[8]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:482
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[9]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:483
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[10]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:484
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[11]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:488
+msgid "data/events_sector_og_iron.xml$//event[@name=\"ESCAPE_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:501
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_IRON\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:502
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_IRON\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:505
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"GOTAWAY_OG_IRON_REMAINS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:567
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:570
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:572
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:578
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:584
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:586
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:592
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:598
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:600
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:606
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:612
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:614
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:617
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:623
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:643
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:647
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:649
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:653
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:657
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:663
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:665
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:667
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:671
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:681
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:683
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:686
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:690
+msgid ""
+"data/events_sector_og_iron.xml$//triggeredEvent[@name=\"OG_IRON_FOR_SCIENCE_TURRET\"]/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:698
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:700
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:702
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:706
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:714
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:716
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"LIST_CREW_POWER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:720
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"battery\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:724
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:738
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS_ION\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:742
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:748
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_BLAST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:767
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:769
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:771
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:776
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:778
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:780
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:784
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:807
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:810
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:815
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:818
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:826
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:828
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:830
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:833
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:839
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:842
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:844
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:848
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:858
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:860
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:862
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:865
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:871
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:874
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:876
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:880
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:890
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:892
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:894
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:897
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:899
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:903
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:909
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:911
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:915
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:923
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:926
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:928
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:932
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:941
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:943
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:947
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:955
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:963
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:970
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE_SURRENDER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:973
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE_SURRENDER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:978
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:983
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:985
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:989
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[@req=\"sensors\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:993
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[@req=\"sensors\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:997
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:999
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1001
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1005
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1014
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1017
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1019
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1022
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1028
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1030
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1032
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1036
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1044
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1046
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1048
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1051
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1057
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1059
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1061
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1065
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1072
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_EXPLORE_TRANSPORT_SEARCH\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1095
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_WATCH_PIRATE\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1104
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_WATCH_PIRATE\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1113
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1115
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1117
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1120
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1126
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1128
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1130
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1134
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1149
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1151
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1153
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1156
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1162
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1164
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1169
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1178
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1180
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1182
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1188
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1194
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1196
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1199
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1205
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"DRONE_CONTROL_REPAIR_CREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1209
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1213
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1215
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1218
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1224
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1226
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1228
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1232
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1241
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1247
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1252
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1259
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1268
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1271
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1276
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1280
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1284
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1287
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1305
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1307
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1309
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1312
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1314
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1318
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1322
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1334
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1338
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1340
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1342
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1344
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
+"not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1346
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
+"not(@lvl)]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1351
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
+"not(@lvl)]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1357
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
+"@lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1361
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1363
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1365
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1369
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"1\"]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1377
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1381
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1383
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1385
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1389
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1408
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1410
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1414
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1416
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1419
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1421
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"1\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1429
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1431
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1434
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1438
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
+" and @lvl=\"-999\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1444
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1446
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1449
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1453
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1461
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1464
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1469
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1473
+msgid ""
+"data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1484
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_DAWN_QUEST\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1492
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_DAWN_QUEST\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1500
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1505
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1507
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1509
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1512
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1518
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1520
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1523
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1529
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1531
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1534
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1538
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1548
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1551
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1558
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1562
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1591
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_SHIP\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1596
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1597
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1598
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1599
+msgid ""
+"data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1603
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1607
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1613
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1617
+msgid ""
+"data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1629
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1637
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1645
+msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1647
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1649
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1652
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1654
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1657
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1661
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1665
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1669
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1671
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1676
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1678
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1680
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1684
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1696
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1699
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1703
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1708
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1710
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1715
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1717
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1722
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1727
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1729
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1735
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1741
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1743
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1745
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1749
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1757
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1762
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1767
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1769
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1772
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1778
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1780
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1783
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1789
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1791
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1796
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1798
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1800
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1804
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1812
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1814
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1816
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1819
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1825
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1827
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1830
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1836
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1838
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1843
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1845
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1847
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1851
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1864
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1873
+msgid ""
+"data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1881
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1886
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1888
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1890
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1894
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1898
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1901
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1905
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1911
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1913
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1916
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1920
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1930
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1933
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1941
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1944
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1951
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_og_iron.xml:1955
+msgid ""
+"data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/choice/text"
+msgstr ""
