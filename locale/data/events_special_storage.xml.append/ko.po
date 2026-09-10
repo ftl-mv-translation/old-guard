@@ -1,855 +1,911 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-11 22:37+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_special_storagexmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "포탑 제어 시스템에서 무언가를 한다."
 
 #: src-en/data/events_special_storage.xml.append:11
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/text"
-msgstr ""
+msgstr "포탑 제어 시스템으로 무엇을 하시겠습니까?"
 
 #: src-en/data/events_special_storage.xml.append:13
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[1]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:17
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[2]/text"
-msgstr ""
+msgstr "포탑을 제작한다."
 
 #: src-en/data/events_special_storage.xml.append:21
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"og_turret_adaptive\"]/text"
-msgstr ""
+msgstr "적응형 포탑의 위치를 변경한다."
 
 #: src-en/data/events_special_storage.xml.append:25
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"og_turret_adaptive_2\"]/text"
-msgstr ""
+msgstr "보조 적응형 포탑의 위치를 변경한다."
 
 #: src-en/data/events_special_storage.xml.append:29
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"og_turret_adaptive_single\"]/text"
-msgstr ""
+msgstr "고급 적응형 포탑의 위치를 변경한다."
 
 #: src-en/data/events_special_storage.xml.append:33
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY_SHOW\"]/text"
-msgstr ""
+msgstr "보조 적응형 포탑 제어실 증강. [비용: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:39
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/text"
-msgstr ""
+msgstr "어느 포탑을 설치하시겠습니까?"
 
 #: src-en/data/events_special_storage.xml.append:41
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_INSTALL\"]/choice/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:47
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/text"
-msgstr ""
+msgstr "포탑을 교체하시겠습니까?"
 
 #: src-en/data/events_special_storage.xml.append:49
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_TURRET_REMOVE\"]/choice/text"
-msgstr ""
+msgstr "비워둔다."
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/text"
-msgstr ""
+msgstr "이용 가능한 범주 목록입니다."
 
 #: src-en/data/events_special_storage.xml.append:64
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_MAIN_MENU\"]/choice/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CATEGORY_\"]/text"
-msgstr ""
+msgstr "이용 가능한 청사진 목록입니다:"
 
 #: src-en/data/events_special_storage.xml.append:76
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CATEGORY_\"]/choice/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:82
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT\"]/text"
-msgstr ""
+msgstr "필요 항목:"
 
 #: src-en/data/events_special_storage.xml.append:86
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_CRAFT_STEP\"]/text"
-msgstr ""
+msgstr "제작 부품을 선택하십시오."
 
 #: src-en/data/events_special_storage.xml.append:90
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/text"
 msgstr ""
+"포탑을 제작할 때 방어 드론 대신 포탑 토대를 사용할 수 있으나, 이용 가능한 "
+"방어 드론이 있다면 포탑 토대보다 방어 드론을 사용하는 편이 대개 비용이 적게 "
+"듭니다."
 
 #: src-en/data/events_special_storage.xml.append:92
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[1]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:96
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/text"
-msgstr ""
+msgstr "레이저 포탑 토대를 제작한다."
 
 #: src-en/data/events_special_storage.xml.append:98
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "포탑 토대를 제작했습니다."
 
 #: src-en/data/events_special_storage.xml.append:104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/text"
-msgstr ""
+msgstr "이온 포탑 토대를 제작한다."
 
 #: src-en/data/events_special_storage.xml.append:112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "포탑 토대를 제작했습니다."
 
 #: src-en/data/events_special_storage.xml.append:118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[3]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:124
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/text"
-msgstr ""
+msgstr "미사일 포탑 토대를 제작한다."
 
 #: src-en/data/events_special_storage.xml.append:126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/event/text"
-msgstr ""
+msgstr "포탑 토대를 제작했습니다."
 
 #: src-en/data/events_special_storage.xml.append:132
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[4]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/text"
-msgstr ""
+msgstr "조준 포탑 토대를 제작한다."
 
 #: src-en/data/events_special_storage.xml.append:140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/event/text"
-msgstr ""
+msgstr "포탑 토대를 제작했습니다."
 
 #: src-en/data/events_special_storage.xml.append:146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[5]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:152
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/text"
-msgstr ""
+msgstr "소형 포탑 토대를 제작한다."
 
 #: src-en/data/events_special_storage.xml.append:154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/event/text"
-msgstr ""
+msgstr "포탑 토대를 제작했습니다."
 
 #: src-en/data/events_special_storage.xml.append:160
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"OG_CRAFT_TURRET_BASE\"]/choice[6]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:169
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "포탑 제어실."
 
 #: src-en/data/events_special_storage.xml.append:173
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "시스템 균형기."
 
 #: src-en/data/events_special_storage.xml.append:179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/text"
-msgstr ""
+msgstr "어떤 업그레이드를 설치하시겠습니까?"
 
 #: src-en/data/events_special_storage.xml.append:181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "오버클럭 모터. [사용불가: 이미 최대 업그레이드입니다]"
 
 #: src-en/data/events_special_storage.xml.append:185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "오버클럭 모터 LvL 2. [비용: 35~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:189
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ROTATION\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "오버클럭 모터 LvL 1. [비용: 35~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "가속기. [사용불가: 이미 최대 업그레이드입니다]"
 
 #: src-en/data/events_special_storage.xml.append:197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "가속기 LvL 2. [비용: 30~, 5}]"
 
 #: src-en/data/events_special_storage.xml.append:201
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_SPEED\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "가속기 LvL 1. [비용: 30~, 5}]"
 
 #: src-en/data/events_special_storage.xml.append:205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "수동 정밀 조작. [이미 설치됨]"
 
 #: src-en/data/events_special_storage.xml.append:209
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_MANUAL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "수동 정밀 조작. [비용: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:213
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_BUY\"]/text"
-msgstr ""
+msgstr "하드포인트 개조. [이미 설치됨]"
 
 #: src-en/data/events_special_storage.xml.append:217
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SHOW\"]/text"
-msgstr ""
+msgstr "하드포인트 개조. [비용: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_2_BUY\"]/text"
-msgstr ""
+msgstr "보조 하드포인트 개조. [이미 설치됨]"
 
 #: src-en/data/events_special_storage.xml.append:225
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_2_SHOW\"]/text"
-msgstr ""
+msgstr "보조 하드포인트 개조. [비용: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY_BUY\"]/text"
-msgstr ""
+msgstr "보조 적응형 포탑 제어실 증강. [이미 설치됨]"
 
 #: src-en/data/events_special_storage.xml.append:233
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[@req=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY_SHOW\"]/text"
-msgstr ""
+msgstr "보조 적응형 포탑 제어실 증강. [비용: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET\"]/choice[15]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:242
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/text"
 msgstr ""
+"다음 업그레이드를 설치하는 중입니다: 오버클럭 모터.\n"
+"\t[효과: 포탑 회전 속도가 50% 증가합니다. 2회 설치 가능합니다.]"
 
 #: src-en/data/events_special_storage.xml.append:245
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/text"
-msgstr ""
+msgstr "업그레이드를 설치한다. [비용: 35~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:253
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/text"
-msgstr ""
+msgstr "외부 보조장비를 내부로 전환하여 설치한다."
 
 #: src-en/data/events_special_storage.xml.append:261
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"EX_OG_TURRET_ROTATION\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:270
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ROTATION\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:281
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/text"
 msgstr ""
+"다음 업그레이드를 설치하는 중입니다: 가속기.\n"
+"\t[효과: 포탑 투사체의 속도가 50% 빨라집니다. 2회 설치 가능합니다.]"
 
 #: src-en/data/events_special_storage.xml.append:284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/text"
-msgstr ""
+msgstr "업그레이드를 설치한다. [비용: 30~, 5}]"
 
 #: src-en/data/events_special_storage.xml.append:286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/text"
-msgstr ""
+msgstr "외부 보조장비를 내부로 전환하여 설치한다."
 
 #: src-en/data/events_special_storage.xml.append:300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"EX_OG_TURRET_SPEED\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:309
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_SPEED\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:320
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/text"
 msgstr ""
+"다음 업그레이드를 설치하는 중입니다: 수동 정밀 조작.\n"
+"\t[효과: 수동으로 목표를 지정할 때 포탑의 회전 속도가 180 증가합니다.]"
 
 #: src-en/data/events_special_storage.xml.append:323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/text"
-msgstr ""
+msgstr "업그레이드를 설치한다. [비용: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:325
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:331
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:337
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/text"
-msgstr ""
+msgstr "외부 보조장비를 내부로 전환하여 설치한다."
 
 #: src-en/data/events_special_storage.xml.append:339
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"EX_OG_TURRET_MANUAL\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:348
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_MANUAL\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/text"
 msgstr ""
+"다음 업그레이드를 설치하는 중입니다: 하드포인트 개조.\n"
+"\t[효과: 적응형 포탑 공간을 확장하여 모든 크기의 포탑을 장착할 수 있게 "
+"합니다.]"
 
 #: src-en/data/events_special_storage.xml.append:362
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/text"
-msgstr ""
+msgstr "업그레이드를 설치한다. [비용: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:376
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/text"
-msgstr ""
+msgstr "외부 보조장비를 내부로 전환하여 설치한다."
 
 #: src-en/data/events_special_storage.xml.append:378
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:381
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:387
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_LARGE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:398
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE\"]/text"
 msgstr ""
+"다음 업그레이드를 설치하는 중입니다: 보조 하드포인트 개조.\n"
+"\t[효과: 보조 적응형 포탑 공간을 확장하여 모든 크기의 포탑을 장착할 수 있게 "
+"합니다.]"
 
 #: src-en/data/events_special_storage.xml.append:401
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE\"]/choice[1]/text"
-msgstr ""
+msgstr "업그레이드를 설치한다. [비용: 30~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:415
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/text"
-msgstr ""
+msgstr "외부 보조장비를 내부로 전환하여 설치한다."
 
 #: src-en/data/events_special_storage.xml.append:417
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:426
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_2_LARGE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:437
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY\"]/text"
 msgstr ""
+"보조 적응형 포탑 제어실을 증강하려고 합니다.\n"
+"\t[효과: 드론 제어 시스템 대신 보조 적응형 포탑 시스템을 설치합니다. 이 "
+"새로운 시스템은 시스템 슬롯을 차지하지 않습니다.]"
 
 #: src-en/data/events_special_storage.xml.append:440
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY\"]/choice[1]/text"
-msgstr ""
+msgstr "업그레이드를 설치한다. [비용: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:442
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"INSTALL_OG_TURRET_ADAPTIVE_SECONDARY_BEFORE\"]/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"INSTALL_OG_TURRET_ADAPTIVE_SECONDARY_BEFORE\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY\"]/choice[@req=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/text"
-msgstr ""
+msgstr "외부 보조장비를 내부로 전환하여 설치한다."
 
 #: src-en/data/events_special_storage.xml.append:456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"INSTALL_OG_TURRET_ADAPTIVE_SECONDARY_BEFORE_2\"]/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"INSTALL_OG_TURRET_ADAPTIVE_SECONDARY_BEFORE_2\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:465
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_TURRET_ADAPTIVE_SECONDARY\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"INSTALL_OG_TURRET_ADAPTIVE_SECONDARY\"]/text"
-msgstr ""
+msgstr "시스템을 설치했습니다."
 
 #: src-en/data/events_special_storage.xml.append:475
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"INSTALL_OG_TURRET_ADAPTIVE_SECONDARY\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:489
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/text"
-msgstr ""
+msgstr "어떤 업그레이드를 설치하시겠습니까?"
 
 #: src-en/data/events_special_storage.xml.append:491
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_OG_EQUALISER_BOOSTER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "성능 업그레이드. [사용불가: 이미 최대 업그레이드입니다]"
 
 #: src-en/data/events_special_storage.xml.append:495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_OG_EQUALISER_BOOSTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "성능 업그레이드. [비용: 35~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_BATTERY_GENERATOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "비상 발전기. [이미 설치됨]"
 
 #: src-en/data/events_special_storage.xml.append:503
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[@req=\"UPG_BATTERY_GENERATOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "비상 발전기. [비용: 55~, 7{]"
 
 #: src-en/data/events_special_storage.xml.append:507
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER\"]/choice[5]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/text"
 msgstr ""
+"다음 업그레이드를 설치하는 중입니다: 균형기 성능 업그레이드.\n"
+"\t[효과: 시스템 균형기의 재사용 대기시간이 50% 감소합니다.]"
 
 #: src-en/data/events_special_storage.xml.append:515
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/choice[@req=\"og_equaliser\"]/text"
-msgstr ""
+msgstr "업그레이드를 설치한다. [비용: 35~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:517
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/choice[@req=\"og_equaliser\"]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:523
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/choice[@req=\"og_equaliser\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:529
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/choice[@req=\"EX_OG_EQUALISER_PERFORMANCE\"]/text"
-msgstr ""
+msgstr "외부 보조장비를 내부로 전환하여 설치한다."
 
 #: src-en/data/events_special_storage.xml.append:531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/choice[@req=\"EX_OG_EQUALISER_PERFORMANCE\"]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:534
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/choice[@req=\"EX_OG_EQUALISER_PERFORMANCE\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:540
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_PERFORMANCE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:550
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/text"
 msgstr ""
+"다음 업그레이드를 설치하는 중입니다: 비상용 발전기.\n"
+"\t[효과: 전투 시 보조장비에 필요한 전력과 연료를 더 이상 소모하지 않습니다]"
 
 #: src-en/data/events_special_storage.xml.append:553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"og_equaliser\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "업그레이드를 설치한다. [비용: 55~, 7{]"
 
 #: src-en/data/events_special_storage.xml.append:555
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"og_equaliser\""
 " and @lvl=\"2\"]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"og_equaliser\""
 " and @lvl=\"2\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:567
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"og_equaliser\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "업그레이드 할 수 없습니다. 시스템 균형기 레벨 2가 필요합니다."
 
 #: src-en/data/events_special_storage.xml.append:571
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"EX_BATTERY_GENERATOR\"]/text"
-msgstr ""
+msgstr "외부 보조장비를 내부로 전환하여 설치한다."
 
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"EX_BATTERY_GENERATOR\"]/event/text"
-msgstr ""
+msgstr "업그레이드를 설치합니다."
 
 #: src-en/data/events_special_storage.xml.append:576
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"EX_BATTERY_GENERATOR\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OG_EQUALISER_GENERATOR\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:595
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "[올드가드]: 포탑 1 선택"
 
 #: src-en/data/events_special_storage.xml.append:597
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_1_START\"]/text"
 msgstr ""
+"단축키를 설정하려면 아무 키나 누르십시오. 초기화하려면 ESC 키를 누르십시오.\n"
+"\t\t\t현재 단축키 설정: 포탑 1 선택"
 
 #: src-en/data/events_special_storage.xml.append:602
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "[올드가드]: 포탑 2 선택"
 
 #: src-en/data/events_special_storage.xml.append:604
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_2_START\"]/text"
 msgstr ""
+"단축키를 설정하려면 아무 키나 누르십시오. 초기화하려면 ESC 키를 누르십시오.\n"
+"\t\t\t현재 단축키 설정: 포탑 2 선택"
 
 #: src-en/data/events_special_storage.xml.append:609
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "[올드가드]: 포탑 3 선택"
 
 #: src-en/data/events_special_storage.xml.append:611
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_3_START\"]/text"
 msgstr ""
+"단축키를 설정하려면 아무 키나 누르십시오. 초기화하려면 ESC 키를 누르십시오.\n"
+"\t\t\t현재 단축키 설정: 포탑 3 선택"
 
 #: src-en/data/events_special_storage.xml.append:616
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "[올드가드]: 포탑 4 선택"
 
 #: src-en/data/events_special_storage.xml.append:618
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_4_START\"]/text"
 msgstr ""
+"단축키를 설정하려면 아무 키나 누르십시오. 초기화하려면 ESC 키를 누르십시오.\n"
+"\t\t\t현재 단축키 설정: 포탑 4 선택"
 
 #: src-en/data/events_special_storage.xml.append:623
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "[올드가드]: 포탑 5 선택"
 
 #: src-en/data/events_special_storage.xml.append:625
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_5_START\"]/text"
 msgstr ""
+"단축키를 설정하려면 아무 키나 누르십시오. 초기화하려면 ESC 키를 누르십시오.\n"
+"\t\t\t현재 단축키 설정: 포탑 5 선택"
 
 #: src-en/data/events_special_storage.xml.append:630
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "[올드가드]: 포탑 6 선택"
 
 #: src-en/data/events_special_storage.xml.append:632
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_6_START\"]/text"
 msgstr ""
+"단축키를 설정하려면 아무 키나 누르십시오. 초기화하려면 ESC 키를 누르십시오.\n"
+"\t\t\t현재 단축키 설정: 포탑 6 선택"
 
 #: src-en/data/events_special_storage.xml.append:637
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "[올드가드]: 포탑 7 선택"
 
 #: src-en/data/events_special_storage.xml.append:639
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_7_START\"]/text"
 msgstr ""
+"단축키를 설정하려면 아무 키나 누르십시오. 초기화하려면 ESC 키를 누르십시오.\n"
+"\t\t\t현재 단축키 설정: 포탑 7 선택"
 
 #: src-en/data/events_special_storage.xml.append:644
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "[올드가드]: 포탑 8 선택"
 
 #: src-en/data/events_special_storage.xml.append:646
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_HOTKEYS_OG_TURRET_8_START\"]/text"
 msgstr ""
+"단축키를 설정하려면 아무 키나 누르십시오. 초기화하려면 ESC 키를 누르십시오.\n"
+"\t\t\t현재 단축키 설정: 포탑 8 선택"
 
 #: src-en/data/events_special_storage.xml.append:653
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "포탑 제어 튜토리얼 다시 활성화."
 
 #: src-en/data/events_special_storage.xml.append:660
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "포탑 제작 팁 토글. [현재 활성화됨]"
 
 #: src-en/data/events_special_storage.xml.append:667
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "포탑 제작 팁 토글. [현재 비활성화됨]"
 
 #: src-en/data/events_special_storage.xml.append:677
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(드라이브 해커) 옛 파수꾼(The Old Guard) MV 함선을 소환한다."
 
 #: src-en/data/events_special_storage.xml.append:689
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/text"
 msgstr ""
+"현재 소환 가능한 함선 목록을 확인합니다. MV 보스를 소환하는 데 7{이 "
+"소요됩니다."
 
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/text"
-msgstr ""
+msgstr "습격형 C형 - 경량 충전식 포탑 드롭"
 
 #: src-en/data/events_special_storage.xml.append:693
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[1]/event/text"
 msgstr ""
+"장치의 출력을 최대치로 올리자 균열이 열리며 함선이 요동칩니다. 이내 전원이 "
+"꺼지고 녹색 불빛이 점멸하며 일련의 좌표가 출력되어 작동이 성공했음을 "
+"알려줍니다."
 
 #: src-en/data/events_special_storage.xml.append:701
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_OG_BOSS_SPAWNER_1\"]/choice[2]/text"
-msgstr ""
+msgstr "취소하고 다른 일을 한다."
 
 #: src-en/data/events_special_storage.xml.append:708
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(뉴 던 화물 상자) 화물 상자를 연다."
 
 #: src-en/data/events_special_storage.xml.append:713
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/text"
 msgstr ""
+"정말로 이렇게 하시겠습니까? 이 일을 저지른 후에는 배달받을 사람들이 결코 "
+"기뻐하지 않을 것입니다."
 
 #: src-en/data/events_special_storage.xml.append:715
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/text"
-msgstr ""
+msgstr "실행한다!"
 
 #: src-en/data/events_special_storage.xml.append:717
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[1]/event/text"
 msgstr ""
+"상자를 열어보니 구성품과 부품들이 어지럽게 얽혀 있습니다. 쓸 만한 것은 "
+"절반쯤 해체된 포탑 사전 충전기뿐이었으며, 이를 복구하여 다시 작동 상태로 "
+"만들었습니다. 나머지는 쓸모가 없습니다."
 
 #: src-en/data/events_special_storage.xml.append:723
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OG_DAWN_CARGO_CRATE_PREIGN\"]/choice[2]/text"
-msgstr ""
+msgstr "아무 것도 아니다."
 
 #: src-en/data/events_special_storage.xml.append:729
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_SCRAMBLER\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "[추가 효과: 적 포탑이 교란되어 방어 시 명중률이 대폭 감소합니다]."
 
 #: src-en/data/events_special_storage.xml.append:735
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART_OG_TURRET_SINGLE_1\"]/text"
-msgstr ""
+msgstr "그리하여 완수되었으나... 함선의 전력은 여전히 더 멀리 퍼져나가는 듯합니다..."
 
 #: src-en/data/events_special_storage.xml.append:738
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART_OG_TURRET_SINGLE_1\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:744
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART_OG_TURRET_SINGLE_2\"]/text"
-msgstr ""
+msgstr "그리하여 완수되었으나... 함선의 전력은 여전히 더 멀리 퍼져나가는 듯합니다..."
 
 #: src-en/data/events_special_storage.xml.append:747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART_OG_TURRET_SINGLE_2\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_storage.xml.append:754
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/text"
 msgstr ""
+"파편 발사기 포탑과 추가 미사일을 사용한다. [-5}, 추적 지연 1 부여, 악명에 "
+"영향 없음]"
 
 #: src-en/data/events_special_storage.xml.append:756
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"탄약을 조작하여 반군을 위한 함정을 설치합니다. 다행히 모호한 법적 맹점 "
+"덕분에 이 무기의 사용이 불법은 아니지만, 도덕적으로는 대단히 의심스러운 "
+"행위입니다."
