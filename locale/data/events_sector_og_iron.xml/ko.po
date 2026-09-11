@@ -1,1456 +1,1730 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-11 22:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
+"dataevents_sector_og_ironxml/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_og_iron.xml:10
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DESTROY\"]/text"
 msgstr ""
+"아이언 워치 경비정을 격퇴했습니다. 화물창에 무엇이 들어있었든 완전히 "
+"파괴되었음이 확실하지만, 최소한 함선에서 약간의 물자를 건져낼 수는 있습니다."
 
 #: src-en/data/events_sector_og_iron.xml:13
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DESTROY\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:18
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEADCREW\"]/text"
 msgstr ""
+"아이언 워치 경비정을 격퇴했습니다. 저지할 선원이 남아있지 않으므로 그들의 "
+"화물을 조사할 수 있습니다. 함선으로 가져갈 무기 하나를 발견한 후 선체를 "
+"해체하여 스크랩을 회수합니다."
 
 #: src-en/data/events_sector_og_iron.xml:22
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEADCREW\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:34
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/text"
 msgstr ""
+"아이언 워치 경비정을 격침했으므로, 그들이 당신을 추적하기 위해 지원군을 "
+"급파했을 것이 분명합니다. 이 구역을 탐사할 때는 행동을 조심하십시오."
 
 #: src-en/data/events_sector_og_iron.xml:43
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:47
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FOLLOWUP\"]/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:55
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "방문하지 않은 송신소입니다."
 
 #: src-en/data/events_sector_og_iron.xml:56
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "이미 방문한 송신소입니다. 더 이상 흥미로운 것은 없습니다."
 
 #: src-en/data/events_sector_og_iron.xml:57
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "방문하지 않은 송신소입니다."
 
 #: src-en/data/events_sector_og_iron.xml:59
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/text"
 msgstr ""
+"아이언 워치 함선 한 대가 공격하기 위해 접근해 옵니다! 함장의 눈에 차오른 "
+"복수심 어린 눈빛으로 보아, 이 함선은 경비정이 당신을 사냥하기 위해 급파한 "
+"지원군임이 틀림없습니다!"
 
 #: src-en/data/events_sector_og_iron.xml:63
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REINFORCEMENTS_OG_IRON\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:71
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "방문하지 않은 송신소입니다."
 
 #: src-en/data/events_sector_og_iron.xml:72
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "이미 방문한 송신소입니다. 더 이상 흥미로운 것은 없습니다."
 
 #: src-en/data/events_sector_og_iron.xml:73
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "방문하지 않은 송신소입니다."
 
 #: src-en/data/events_sector_og_iron.xml:75
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/text"
 msgstr ""
+"아이언 워치 함선 한 대가 공격하기 위해 접근해 옵니다! 함장의 눈에 차오른 "
+"복수심 어린 눈빛으로 보아, 이 함선은 경비정이 당신을 사냥하기 위해 급파한 "
+"지원군임이 틀림없습니다!"
 
 #: src-en/data/events_sector_og_iron.xml:81
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OG_IRON\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:87
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_START_OG_IRON\"]/text[1]"
 msgstr ""
+"아이언 워치는 미탐사 우주로 모험을 떠난 탐험가, 과학자, 그리고 해적들의 "
+"집단입니다. 이곳은 그들의 보기 드문 정착지 중 하나로, 예전만큼 외딴곳은 "
+"아닙니다."
 
 #: src-en/data/events_sector_og_iron.xml:88
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_START_OG_IRON\"]/text[2]"
 msgstr ""
+"약간 고립되어 있던 이 지역은 반란이 시작될 무렵 혼란에 빠졌습니다. 아이언 "
+"워치의 몇 안 되는 거점 중 하나인 이곳은 최근 들어 인구가 훨씬 늘어났습니다."
 
 #: src-en/data/events_sector_og_iron.xml:101
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"START_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:105
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"START_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:109
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"START_OG_IRON\"]/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:114
 msgid "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/text"
 msgstr ""
+"도착하자마자 경비정이 '맞이'해 옵니다. \"반갑습니다 여러분! 우리 구역에 온 "
+"것을 환영합니다. 통행료가 있다는 건 알고 있으시겠죠?\""
 
 #: src-en/data/events_sector_og_iron.xml:116
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[1]/text"
-msgstr ""
+msgstr "통행료 지불을 거부하고 돌파한다!"
 
 #: src-en/data/events_sector_og_iron.xml:118
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[1]/event/text"
-msgstr ""
+msgstr "통신을 차단하고 전투를 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:121
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:127
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[2]/text"
-msgstr ""
+msgstr "통행료를 지불한다."
 
 #: src-en/data/events_sector_og_iron.xml:129
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[2]/event/text"
 msgstr ""
+"경비정 측은 고개를 끄덕이며 스크랩을 잠시 살핍니다. \"좋습니다. 보안팀이 "
+"잠시 후 진입을 허가할 겁니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:136
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[3]/text"
-msgstr ""
+msgstr "임무를 이유로 통행료 면제를 요청한다."
 
 #: src-en/data/events_sector_og_iron.xml:140
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
-msgstr ""
+msgstr "(아이언 워치 선원) 무상 통행을 요청한다."
 
 #: src-en/data/events_sector_og_iron.xml:142
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
-msgstr ""
+msgstr "\"좋습니다. 임무에 행운이 있길 빕니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:146
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "(정신 지배 장치) 경비정이 당신을 건드리지 않도록 설득한다."
 
 #: src-en/data/events_sector_og_iron.xml:150
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_CONTROL\"]/text"
-msgstr ""
+msgstr "(정신 지배 무기) 경비정이 당신을 건드리지 않도록 설득한다."
 
 #: src-en/data/events_sector_og_iron.xml:154
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"BLUELIST_WEAPONS_MIND_AFFECT\"]/text"
-msgstr ""
+msgstr "(정신 영향 무기) 경비정 내부에 혼란을 일으키고 빠져나간다."
 
 #: src-en/data/events_sector_og_iron.xml:158
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "(스텔스) 은폐 후 탈출을 시도한다."
 
 #: src-en/data/events_sector_og_iron.xml:162
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "(고급 엔진) 경비정으로부터 탈출을 시도한다."
 
 #: src-en/data/events_sector_og_iron.xml:166
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "(고급 조타실) 자동 조종을 가동하여 탈출을 시도한다."
 
 #: src-en/data/events_sector_og_iron.xml:172
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/text"
 msgstr ""
+"\"내가 왜 당신들의 통행료를 면제해 줘야 합니까? 당신들은 배회자잖습니까? "
+"모르실까 봐 말하는데, 아이언 워치는 연방 법에 지배받지 않으며 솔직히 당신 "
+"같은 자들이 여기 있는 것 자체가 골칫거리입니다. 깎아주기는커녕 더 받아야 할 "
+"판이죠.\""
 
 #: src-en/data/events_sector_og_iron.xml:174
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[1]/text"
-msgstr ""
+msgstr "그렇다면 싸워서 돌파하겠다!"
 
 #: src-en/data/events_sector_og_iron.xml:176
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "통신을 차단하고 전투를 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:179
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:185
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[2]/text"
-msgstr ""
+msgstr "통행료를 지불한다."
 
 #: src-en/data/events_sector_og_iron.xml:187
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_WAVER_FAIL\"]/choice[2]/event/text"
 msgstr ""
+"경비정 측은 고개를 끄덕이며 스크랩을 잠시 살핍니다. \"좋습니다. 보안팀이 "
+"잠시 후 진입을 허가할 겁니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:196
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_WAVER\"]/event[3]/text"
 msgstr ""
+"경비대원이 얼굴을 긁적입니다. \"알고 계시겠지만, 아이언 워치는 연방의 법이나 "
+"관할권에 얽매이지 않습니다. 그렇긴 하지만, 당신들의 목적이 이곳 모두의 "
+"이익에 부합한다는 점은 이해합니다. 연방이 우리 친구는 아닐지 몰라도, 반군 "
+"역시 마찬가지니까요. 이번 한 번만 편의를 봐주겠지만, 모두가 이렇게 관대할 "
+"거라고는 기대하지 마십시오.\""
 
 #: src-en/data/events_sector_og_iron.xml:200
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/text"
 msgstr ""
+"무언가 이상합니다. 보통 아이언 워치는 당신 같은 함선에 그리 신경 쓰지 "
+"않지만, 지금은 경비정에서 수상한 무전이 오가는 것이 감지됩니다."
 
 #: src-en/data/events_sector_og_iron.xml:202
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:204
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/choice/event/text"
 msgstr ""
+"당신의 악명이 발목을 잡은 모양입니다. 경비정의 선원들은 당신이 저지른 범죄에 "
+"대해 들을 만큼 들었고, 당신을 구역 내부로 들여보낼 생각이 전혀 없습니다!"
 
 #: src-en/data/events_sector_og_iron.xml:207
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_CRIMINAL\"]/choice/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:215
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/text"
 msgstr ""
+"좋은 소문이 널리 퍼진 덕분에 경비정은 평소 받던 통행료를 즉시 면제해 주고 "
+"자유로운 입장을 허가합니다."
 
 #: src-en/data/events_sector_og_iron.xml:218
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/text"
-msgstr ""
+msgstr "경비정을 무시한다."
 
 #: src-en/data/events_sector_og_iron.xml:220
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "이제 함선 내부에서 정비나 작업을 진행할 시간이 있습니다."
 
 #: src-en/data/events_sector_og_iron.xml:222
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:226
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:232
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[2]/text"
-msgstr ""
+msgstr "경비정에 교신한다."
 
 #: src-en/data/events_sector_og_iron.xml:236
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[3]/text"
-msgstr ""
+msgstr "경비정을 공격한다."
 
 #: src-en/data/events_sector_og_iron.xml:241
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_FRIENDLY\"]/choice[3]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:249
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[1]"
-msgstr ""
+msgstr "\"호출을 확인했다. 원하는 것이 무엇인가, 친구?\""
 
 #: src-en/data/events_sector_og_iron.xml:250
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[2]"
-msgstr ""
+msgstr "아이언 워치 함장이 호출을 수신했지만, 아무런 말도 하지 않습니다."
 
 #: src-en/data/events_sector_og_iron.xml:251
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GUARD_OG_IRON_CONTACT\"]/text[3]"
 msgstr ""
+"응답으로 짧은 메시지가 함선에 수신됩니다. \"통신 요청을 확인했습니다. 필요한 "
+"것이 무엇입니까?\""
 
 #: src-en/data/events_sector_og_iron.xml:256
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[1]/text"
-msgstr ""
+msgstr "보급를 요청한다."
 
 #: src-en/data/events_sector_og_iron.xml:260
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[2]/text"
-msgstr ""
+msgstr "보급를 요구한다."
 
 #: src-en/data/events_sector_og_iron.xml:264
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "(고급 무기) 경비정을 위협한다."
 
 #: src-en/data/events_sector_og_iron.xml:268
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
-msgstr ""
+msgstr "(아이언 워치 선원) 지원을 요청한다."
 
 #: src-en/data/events_sector_og_iron.xml:270
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
 msgstr ""
+"\"아니, 아이언 워치의 동포 아니십니까? 호의의 표시로 주는 선물을 "
+"받아가세요.\""
 
 #: src-en/data/events_sector_og_iron.xml:275
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/text"
-msgstr ""
+msgstr "마음을 바꾸어 경비정을 그냥 내버려 둔다."
 
 #: src-en/data/events_sector_og_iron.xml:277
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/text"
 msgstr ""
+"당신은 사과하고 통신을 종료합니다. 경비정 측에서도 더 이상 교신을 시도하지 "
+"않습니다."
 
 #: src-en/data/events_sector_og_iron.xml:279
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:283
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_INTERACT\"]/choice[5]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:291
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_REQUEST\"]/event[1]/text"
 msgstr ""
+"\"아쉽게도 내어줄 물자가 그리 넉넉지 않습니다. 임무에 행운이 있기를 빕니다, "
+"친구.\""
 
 #: src-en/data/events_sector_og_iron.xml:294
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_REQUEST\"]/event[2]/text"
-msgstr ""
+msgstr "\"당연히 도와드려야죠, 호의의 표시로 전달하는 이 선물을 받으십시오.\""
 
 #: src-en/data/events_sector_og_iron.xml:299
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GUARD_OG_IRON_DEMAND\"]/text"
 msgstr ""
+"\"동맹에게 할 소리가 아니군요. 당신의 임무에 행운이 있기를 바라지만, 더 이상 "
+"저에게 연락하지 않는 편이 좋을 겁니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:303
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[1]/text"
 msgstr ""
+"경비정은 당신의 위협에 말로는 응답하지 않습니다. 대신 무기에 전력을 공급하며 "
+"공격해 옵니다!"
 
 #: src-en/data/events_sector_og_iron.xml:306
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[1]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:311
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[2]/text"
 msgstr ""
+"\"폭력을 쓸 필요는 없습니다, 친구. 그 무기의 전력을 내리기만 한다면 요청대로 "
+"물자를 조금 나누어 드리죠.\""
 
 #: src-en/data/events_sector_og_iron.xml:314
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"GUARD_OG_IRON_THREATEN\"]/event[2]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:322
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON\"]/text"
 msgstr ""
+"[평판 상승 - 아이언 워치]\n"
+"\t아이언 워치의 눈에 당신은 여기서 선행을 하셨습니다. 이런 행동을 꾸준히 "
+"실천하면 아이언 워치와 그 동료들로부터 긍정적인 지지를 받기 시작할지도 "
+"모릅니다."
 
 #: src-en/data/events_sector_og_iron.xml:327
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON_COMBAT\"]/text"
 msgstr ""
+"[평판 상승 - 아이언 워치]\n"
+"\t아이언 워치의 눈에 당신은 여기서 선행을 하셨습니다. 이런 행동을 꾸준히 "
+"실천하면 아이언 워치와 그 동료들로부터 긍정적인 지지를 받기 시작할지도 "
+"모릅니다."
 
 #: src-en/data/events_sector_og_iron.xml:331
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_OG_IRON_COMBAT\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:336
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_UPDATE_DOUBLE_OG_IRON\"]/text"
 msgstr ""
+"[평판 대폭 상승 - 아이언 워치]\n"
+"\t아이언 워치의 눈에 당신은 여기서 선행을 하셨습니다. 이런 행동을 꾸준히 "
+"실천하면 아이언 워치와 그 동료들로부터 긍정적인 지지를 받기 시작할지도 "
+"모릅니다."
 
 #: src-en/data/events_sector_og_iron.xml:341
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON\"]/text"
 msgstr ""
+"[평판 하락 - 아이언 워치]\n"
+"\t여기서 당신의 행동이 정당하든 아니든, 아이언 워치나 그 시민들의 눈에는 "
+"좋게 비치지 않을 것입니다. 이런 행동을 계속하면 아이언 워치와 그 "
+"동료들로부터 부정적인 반응을 보게 될지도 모릅니다."
 
 #: src-en/data/events_sector_og_iron.xml:346
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON\"]/text"
 msgstr ""
+"[평판 대폭 하락 - 아이언 워치]\n"
+"\t여기서 당신의 행동이 정당하든 아니든, 아이언 워치나 그 시민들의 눈에는 "
+"좋게 비치지 않을 것입니다. 이런 행동을 계속하면 아이언 워치와 그 "
+"동료들로부터 부정적인 반응을 보게 될지도 모릅니다.\n"
+"\t당신의 터무니없이 심각한 행동 때문에 평판이 두 배로 떨어졌습니다."
 
 #: src-en/data/events_sector_og_iron.xml:352
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/text"
 msgstr ""
+"[평판 하락 - 아이언 워치]\n"
+"\t여기서 당신의 행동이 정당하든 아니든, 아이언 워치나 그 시민들의 눈에는 "
+"좋게 비치지 않을 것입니다. 이런 행동을 계속하면 아이언 워치와 그 "
+"동료들로부터 부정적인 반응을 보게 될지도 모릅니다."
 
 #: src-en/data/events_sector_og_iron.xml:356
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_OG_IRON_COMBAT\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:361
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON_COMBAT\"]/text"
 msgstr ""
+"[평판 대폭 하락 - 아이언 워치]\n"
+"\t여기서 당신의 행동이 정당하든 아니든, 아이언 워치나 그 시민들의 눈에는 "
+"좋게 비치지 않을 것입니다. 이런 행동을 계속하면 아이언 워치와 그 "
+"동료들로부터 부정적인 반응을 보게 될지도 모릅니다.\n"
+"\t당신의 터무니없는 심각한 행동 때문에 평판이 두 배로 떨어졌습니다."
 
 #: src-en/data/events_sector_og_iron.xml:366
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"REPUTATION_DECREASE_DOUBLE_OG_IRON_COMBAT\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:380
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/text"
 msgstr ""
+"장거리 송신소에 도착했습니다. FTL 드라이브가 충전되면 다음 구역으로 도약할 "
+"수 있습니다.\n"
+"아이언 워치 정거장은 불량배들로부터 송신소를 보호할 뿐만 아니라 해당 "
+"구역에서 나가는 항공 교통을 감시합니다."
 
 #: src-en/data/events_sector_og_iron.xml:384
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[@req=\"OG_IRON_FINISH_POSITIVE\"]/text"
-msgstr ""
+msgstr "(평판 1 초과) 기지에서 당신에게 교신을 시도합니다."
 
 #: src-en/data/events_sector_og_iron.xml:388
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[@req=\"OG_IRON_FINISH_NEGATIVE\"]/text"
-msgstr ""
+msgstr "(평판 2 미만) 기지에서 당신을 무시합니다."
 
 #: src-en/data/events_sector_og_iron.xml:392
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[3]/text"
-msgstr ""
+msgstr "탐사한다."
 
 #: src-en/data/events_sector_og_iron.xml:396
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[4]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:400
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"FINISH_BEACON_OG_IRON\"]/choice[5]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:406
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/text"
 msgstr ""
+"\"함장님. 아이언 워치 구역에서 보여주신 활약에 대한 소문이 빠르게 "
+"퍼졌습니다. 수뇌부에서도 깊은 인상을 받았습니다.\n"
+"우리는 반란에 관한 연방과의 귀하의 상호 합의를 인지하고 있으며, 귀하를 "
+"임무에서 철수시킬 의도가 전혀 없습니다.\n"
+"하지만 우리가 가진 것은 하나의 제안이며, 그것은 우리 자신의 이익만큼이나 "
+"당신의 이익에도 부합한다고 믿습니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:411
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:413
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/text"
 msgstr ""
+"\"우리 정보부가 파악한 바에 따르면, 뉴 던이 반군 함대와 공조하고 있다고 "
+"합니다. 그들의 목표는 미탐사 우주 깊은 곳에 위치한 아이언 워치의 비밀 "
+"요새이며, 그들의 함대가 이미 그곳으로 이동 중인 것으로 추정됩니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:415
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:417
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/text"
 msgstr ""
+"\"공격이 임박한 상황에서, 아이언 워치 방어 함대의 미카리 제독이 직접 "
+"당신에게 지원을 요청했습니다. 우리는 단 한 번의 전투로 양쪽 적 모두에게 "
+"결정적인 타격을 입힐 기회를 얻은 셈입니다.\n"
+"\n"
+"\t\t\t\t\t\t해당 구역 좌표에 접근할 수 있도록 허가되었습니다. 그곳으로 "
+"가기로 했다면, 입구 신호등에 도착해서 미카리 제독을 찾아가세요. 행운을 "
+"빕니다, 함장님.\""
 
 #: src-en/data/events_sector_og_iron.xml:422
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "탐사한다."
 
 #: src-en/data/events_sector_og_iron.xml:426
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:430
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FINISH_STATION\"]/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:446
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[1]"
-msgstr ""
+msgstr "함선이 완전히 파괴되는 순간, 아이언 워치 함장이 마지막으로 욕설을 내뱉습니다."
 
 #: src-en/data/events_sector_og_iron.xml:447
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[2]"
 msgstr ""
+"아이언 워치 함선의 선체가 우주 공간으로 흩어집니다. 당신은 잔해를 회수하기 "
+"위해 접근합니다."
 
 #: src-en/data/events_sector_og_iron.xml:448
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[3]"
 msgstr ""
+"아이언 워치 함선이 폭발하며 선내의 모든 생명이 꺼져버립니다. 선원들은 시신과 "
+"잔해를 피해 함선 파편을 회수합니다."
 
 #: src-en/data/events_sector_og_iron.xml:449
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DESTROYED_OG_IRON\"]/text[4]"
 msgstr ""
+"함선이 폭발하면서 포탑 중 하나가 허공으로 튕겨 나가 사방으로 귀중한 파편을 "
+"흩뿌립니다."
 
 #: src-en/data/events_sector_og_iron.xml:457
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[1]"
 msgstr ""
+"\"네놈의 살육욕이... 언젠가 너를 파멸시킬 것이다, 배회자여. 너야말로... "
+"연방이... 반군보다 나을 게 없다는 증거다...\""
 
 #: src-en/data/events_sector_og_iron.xml:458
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[2]"
 msgstr ""
+"아무런 말도 없이, 아이언 워치 함장은 숨을 몰아쉬며 바닥에 쓰러지더니 눈에서 "
+"생기가 사라집니다. 당신은 그들의 선체를 해체하여 잔해를 회수합니다."
 
 #: src-en/data/events_sector_og_iron.xml:459
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_DEAD_CREW_OG_IRON\"]/text[3]"
 msgstr ""
+"\"너희는 이걸 후회하게 될 거다! 업보는 너희 같은 놈들에게 반드시 돌아가는 "
+"법이지. 빌어먹을 배회자 놈들... 아이언 워치는 차라리 반군과 손잡는 게 나았을 "
+"거다...\""
 
 #: src-en/data/events_sector_og_iron.xml:465
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"SURRENDER_OG_IRON\"]/choice[1]/text"
-msgstr ""
+msgstr "그들의 항복을 받아들인다."
 
 #: src-en/data/events_sector_og_iron.xml:474
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[1]"
 msgstr ""
+"\"좋아요, 당신이 이겼습니다! 창고에 있던 장비를 줄 테니 제발 우리를 내버려 "
+"두십시오!\""
 
 #: src-en/data/events_sector_og_iron.xml:475
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[2]"
-msgstr ""
+msgstr "함선에서 계속해서 교신을 보내옵니다. 항복하려는 것처럼 보입니다."
 
 #: src-en/data/events_sector_og_iron.xml:476
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[3]"
-msgstr ""
+msgstr "\"생각했던 것보다 훨씬 더 강력한 무장을 갖추고 계시는군요. 항복하겠습니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:477
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[4]"
 msgstr ""
+"그들이 메시지를 보내옵니다. \"당신의 함선은 놀라울 정도로 무장이 잘 되어 "
+"있군요! 제발 이것을 가져가시고 저희 목숨만은 살려주십시오.\""
 
 #: src-en/data/events_sector_og_iron.xml:478
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[5]"
-msgstr ""
+msgstr "\"제발 죽이지 말아 주십시오. 가진 것을 전부 드리겠습니다!\""
 
 #: src-en/data/events_sector_og_iron.xml:479
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[6]"
-msgstr ""
+msgstr "목숨만 살려준다면 화물의 일부를 주겠다고 제안합니다."
 
 #: src-en/data/events_sector_og_iron.xml:480
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[7]"
-msgstr ""
+msgstr "함선을 파괴하지 않는다면 물자를 나누어 주겠다고 제안합니다."
 
 #: src-en/data/events_sector_og_iron.xml:481
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[8]"
-msgstr ""
+msgstr "절박한 메시지가 도착합니다. \"가진 걸 다 줄 테니 제발 죽이지만 마시오!\""
 
 #: src-en/data/events_sector_og_iron.xml:482
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[9]"
-msgstr ""
+msgstr "\"저희가 완전히 졌습니다. 그저 목숨만 보존할 수 있기를 바랄 뿐입니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:483
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[10]"
 msgstr ""
+"\"무슨 말씀이신지 충분히 알았으니 그만하시죠, 저희가 졌습니다. 이것들을 "
+"가져가시고 부끄러움 속에 남겨진 저희를 내버려 두십시오.\""
 
 #: src-en/data/events_sector_og_iron.xml:484
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_SURRENDER_OG_IRON\"]/text[11]"
-msgstr ""
+msgstr "\"가진 걸 전부 줄 테니 서로 이번 일은 없었던 걸로 합시다.\""
 
 #: src-en/data/events_sector_og_iron.xml:488
 msgid "data/events_sector_og_iron.xml$//event[@name=\"ESCAPE_OG_IRON\"]/text"
 msgstr ""
+"스캔 결과 아이언 워치 함선이 탈출을 시도하고 있습니다. 도망치기 전에 "
+"파괴하십시오!"
 
 #: src-en/data/events_sector_og_iron.xml:501
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_IRON\"]/text[1]"
 msgstr ""
+"아이언 워치 함선이 당신의 손아귀에서 벗어나 송신소에 당신을 남겨둔 채 "
+"도망쳤습니다."
 
 #: src-en/data/events_sector_og_iron.xml:502
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_GOTAWAY_OG_IRON\"]/text[2]"
-msgstr ""
+msgstr "아이언 워치 함선을 파괴하려던 시도가 실패했고, 함선은 도망쳤습니다."
 
 #: src-en/data/events_sector_og_iron.xml:505
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"GOTAWAY_OG_IRON_REMAINS\"]/text"
 msgstr ""
+"아이언 워치 함선은 도망쳤을지 몰라도 모든 것이 수포로 돌아간 것은 아닙니다. "
+"파손된 선체에서 떨어진 스크랩 자국이 남아있어 이를 회수합니다."
 
 #: src-en/data/events_sector_og_iron.xml:567
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/text"
-msgstr ""
+msgstr "이 아이언 워치 기지 주변으로 대형 시장이 형성되어 있습니다."
 
 #: src-en/data/events_sector_og_iron.xml:570
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/text"
-msgstr ""
+msgstr "할인 중인 포탑을 구매한다."
 
 #: src-en/data/events_sector_og_iron.xml:572
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/text"
-msgstr ""
+msgstr "포탑을 적재한 후 시장의 다른 곳을 둘러보러 이동합니다."
 
 #: src-en/data/events_sector_og_iron.xml:578
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "상점."
 
 #: src-en/data/events_sector_og_iron.xml:584
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "(정신 제어) 가격을 더욱 낮추도록 \"협상\"한다."
 
 #: src-en/data/events_sector_og_iron.xml:586
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/text"
-msgstr ""
+msgstr "포탑을 적재한 후 시장의 다른 곳을 둘러보러 이동합니다."
 
 #: src-en/data/events_sector_og_iron.xml:592
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"mind\"]/event/choice/text"
-msgstr ""
+msgstr "상점."
 
 #: src-en/data/events_sector_og_iron.xml:598
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
-msgstr ""
+msgstr "(아이언 워치 선원) 가격을 더욱 낮추도록 협상한다."
 
 #: src-en/data/events_sector_og_iron.xml:600
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
-msgstr ""
+msgstr "포탑을 적재한 후 시장의 다른 곳을 둘러보러 이동합니다."
 
 #: src-en/data/events_sector_og_iron.xml:606
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/choice/text"
-msgstr ""
+msgstr "상점."
 
 #: src-en/data/events_sector_og_iron.xml:612
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/text"
-msgstr ""
+msgstr "기지를 공격한다!"
 
 #: src-en/data/events_sector_og_iron.xml:614
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/event/text"
 msgstr ""
+"이 일 이후로 시장 상인들이 당신과 거래하고 싶어 하지 않을 가능성이 높지만, "
+"그렇다고 무고한 민간인을 괴롭히는 것을 멈출 수는 없습니다."
 
 #: src-en/data/events_sector_og_iron.xml:617
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[4]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:623
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"STOREEVENT_OG_IRON_TURRETS_STATION\"]/choice[5]/text"
-msgstr ""
+msgstr "그냥 주변 상점들을 둘러본다."
 
 #: src-en/data/events_sector_og_iron.xml:643
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/text"
 msgstr ""
+"송신소에 도착하자 아이언 워치 함선 한 대를 발견합니다. 공개 채널을 통해 "
+"고함소리가 흘러나오는 것으로 보아 함장이 상당히 분노한 상태인 듯합니다.\n"
+"\t\"포탑이 아니라니, 그게 무슨 뜻이야?\" 선장이 분명히 이해하지 못하는 "
+"무언가를 설명하려는 그들의 승무원 중 한 명의 희미한 소리를 들을 수 "
+"있었습니다.\n"
+"\t\"그러니까 우리가 사기를 당한 거야? 그 교활한 상인 녀석, 다시 만나면 "
+"그놈은 죽은 목숨이야!\""
 
 #: src-en/data/events_sector_og_iron.xml:647
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/text"
-msgstr ""
+msgstr "계속 듣는다."
 
 #: src-en/data/events_sector_og_iron.xml:649
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/text"
 msgstr ""
+"마침내 함장의 분노가 극에 달하더니 포탑인 줄 알았던 물건을 에어록 밖으로 "
+"던져버리라고 명령합니다. \"내 눈앞에서 치워버리고, 당장 여기서 나간다!\" 그 "
+"말을 끝으로 아이언 워치 함선은 도약하여 떠납니다. 혼자 남겨진 당신은 그 "
+"\"포탑\"을 회수하여 직접 조사할 시간을 얻게 되었는데, 확인해 보니 단순한 "
+"방어 드론에 불과했습니다."
 
 #: src-en/data/events_sector_og_iron.xml:653
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:657
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:663
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/text"
-msgstr ""
+msgstr "화가 난 함장의 눈밖에 나지 않도록 피한다."
 
 #: src-en/data/events_sector_og_iron.xml:665
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "아이언 워치 함선의 센서에 감지되지 않기를 바라며 달의 반대편에 숨습니다."
 
 #: src-en/data/events_sector_og_iron.xml:667
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:671
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DEFENCE_DRONE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:681
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/text"
 msgstr ""
+"아이언 워치 함선 한 대가 실험을 도와줄 단기 일자리를 공고하고 있습니다. "
+"그들은 개조한 포탑을 테스트하기 위해 인근 소행성 지대까지 호위해 줄 함선을 "
+"구하고 있습니다."
 
 #: src-en/data/events_sector_og_iron.xml:683
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[1]/text"
-msgstr ""
+msgstr "돕기로 동의한다."
 
 #: src-en/data/events_sector_og_iron.xml:686
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[1]/event/text"
 msgstr ""
+"아이언 워치 함선의 뒤를 따라 소행성 지대로 들어갑니다. \"포탑을 교정하는 "
+"중입니다, 30초도 채 걸리지 않을 겁니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:690
 msgid ""
 "data/events_sector_og_iron.xml$//triggeredEvent[@name=\"OG_IRON_FOR_SCIENCE_TURRET\"]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "아이언 워치의 포탑 교정이 완료될 때까지 남은 시간입니다."
 
 #: src-en/data/events_sector_og_iron.xml:698
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/text"
-msgstr ""
+msgstr "요청을 무시한다."
 
 #: src-en/data/events_sector_og_iron.xml:700
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "아이언 워치 함선을 피하고 다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:702
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:706
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:714
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/text"
-msgstr ""
+msgstr "\"응답하라, 응답하라! 무언가 심각하게 잘못되었다, 포탑 전원이 꺼져버렸다.\""
 
 #: src-en/data/events_sector_og_iron.xml:716
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"LIST_CREW_POWER\"]/text"
-msgstr ""
+msgstr "(보너스 전력 선원) 선원을 보내 그들의 시스템을 과충전한다."
 
 #: src-en/data/events_sector_og_iron.xml:720
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[@req=\"battery\"]/text"
-msgstr ""
+msgstr "(예비 배터리) 보조 전력을 사용해 그들의 시스템을 과충전한다."
 
 #: src-en/data/events_sector_og_iron.xml:724
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_ION_BLAST\"]/choice[3]/text"
-msgstr ""
+msgstr "당신이 할 수 있는 건 없습니다.."
 
 #: src-en/data/events_sector_og_iron.xml:738
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS_ION\"]/text"
-msgstr ""
+msgstr "포탑의 전력을 복구하는 데 성공했습니다."
 
 #: src-en/data/events_sector_og_iron.xml:742
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_PASS\"]/text"
 msgstr ""
+"\"작업이 끝났습니다. 도와주셔서 감사합니다, 함장님.\" 함선 측에서 호위 "
+"대가로 약간의 물자를 보내옵니다."
 
 #: src-en/data/events_sector_og_iron.xml:748
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_FOR_SCIENCE_BLAST\"]/text"
 msgstr ""
+"거대한 소행성이 아이언 워치 함선을 산산조각 내는 모습을 무기력하게 바라볼 "
+"수밖에 없었습니다. 함선은 소행성 지대로 빠르게 흩어지는 파편 구름으로 "
+"변해버렸고, 떠나기 전에 일부 잔해를 회수할 수 있었습니다."
 
 #: src-en/data/events_sector_og_iron.xml:767
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/text"
 msgstr ""
+"기묘한 함선의 잔해를 발견합니다. 이 근처에서 소문을 들었던 뉴 던 함선 중 "
+"하나로 보이며, 이들은 반군과 손을 잡은 아이언 워치의 분파 세력인 듯합니다."
 
 #: src-en/data/events_sector_og_iron.xml:769
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/text"
-msgstr ""
+msgstr "조사한다."
 
 #: src-en/data/events_sector_og_iron.xml:771
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[1]/event/text"
 msgstr ""
+"함선은 싹 털린 것처럼 보이며, 인양할 만한 물건이 남은 구역은 몇 곳 되지 "
+"않습니다. 당신의 함선으로 돌아가기 전에 건질 수 있는 것은 무엇이든 "
+"회수합니다."
 
 #: src-en/data/events_sector_og_iron.xml:776
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/text"
-msgstr ""
+msgstr "함선을 무시한다."
 
 #: src-en/data/events_sector_og_iron.xml:778
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "함선을 피하고 다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:780
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:784
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_WRECK\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:807
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/text"
-msgstr ""
+msgstr "아이언 워치 함선이 분해되어 파괴됩니다. 서둘러 민간선에 교신을 시도합니다."
 
 #: src-en/data/events_sector_og_iron.xml:810
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "민간선에 교신한다."
 
 #: src-en/data/events_sector_og_iron.xml:815
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/text"
 msgstr ""
+"아이언 워치 함선에서 생명 반응이 더 이상 감지되지 않습니다. 서둘러 민간선에 "
+"교신을 시도합니다."
 
 #: src-en/data/events_sector_og_iron.xml:818
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_RESCUE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "민간선에 교신한다."
 
 #: src-en/data/events_sector_og_iron.xml:826
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/text"
 msgstr ""
+"송신소에 도착하자 아이언 워치 함선이 민간선을 추격하는 모습을 발견합니다. "
+"자신들의 함선이 해적질을 서슴지 않는 것을 보니, 아이언 워치 구역의 이쪽 "
+"지역은 규율이 특히나 느슨한 모양입니다."
 
 #: src-en/data/events_sector_og_iron.xml:828
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/text"
-msgstr ""
+msgstr "민간선을 돕는다."
 
 #: src-en/data/events_sector_og_iron.xml:830
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "무기에 전력을 가동하고 공격하러 접근합니다."
 
 #: src-en/data/events_sector_og_iron.xml:833
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:839
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/text"
-msgstr ""
+msgstr "관여하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:842
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/text"
 msgstr ""
+"전투로 인해 그들은 즉시 스캔할 수 있는 범위 밖으로 벗어납니다. 얼마 후 구조 "
+"신호가 중단됩니다."
 
 #: src-en/data/events_sector_og_iron.xml:844
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:848
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:858
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/text"
 msgstr ""
+"송신소에 도착하자 아이언 워치 함선이 민간선을 추격하는 모습을 발견합니다. "
+"아이언 워치 공간 대부분에서 불법임에도 불구하고, 이 함선은 펄서를 이용해 "
+"민간인을 약탈하면서도 적발될 염려를 전혀 하지 않는 듯합니다."
 
 #: src-en/data/events_sector_og_iron.xml:860
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/text"
-msgstr ""
+msgstr "민간선을 돕는다."
 
 #: src-en/data/events_sector_og_iron.xml:862
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/text"
-msgstr ""
+msgstr "무기에 전력을 가동하고 공격하러 접근합니다."
 
 #: src-en/data/events_sector_og_iron.xml:865
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:871
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/text"
-msgstr ""
+msgstr "관여하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:874
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/text"
 msgstr ""
+"전투로 인해 그들은 즉시 스캔할 수 있는 범위 밖으로 벗어납니다. 얼마 후 구조 "
+"신호가 중단됩니다."
 
 #: src-en/data/events_sector_og_iron.xml:876
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:880
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_CIVILIAN_PIRATE_PULSAR\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:890
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/text"
 msgstr ""
+"송신소에 도착하자 그 기묘한 뉴 던 함선 중 하나가 민간선을 공격하는 모습을 "
+"발견합니다. 그들은 아직 당신을 눈치채지 못한 듯합니다."
 
 #: src-en/data/events_sector_og_iron.xml:892
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/text"
-msgstr ""
+msgstr "민간선을 돕는다."
 
 #: src-en/data/events_sector_og_iron.xml:894
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/text"
 msgstr ""
+"당신이 손을 쓸 겨를도 없이 민간선이 폭발해 버립니다. 뉴 던 함선은 당신을 "
+"알아채고 도망치기 시작하더니, 이내 도약하여 사라집니다."
 
 #: src-en/data/events_sector_og_iron.xml:897
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "민간선의 잔해를 약탈한다."
 
 #: src-en/data/events_sector_og_iron.xml:899
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"민간선의 잔해로 접근해 약탈을 시작하려던 참에 아이언 워치 함선이 송신소에 "
+"도착합니다. 그들은 당신이 함선을 파괴한 범인이라고 생각했는지 즉시 공격하기 "
+"위해 접근해 옵니다."
 
 #: src-en/data/events_sector_og_iron.xml:903
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:909
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "인근 아이언 워치 전초기지를 통해 공격 사실을 신고한다."
 
 #: src-en/data/events_sector_og_iron.xml:911
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"현지 아이언 워치 당국에 연락하여 습격 사실을 알리자, 얼마 지나지 않아 아이언 "
+"워치 함선 한 대가 도착합니다. \"함장님, 이런 꼴을 보게 해드려 죄송합니다. "
+"날이 갈수록 이런 습격이 점차 심해지는군요. 공격받은 이들에게 전달하려 가져온 "
+"물자가 있습니다만, 이제는 그들에게 필요 없어진 듯하니 대신 가져가시는 게 "
+"어떻겠습니까?\""
 
 #: src-en/data/events_sector_og_iron.xml:915
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:923
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/text"
-msgstr ""
+msgstr "관여하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:926
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/text"
 msgstr ""
+"전투로 인해 그들은 즉시 스캔할 수 있는 범위 밖으로 벗어납니다. 얼마 후 구조 "
+"신호가 중단됩니다."
 
 #: src-en/data/events_sector_og_iron.xml:928
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:932
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_SETUP\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:941
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/text"
-msgstr ""
+msgstr "제발 잔해는 마음대로 가지셔도 좋으니 목숨만은 살려주십시오!"
 
 #: src-en/data/events_sector_og_iron.xml:943
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/choice[1]/text"
-msgstr ""
+msgstr "그들의 제안을 받아들인다."
 
 #: src-en/data/events_sector_og_iron.xml:947
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/surrender/choice[2]/text"
-msgstr ""
+msgstr "항복은 선택지에 없다."
 
 #: src-en/data/events_sector_og_iron.xml:955
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/destroyed/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:963
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_EXPLORE_TRANSPORT\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:970
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE_SURRENDER\"]/text"
 msgstr ""
+"잔해를 해체하고 창고에서 건질 수 있는 물자를 회수한 후 다음 도약을 "
+"준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:973
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE_SURRENDER\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:978
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_SECURE\"]/text"
 msgstr ""
+"잔해를 해체하고 창고에서 건질 수 있는 물자를 회수한 후 다음 도약을 "
+"준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:983
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/text"
 msgstr ""
+"아이언 워치 함선이 인사해 옵니다. \"반갑습니다, 함장님. 혹시 이 근처에서 "
+"함선 잔해를 보신 적이 있으신지요? 근처 대함 포대에 맞은 뉴 던 수송선 한 대가 "
+"이 소행성 지대로 들어가는 것이 목격되었다고 합니다. 아무래도 이 근방 "
+"어디선가 좌초된 것 같습니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:985
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[1]/text"
-msgstr ""
+msgstr "수송선을 찾는 것을 돕는다."
 
 #: src-en/data/events_sector_og_iron.xml:989
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[@req=\"sensors\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(고급 센서) 주변 지역을 스캔한다."
 
 #: src-en/data/events_sector_og_iron.xml:993
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "(최고급 센서) 소행성 지대를 정밀 스캔한다."
 
 #: src-en/data/events_sector_og_iron.xml:997
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/text"
-msgstr ""
+msgstr "정중히 거절한다."
 
 #: src-en/data/events_sector_og_iron.xml:999
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/text"
-msgstr ""
+msgstr "아이언 워치 함선은 소행성 지대를 수색하다가 결국 시야에서 사라집니다."
 
 #: src-en/data/events_sector_og_iron.xml:1001
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1005
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT\"]/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1014
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/text"
 msgstr ""
+"마침내 문제의 수송선을 포착합니다. 여러 소행성에 충돌해 구멍이 난 "
+"모습입니다. 선내를 수색하던 중 깨끗한 무기 하나를 발견하자, 잠시 후 아이언 "
+"워치 함선이 나타납니다. \"아, 찾으셨군요! 도와주셔서 감사합니다. 이제부터는 "
+"저희가 알아서 처리하겠습니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1017
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/text"
-msgstr ""
+msgstr "함선을 공격하여 잔해를 독점한다."
 
 #: src-en/data/events_sector_og_iron.xml:1019
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/text"
 msgstr ""
+"무기에 전력을 올리자 아이언 워치 함선이 당신의 의도를 눈치챈 듯합니다. 상대 "
+"함장은 욕설을 내뱉으며 대응하기 위해 자신들의 무기를 가동합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1022
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1028
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/text"
-msgstr ""
+msgstr "잔해를 그들에게 맡겨둔다."
 
 #: src-en/data/events_sector_og_iron.xml:1030
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/text"
-msgstr ""
+msgstr "잔해는 결국 시야 밖으로 떠내려갑니다."
 
 #: src-en/data/events_sector_og_iron.xml:1032
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1036
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1044
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/text"
 msgstr ""
+"결국 잔해를 찾아냈지만, 마침 아이언 워치 함선도 그곳에 있었습니다. 그들은 "
+"이미 한참 전부터 잔해를 해체하고 있던 것으로 보입니다. \"아, 무사하셨군요! "
+"도와주신 점은 감사하지만 더 이상 필요한 건 없습니다. 임무에 행운이 있기를 "
+"바랍니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1046
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/text"
-msgstr ""
+msgstr "함선을 공격하여 잔해를 독점한다."
 
 #: src-en/data/events_sector_og_iron.xml:1048
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/text"
 msgstr ""
+"무기에 전력을 올리자 아이언 워치 함선이 당신의 의도를 눈치챈 듯합니다. 상대 "
+"함장은 욕설을 내뱉으며 대응하기 위해 자신들의 무기를 가동합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1051
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1057
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/text"
-msgstr ""
+msgstr "잔해를 그들에게 맡겨둔다."
 
 #: src-en/data/events_sector_og_iron.xml:1059
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "잔해는 결국 시야 밖으로 떠내려갑니다."
 
 #: src-en/data/events_sector_og_iron.xml:1061
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1065
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_EXPLORE_TRANSPORT_FIND_LATE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1072
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_EXPLORE_TRANSPORT_SEARCH\"]/event[3]/text"
 msgstr ""
+"몇 시간 동안이나 소행성 지대를 수색한 것 같았지만, 아무것도 찾을 수 "
+"없었습니다. 그래도 기본 물자가 들어있는 화물 컨테이너 하나를 어쩌다 "
+"발견했습니다."
 
 #: src-en/data/events_sector_og_iron.xml:1095
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_WATCH_PIRATE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1104
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_WATCH_PIRATE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1113
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/text"
 msgstr ""
+"송신소에 도착하자 심각한 손상을 입은 아이언 워치 함선이 해적과 교전 중인 "
+"모습을 발견합니다. 도움 없이는 아이언 워치 함선이 오래 버티지 못할 것입니다."
 
 #: src-en/data/events_sector_og_iron.xml:1115
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/text"
-msgstr ""
+msgstr "아이언 워치 함선을 돕는다."
 
 #: src-en/data/events_sector_og_iron.xml:1117
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/event/text"
 msgstr ""
+"당신이 무기를 가동하자, 더 큰 위협을 감지한 해적선이 당신에게로 목표를 "
+"돌립니다."
 
 #: src-en/data/events_sector_og_iron.xml:1120
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1126
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/text"
-msgstr ""
+msgstr "관여하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1128
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/text"
 msgstr ""
+"전투로 인해 그들은 즉시 스캔할 수 있는 범위 밖으로 벗어납니다. 얼마 후 구조 "
+"신호가 중단됩니다."
 
 #: src-en/data/events_sector_og_iron.xml:1130
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1134
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1149
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/text"
 msgstr ""
+"이전 전투의 피해를 어느 정도 복구한 아이언 워치 측에서 자신들을 구해준 것에 "
+"대해 감사를 표합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1151
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/text"
-msgstr ""
+msgstr "손상된 틈을 타 그들을 공격한다."
 
 #: src-en/data/events_sector_og_iron.xml:1153
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/event/text"
 msgstr ""
+"아이언 워치의 선원들은 당신이 무기를 가동하며 공격 준비를 하자 경악을 금치 "
+"못합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1156
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1162
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/text"
-msgstr ""
+msgstr "(아이언 워치 선원) 물자를 요청한다."
 
 #: src-en/data/events_sector_og_iron.xml:1164
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[@req=\"LIST_CREW_OG_IRON\"]/event/text"
-msgstr ""
+msgstr "\"당연히 드려야지요. 감사의 표시로 이걸 받아주십시오.\""
 
 #: src-en/data/events_sector_og_iron.xml:1169
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_WATCH_PIRATE_DEAD\"]/choice[3]/text"
-msgstr ""
+msgstr "다음 도약을 준비한다."
 
 #: src-en/data/events_sector_og_iron.xml:1178
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/text"
 msgstr ""
+"이곳의 민간선은 펄서로 인해 고립된 듯합니다. \"함장님, 오셔서 다행입니다. "
+"도약을 실행하려던 순간 펄서의 충격을 받아 도약 드라이브가 나가버렸고, 전력 "
+"급증으로 엔진이 구워졌습니다. 물자도 부족하고 전담 엔지니어도 탑승해 있지 "
+"않으니, 어떤 도움이라도 감사히 받겠습니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1180
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/text"
-msgstr ""
+msgstr "물자를 조금 보낸다."
 
 #: src-en/data/events_sector_og_iron.xml:1182
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"도와주셔서 감사합니다. 부디 조속히 수리할 수 있기를 바랄 뿐입니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1188
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1194
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr ""
+msgstr "(엔지니어 선원) 엔지니어가 도울 수 있는지 확인한다."
 
 #: src-en/data/events_sector_og_iron.xml:1196
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
+"선원들이 시간을 들여 고장 난 도약 드라이브를 살펴보고 작업합니다. 마침내 "
+"근본적인 원인을 찾아내자, 상대 함장은 크게 기뻐합니다. \"모든 시스템 정상... "
+"좋습니다! 도약하면 다시 가동될 겁니다. 도와주셔서 감사합니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1199
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1205
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"DRONE_CONTROL_REPAIR_CREW\"]/text"
-msgstr ""
+msgstr "(수리 드론) 수리 드론을 보낸다. [-1|]"
 
 #: src-en/data/events_sector_og_iron.xml:1209
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
-msgstr ""
+msgstr "문제를 수리해 본다."
 
 #: src-en/data/events_sector_og_iron.xml:1213
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/text"
-msgstr ""
+msgstr "무력해진 틈을 타 공격한다!"
 
 #: src-en/data/events_sector_og_iron.xml:1215
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/event/text"
 msgstr ""
+"스크랩이 한 조각이라도 더 필요한 상황에서 이 함선은 손쉬운 먹잇감이 될 "
+"것입니다."
 
 #: src-en/data/events_sector_og_iron.xml:1218
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[5]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1224
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/text"
-msgstr ""
+msgstr "도울 수 없다고 사과한다."
 
 #: src-en/data/events_sector_og_iron.xml:1226
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/text"
 msgstr ""
+"민간선의 함장이 한숨을 쉽니다. \"혹시라도 도울 만한 사람을 만나면 이쪽으로 "
+"보내주십시오.\""
 
 #: src-en/data/events_sector_og_iron.xml:1228
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1232
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[6]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1241
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[1]/text"
 msgstr ""
+"드론이 고장 난 도약 드라이브를 만지작거리기 시작합니다. 얼마 지나지 않아 "
+"드론이 문제를 찾아내고 드라이브가 다시 살아납니다. \"모든 시스템 정상... "
+"아주 좋습니다! 도와주셔서 감사합니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1247
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[1]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1252
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[2]/text"
 msgstr ""
+"드론이 고장 난 도약 드라이브를 만지작거리기 시작합니다. 드론은 수리 물자가 "
+"부족하다는 보고를 보내오는 대신 수리 방법에 대한 진단서를 출력해냅니다. "
+"\"뭐, 아무것도 없는 것보다는 낫겠지요... 이제 무엇이 필요한지 알게 "
+"되었으니까요.\" 그들은 소정의 보상을 지급합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1259
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_REPAIR\"]/event[3]/text"
 msgstr ""
+"드론이 고장 난 도약 드라이브를 만지작거리기 시작합니다. 드라이브가 잠시 "
+"작동하는 듯하더니 펑 소리를 냅니다. 드론은 확인했으나 고치지 못한 문제점 "
+"목록을 출력해냅니다. \"뭐, 아무것도 없는 것보다는 낫겠지요... 당장은 "
+"이것으로 어떻게든 해볼 수 있을지도 모릅니다.\" 그들은 적절한 보상을 "
+"지급합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1268
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[1]/text"
 msgstr ""
+"선원들이 시간을 들여 고장 난 도약 드라이브를 살펴보고 작업합니다. 마침내 "
+"근본적인 원인을 찾아내자, 상대 함장은 크게 기뻐합니다. \"모든 시스템 정상... "
+"좋습니다! 도약하면 다시 가동될 겁니다. 도와주셔서 감사합니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1271
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[1]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1276
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[2]/text"
 msgstr ""
+"선원들이 시간을 들여 고장 난 도약 드라이브를 살펴보고 작업합니다. 작동시키는 "
+"데는 실패했지만, 원인을 진단하는 데는 성공합니다. \"뭐, 아무것도 없는 "
+"것보다는 낫겠지요... 이제 뭐가 문제인지 알았으니까요.\" 그들은 소정의 보상을 "
+"지급합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1280
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[3]/text"
 msgstr ""
+"선원들이 시간을 들여 고장 난 도약 드라이브를 살펴보고 작업합니다. 잠시 "
+"가동되는 듯하더니 펑 소리를 냅니다. 부분적으로만 작동시킨 모양입니다. \"뭐, "
+"아무것도 없는 것보다는 낫겠지요... 당장은 이것으로 어떻게든 해볼 수 있을지도 "
+"모릅니다.\" 그들은 적절한 보상을 지급합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1284
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[4]/text"
 msgstr ""
+"선원들이 시간을 들여 고장 난 도약 드라이브를 살펴보고 작업합니다. 선원 중 한 "
+"명이 무언가를 조정하자 드라이브에서 펑 소리가 나더니 불길이 치솟습니다. "
+"완전히 망가뜨려 버린 것 같습니다. \"잘하는 짓이다, 멍청이들아! 이제 우린 "
+"완전히 망했잖아!\""
 
 #: src-en/data/events_sector_og_iron.xml:1287
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DISTRESS_PULSAR_SEND_CREW\"]/event[5]/text"
 msgstr ""
+"선원들이 시간을 들여 고장 난 도약 드라이브를 살펴보고 작업합니다. 애를 "
+"써보았지만 대체 뭐가 문제인지 전혀 갈피를 잡지 못합니다. 상대 선원들이 "
+"고개를 저어댑니다. \"우리도 모르는 걸 당신들이 어떻게 알 거라고 생각했던 "
+"거지...?\""
 
 #: src-en/data/events_sector_og_iron.xml:1305
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/text"
 msgstr ""
+"도착하자마자 아이언 워치 수송선과 마주칩니다. 센서에 그들의 도약 드라이브가 "
+"충전되고 있는 것이 감지됩니다."
 
 #: src-en/data/events_sector_og_iron.xml:1307
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1309
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/text"
 msgstr ""
+"그들이 도약을 실행하는 순간, 피하지 못한 소행성 하나가 함선 측면에 충돌하여 "
+"일부 구역을 뜯어냅니다. 그러나 도약에는 지장이 없었는지 수송선은 잠시 후 "
+"사라집니다."
 
 #: src-en/data/events_sector_og_iron.xml:1312
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/text"
-msgstr ""
+msgstr "조사한다."
 
 #: src-en/data/events_sector_og_iron.xml:1314
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/text"
 msgstr ""
+"잔해 대부분은 쓸모가 없었지만, 결국 화물 컨테이너 하나를 찾아냈고 그 안에서 "
+"특이하게 생긴 포탑을 발견합니다. 이 포탑은 근처 전초기지라는 특정 목적지로 "
+"배송되던 물품으로 보입니다. 해당 좌표를 기록합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1318
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1322
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1334
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "당신이 찾은 포탑의 예정 목적지."
 
 #: src-en/data/events_sector_og_iron.xml:1338
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/text"
 msgstr ""
+"이 송신소에는 대형 전초기지가 자리 잡고 있으며, 기지 내부와 주변에서 여러 "
+"함선이 보입니다. 근처에서 손상된 수송선을 발견합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1340
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "손상된 수송선 근처에 도킹한다."
 
 #: src-en/data/events_sector_og_iron.xml:1342
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"함선에서 내리자마자 근처에서 들려오는 큰 목소리의 대화가 귀에 들어옵니다. "
+"\"이제 어쩌면 좋지, 이것 때문에 내 배를 빼앗기게 생겼다고. 도약 한 번 "
+"아껴보겠다고 왜 그딴 소행성 지대로 들어갔을까?\""
 
 #: src-en/data/events_sector_og_iron.xml:1344
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
 "not(@lvl)]/text"
-msgstr ""
+msgstr "잃어버린 포탑을 보여준다."
 
 #: src-en/data/events_sector_og_iron.xml:1346
 msgid ""
@@ -1458,702 +1732,819 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
 "not(@lvl)]/event/text"
 msgstr ""
+"\"아, 천만다행이군요! 도대체 어떻게 찾으신 겁니까?\" 충돌로 포탑이 떨어져 "
+"나가는 것을 보았다고 설명하자, 그가 말합니다. \"은인이십니다! 보상으로 이 "
+"물자들을 가져가십시오.\" 수송선 함장은 포탑을 챙겨 전초기지 내부로 "
+"들어갑니다."
 
 #: src-en/data/events_sector_og_iron.xml:1351
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
 "not(@lvl)]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1357
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[@req=\"OG_TURRET_LASER_MINI_DAWN_2\" and "
 "@lvl=\"0\"]/text"
-msgstr ""
+msgstr "잃어버린 포탑을 가지고 있지 않습니다."
 
 #: src-en/data/events_sector_og_iron.xml:1361
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[3]/text"
-msgstr ""
+msgstr "조용히 자리를 떠난다."
 
 #: src-en/data/events_sector_og_iron.xml:1363
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1365
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1369
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1377
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
+"전초기지에 도킹할 수는 있지만, 선원이 없다면 할 수 있는 일이 거의 없을 "
+"것입니다."
 
 #: src-en/data/events_sector_og_iron.xml:1381
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/text"
-msgstr ""
+msgstr "전초기지를 무시한다."
 
 #: src-en/data/events_sector_og_iron.xml:1383
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/text"
-msgstr ""
+msgstr "다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1385
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1389
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DELIVERY_OUTPOST\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1408
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/text"
 msgstr ""
+"송신소에 도착하자 뉴 던 정찰선과 맞닥뜨립니다. 함선이 도약 드라이브를 "
+"가동하는 것이 즉시 감지되며, 그들이 도약해 떠나기까지는 몇 초밖에 남지 "
+"않았습니다."
 
 #: src-en/data/events_sector_og_iron.xml:1410
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[1]/text"
-msgstr ""
+msgstr "도약 드라이브를 사격해 본다!"
 
 #: src-en/data/events_sector_og_iron.xml:1414
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "\"잠깐 기다려라!\""
 
 #: src-en/data/events_sector_og_iron.xml:1416
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"함선이 즉시 도약하지 않는 것을 보니, 그들의 주의를 끄는 데 성공한 듯합니다. "
+"당신은 그들을 해칠 생각이 없으며, 단지 이곳에서 무엇을 하고 있는지 알고 싶을 "
+"뿐이라고 설명합니다.\n"
+"그들은 즉시 반응하지 않고 도약 드라이브를 항상 준비된 상태로 유지합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1419
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1421
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"마침내 그들이 응답합니다. \"배회자여, 무언가 알고 싶다면 먼저 우리에게 너의 "
+"증명을 해보여라. 근처에 아이언 워치 보급창이 있으니, 그곳을 파괴하고 오면 "
+"이야기해 주겠다.\" 그 말을 남기고 함선은 도약하여 사라집니다."
 
 #: src-en/data/events_sector_og_iron.xml:1429
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "\"잠깐 기다려라!\""
 
 #: src-en/data/events_sector_og_iron.xml:1431
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/text"
 msgstr ""
+"함선은 즉시 통신을 차단하고 잠시 후 사라집니다. 당신의 이야기를 들어줄 "
+"생각이 전혀 없는 듯합니다. 만약 당신의 소문을 들어본 적이 있었다면 조금 더 "
+"귀를 기울였을 지도 모릅니다."
 
 #: src-en/data/events_sector_og_iron.xml:1434
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1438
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[@req=\"rep_og_dawn\""
 " and @lvl=\"-999\"]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1444
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/text"
-msgstr ""
+msgstr "떠나도록 내버려 둔다."
 
 #: src-en/data/events_sector_og_iron.xml:1446
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/text"
-msgstr ""
+msgstr "함선이 도약하여 떠나고, 당신은 다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1449
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1453
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT\"]/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1461
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[1]/text"
-msgstr ""
+msgstr "뉴 던 정찰선은 당신의 공격을 가볍게 피하고, 잠시 후 도약하여 떠납니다."
 
 #: src-en/data/events_sector_og_iron.xml:1464
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[1]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1469
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[2]/text"
-msgstr ""
+msgstr "그들의 엔진에 직격탄을 맞혀 도약 드라이브를 무력화합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1473
 msgid ""
 "data/events_sector_og_iron.xml$//eventList[@name=\"OG_IRON_DAWN_HIDEOUT_FIRE\"]/event[2]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1484
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_DAWN_QUEST\"]/destroyed/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1492
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_DAWN_QUEST\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1500
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "뉴 던이 당신에게 파괴를 의뢰한 아이언 워치 보급 기지의 위치입니다."
 
 #: src-en/data/events_sector_og_iron.xml:1505
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/text"
 msgstr ""
+"송신소에 도착하여 아이언 워치 보급창을 발견했지만, 안타깝게도 혼자가 "
+"아닙니다. 인근에서 아이언 워치 함선 한 대가 경비를 서고 있습니다."
 
 #: src-en/data/events_sector_og_iron.xml:1507
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "경비정을 공격한다."
 
 #: src-en/data/events_sector_og_iron.xml:1509
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"아이언 워치 함선이 당신과 보급창 사이를 빠르게 가로막아 섭니다. 전투를 "
+"준비하십시오."
 
 #: src-en/data/events_sector_og_iron.xml:1512
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1518
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/text"
-msgstr ""
+msgstr "그들에게 습격에 대해 경고한다."
 
 #: src-en/data/events_sector_og_iron.xml:1520
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/event/text"
 msgstr ""
+"아이언 워치 측은 경고해 준 것에 대해 매우 고마워하며 감사의 표시로 약간의 "
+"물자를 제공합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1523
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1529
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/text"
-msgstr ""
+msgstr "임무를 포기한다."
 
 #: src-en/data/events_sector_og_iron.xml:1531
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/text"
-msgstr ""
+msgstr "거리를 유지하며 다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1534
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1538
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST\"]/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1548
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/text"
 msgstr ""
+"경비정을 처리한 덕분에 보급창에 접근하여 물자를 약탈하고 파괴할 수 "
+"있었습니다. 뉴 던이 지켜보고 있었는지 얼마 지나지 않아 메시지가 도착합니다. "
+"\"이미 뉴 던의 다른 대원들과 접선하신 모양이군요. 뉴 던 전방 공작 기지에서 "
+"뵙겠습니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1551
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN\"]/loadEventList/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1558
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/text"
 msgstr ""
+"경비정을 처리한 덕분에 보급창에 접근하여 물자를 약탈하고 파괴할 수 "
+"있었습니다. 뉴 던이 지켜보고 있었는지 얼마 지나지 않아 메시지가 도착합니다. "
+"\"뉴 던 전방 공작 기지로 찾아오십시오. 이야기는 그곳에서 나누지요.\""
 
 #: src-en/data/events_sector_og_iron.xml:1562
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DAWN_HIDEOUT_QUEST_WIN_INITIATE\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1591
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_SHIP\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1596
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[1]"
 msgstr ""
+"성계로 도약하자 변절한 아이언 워치 함선 한 대가 당신의 위치로 전진해 옵니다. "
+"모든 교신을 거부하고 있습니다. 전투를 준비하십시오."
 
 #: src-en/data/events_sector_og_iron.xml:1597
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[2]"
 msgstr ""
+"성계에 도착한 지 얼마 지나지 않아 소형 순양함에서 교신을 보내옵니다. "
+"\"이렇게 마주치다니 정말 운이 좋군요. 개인적인 감정은 없지만, 당신에게 "
+"필요한 정보가 좀 있어서 말이죠!\""
 
 #: src-en/data/events_sector_og_iron.xml:1598
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[3]"
 msgstr ""
+"이 송신소에 있는 유일한 함선이 메시지를 보냅니다. \"드디어, 몇 달을 기다린 "
+"끝에 누군가 우리 함정에 걸려들었군!\""
 
 #: src-en/data/events_sector_og_iron.xml:1599
 msgid ""
 "data/events_sector_og_iron.xml$//textList[@name=\"TEXT_ENCOUNTER_OG_IRON\"]/text[4]"
 msgstr ""
+"도약 완료를 확인하기도 전에, 무기를 가동한 적함이 접근 중이라는 경고음이 "
+"함선에 울려 퍼집니다."
 
 #: src-en/data/events_sector_og_iron.xml:1603
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/text"
 msgstr ""
+"이 송신소는 중성자별에 너무 가깝게 위치해 있습니다! 방사성 장막으로 인해 "
+"시스템이 일시적으로 이온화됩니다. 아이언 워치 함선들은 펄서 환경에서도 꽤 "
+"효과적으로 작동하도록 설계된 모양입니다. 험난한 전투가 될 것 같습니다."
 
 #: src-en/data/events_sector_og_iron.xml:1607
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_IRON_PULSAR\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1613
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/text"
 msgstr ""
+"이 송신소는 중성자별에 너무 가깝게 위치해 있습니다! 방사성 장막으로 인해 "
+"시스템이 일시적으로 이온화됩니다. 펄서의 위험을 전혀 모르는 듯한 해적 한 "
+"대가 교전을 위해 접근해 옵니다."
 
 #: src-en/data/events_sector_og_iron.xml:1617
 msgid ""
 "data/events_sector_og_iron.xml$/dummyroot/FTL/event[@name=\"ENCOUNTER_OG_PIRATE_PULSAR\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1629
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1637
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1645
 msgid "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/text"
 msgstr ""
+"꽤나 황량한 송신소에 도착했습니다. 인근 행성 궤도에서 감지되는 아이언 워치 "
+"전초기지를 제외하면 주목할 만한 것이 거의 없습니다."
 
 #: src-en/data/events_sector_og_iron.xml:1647
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1649
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/text"
 msgstr ""
+"지루해지려던 참에 다른 함선 한 대가 성계로 도약해 옵니다. 지금까지 보았던 "
+"아이언 워치 함선과는 다른 모습으로, 일종의 신형 순양함이자 프로토타입인 "
+"것으로 보입니다."
 
 #: src-en/data/events_sector_og_iron.xml:1652
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1654
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/text"
 msgstr ""
+"프로토타입이 저 멀리 있는 전초기지에 도킹하는 모습을 바라봅니다. 손을 쓸 "
+"겨를도 없이 불과 몇 분 만에 함선은 도킹을 해제하고 도약하여 떠나버립니다."
 
 #: src-en/data/events_sector_og_iron.xml:1657
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(우호적 평판) 전초기지에 해당 함선에 대해 문의한다."
 
 #: src-en/data/events_sector_og_iron.xml:1661
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "(중립적 평판) 전초기지에 해당 함선에 대해 문의한다."
 
 #: src-en/data/events_sector_og_iron.xml:1665
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"rep_comb_og_iron\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "(적대적 평판) 전초기지에 해당 함선에 대해 문의한다."
 
 #: src-en/data/events_sector_og_iron.xml:1669
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(고급 센서) 함선이 남긴 도약 궤적을 스캔한다."
 
 #: src-en/data/events_sector_og_iron.xml:1671
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[@req=\"sensors\"]/event/text"
 msgstr ""
+"도약 시 방출된 방사선을 스캔하여 프로토타입의 대략적인 목적지를 삼각측량해 "
+"냅니다."
 
 #: src-en/data/events_sector_og_iron.xml:1676
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/text"
-msgstr ""
+msgstr "지나친다."
 
 #: src-en/data/events_sector_og_iron.xml:1678
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/text"
-msgstr ""
+msgstr "거리를 유지하며 다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1680
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1684
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE\"]/choice/event/choice/event/choice[5]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1696
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/text"
 msgstr ""
+"잠시 후 전초기지에서 인사를 건네옵니다. \"원래 이런 정보를 발설하면 안 "
+"됩니다만, 당신을 위해 특별히 예외를 두도록 하죠.\""
 
 #: src-en/data/events_sector_og_iron.xml:1699
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1703
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_FRIENDLY\"]/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1708
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/text"
 msgstr ""
+"잠시 후 전초기지에서 응답해 오지만, 곧바로 단호한 태도를 보입니다. "
+"\"죄송합니다만, 그 함선에 대한 정보는 제공해 드릴 수 없습니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1710
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/text"
-msgstr ""
+msgstr "이거라면 생각이 바뀌시겠습니까?"
 
 #: src-en/data/events_sector_og_iron.xml:1715
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/text"
 msgstr ""
+"전초기지가 스크랩을 수령합니다. \"기부해 주신 마음은 참 감사하지만, 그렇다고 "
+"해도 그 함선에 대해서는 아무것도 알려드릴 수 없습니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1717
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "더 큰 뇌물을 제안한다."
 
 #: src-en/data/events_sector_og_iron.xml:1722
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"전초기지가 스크랩을 수령합니다. \"이 정도라면 얘기가 다르죠. 저희가 직접 "
+"말씀드릴 수는 없습니다만, 최근 저희 통신 장비가 오작동을 일으켜 공개 채널로 "
+"보안 정보를 송출하곤 하더군요. 정말 점검이 필요한 문제입니다...\" 잠시 후 "
+"선원들이 공개 채널 중 하나에서 방송되고 있는 함선의 위치를 포착합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1727
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "정보를 내놓으라며 전초기지를 위협한다."
 
 #: src-en/data/events_sector_og_iron.xml:1729
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"전초기지는 당신의 무기에 사실상 무방비 상태였기에, 그들은 요구에 빠르게 "
+"굴복하며 프로토타입에 대한 데이터를 업로드합니다. 또한 기부했던 물품도 "
+"친절하게 돌려줍니다."
 
 #: src-en/data/events_sector_og_iron.xml:1735
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1741
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "정보 없이 지나친다."
 
 #: src-en/data/events_sector_og_iron.xml:1743
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "전초기지에서 멀어져 다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1745
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1749
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[1]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1757
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/text"
-msgstr ""
+msgstr "더 큰 뇌물을 제안한다."
 
 #: src-en/data/events_sector_og_iron.xml:1762
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[2]/event/text"
 msgstr ""
+"전초기지가 스크랩을 수령합니다. \"이 정도라면 얘기가 다르죠. 저희가 직접 "
+"말씀드릴 수는 없습니다만, 최근 저희 통신 장비가 오작동을 일으켜 공개 채널로 "
+"보안 정보를 송출하곤 하더군요. 정말 점검이 필요한 문제입니다...\" 잠시 후 "
+"선원들이 공개 채널 중 하나에서 방송되고 있는 함선의 위치를 포착합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1767
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/text"
-msgstr ""
+msgstr "정보를 내놓으라며 전초기지를 위협한다."
 
 #: src-en/data/events_sector_og_iron.xml:1769
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/text"
 msgstr ""
+"전초기지는 당신의 무기에 사실상 무방비 상태였기에, 그들은 요구에 빠르게 "
+"굴복하며 프로토타입에 대한 데이터를 업로드합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1772
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[3]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1778
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(해킹) 그들의 데이터 저장소에 원격으로 접속한다."
 
 #: src-en/data/events_sector_og_iron.xml:1780
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"전초기지와 가벼운 대화를 나누는 동안 해킹 시스템을 설정하여 저장소를 "
+"읽어내고 최근 통신 데이터를 다운로드합니다. 다운로드가 완료되자 프로토타입의 "
+"위치를 손에 넣은 채 작별 인사를 건넵니다. 안타깝게도 자리를 떠나려는 순간 "
+"해킹 사실을 적발당합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1783
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1789
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "(최고급 해킹) 그들의 데이터 저장소에 원격으로 접속한다."
 
 #: src-en/data/events_sector_og_iron.xml:1791
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"전초기지와 가벼운 대화를 나누는 동안 해킹 시스템을 설정하여 저장소를 "
+"읽어내고 최근 통신 데이터를 다운로드합니다. 다운로드가 완료되자 프로토타입의 "
+"위치를 손에 넣은 채 작별 인사를 건넵니다."
 
 #: src-en/data/events_sector_og_iron.xml:1796
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/text"
-msgstr ""
+msgstr "정보 없이 지나친다."
 
 #: src-en/data/events_sector_og_iron.xml:1798
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/text"
-msgstr ""
+msgstr "전초기지에서 멀어져 다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1800
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1804
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST\"]/choice[6]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1812
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/text"
 msgstr ""
+"잠시 후 전초기지에서 응답해 오지만, 곧바로 단호하게 선을 긋습니다. \"가르쳐 "
+"줄 수 있다 해도 알려주지 않을 겁니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1814
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/text"
-msgstr ""
+msgstr "정보를 내놓으라며 전초기지를 위협한다."
 
 #: src-en/data/events_sector_og_iron.xml:1816
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/text"
 msgstr ""
+"전초기지는 당신의 무기에 사실상 무방비 상태였기에, 그들은 요구에 빠르게 "
+"굴복하며 프로토타입에 대한 데이터를 업로드합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1819
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1825
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(해킹) 그들의 데이터 저장소에 원격으로 접속한다."
 
 #: src-en/data/events_sector_og_iron.xml:1827
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"해킹 시스템을 설정하여 그들의 데이터 저장소를 읽어내고 최근 통신 데이터를 "
+"다운로드합니다. 다운로드가 완료되자 프로토타입의 위치를 손에 넣은 채 작별 "
+"인사를 건넵니다. 안타깝게도 떠나려는 순간 해킹이 적발되었으며, 그들이 인근 "
+"아이언 워치 전초기지들에 이 사실을 보고하는 것이 감지됩니다."
 
 #: src-en/data/events_sector_og_iron.xml:1830
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1836
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "(최고급 해킹) 그들의 데이터 저장소에 원격으로 접속한다."
 
 #: src-en/data/events_sector_og_iron.xml:1838
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"해킹 시스템을 설정하여 그들의 데이터 저장소를 읽어내고 최근 통신 데이터를 "
+"다운로드합니다. 다운로드가 완료되자 프로토타입의 위치를 손에 넣은 채 작별 "
+"인사를 건넵니다."
 
 #: src-en/data/events_sector_og_iron.xml:1843
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/text"
-msgstr ""
+msgstr "정보 없이 지나친다."
 
 #: src-en/data/events_sector_og_iron.xml:1845
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/text"
-msgstr ""
+msgstr "전초기지에서 멀어져 다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1847
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1851
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_OUTPOST_CRIMINAL\"]/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1864
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/destroyed/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1873
 msgid ""
 "data/events_sector_og_iron.xml$//ship[@name=\"SHIP_OG_IRON_PROTOTYPE_QUEST\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1881
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "프로토타입 아이언 워치 함선의 위치."
 
 #: src-en/data/events_sector_og_iron.xml:1886
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/text"
 msgstr ""
+"송신소에 도착하자 이곳 펄서 주변을 궤도 운항 중인 아이언 워치 함선을 "
+"발견합니다. 인근 소행성에 무기 시스템을 테스트하고 있는 것으로 보입니다."
 
 #: src-en/data/events_sector_og_iron.xml:1888
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1890
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/text"
 msgstr ""
+"지켜보는 동안 펄서에서 발생한 거대한 파동이 프로토타입을 쓸고 지나갑니다. "
+"센서 확인 결과 선내의 여러 시스템이 펄서로 인해 즉시 무력화되었습니다.\n"
+"그것만으로도 충분히 놀라운데, 근처 소행성 뒤에서 새로운 우주선이 모습을 "
+"드러냈습니다. 뉴 던 우주선 중 하나로 보이며, 프로토타입을 향해 다가오고 "
+"있습니다."
 
 #: src-en/data/events_sector_og_iron.xml:1894
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "접근하여 아이언 워치 프로토타입을 방어한다."
 
 #: src-en/data/events_sector_og_iron.xml:1898
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "중무장한 프로토타입을 공격하는 뉴 던 함선을 돕는다."
 
 #: src-en/data/events_sector_og_iron.xml:1901
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"프로토타입으로 시선을 돌리지만, 안타깝게도 준비를 마쳤을 때는 이미 함선이 "
+"펄서 충격에서 거의 완전히 회복된 상태입니다. 하지만 당신 혼자가 아닙니다. 뉴 "
+"던 함선의 지원이 함께합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1905
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1911
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "안전거리로 후퇴하여 전투에 관여하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1913
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "두 함선에서 멀어져 다음 도약을 준비합니다."
 
 #: src-en/data/events_sector_og_iron.xml:1916
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "함선에서 무언가를 한다."
 
 #: src-en/data/events_sector_og_iron.xml:1920
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DESTINATION\"]/choice/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_og_iron.xml:1930
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/text"
 msgstr ""
+"아이언 워치 함선이 공격에서 어느 정도 회복한 후 교신을 보내옵니다. "
+"\"도와주셔서 감사합니다, 함장님. 도움이 없었다면 살아남지 못했을지도 "
+"모릅니다. 어쩌면 저희도 반군과의 전쟁에 더 적극적으로 참여해야 할 때가 된 것 "
+"같군요. 연방 측에 이 프로토타입의 청사진을 전달할 테니 그들이 활용할 수 "
+"있기를 바랍니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1933
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_WIN\"]/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1941
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/text"
 msgstr ""
+"뉴 던 함선은 전투가 끝난 후에도 여전히 당신을 경계합니다. 그들이 잔해로 "
+"접근해 부품 하나를 조심스럽게 추출하는 모습을 지켜봅니다. 그게 무엇인지는 알 "
+"수 없지만, 작업을 마친 그들은 나머지 잔해에는 관심이 없다는 듯 물러섭니다. "
+"그들은 짧은 감사 인사를 남기고 떠납니다."
 
 #: src-en/data/events_sector_og_iron.xml:1944
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN\"]/loadEventList/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_sector_og_iron.xml:1951
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/text"
 msgstr ""
+"뉴 던 함선은 전투가 끝난 후에도 여전히 당신을 경계합니다. 그들이 잔해로 "
+"접근해 부품 하나를 조심스럽게 추출하는 모습을 지켜봅니다. 그게 무엇인지는 알 "
+"수 없지만, 작업을 마친 그들은 나머지 잔해에는 관심이 없다는 듯 물러섭니다. "
+"\"함장, 혹시라도 뉴 던 전방 공작 기지에 가게 된다면 아무 제지 없이 통과할 수 "
+"있도록 조치해 두겠소. 기지에 도착하거든 나를 찾아오시오.\""
 
 #: src-en/data/events_sector_og_iron.xml:1955
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_PROTOTYPE_DAWN_WIN_INITIATE\"]/choice/text"
-msgstr ""
+msgstr "계속..."
