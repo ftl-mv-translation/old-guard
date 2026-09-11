@@ -1,3190 +1,3532 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-11 22:37+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
+"datablueprintsxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION_ENEMY\"]/title"
-msgstr ""
+msgstr "오버클록 모터"
 
 #: src-en/data/blueprints.xml.append:5
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION_ENEMY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:11
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION\"]/title"
-msgstr ""
+msgstr "오버클록 모터"
 
 #: src-en/data/blueprints.xml.append:12
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ROTATION\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/title"
-msgstr ""
+msgstr "오버클록 모터 [X]"
 
 #: src-en/data/blueprints.xml.append:20
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ROTATION\"]/desc"
 msgstr ""
+"포탑 회전 속도가 50% 증가합니다.\n"
+"\t\n"
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
+"비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_SPEED\"]/title"
-msgstr ""
+msgstr "가속기"
 
 #: src-en/data/blueprints.xml.append:31
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_SPEED\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:38
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/title"
-msgstr ""
+msgstr "가속기 [X]"
 
 #: src-en/data/blueprints.xml.append:39
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_SPEED\"]/desc"
 msgstr ""
+"포탑 투사체 속도가 50% 증가합니다.\n"
+"\t\n"
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
+"비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_MANUAL\"]/title"
-msgstr ""
+msgstr "수동 정밀 조작"
 
 #: src-en/data/blueprints.xml.append:50
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_MANUAL\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/title"
-msgstr ""
+msgstr "수동 정밀 조작 [X]"
 
 #: src-en/data/blueprints.xml.append:58
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_MANUAL\"]/desc"
 msgstr ""
+"수동으로 목표를 지정할 때 포탑의 회전 속도가 180 증가합니다.\n"
+"\t\n"
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
+"비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:68
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/title"
-msgstr ""
+msgstr "하드포인트 개조"
 
 #: src-en/data/blueprints.xml.append:69
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:76
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/title"
-msgstr ""
+msgstr "하드포인트 개조 [X]"
 
 #: src-en/data/blueprints.xml.append:77
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_LARGE\"]/desc"
 msgstr ""
+"적응형 포탑 공간을 확장하여 모든 크기의 포탑을 장착할 수 있게 합니다.\n"
+"\t\n"
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
+"비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:86
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_2_LARGE\"]/title"
-msgstr ""
+msgstr "보조 하드포인트 개조"
 
 #: src-en/data/blueprints.xml.append:87
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_2_LARGE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:94
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/title"
-msgstr ""
+msgstr "보조 하드포인트 개조 [X]"
 
 #: src-en/data/blueprints.xml.append:95
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/desc"
 msgstr ""
+"보조 적응형 포탑 공간을 확장하여 모든 크기의 포탑을 장착할 수 있게 "
+"만듭니다.\n"
+"\t\n"
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
+"비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY\"]/title"
-msgstr ""
+msgstr "보조 적응형 포탑"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_TURRET_ADAPTIVE_SECONDARY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/title"
-msgstr ""
+msgstr "보조 적응형 포탑 [X]"
 
 #: src-en/data/blueprints.xml.append:113
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/desc"
 msgstr ""
+"드론 제어 시스템 대신 보조 적응형 포탑 시스템을 설치합니다. 이 새로운 "
+"시스템은 시스템 슬롯을 차지하지 않습니다.\n"
+"\t\n"
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
+"비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:123
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:124
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/desc"
-msgstr ""
+msgstr "함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다."
 
 #: src-en/data/blueprints.xml.append:141
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_2\"]/title"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:142
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_2\"]/desc"
-msgstr ""
+msgstr "함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다."
 
 #: src-en/data/blueprints.xml.append:159
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_3\"]/title"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:160
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_3\"]/desc"
-msgstr ""
+msgstr "함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다."
 
 #: src-en/data/blueprints.xml.append:177
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_4\"]/title"
-msgstr ""
+msgstr "포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:178
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_4\"]/desc"
-msgstr ""
+msgstr "함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다."
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/title"
-msgstr ""
+msgstr "소형 포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini\"]/desc"
-msgstr ""
+msgstr "함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다."
 
 #: src-en/data/blueprints.xml.append:210
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/title"
-msgstr ""
+msgstr "소형 포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:211
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_2\"]/desc"
-msgstr ""
+msgstr "함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다."
 
 #: src-en/data/blueprints.xml.append:225
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/title"
-msgstr ""
+msgstr "소형 포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:226
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_3\"]/desc"
-msgstr ""
+msgstr "함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다."
 
 #: src-en/data/blueprints.xml.append:240
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/title"
-msgstr ""
+msgstr "소형 포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:241
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_mini_4\"]/desc"
-msgstr ""
+msgstr "함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다."
 
 #: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/title"
-msgstr ""
+msgstr "적응형 포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:256
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
 msgstr ""
+"내부 업그레이드를 통해 드론 제어 시스템을 대신하여 이 시스템과 병행 가능한 "
+"보조 포탑 시스템을 추가할 수 있으며, 보조 시스템은 시스템 슬롯을 차지하지 "
+"않습니다. 함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 "
+"감소합니다. 전투 외 상황에서 함선에 맞게 포탑 위치를 변경할 수 있으며, 내부 "
+"업그레이드 메뉴에서 대형 포탑 슬롯으로 업그레이드할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:274
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_2\"]/title"
-msgstr ""
+msgstr "보조 적응형 포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:275
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_2\"]/desc"
 msgstr ""
+"함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 "
+"감소합니다. 전투 외 상황에서 함선에 맞게 포탑 위치를 변경할 수 있으며, 내부 "
+"업그레이드 메뉴에서 대형 포탑 슬롯으로 업그레이드할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:293
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_single\"]/title"
-msgstr ""
+msgstr "고급 적응형 포탑 제어실"
 
 #: src-en/data/blueprints.xml.append:294
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_single\"]/desc"
 msgstr ""
+"드론 시스템의 대안으로, 다른 방식으로는 포탑을 설치할 수 없는 함선에서만 "
+"이용 가능하며 시스템 최대 레벨이 더 높습니다. 함선의 포탑에 전력을 "
+"공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다. 전투 외 상황에서 "
+"함선에 맞게 포탑 위치를 변경할 수 있으며, 내부 업그레이드 메뉴에서 대형 포탑 "
+"슬롯으로 업그레이드할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/title"
-msgstr ""
+msgstr "뉴 던 화물 상자"
 
 #: src-en/data/blueprints.xml.append:315
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/short"
-msgstr ""
+msgstr "Cargo Crate"
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/desc"
 msgstr ""
+"특이하게 생긴 화물 상자입니다. 내부에 무엇이 들었는지는 알 수 없으며 여유 "
+"시간이 있다면 열어볼 수도 있겠지만, 이를 전달받을 고객이 그리 기뻐하진 않을 "
+"것입니다."
 
 #: src-en/data/blueprints.xml.append:332
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OG_EQUALISER_PERFORMANCE\"]/title"
-msgstr ""
+msgstr "성능 업그레이드"
 
 #: src-en/data/blueprints.xml.append:340
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/title"
-msgstr ""
+msgstr "균형기 충전기 [X]"
 
 #: src-en/data/blueprints.xml.append:341
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_EQUALISER_PERFORMANCE\"]/desc"
 msgstr ""
+"시스템 균형기의 재사용 대기시간이 50% 감소합니다.\n"
+"\n"
+"[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 시스템 균형기 시스템을 소지하고 있다면 내부 업그레이드 "
+"창에서 비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:351
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/title"
-msgstr ""
+msgstr "시스템 균형기"
 
 #: src-en/data/blueprints.xml.append:352
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/desc"
 msgstr ""
+"작동 시 시스템 피해의 균형을 맞춰 선택한 모든 시스템으로 피해를 "
+"재분배합니다. 재사용 대기시간 20초. 업그레이드 시 함선 전체가 받는 총 피해량 "
+"또한 감소시킵니다."
 
 #: src-en/data/blueprints.xml.append:367
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/desc"
 msgstr ""
+"수리에 능숙한 아이언 워치 기술자입니다.\n"
+"\n"
+"\t인간의 기본 특성: 약간의 질식 저항, 숙련도가 빠르게 증가"
 
 #: src-en/data/blueprints.xml.append:371
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/title"
-msgstr ""
+msgstr "아이언 워치 습격병"
 
 #: src-en/data/blueprints.xml.append:372
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/short"
-msgstr ""
+msgstr "Raider"
 
 #: src-en/data/blueprints.xml.append:375
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[1]"
-msgstr ""
+msgstr "펄서 또는 이온 폭풍이 있는 동안 점유된 시스템에 전력 2를 공급합니다"
 
 #: src-en/data/blueprints.xml.append:376
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[2]"
-msgstr ""
+msgstr "성운 내에 있을 때 인접한 방을 표시합니다"
 
 #: src-en/data/blueprints.xml.append:377
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[3]"
-msgstr ""
+msgstr "수리 속도 1.25배"
 
 #: src-en/data/blueprints.xml.append:378
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/powerList/power[4]"
-msgstr ""
+msgstr "화재로 받는 피해 0.6배"
 
 #: src-en/data/blueprints.xml.append:403
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/desc"
 msgstr ""
+"엘리트 인간 선원입니다. 행동을 취할 때마다 충전량이 소모되는 개인용 은폐 "
+"장치를 장착한 뉴 던 병사입니다.\n"
+"\n"
+"\t인간의 기본 특성: 약간의 질식 저항, 숙련도가 빠르게 증가"
 
 #: src-en/data/blueprints.xml.append:407
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/title"
-msgstr ""
+msgstr "뉴 던 병사"
 
 #: src-en/data/blueprints.xml.append:408
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/short"
-msgstr ""
+msgstr "Dawn Soldier"
 
 #: src-en/data/blueprints.xml.append:411
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[1]"
 msgstr ""
+"활성화 능력: 적 선원으로부터 숨기 위해 은신합니다. 은신 중에는 공격력이 "
+"증가하며, 은신 지속 시간은 시간이 아닌 수행한 행동에 따라 감소합니다."
 
 #: src-en/data/blueprints.xml.append:412
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[2]"
-msgstr ""
+msgstr "전투로부터 받는 피해 0.7배, 화재로부터 0.6배의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:437
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/desc"
 msgstr ""
+"슈퍼 엘리트 인간 선원입니다. 전투 내내 특정 시스템을 주기적으로 무력화할 수 "
+"있는 소형 해킹 장치를 장착한 미드나이트 선 공작원입니다.\n"
+"\n"
+"\t인간의 기본 특성: 약간의 질식 저항"
 
 #: src-en/data/blueprints.xml.append:441
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/title"
-msgstr ""
+msgstr "미드나이트 선 공작원"
 
 #: src-en/data/blueprints.xml.append:442
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/short"
-msgstr ""
+msgstr "Operative"
 
 #: src-en/data/blueprints.xml.append:445
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[1]"
 msgstr ""
+">활성화 능력: 현재 방에 거의 파괴 불가능한 해킹 장치를 설치합니다. 이 장치는 "
+"전투가 끝날 때까지 현재 방을 반복적으로 해킹하며, 무기, 드론, 방어막은 "
+"공격할 수 없습니다."
 
 #: src-en/data/blueprints.xml.append:446
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[2]"
-msgstr ""
+msgstr "대인 공격력 1.5배"
 
 #: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[3]"
-msgstr ""
+msgstr "시스템 파괴속도 1.5배"
 
 #: src-en/data/blueprints.xml.append:448
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[4]"
-msgstr ""
+msgstr "전투로부터 0.7배, 화재로부터 0.6배의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:449
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[5]"
-msgstr ""
+msgstr "모든 기술을 완전히 익힘"
 
 #: src-en/data/blueprints.xml.append:453
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/desc"
 msgstr ""
+"중요한 아이언 워치 과학자입니다. 미드나이트 선 조직에 의해 파괴되기 전까지 "
+"아이언 워치 중성자별 연구소(NSRS)의 소장이었습니다.\n"
+"\n"
+"\t인간의 고유 특성을 계승함: 질식 저항력 약간 증가, 숙련도 상승 속도 증가"
 
 #: src-en/data/blueprints.xml.append:457
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/title"
-msgstr ""
+msgstr "연구원"
 
 #: src-en/data/blueprints.xml.append:458
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/short"
-msgstr ""
+msgstr "Researcher"
 
 #: src-en/data/blueprints.xml.append:461
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[1]"
 msgstr ""
+"활성화 능력: 모든 종류의 투사체와 드론을 표적으로 삼을 수 있는 방어 드론을 "
+"배치합니다. 투사체는 파괴하지만 드론은 기절만 일으킵니다."
 
 #: src-en/data/blueprints.xml.append:462
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[2]"
-msgstr ""
+msgstr "펄서 또는 이온 폭풍이 있는 곳에 있을 때 점유된 시스템에 전력 2를 공급합니다"
 
 #: src-en/data/blueprints.xml.append:463
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[3]"
-msgstr ""
+msgstr "성운 안에 있을 때 인접한 방을 드러냅니다"
 
 #: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[4]"
-msgstr ""
+msgstr "원거리 공격력 2배"
 
 #: src-en/data/blueprints.xml.append:465
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[5]"
-msgstr ""
+msgstr "수리 속도 1.5배"
 
 #: src-en/data/blueprints.xml.append:466
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[6]"
-msgstr ""
+msgstr "화재로부터 0.6배의 피해만을 받음"
 
 #: src-en/data/blueprints.xml.append:471
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/desc"
 msgstr ""
+"중요한 아이언 워치 외교관입니다. 반군 위협에 대응하여 연방의 지원을 "
+"요청하고자 아이언 워치 사령부에서 파견했습니다. 연방 기지까지 이송해야 "
+"합니다."
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/title"
-msgstr ""
+msgstr "외교관"
 
 #: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/short"
-msgstr ""
+msgstr "Diplomat"
 
 #: src-en/data/blueprints.xml.append:477
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[1]"
 msgstr ""
+"활성화 능력: 조종 가능해지며, 일반적인 속도로 조종, 전투 및 수리가 "
+"가능해집니다. 체력이 25 이하일 때 발동합니다."
 
 #: src-en/data/blueprints.xml.append:478
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[2]"
-msgstr ""
+msgstr "일반 선원이 있을 때 조종 가능"
 
 #: src-en/data/blueprints.xml.append:479
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[3]"
-msgstr ""
+msgstr "평소에는 조종불가"
 
 #: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[4]"
-msgstr ""
+msgstr "전투 또는 시스템 관제가 불가능"
 
 #: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[5]"
-msgstr ""
+msgstr "수리 속도 0.5배, 화재 진압 속도 1.0배"
 
 #: src-en/data/blueprints.xml.append:482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[6]"
-msgstr ""
+msgstr "뛰어난 회복력과 투지 덕분에 재해로부터 받는 피해가 감소"
 
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/desc"
 msgstr ""
+"인간 민간인입니다. 상점에 접촉하거나 출구 송신소로 도약 시 25스크랩을 "
+"포상으로 지급합니다."
 
 #: src-en/data/blueprints.xml.append:488
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/title"
-msgstr ""
+msgstr "인간 민간인"
 
 #: src-en/data/blueprints.xml.append:489
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/short"
-msgstr ""
+msgstr "Civilian"
 
 #: src-en/data/blueprints.xml.append:492
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[1]"
-msgstr ""
+msgstr "일반 선원이 있을 때 조종 가능"
 
 #: src-en/data/blueprints.xml.append:493
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[2]"
-msgstr ""
+msgstr "선원 정원을 차지하지 않음"
 
 #: src-en/data/blueprints.xml.append:494
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[3]"
-msgstr ""
+msgstr "평소에는 조종불가"
 
 #: src-en/data/blueprints.xml.append:495
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[4]"
-msgstr ""
+msgstr "전투 또는 시스템 관제가 불가능"
 
 #: src-en/data/blueprints.xml.append:496
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[5]"
-msgstr ""
+msgstr "수리 속도 0.25배, 화재 진압 속도 1.0배"
 
 #: src-en/data/blueprints.xml.append:497
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/powerList/power[6]"
-msgstr ""
+msgstr "뛰어난 회복력과 투지 덕분에 재해로부터 받는 피해가 감소"
 
 #: src-en/data/blueprints.xml.append:540
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/desc"
 msgstr ""
+"맨티스 민간인입니다. 상점에 접촉하거나 출구 송신소로 도약 시 5스크랩을 "
+"포상으로 지급합니다."
 
 #: src-en/data/blueprints.xml.append:542
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/title"
-msgstr ""
+msgstr "맨티스 민간인"
 
 #: src-en/data/blueprints.xml.append:543
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/short"
-msgstr ""
+msgstr "Civilian"
 
 #: src-en/data/blueprints.xml.append:546
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[1]"
-msgstr ""
+msgstr "일반 선원이 있을 때 조종 가능"
 
 #: src-en/data/blueprints.xml.append:547
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[2]"
-msgstr ""
+msgstr "선원 정원을 차지하지 않음"
 
 #: src-en/data/blueprints.xml.append:548
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[3]"
-msgstr ""
+msgstr "평소에는 조종불가"
 
 #: src-en/data/blueprints.xml.append:549
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[4]"
-msgstr ""
+msgstr "시스템 수리, 관제가 불가능"
 
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[5]"
-msgstr ""
+msgstr "대인 공격력 1.25배"
 
 #: src-en/data/blueprints.xml.append:551
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/powerList/power[6]"
-msgstr ""
+msgstr "이동 속도 1.2배"
 
 #: src-en/data/blueprints.xml.append:576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/title"
-msgstr ""
+msgstr "레이저 포탑 부품"
 
 #: src-en/data/blueprints.xml.append:577
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/short"
-msgstr ""
+msgstr "Laser Base"
 
 #: src-en/data/blueprints.xml.append:578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_LASER\"]/desc"
 msgstr ""
+"다음 항목을 제작하는 데 사용할 수 있습니다:\n"
+"[점사형 레이저 포탑]\n"
+"[중형 레이저 포탑]\n"
+"[???]\n"
+"[???]"
 
 #: src-en/data/blueprints.xml.append:600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/title"
-msgstr ""
+msgstr "이온 포탑 부품"
 
 #: src-en/data/blueprints.xml.append:601
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/short"
-msgstr ""
+msgstr "Ion Base"
 
 #: src-en/data/blueprints.xml.append:602
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_ION\"]/desc"
 msgstr ""
+"다음 항목을 제작하는 데 사용할 수 있습니다:\n"
+"[이온 포탑]\n"
+"[화염 이온 포탑]"
 
 #: src-en/data/blueprints.xml.append:622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/title"
-msgstr ""
+msgstr "미사일 포탑 부품"
 
 #: src-en/data/blueprints.xml.append:623
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/short"
-msgstr ""
+msgstr "Missile Base"
 
 #: src-en/data/blueprints.xml.append:624
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MISSILE\"]/desc"
 msgstr ""
+"다음 항목을 제작하는 데 사용할 수 있습니다:\n"
+"[스웜 미사일 포탑]\n"
+"[4연장 미사일 포탑]\n"
+"[대공포 포탑]"
 
 #: src-en/data/blueprints.xml.append:645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/title"
-msgstr ""
+msgstr "조준 포탑 부품"
 
 #: src-en/data/blueprints.xml.append:646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/short"
-msgstr ""
+msgstr "Focus Base"
 
 #: src-en/data/blueprints.xml.append:647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_FOCUS\"]/desc"
 msgstr ""
+"다음 항목을 제작하는 데 사용할 수 있습니다:\n"
+"[핀포인트 포탑]"
 
 #: src-en/data/blueprints.xml.append:666
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/title"
-msgstr ""
+msgstr "소형 포탑 부품"
 
 #: src-en/data/blueprints.xml.append:667
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/short"
-msgstr ""
+msgstr "Micro Base"
 
 #: src-en/data/blueprints.xml.append:668
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BASE_MINI\"]/desc"
 msgstr ""
+"다음 항목을 제작하는 데 사용할 수 있습니다:\n"
+"[소형 레이저 포탑]\n"
+"[경량 레이저 포탑]\n"
+"[소형 이온 포탑]\n"
+"[소형 핀포인트 포탑]"
 
 #: src-en/data/blueprints.xml.append:691
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/title"
-msgstr ""
+msgstr "??? 포탑"
 
 #: src-en/data/blueprints.xml.append:692
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/short"
-msgstr ""
+msgstr "???"
 
 #: src-en/data/blueprints.xml.append:693
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_UNKNOWN\"]/desc"
-msgstr ""
+msgstr "이 설계도를 해독하려면 더 많은 제작 재료가 필요합니다."
 
 #: src-en/data/blueprints.xml.append:715
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/title"
-msgstr ""
+msgstr "점사형 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/short"
-msgstr ""
+msgstr "Burst L."
 
 #: src-en/data/blueprints.xml.append:717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/desc"
 msgstr ""
+"표준형 점사형 레이저 포탑입니다. 공격과 방어 사이에서 저렴하고 효율적인 "
+"절충안 역할을 합니다."
 
 #: src-en/data/blueprints.xml.append:736
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/title"
-msgstr ""
+msgstr "중형 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:737
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/short"
-msgstr ""
+msgstr "Heavy L."
 
 #: src-en/data/blueprints.xml.append:738
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/desc"
 msgstr ""
+"중형 레이저 포탑은 회전 속도가 느리고 발당 피해량이 높아 방어용 포탑으로는 "
+"적합하지 않지만, 적함을 상대할 때 매우 뛰어난 성능을 발휘합니다."
 
 #: src-en/data/blueprints.xml.append:757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/title"
-msgstr ""
+msgstr "낡은 점사형 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:758
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/short"
-msgstr ""
+msgstr "O. Burst L."
 
 #: src-en/data/blueprints.xml.append:759
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/desc"
 msgstr ""
+"표준형 점사형 레이저 포탑입니다. 공격과 방어 사이에서 저렴하고 효율적인 "
+"절충안 역할을 합니다. 매우 오래되어 명중률이 떨어집니다."
 
 #: src-en/data/blueprints.xml.append:778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/title"
-msgstr ""
+msgstr "경량 충전식 포탑"
 
 #: src-en/data/blueprints.xml.append:779
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/short"
-msgstr ""
+msgstr "Light C."
 
 #: src-en/data/blueprints.xml.append:780
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/desc"
 msgstr ""
+"높은 충전 횟수와 빠른 회전 속도로 함선을 방어하는 데 매우 효과적인 특수 경량 "
+"레이저 포탑입니다."
 
 #: src-en/data/blueprints.xml.append:799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/title"
-msgstr ""
+msgstr "혼돈의 경량 충전식 포탑"
 
 #: src-en/data/blueprints.xml.append:800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/short"
-msgstr ""
+msgstr "Light C.™"
 
 #: src-en/data/blueprints.xml.append:801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/desc"
 msgstr ""
+"높은 충전 횟수와 빠른 회전 속도로 함선을 방어하는 데 매우 효과적인 특수 "
+"경량형 레이저 포탑입니다.\n"
+"혼돈 변종은 회전 속도가 5배 빠르며 모든 투사체를 목표로 지정할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/title"
-msgstr ""
+msgstr "흉조 포탑"
 
 #: src-en/data/blueprints.xml.append:822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/short"
-msgstr ""
+msgstr "Harbinger"
 
 #: src-en/data/blueprints.xml.append:823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/desc"
 msgstr ""
+"오벨리스크가 제조한 믿을 수 없을 정도로 강력한 레이저 포탑으로, 일반적인 "
+"포탑보다 훨씬 더 큰 혼란을 일으킬 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:842
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/title"
-msgstr ""
+msgstr "빈디케이터 포탑"
 
 #: src-en/data/blueprints.xml.append:843
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/short"
-msgstr ""
+msgstr "Vindicator"
 
 #: src-en/data/blueprints.xml.append:844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CEL_1\"]/desc"
-msgstr ""
+msgstr "이 포탑의 공격에 맞았다면 당신은 이미 죽은 목숨입니다."
 
 #: src-en/data/blueprints.xml.append:863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/title"
-msgstr ""
+msgstr "제니스 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/short"
-msgstr ""
+msgstr "Zenith L."
 
 #: src-en/data/blueprints.xml.append:865
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/desc"
 msgstr ""
+"표준형 중형 레이저 포탑과 비교해도 막대한 피해를 입히는 아이테르 동력 기반의 "
+"치명적인 레이저 포탑입니다."
 
 #: src-en/data/blueprints.xml.append:884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/title"
-msgstr ""
+msgstr "방사성 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/short"
-msgstr ""
+msgstr "Rad L."
 
 #: src-en/data/blueprints.xml.append:886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/desc"
 msgstr ""
+"선원에게 높은 피해를 입히고 무력화하지만, 시스템이나 선체에는 피해를 주지 "
+"않는 특수 레이저 포탑입니다. 또한 적의 레이저를 격추하는 방어 역할에도 매우 "
+"뛰어납니다."
 
 #: src-en/data/blueprints.xml.append:905
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/title"
-msgstr ""
+msgstr "관통 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:906
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/short"
-msgstr ""
+msgstr "Pierce L."
 
 #: src-en/data/blueprints.xml.append:907
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PIERCE\"]/desc"
-msgstr ""
+msgstr "추가 방어막 계층을 관통할 수 있는 특수 레이저 포탑입니다."
 
 #: src-en/data/blueprints.xml.append:926
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/title"
-msgstr ""
+msgstr "선체 파괴 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:927
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/short"
-msgstr ""
+msgstr "Hull L."
 
 #: src-en/data/blueprints.xml.append:928
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_HULL\"]/desc"
-msgstr ""
+msgstr "시스템이 없는 선실에 더 큰 피해를 주도록 특수 설계된 군용 레이저 포탑입니다."
 
 #: src-en/data/blueprints.xml.append:947
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/title"
-msgstr ""
+msgstr "연사식 발칸 포탑"
 
 #: src-en/data/blueprints.xml.append:948
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/short"
-msgstr ""
+msgstr "Vulcan"
 
 #: src-en/data/blueprints.xml.append:949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/desc"
 msgstr ""
+"이 레이저 포탑은 예열에 오랜 시간이 걸립니다. 발사할 때마다 장전시간이 "
+"감소하며, 나중엔 어떠한 방어막이라도 뚫어낼 수 있게 됩니다."
 
 #: src-en/data/blueprints.xml.append:968
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/title"
-msgstr ""
+msgstr "입자 가속기 포탑"
 
 #: src-en/data/blueprints.xml.append:969
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/short"
-msgstr ""
+msgstr "Particle A."
 
 #: src-en/data/blueprints.xml.append:970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/desc"
 msgstr ""
+"시스템에 큰 피해를 가하는 유선형 볼트를 발사합니다. 선원이나 선체에는 피해를 "
+"주지 않으며, 방어막을 제거할 수도 없습니다."
 
 #: src-en/data/blueprints.xml.append:989
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/title"
-msgstr ""
+msgstr "서리 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:990
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/short"
-msgstr ""
+msgstr "Frost L."
 
 #: src-en/data/blueprints.xml.append:991
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/desc"
 msgstr ""
+"서리 레이저는 방을 봉쇄하여 대부분의 선원이 진입하거나 탈출하지 못하도록 "
+"선실을 봉쇄할 수 있는 몇 안 되는 무기 중 하나입니다."
 
 #: src-en/data/blueprints.xml.append:1010
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/title"
-msgstr ""
+msgstr "3연장 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:1011
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/short"
-msgstr ""
+msgstr "Triplet L."
 
 #: src-en/data/blueprints.xml.append:1012
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/desc"
 msgstr ""
+"빠르게 연쇄되는 레이저 포탑이지만, 최대 연쇄 상태에서 마지막 점사를 발사한 "
+"후에는 연쇄 상태가 초기화됩니다."
 
 #: src-en/data/blueprints.xml.append:1031
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/title"
-msgstr ""
+msgstr "개틀링 포탑"
 
 #: src-en/data/blueprints.xml.append:1032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/short"
-msgstr ""
+msgstr "Gatling"
 
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/desc"
 msgstr ""
+"개틀링 포탑은 예열에 매우 오랜 시간이 걸리지만, 결국 적들에게 지옥을 선사할 "
+"것입니다!"
 
 #: src-en/data/blueprints.xml.append:1052
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/title"
-msgstr ""
+msgstr "리프트 웨이커 포탑"
 
 #: src-en/data/blueprints.xml.append:1053
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/short"
-msgstr ""
+msgstr "'Rift Waker'"
 
 #: src-en/data/blueprints.xml.append:1054
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/desc"
 msgstr ""
+"이전에는 실반만이 가지고 있던 강력한 전쟁 무기였으나, 이제는 당신의 손에 "
+"들어왔습니다. 탐욕스러운 배신자여."
 
 #: src-en/data/blueprints.xml.append:1073
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/title"
-msgstr ""
+msgstr "'리프트 웨이커' 마크 0.5"
 
 #: src-en/data/blueprints.xml.append:1074
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/short"
-msgstr ""
+msgstr "'Waker 0.5'"
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/desc"
 msgstr ""
+"연사식 발칸 포탑을 사용하여 실반의 악명높은 기관총 '리프트 웨이커'를 재현한 "
+"무기입니다."
 
 #: src-en/data/blueprints.xml.append:1097
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/title"
-msgstr ""
+msgstr "이온 포탑"
 
 #: src-en/data/blueprints.xml.append:1098
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/short"
-msgstr ""
+msgstr "Ion B."
 
 #: src-en/data/blueprints.xml.append:1099
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/desc"
 msgstr ""
+"이온 포탑은 드론을 억제하는 데 뛰어날 뿐만 아니라 선체 피해 없이 시스템을 "
+"무력화할 수 있습니다. 이 포탑은 충전과 발사가 매우 빠릅니다."
 
 #: src-en/data/blueprints.xml.append:1118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_FIRE\"]/title"
-msgstr ""
+msgstr "화염 이온 포탑"
 
 #: src-en/data/blueprints.xml.append:1119
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_FIRE\"]/short"
-msgstr ""
+msgstr "Fire I."
 
 #: src-en/data/blueprints.xml.append:1120
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_FIRE\"]/desc"
 msgstr ""
+"이온 포탑은 드론을 억제하는 데 뛰어날 뿐만 아니라 선체 피해 없이 시스템을 "
+"무력화할 수 있습니다. 이 포탑은 명중한 시스템에 화재를 발생시킵니다."
 
 #: src-en/data/blueprints.xml.append:1139
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/title"
-msgstr ""
+msgstr "관통자 포탑"
 
 #: src-en/data/blueprints.xml.append:1140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/short"
-msgstr ""
+msgstr "Phaser"
 
 #: src-en/data/blueprints.xml.append:1141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/desc"
 msgstr ""
+"관통자는 모든 방어막 계층을 관통하여 첫 번째 방어막 계층에 이온 피해를 "
+"입히고, 명중한 시스템에 추가 피해를 입힙니다."
 
 #: src-en/data/blueprints.xml.append:1160
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/title"
-msgstr ""
+msgstr "충격기 이온 포탑"
 
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/short"
-msgstr ""
+msgstr "Stunner"
 
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/desc"
 msgstr ""
+"충격기 이온은 평범한 이온 무기와 비슷하게 작동하지만, 명중한 선실에 있는 "
+"선원을 일시적으로 마비시킵니다."
 
 #: src-en/data/blueprints.xml.append:1181
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/title"
-msgstr ""
+msgstr "방사성 이온 포탑"
 
 #: src-en/data/blueprints.xml.append:1182
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/short"
-msgstr ""
+msgstr "Radion"
 
 #: src-en/data/blueprints.xml.append:1183
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/desc"
 msgstr ""
+"방사성 이온이 뭐냐고요? 방사능이 첨가된 이온이라고 보시면 됩니다. 대충 그런 "
+"느낌이죠. 질식사 유도에 매우 유용합니다."
 
 #: src-en/data/blueprints.xml.append:1202
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/title"
-msgstr ""
+msgstr "에너지 포탑"
 
 #: src-en/data/blueprints.xml.append:1203
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/short"
-msgstr ""
+msgstr "Energy C."
 
 #: src-en/data/blueprints.xml.append:1204
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ENERGY_1\"]/desc"
-msgstr ""
+msgstr "에너지 포탑은 시스템을 무력화하는 동시에 선체에도 피해를 입힐 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:1226
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/title"
-msgstr ""
+msgstr "중형 크리스탈 포탑"
 
 #: src-en/data/blueprints.xml.append:1227
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/short"
-msgstr ""
+msgstr "Crystal"
 
 #: src-en/data/blueprints.xml.append:1228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1\"]/desc"
-msgstr ""
+msgstr "방어막을 관통하는 중형 크리스탈을 발사하도록 개조된 투사체 포탑입니다."
 
 #: src-en/data/blueprints.xml.append:1247
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/title"
-msgstr ""
+msgstr "엘리트 중형 크리스탈 포탑"
 
 #: src-en/data/blueprints.xml.append:1248
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/short"
-msgstr ""
+msgstr "€ Crystal"
 
 #: src-en/data/blueprints.xml.append:1249
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/desc"
 msgstr ""
+"방어막을 관통하는 중형 크리스탈을 발사하도록 개조된 투사체 포탑입니다. "
+"피격된 선실에 봉쇄를 적용하고 2개의 방어막을 관통하는 엘리트 변형입니다."
 
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/title"
-msgstr ""
+msgstr "산탄 크리스탈 포탑"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/short"
-msgstr ""
+msgstr "Crystal S."
 
 #: src-en/data/blueprints.xml.append:1270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN\"]/desc"
-msgstr ""
+msgstr "각각 1개의 방어막 계층을 관통하는 4개의 크리스탈 투사체 더미를 발사합니다."
 
 #: src-en/data/blueprints.xml.append:1289
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/title"
-msgstr ""
+msgstr "엘리트 산탄 크리스탈 포탑"
 
 #: src-en/data/blueprints.xml.append:1290
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/short"
-msgstr ""
+msgstr "€ Crystal S."
 
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/desc"
 msgstr ""
+"4개의 크리스탈 투사체 더미를 발사합니다. 피격된 선실에 봉쇄를 적용하고 2개의 "
+"방어막을 관통하는 엘리트 변형입니다."
 
 #: src-en/data/blueprints.xml.append:1313
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/title"
-msgstr ""
+msgstr "스웜 미사일 포탑"
 
 #: src-en/data/blueprints.xml.append:1314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/short"
-msgstr ""
+msgstr "Swarm M."
 
 #: src-en/data/blueprints.xml.append:1315
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/desc"
 msgstr ""
+"표적을 추적할 수 있는 소형의 빠른 미사일 무리를 발사합니다. 방어력이 "
+"뛰어나지만 적 시스템을 상대하기에는 적합하지 않습니다."
 
 #: src-en/data/blueprints.xml.append:1334
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/title"
-msgstr ""
+msgstr "2연장 미사일 포탑"
 
 #: src-en/data/blueprints.xml.append:1335
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/short"
-msgstr ""
+msgstr "Dual M."
 
 #: src-en/data/blueprints.xml.append:1336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/desc"
 msgstr ""
+"충전은 느리지만 적함에 높은 피해를 입힐 수 있으며, 적 드론 및 실체 투사체를 "
+"상대하기에 무난합니다."
 
 #: src-en/data/blueprints.xml.append:1355
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/title"
-msgstr ""
+msgstr "중형 낱알 포탑"
 
 #: src-en/data/blueprints.xml.append:1356
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/short"
-msgstr ""
+msgstr "Heavy K."
 
 #: src-en/data/blueprints.xml.append:1357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/desc"
 msgstr ""
+"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 낱알은 "
+"미사일처럼 작동하지만 탄약 소모량이 절반입니다."
 
 #: src-en/data/blueprints.xml.append:1375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/title"
-msgstr ""
+msgstr "태양열 낱알 포탑"
 
 #: src-en/data/blueprints.xml.append:1376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/short"
-msgstr ""
+msgstr "Solar K."
 
 #: src-en/data/blueprints.xml.append:1377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/desc"
 msgstr ""
+"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 개조된 "
+"이 낱알 포는 균열 대신 화재를 일으킵니다."
 
 #: src-en/data/blueprints.xml.append:1396
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/title"
-msgstr ""
+msgstr "엘리트 중형 낱알 포탑"
 
 #: src-en/data/blueprints.xml.append:1397
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/short"
-msgstr ""
+msgstr "€ Heavy K."
 
 #: src-en/data/blueprints.xml.append:1398
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/desc"
 msgstr ""
+"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 낱알은 "
+"미사일처럼 작동하지만 탄약 소모량이 절반입니다. 확실한 기절 효과와 더 적은 "
+"탄약 소모량을 가진 강력한 엘리트 버전입니다."
 
 #: src-en/data/blueprints.xml.append:1416
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/title"
-msgstr ""
+msgstr "엘리트 태양 낱알 포탑"
 
 #: src-en/data/blueprints.xml.append:1417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/short"
-msgstr ""
+msgstr "€ Solar K."
 
 #: src-en/data/blueprints.xml.append:1418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/desc"
 msgstr ""
+"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 개조된 "
+"이 낱알 무기는 균열 대신 화재를 일으킵니다. 확실한 기절 효과와 더 적은 탄약 "
+"소모량을 가진 강력한 엘리트 버전입니다."
 
 #: src-en/data/blueprints.xml.append:1437
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/title"
-msgstr ""
+msgstr "클론 캐논"
 
 #: src-en/data/blueprints.xml.append:1438
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/short"
-msgstr ""
+msgstr "Cloner"
 
 #: src-en/data/blueprints.xml.append:1439
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/desc"
 msgstr ""
+"이보다 더 큰 윤리적 논란을 불러일으킨 무기는 없었지만, 성능 하나는 "
+"확실합니다. 현재 포탑 배치를 담당하고 있는 선원이 누구든 복제해 냅니다."
 
 #: src-en/data/blueprints.xml.append:1461
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/title"
-msgstr ""
+msgstr "대공포 포탑"
 
 #: src-en/data/blueprints.xml.append:1462
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/short"
-msgstr ""
+msgstr "Flak"
 
 #: src-en/data/blueprints.xml.append:1463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
 msgstr ""
+"강력한 대공포 포탑으로, 엄청난 일제 사격을 준비하여 방어와 공격 모두에 "
+"활용할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:1481
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/title"
-msgstr ""
+msgstr "방사성 대공포 포탑"
 
 #: src-en/data/blueprints.xml.append:1482
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/short"
-msgstr ""
+msgstr "Rad Flak"
 
 #: src-en/data/blueprints.xml.append:1483
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/desc"
 msgstr ""
+"일반 선체 피해와 함께 높은 선원 피해를 입히며, 때로는 선체를 부식시켜 균열을 "
+"일으키는 4개의 방사성 투사체를 발사합니다."
 
 #: src-en/data/blueprints.xml.append:1502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/title"
-msgstr ""
+msgstr "불타는 대공포 포탑"
 
 #: src-en/data/blueprints.xml.append:1503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/short"
-msgstr ""
+msgstr "Fire Flak"
 
 #: src-en/data/blueprints.xml.append:1504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_FIRE\"]/desc"
-msgstr ""
+msgstr "화재 발생 확률이 높은 4개의 화염 투사체를 발사합니다."
 
 #: src-en/data/blueprints.xml.append:1526
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/title"
-msgstr ""
+msgstr "핀포인트 포탑"
 
 #: src-en/data/blueprints.xml.append:1527
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/short"
-msgstr ""
+msgstr "Pinpoint"
 
 #: src-en/data/blueprints.xml.append:1528
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/desc"
 msgstr ""
+"핀포인트 포탑은 거의 즉각적인 살상 능력 덕분에 적 미사일을 상대할 때 매우 "
+"효과적입니다."
 
 #: src-en/data/blueprints.xml.append:1547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/title"
-msgstr ""
+msgstr "방사성 핀포인트 포탑"
 
 #: src-en/data/blueprints.xml.append:1548
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/short"
-msgstr ""
+msgstr "Rad P."
 
 #: src-en/data/blueprints.xml.append:1549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/desc"
 msgstr ""
+"막대한 선원 피해를 입히고 적 선원을 무력화하지만 선체 피해는 주지 않는 "
+"강력한 개조형 핀포인트 포탑입니다. 2개의 방어막을 관통합니다."
 
 #: src-en/data/blueprints.xml.append:1568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/title"
-msgstr ""
+msgstr "연쇄 핀포인트 포탑"
 
 #: src-en/data/blueprints.xml.append:1569
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/short"
-msgstr ""
+msgstr "Chain P."
 
 #: src-en/data/blueprints.xml.append:1570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/desc"
 msgstr ""
+"이 핀포인트 무기는 적당한 양의 피해만 입히지만, 연사 속도가 빠르게 증가하여 "
+"방어막이 벗겨진 적에게 치명적인 타격을 줍니다."
 
 #: src-en/data/blueprints.xml.append:1592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/title"
-msgstr ""
+msgstr "소형 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:1593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/short"
-msgstr ""
+msgstr "Micro L."
 
 #: src-en/data/blueprints.xml.append:1594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/desc"
 msgstr ""
+"이 레이저 포탑은 단독으로 적함을 상대하긴 어렵지만, 빠른 회전 속 덕분에 "
+"뛰어난 범위 방어 역할을 합니다."
 
 #: src-en/data/blueprints.xml.append:1613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/title"
-msgstr ""
+msgstr "낡은 소형 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:1614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/short"
-msgstr ""
+msgstr "O. Micro L."
 
 #: src-en/data/blueprints.xml.append:1615
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/desc"
 msgstr ""
+"이 레이저 포탑은 단독으로 적함을 상대하긴 어렵지만, 빠른 회전 속도 덕분에 "
+"뛰어난 범위 방어 역할을 합니다. 매우 오래되어 명중률이 떨어집니다."
 
 #: src-en/data/blueprints.xml.append:1634
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/title"
-msgstr ""
+msgstr "경량 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:1635
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/short"
-msgstr ""
+msgstr "Light L."
 
 #: src-en/data/blueprints.xml.append:1636
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/desc"
 msgstr ""
+"시스템 피해를 입힐 수는 없지만, 이 경량 레이저 포탑은 방어막 제거 및 방어에 "
+"훨씬 적합합니다."
 
 #: src-en/data/blueprints.xml.append:1655
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/title"
-msgstr ""
+msgstr "소형 방사성 포탑"
 
 #: src-en/data/blueprints.xml.append:1656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/short"
-msgstr ""
+msgstr "Micro Rad"
 
 #: src-en/data/blueprints.xml.append:1657
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/desc"
 msgstr ""
+"선원에게 피해를 입히고 무력화하지만, 시스템이나 선체에는 피해를 주지 않는 "
+"특수 레이저 포탑입니다. 또한 적의 레이저를 격추하는 방어 역할도 수행할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1676
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/title"
-msgstr ""
+msgstr "소형 연쇄 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:1677
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/short"
-msgstr ""
+msgstr "Micro C.L."
 
 #: src-en/data/blueprints.xml.append:1678
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_CHAIN\"]/desc"
-msgstr ""
+msgstr "이 2연발 충전식 레이저는 발사할수록 재사용 대기시간이 감소합니다."
 
 #: src-en/data/blueprints.xml.append:1697
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/title"
-msgstr ""
+msgstr "소형 입자 가속기 포탑"
 
 #: src-en/data/blueprints.xml.append:1698
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/short"
-msgstr ""
+msgstr "Micro Part."
 
 #: src-en/data/blueprints.xml.append:1699
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/desc"
 msgstr ""
+"시스템에 큰 피해를 가하는 유선형 볼트를 발사합니다. 선원이나 선체에는 피해를 "
+"주지 않으며, 방어막을 제거할 수도 없습니다."
 
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/title"
-msgstr ""
+msgstr "소형 크리스탈 포탑"
 
 #: src-en/data/blueprints.xml.append:1723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/short"
-msgstr ""
+msgstr "Micro C."
 
 #: src-en/data/blueprints.xml.append:1724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI\"]/desc"
-msgstr ""
+msgstr "보호막을 관통하는 결정을 발사하도록 개조된 투사체 포탑입니다."
 
 #: src-en/data/blueprints.xml.append:1743
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/title"
-msgstr ""
+msgstr "엘리트 소형 크리스탈 포탑"
 
 #: src-en/data/blueprints.xml.append:1744
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/short"
-msgstr ""
+msgstr "€ Micro C."
 
 #: src-en/data/blueprints.xml.append:1745
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/desc"
 msgstr ""
+"보호막을 관통하는 결정을 발사하도록 개조된 투사체 포탑입니다. 항상 봉쇄를 "
+"적용하고 2개의 보호막을 관통하는 엘리트 변형입니다."
 
 #: src-en/data/blueprints.xml.append:1767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/title"
-msgstr ""
+msgstr "소형 이온 포탑"
 
 #: src-en/data/blueprints.xml.append:1768
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/short"
-msgstr ""
+msgstr "Micro I."
 
 #: src-en/data/blueprints.xml.append:1769
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_1\"]/desc"
-msgstr ""
+msgstr "이 이온 포탑은 함선의 공격을 지원하면서도 효과적인 드론 방어 수단이 됩니다."
 
 #: src-en/data/blueprints.xml.append:1788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/title"
-msgstr ""
+msgstr "소형 화염 이온 포탑"
 
 #: src-en/data/blueprints.xml.append:1789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/short"
-msgstr ""
+msgstr "Micro F.I."
 
 #: src-en/data/blueprints.xml.append:1790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/desc"
 msgstr ""
+"이 이온 포탑은 함선의 공격을 지원하면서도 효과적인 드론 방어 수단이 됩니다. "
+"명중한 시스템에 화재를 발생시킵니다."
 
 #: src-en/data/blueprints.xml.append:1812
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/title"
-msgstr ""
+msgstr "소형 핀포인트 포탑"
 
 #: src-en/data/blueprints.xml.append:1813
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/short"
-msgstr ""
+msgstr "Micro P."
 
 #: src-en/data/blueprints.xml.append:1814
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/desc"
 msgstr ""
+"이 소형 핀포인트 포탑은 적함에 피해를 주려면 추가 지원이 필요하지만, 적 "
+"미사일을 상대할 때는 여전히 뛰어난 성능을 발휘합니다."
 
 #: src-en/data/blueprints.xml.append:1836
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/title"
-msgstr ""
+msgstr "소형 대공포 포탑"
 
 #: src-en/data/blueprints.xml.append:1837
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/short"
-msgstr ""
+msgstr "Micro F."
 
 #: src-en/data/blueprints.xml.append:1838
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/desc"
 msgstr ""
+"소형 대공포 포탑으로, 일제 사격을 준비하여 방어와 공격 모두에 활용할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/title"
-msgstr ""
+msgstr "소형 미사일 포탑"
 
 #: src-en/data/blueprints.xml.append:1861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/short"
-msgstr ""
+msgstr "Micro M."
 
 #: src-en/data/blueprints.xml.append:1862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/desc"
 msgstr ""
+"이 소형 미사일 포탑은 발사 비용이 비싸지만 강력한 공격 및 방어 지원을 "
+"제공합니다."
 
 #: src-en/data/blueprints.xml.append:1884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/title"
-msgstr ""
+msgstr "여명 중형 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:1885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/short"
-msgstr ""
+msgstr "€ Heavy L."
 
 #: src-en/data/blueprints.xml.append:1886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/desc"
 msgstr ""
+"중형 레이저 포탑은 발당 피해량이 높고 회전 속도가 느려 방어용 포탑으로는 "
+"적합하지 않지만, 적함을 상대할 때 매우 뛰어난 성능을 발휘합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
+"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
+"시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1906
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/title"
-msgstr ""
+msgstr "여명 화염 이온 포탑"
 
 #: src-en/data/blueprints.xml.append:1907
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/short"
-msgstr ""
+msgstr "€ Fire I."
 
 #: src-en/data/blueprints.xml.append:1908
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/desc"
 msgstr ""
+"이온 포탑은 드론을 억제하는 데 뛰어날 뿐만 아니라 선체 피해 없이 시스템을 "
+"무력화할 수 있습니다. 이 포탑은 명중한 시스템에 화재를 발생시킵니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
+"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
+"시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1928
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/title"
-msgstr ""
+msgstr "여명 2연장 미사일 포탑"
 
 #: src-en/data/blueprints.xml.append:1929
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/short"
-msgstr ""
+msgstr "€ Dual M."
 
 #: src-en/data/blueprints.xml.append:1930
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/desc"
 msgstr ""
+"충전은 느리지만 적함에 높은 피해를 입힐 수 있으며, 적 드론 및 실체 투사체를 "
+"상대하기에 무난합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
+"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
+"시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/title"
-msgstr ""
+msgstr "여명 대공포 포탑"
 
 #: src-en/data/blueprints.xml.append:1951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/short"
-msgstr ""
+msgstr "€ Flak"
 
 #: src-en/data/blueprints.xml.append:1952
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
+"강력한 대공포 포탑으로, 엄청난 일제 사격을 준비하여 방어와 공격 모두에 "
+"활용할 수 있습니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
+"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
+"시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/title"
-msgstr ""
+msgstr "여명 핀포인트 포탑"
 
 #: src-en/data/blueprints.xml.append:1973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/short"
-msgstr ""
+msgstr "€ Pinpoint"
 
 #: src-en/data/blueprints.xml.append:1974
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/desc"
 msgstr ""
+"핀포인트 포탑은 거의 즉각적인 살상 능력 덕분에 적 미사일을 상대할 때 매우 "
+"효과적입니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
+"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
+"시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/title"
-msgstr ""
+msgstr "여명 소형 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:1995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/short"
-msgstr ""
+msgstr "€ Micro L."
 
 #: src-en/data/blueprints.xml.append:1996
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/desc"
 msgstr ""
+"이 레이저 포탑은 단독으로 적함을 상대하긴 어렵지만, 빠른 회전 속도 덕분에 "
+"뛰어난 방어 단위 역할을 합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
+"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
+"시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:2016
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/title"
-msgstr ""
+msgstr "여명 경량 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:2017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/short"
-msgstr ""
+msgstr "€ Light L."
 
 #: src-en/data/blueprints.xml.append:2018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
 msgstr ""
+"시스템 피해를 입힐 수는 없지만, 이 경량 레이저 포탑은 보호막 억제 및 방어에 "
+"훨씬 적합합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
+"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
+"시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:2038
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/title"
-msgstr ""
+msgstr "여명 소형 핀포인트 포탑"
 
 #: src-en/data/blueprints.xml.append:2039
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/short"
-msgstr ""
+msgstr "€ Micro P."
 
 #: src-en/data/blueprints.xml.append:2040
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/desc"
 msgstr ""
+"이 소형 핀포인트 포탑은 적함에 피해를 주려면 추가 지원이 필요하지만, 적 "
+"미사일을 상대할 때는 여전히 뛰어난 성능을 발휘합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
+"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
+"시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:2060
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/title"
-msgstr ""
+msgstr "중성자 코어"
 
 #: src-en/data/blueprints.xml.append:2061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/short"
-msgstr ""
+msgstr "Neutron"
 
 #: src-en/data/blueprints.xml.append:2062
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/desc"
 msgstr ""
+"미드나이트 선 추적함의 편성 무기인 중성자 코어입니다. 작동 가능한 상태로 "
+"만들어 포탑 슬롯에 장착할 수 있으며, 포탑 제작을 통해 업그레이드해야 합니다."
 
 #: src-en/data/blueprints.xml.append:2081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/title"
-msgstr ""
+msgstr "중성자 포탑 마크 I"
 
 #: src-en/data/blueprints.xml.append:2082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/short"
-msgstr ""
+msgstr "Neutron I"
 
 #: src-en/data/blueprints.xml.append:2083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_1\"]/desc"
-msgstr ""
+msgstr "중성자별의 힘을 활용한 강력한 빔을 발사하여 적함을 찢어발깁니다."
 
 #: src-en/data/blueprints.xml.append:2102
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/title"
-msgstr ""
+msgstr "중성자 포탑 마크 II"
 
 #: src-en/data/blueprints.xml.append:2103
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/short"
-msgstr ""
+msgstr "Neutron II"
 
 #: src-en/data/blueprints.xml.append:2104
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_2\"]/desc"
-msgstr ""
+msgstr "중성자별의 힘을 활용한 강력한 빔을 발사하여 적함을 찢어발깁니다."
 
 #: src-en/data/blueprints.xml.append:2123
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/title"
-msgstr ""
+msgstr "중성자 포탑 마크 III"
 
 #: src-en/data/blueprints.xml.append:2124
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/short"
-msgstr ""
+msgstr "Neutron III"
 
 #: src-en/data/blueprints.xml.append:2125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_3\"]/desc"
-msgstr ""
+msgstr "중성자별의 힘을 활용한 강력한 빔을 발사하여 적함을 찢어발깁니다."
 
 #: src-en/data/blueprints.xml.append:2148
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/title"
-msgstr ""
+msgstr "역병 침식 핀포인트 포탑"
 
 #: src-en/data/blueprints.xml.append:2149
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/short"
-msgstr ""
+msgstr "Plague P."
 
 #: src-en/data/blueprints.xml.append:2150
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/desc"
 msgstr ""
+"강력한 방사성 핀포인트 포탑과 모호하게 닮았지만, 영혼역병 물질바이러스에 "
+"완전히 오염된 상태입니다. 명중한 방에 역병 침식 상태를 부여하여 적을 "
+"감염시키고 방해합니다."
 
 #: src-en/data/blueprints.xml.append:2168
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/title"
-msgstr ""
+msgstr "이름 없는 날"
 
 #: src-en/data/blueprints.xml.append:2169
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/short"
-msgstr ""
+msgstr "Unnamed"
 
 #: src-en/data/blueprints.xml.append:2170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/desc"
 msgstr ""
+"머나먼 현실에서 온 기묘한 생체 무기입니다. 이 빛의 미사일 포탑은 한 번에 "
+"여러 발의 미사일을 충전할 수 있으며, 명중한 방에 찬란한 모독 효과를 "
+"부여합니다."
 
 #: src-en/data/blueprints.xml.append:2188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DARKNESS_MINI\"]/title"
-msgstr ""
+msgstr "침울"
 
 #: src-en/data/blueprints.xml.append:2189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DARKNESS_MINI\"]/short"
-msgstr ""
+msgstr "Malaise"
 
 #: src-en/data/blueprints.xml.append:2190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DARKNESS_MINI\"]/desc"
-msgstr ""
+msgstr "투사체 자체가 어둠을 구현한 듯한 속사 레이저입니다."
 
 #: src-en/data/blueprints.xml.append:2208
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:2209
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:2210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:2503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE_FAKE\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:2504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE_FAKE\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:2505
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_SOULPLAGUE_FAKE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:2532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_FALSERADIANCE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:2533
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_FALSERADIANCE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:2534
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_FALSERADIANCE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:2726
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_DARKNESS\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:2727
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_DARKNESS\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:2728
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_DARKNESS\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:2788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_SLUG_1\"]/title"
-msgstr ""
+msgstr "방사성 핀포인트 포탑"
 
 #: src-en/data/blueprints.xml.append:2789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_SLUG_1\"]/short"
-msgstr ""
+msgstr "Rad P."
 
 #: src-en/data/blueprints.xml.append:2790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_SLUG_1\"]/desc"
 msgstr ""
+"막대한 선원 피해를 입히고 적 선원을 무력화하지만 선체 피해는 주지 않는 "
+"강력한 개조형 핀포인트 포탑입니다. 2개의 방어막을 관통합니다."
 
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CLAN_1\"]/title"
-msgstr ""
+msgstr "방사성 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:2810
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CLAN_1\"]/short"
-msgstr ""
+msgstr "Rad L."
 
 #: src-en/data/blueprints.xml.append:2811
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CLAN_1\"]/desc"
 msgstr ""
+"선원에게 높은 피해를 입히고 무력화하지만, 시스템이나 선체에는 피해를 주지 "
+"않는 특수 레이저 포탑입니다. 또한 적의 레이저를 격추하는 방어 역할에도 매우 "
+"뛰어납니다."
 
 #: src-en/data/blueprints.xml.append:2830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/title"
-msgstr ""
+msgstr "파편 발사 포탑"
 
 #: src-en/data/blueprints.xml.append:2831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/short"
-msgstr ""
+msgstr "Shard L."
 
 #: src-en/data/blueprints.xml.append:2832
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/desc"
 msgstr ""
+"폭발물이 장전된 크리스탈 투사체를 사용하는 특수 기뢰 발사 포탑입니다. 탄약을 "
+"소비하지 않지만, 보호막을 최대 2계층까지만 관통할 수 있습니다.\n"
+"\t\n"
+"\t비어있는 송신소에서 미사일 5개를 소모하여 함대 추적을 1회 지연시키며, "
+"악명에는 영향을 주지 않습니다."
 
 #: src-en/data/blueprints.xml.append:2853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_FEDERATION_1\"]/title"
-msgstr ""
+msgstr "중형 레이저 포탑"
 
 #: src-en/data/blueprints.xml.append:2854
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_FEDERATION_1\"]/short"
-msgstr ""
+msgstr "Heavy L."
 
 #: src-en/data/blueprints.xml.append:2855
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_FEDERATION_1\"]/desc"
 msgstr ""
+"중형 레이저 포탑은 회전 속도가 느리고 발당 피해량이 높아 방어용 포탑으로는 "
+"적합하지 않지만, 적함을 상대할 때 매우 뛰어난 성능을 발휘합니다."
 
 #: src-en/data/blueprints.xml.append:2875
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:2876
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:2877
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:2912
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:2913
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:2914
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:2949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:2950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:2951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:2989
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:2990
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:2991
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ANCIENT\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3037
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3038
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3039
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_CEL\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3072
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3073
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3074
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3115
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO_WEAK\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3116
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO_WEAK\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3117
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BIO_WEAK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3158
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3159
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3160
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PIERCE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3194
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3195
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3196
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HULL\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3231
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3232
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3233
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_ZENITH\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3267
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_PARTICLE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3302
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_FROST\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_FROST\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3304
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_FROST\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/title"
-msgstr ""
+msgstr "이온"
 
 #: src-en/data/blueprints.xml.append:3358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/short"
-msgstr ""
+msgstr "Ion"
 
 #: src-en/data/blueprints.xml.append:3359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3400
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/title"
-msgstr ""
+msgstr "이온"
 
 #: src-en/data/blueprints.xml.append:3401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/short"
-msgstr ""
+msgstr "Ion"
 
 #: src-en/data/blueprints.xml.append:3402
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_FIRE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3443
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_PIERCE\"]/title"
-msgstr ""
+msgstr "이온"
 
 #: src-en/data/blueprints.xml.append:3444
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_PIERCE\"]/short"
-msgstr ""
+msgstr "Ion"
 
 #: src-en/data/blueprints.xml.append:3445
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_PIERCE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3485
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_STUN\"]/title"
-msgstr ""
+msgstr "이온"
 
 #: src-en/data/blueprints.xml.append:3486
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_STUN\"]/short"
-msgstr ""
+msgstr "Ion"
 
 #: src-en/data/blueprints.xml.append:3487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_STUN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3527
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BIO\"]/title"
-msgstr ""
+msgstr "이온"
 
 #: src-en/data/blueprints.xml.append:3528
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BIO\"]/short"
-msgstr ""
+msgstr "Ion"
 
 #: src-en/data/blueprints.xml.append:3529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BIO\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3574
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/title"
-msgstr ""
+msgstr "이온"
 
 #: src-en/data/blueprints.xml.append:3575
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/short"
-msgstr ""
+msgstr "Ion"
 
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_WEAK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3617
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/title"
-msgstr ""
+msgstr "이온"
 
 #: src-en/data/blueprints.xml.append:3618
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/short"
-msgstr ""
+msgstr "Ion"
 
 #: src-en/data/blueprints.xml.append:3619
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_ENERGY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3660
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3661
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3662
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_BASE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3699
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3700
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3701
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_ELITE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3739
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3740
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3741
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3779
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT_ELITE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3780
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT_ELITE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3781
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_LIGHT_ELITE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3859
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN_ELITE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN_ELITE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHOTGUN_ELITE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_SWARM\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3940
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3941
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3942
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:3979
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:3980
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:3981
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_WEAK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4019
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4020
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4021
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4059
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4060
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4099
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY_ELITE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4100
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY_ELITE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4101
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_HEAVY_ELITE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE_ELITE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE_ELITE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_KERNEL_PROJECTILE_FIRE_ELITE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4181
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_CLONE\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4182
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_CLONE\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4183
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_CLONE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4224
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/title"
-msgstr ""
+msgstr "대공포"
 
 #: src-en/data/blueprints.xml.append:4225
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/short"
-msgstr ""
+msgstr "Flak"
 
 #: src-en/data/blueprints.xml.append:4226
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/title"
-msgstr ""
+msgstr "대공포"
 
 #: src-en/data/blueprints.xml.append:4265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/short"
-msgstr ""
+msgstr "Flak"
 
 #: src-en/data/blueprints.xml.append:4266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_BIO\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4310
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_FIRE\"]/title"
-msgstr ""
+msgstr "대공포"
 
 #: src-en/data/blueprints.xml.append:4311
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_FIRE\"]/short"
-msgstr ""
+msgstr "Flak"
 
 #: src-en/data/blueprints.xml.append:4312
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_FIRE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:4352
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:4353
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:4376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:4377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_FAKE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4399
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:4400
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:4401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4423
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:4424
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:4425
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_FAKE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:4448
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:4449
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4482
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:4483
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:4484
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_BIO_FAKE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4514
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4516
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_BASE_DAWN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4551
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4552
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4553
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_HEAVY_DAWN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4588
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4589
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4590
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LASER_PROJECTILE_LIGHT_DAWN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4628
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/title"
-msgstr ""
+msgstr "이온"
 
 #: src-en/data/blueprints.xml.append:4629
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/short"
-msgstr ""
+msgstr "Ion"
 
 #: src-en/data/blueprints.xml.append:4630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_ION_PROJECTILE_BASE_DAWN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4671
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4672
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4673
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_MISSILE_PROJECTILE_HEAVY_DAWN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4711
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/title"
-msgstr ""
+msgstr "대공포"
 
 #: src-en/data/blueprints.xml.append:4712
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/short"
-msgstr ""
+msgstr "Flak"
 
 #: src-en/data/blueprints.xml.append:4713
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FLAK_PROJECTILE_DAWN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:4752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_DAWN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4774
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:4775
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:4776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_FOCUS_PROJECTILE_WEAK_DAWN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_SLUG_1\"]/title"
-msgstr ""
+msgstr "조준 레이저"
 
 #: src-en/data/blueprints.xml.append:4801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_SLUG_1\"]/short"
-msgstr ""
+msgstr "Focus"
 
 #: src-en/data/blueprints.xml.append:4802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_SLUG_1\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4836
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_CLAN_1\"]/title"
-msgstr ""
+msgstr "레이저"
 
 #: src-en/data/blueprints.xml.append:4837
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_CLAN_1\"]/short"
-msgstr ""
+msgstr "Laser"
 
 #: src-en/data/blueprints.xml.append:4838
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_LOOT_PROJECTILE_CLAN_1\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4882
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHARD\"]/title"
-msgstr ""
+msgstr "대공포"
 
 #: src-en/data/blueprints.xml.append:4883
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHARD\"]/short"
-msgstr ""
+msgstr "Flak"
 
 #: src-en/data/blueprints.xml.append:4884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CRYSTAL_PROJECTILE_SHARD\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4925
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_GUARD\"]/title"
-msgstr ""
+msgstr "아이언 워치 함선"
 
 #: src-en/data/blueprints.xml.append:4926
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_GUARD\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4932
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_DAWN\"]/title"
-msgstr ""
+msgstr "뉴 던 함선"
 
 #: src-en/data/blueprints.xml.append:4933
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_OG_DAWN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:4939
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/class"
-msgstr ""
+msgstr "습격급"
 
 #: src-en/data/blueprints.xml.append:4940
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/name"
-msgstr ""
+msgstr "The Wasp"
 
 #: src-en/data/blueprints.xml.append:4941
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/desc"
 msgstr ""
+"습격급 함선은 중앙에 장착된 포탑이 특징이지만, 이 함선의 포탑은 "
+"노후화되었습니다. 포탑을 개선하여 장착한다면 이 함선은 반군 함대에 심각한 "
+"위협이 될 것입니다."
 
 #: src-en/data/blueprints.xml.append:5022
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/class"
-msgstr ""
+msgstr "습격급"
 
 #: src-en/data/blueprints.xml.append:5023
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/name"
-msgstr ""
+msgstr "The Hornet"
 
 #: src-en/data/blueprints.xml.append:5024
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/desc"
 msgstr ""
+"이 습격급 함선은 강력한 레이저 캐논과 빠른 드론을 탑재하여 적함을 유린할 수 "
+"있지만, 동급의 다른 함선들에 비해 방어 능력은 다소 제한적입니다."
 
 #: src-en/data/blueprints.xml.append:5104
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/class"
-msgstr ""
+msgstr "습격급"
 
 #: src-en/data/blueprints.xml.append:5105
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/name"
-msgstr ""
+msgstr "The Snitch"
 
 #: src-en/data/blueprints.xml.append:5106
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/desc"
 msgstr ""
+"강력한 강습 선원과 시스템 및 선원 모두에게 치명적인 포탑을 갖춘 이 함선은 "
+"적의 선체를 손상시키지 않고 나포하는 데 특화되어 있습니다."
 
 #: src-en/data/blueprints.xml.append:5185
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/class"
-msgstr ""
+msgstr "집행급"
 
 #: src-en/data/blueprints.xml.append:5186
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/name"
-msgstr ""
+msgstr "The Bastion"
 
 #: src-en/data/blueprints.xml.append:5187
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/desc"
 msgstr ""
+"집행급 함선은 4개의 독립된 포탑으로 무장하고 있으며, 장착하는 포탑에 따라 "
+"강력한 방어 특화 함선이 될 수도, 압도적인 일제 사격을 퍼붓는 함선이 될 수도 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:5275
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_2\"]/class"
-msgstr ""
+msgstr "집행급"
 
 #: src-en/data/blueprints.xml.append:5276
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_2\"]/name"
-msgstr ""
+msgstr "The Courier"
 
 #: src-en/data/blueprints.xml.append:5277
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_2\"]/desc"
 msgstr ""
+"소형 이온 포탑 포대를 갖춘 이 함선은 적의 보호막을 무력화하여 주 포탑이 제 "
+"역할을 할 수 있도록 돕습니다. 포탑의 수가 많기 때문에 함장은 드론 제어 "
+"시스템과 무기 제어 시스템 중 하나를 선택해야 합니다."
 
 #: src-en/data/blueprints.xml.append:5361
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_3\"]/class"
-msgstr ""
+msgstr "집행급"
 
 #: src-en/data/blueprints.xml.append:5362
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_3\"]/name"
-msgstr ""
+msgstr "The Bombardier"
 
 #: src-en/data/blueprints.xml.append:5363
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_3\"]/desc"
 msgstr ""
+"이 함선은 높은 화력에 특화되어 있어 2개의 주 포탑과 함께 4개의 무기 또는 "
+"4개의 드론을 탑재할 수 있어 강력한 화력을 자랑합니다."
 
 #: src-en/data/blueprints.xml.append:5449
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/class"
-msgstr ""
+msgstr "선봉급"
 
 #: src-en/data/blueprints.xml.append:5450
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/name"
-msgstr ""
+msgstr "The Approaching Sun"
 
 #: src-en/data/blueprints.xml.append:5452
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/desc"
 msgstr ""
+"뉴 던이 반군과의 동맹 과정에서 설계한 고급 순양함입니다. 주 공격력은 함선 "
+"중앙에 위치한 강력한 포탑에서 나옵니다."
 
 #: src-en/data/blueprints.xml.append:5530
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/class"
-msgstr ""
+msgstr "선봉급"
 
 #: src-en/data/blueprints.xml.append:5531
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/name"
-msgstr ""
+msgstr "The God Ray"
 
 #: src-en/data/blueprints.xml.append:5533
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
 msgstr ""
+"선봉급 순양함의 변형 중 하나인 이 함선은 포탑을 방어용으로 사용하고 무기를 "
+"공격용으로 활용합니다. 의존할 만한 다른 방어 시스템이 없는 상태에서 포탑을 "
+"공격용으로 사용하는 것은 위험할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:5617
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/class"
-msgstr ""
+msgstr "선봉급"
 
 #: src-en/data/blueprints.xml.append:5618
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/name"
-msgstr ""
+msgstr "The Burning Emblem"
 
 #: src-en/data/blueprints.xml.append:5620
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/desc"
 msgstr ""
+"철저하게 무장한 이 함선은 완전한 전투 특화형입니다. 반군 설계의 산물인 이 "
+"함선은 말폼을 활용해 산소의 필요성을 없애고, 의료 시스템 대신 의사 드론을 "
+"사용합니다."
 
 #: src-en/data/blueprints.xml.append:5705
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/class"
-msgstr ""
+msgstr "거상급"
 
 #: src-en/data/blueprints.xml.append:5706
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/name"
-msgstr ""
+msgstr "The Fortress"
 
 #: src-en/data/blueprints.xml.append:5708
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/desc"
 msgstr ""
+"4개의 독립된 주 포탑 포대를 갖춘 이 함선은 어떤 적과도 정면으로 맞설 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:5799
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/class"
-msgstr ""
+msgstr "거상급"
 
 #: src-en/data/blueprints.xml.append:5800
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/name"
-msgstr ""
+msgstr "The Impervious"
 
 #: src-en/data/blueprints.xml.append:5802
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/desc"
 msgstr ""
+"이 함선은 방어막이나 은폐 장치를 설치할 수 없어 오직 포탑에만 의존하여 "
+"방어해야 합니다."
 
 #: src-en/data/blueprints.xml.append:5895
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/class"
-msgstr ""
+msgstr "거상급"
 
 #: src-en/data/blueprints.xml.append:5896
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/name"
-msgstr ""
+msgstr "The Empire"
 
 #: src-en/data/blueprints.xml.append:5898
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/desc"
 msgstr ""
+"우주 가장 깊은 곳에서 발견된 고대 전함입니다. 엔지니어 팀이 협력하여 과거의 "
+"영광스러운 모습으로 복원해 냈습니다."
 
 #: src-en/data/blueprints.xml.append:5974
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/class"
-msgstr ""
+msgstr "추적급"
 
 #: src-en/data/blueprints.xml.append:5975
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/name"
-msgstr ""
+msgstr "Moonglow"
 
 #: src-en/data/blueprints.xml.append:5976
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/desc"
 msgstr ""
+"이 날렵한 함선은 선원과 시스템을 동시에 파괴할 수 있는 강력한 방사선 빔을 "
+"발사하는 프로토타입 빔 편성 무기를 중심으로 건조되었습니다."
 
 #: src-en/data/blueprints.xml.append:6062
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/class"
-msgstr ""
+msgstr "추적급"
 
 #: src-en/data/blueprints.xml.append:6063
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/name"
-msgstr ""
+msgstr "Bonifacio"
 
 #: src-en/data/blueprints.xml.append:6064
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/desc"
 msgstr ""
+"추적급 순양함의 수출된 변형으로, 뉴 던에서 훈련시킨 반군 공작원과 함께 반군 "
+"측에 전달되었습니다."
 
 #: src-en/data/blueprints.xml.append:6150
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/class"
-msgstr ""
+msgstr "추적급"
 
 #: src-en/data/blueprints.xml.append:6151
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/name"
-msgstr ""
+msgstr "Moonbeam"
 
 #: src-en/data/blueprints.xml.append:6152
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/desc"
 msgstr ""
+"초기 중성자 빔의 개량형 버전으로, 이번에는 포탑 형태로 제작되어 업그레이드 "
+"시 엄청난 수준의 피해를 퍼부을 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:6242
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/class"
-msgstr ""
+msgstr "유랑급"
 
 #: src-en/data/blueprints.xml.append:6243
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/name"
-msgstr ""
+msgstr "Nightwing"
 
 #: src-en/data/blueprints.xml.append:6244
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/desc"
 msgstr ""
+"빠르고 은밀하게 움직이도록 건조된 경강습선으로, 어둠을 틈탄 은밀 작전에 "
+"최적화되어 있습니다. 함선의 크기가 작아 대형 포탑을 설치할 수 없었기에, "
+"엔지니어들은 소형 포탑 시스템을 오버클록하여 살상력을 높였습니다."
 
 #: src-en/data/blueprints.xml.append:6331
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/class"
-msgstr ""
+msgstr "유랑급"
 
 #: src-en/data/blueprints.xml.append:6332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/name"
-msgstr ""
+msgstr "Corte"
 
 #: src-en/data/blueprints.xml.append:6333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/desc"
 msgstr ""
+"미드나이트 선 공작원과 MFK 에이스가 뉴 던과 반군을 배신하고 이 빠른 함선을 "
+"탈취해 도주했습니다."
 
 #: src-en/data/blueprints.xml.append:6417
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/class"
-msgstr ""
+msgstr "유랑급"
 
 #: src-en/data/blueprints.xml.append:6418
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/name"
-msgstr ""
+msgstr "Hyperlight"
 
 #: src-en/data/blueprints.xml.append:6419
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/desc"
 msgstr ""
+"한때 미드나이트 선의 정예 정보 요원이었던 이들은 알 수 없는 멀티버스에 "
+"고립되어 집으로 돌아갈 방법을 찾지 못했습니다. 선택의 여지가 거의 없었던 "
+"그들은 거리 경주에 뛰어들었고, 전장에서와 마찬가지로 트랙에서도 무자비함을 "
+"증명했습니다."
 
 #: src-en/data/blueprints.xml.append:6506
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/class"
-msgstr ""
+msgstr "아이언 케스트렐 순양함"
 
 #: src-en/data/blueprints.xml.append:6507
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/name"
-msgstr ""
+msgstr "Supercausal"
 
 #: src-en/data/blueprints.xml.append:6508
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/desc"
 msgstr ""
+"상징적인 케스트렐 모델 순양함으로, 다재다능하여 숙련된 함장과 미숙한 함장 "
+"모두에게 잘 맞습니다."
 
 #: src-en/data/blueprints.xml.append:6589
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/class"
-msgstr ""
+msgstr "아이언 반군 순양함"
 
 #: src-en/data/blueprints.xml.append:6590
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/name"
-msgstr ""
+msgstr "Corsica"
 
 #: src-en/data/blueprints.xml.append:6592
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/desc"
 msgstr ""
+"아이언 워치의 포탑 기술을 역설계하고 기함과 유사한 무장으로 무장한 이 강력한 "
+"순양함은 압도적인 화력을 자랑합니다."
 
 #: src-en/data/blueprints.xml.append:6673
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/class"
-msgstr ""
+msgstr "아이언 이노베이션 순양함"
 
 #: src-en/data/blueprints.xml.append:6674
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/name"
-msgstr ""
+msgstr "The Iron Giant"
 
 #: src-en/data/blueprints.xml.append:6676
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/desc"
 msgstr ""
+"지각이 제거된 반군 AI 코어로 구동되는 이 함선은 에너지 파동을 생성하는 "
+"프로토타입 장비를 탑재하고 있습니다."
 
 #: src-en/data/blueprints.xml.append:6761
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/class"
-msgstr ""
+msgstr "아이언 분리주의자 순양함"
 
 #: src-en/data/blueprints.xml.append:6762
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/name"
-msgstr ""
+msgstr "The Isolation"
 
 #: src-en/data/blueprints.xml.append:6764
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/desc"
 msgstr ""
+"이 외로운 분리주의자 엔지는 추가적인 선원의 도움 없이 이 배를 조종하지만, "
+"그의 관리자 드론 부대와 함께라면 시스템들 까지도 관리할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:6846
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/class"
-msgstr ""
+msgstr "아이언 엔젤릭 데스브링어"
 
 #: src-en/data/blueprints.xml.append:6847
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/name"
-msgstr ""
+msgstr "Venus"
 
 #: src-en/data/blueprints.xml.append:6849
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/desc"
 msgstr ""
+"'천사'들은 은하계 최고의 용병들입니다. 이 스텔스 함선은 강력한 선원을 "
+"활용하여 큰 피해를 입기 전에 신속하게 적을 처리할 수 있어야 합니다."
 
 #: src-en/data/blueprints.xml.append:6925
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/class"
-msgstr ""
+msgstr "아이언 락 순양함"
 
 #: src-en/data/blueprints.xml.append:6926
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/name"
-msgstr ""
+msgstr "Rampart"
 
 #: src-en/data/blueprints.xml.append:6928
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/desc"
 msgstr ""
+"이 함선은 그 설계자와 마찬가지로 엄청난 내구성을 자랑하는 괴물입니다. 잔혹한 "
+"화력으로 적을 제압합니다."
 
 #: src-en/data/blueprints.xml.append:7012
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/class"
-msgstr ""
+msgstr "아이언 평화유지군 순양함"
 
 #: src-en/data/blueprints.xml.append:7013
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/name"
-msgstr ""
+msgstr "The Beggar"
 
 #: src-en/data/blueprints.xml.append:7015
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/desc"
 msgstr ""
+"날렵한 디자인의 최첨단 졸탄 선박입니다. 데보락 레이의 개인 순양함으로 "
+"유명합니다."
 
 #: src-en/data/blueprints.xml.append:7090
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/class"
-msgstr ""
+msgstr "아이언 친위대 순양함"
 
 #: src-en/data/blueprints.xml.append:7091
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/name"
-msgstr ""
+msgstr "The Silver Raven"
 
 #: src-en/data/blueprints.xml.append:7093
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/desc"
 msgstr ""
+"이 소형 순양함은 내구도가 낮지만 여전히 나이트 친위대의 기함으로 존재합니다. "
+"중요한 것은 크기가 아니라 어떻게 사용하느냐입니다."
 
 #: src-en/data/blueprints.xml.append:7169
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/class"
-msgstr ""
+msgstr "사일러스의 크루저"
 
 #: src-en/data/blueprints.xml.append:7170
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/name"
-msgstr ""
+msgstr "The Surveyor"
 
 #: src-en/data/blueprints.xml.append:7172
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/desc"
 msgstr ""
+"사일러스의 개인용 함선은 방어막이 가동될 때까지 포탑과 방어 드론에 의존하여 "
+"생존합니다."
 
 #: src-en/data/blueprints.xml.append:7255
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/class"
-msgstr ""
+msgstr "호루스의 크루저"
 
 #: src-en/data/blueprints.xml.append:7256
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/name"
-msgstr ""
+msgstr "The Falcon"
 
 #: src-en/data/blueprints.xml.append:7258
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/desc"
 msgstr ""
+"이번에 호루스는 만반의 준비를 마쳤습니다. 그녀는 박물관에서 고대의 거대 "
+"함선을 끌어내었으며, 이제 그 무엇도 그녀의 길을 막을 수 없습니다!"
 
 #: src-en/data/blueprints.xml.append:7357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/title"
-msgstr ""
+msgstr "중성자 함포"
 
 #: src-en/data/blueprints.xml.append:7358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/short"
-msgstr ""
+msgstr "Artillery"
 
 #: src-en/data/blueprints.xml.append:7359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/desc"
 msgstr ""
+"[기본 재사용 대기시간: 20초] 적함을 관통하는 응축된 방사성 빔을 발사하여 "
+"시스템과 선원에게 피해를 입힙니다."
 
 #: src-en/data/blueprints.xml.append:7378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/title"
-msgstr ""
+msgstr "관통 레이저 마크 I"
 
 #: src-en/data/blueprints.xml.append:7379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/short"
-msgstr ""
+msgstr "Pierce I"
 
 #: src-en/data/blueprints.xml.append:7381
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/desc"
 msgstr ""
+"특수 전리품 무기입니다. 보관함의 툴팁을 확인하여 기본 버전보다 개선된 사항을 "
+"확인하세요."
 
 #: src-en/data/blueprints.xml.append:7417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/title"
-msgstr ""
+msgstr "3연장 레이저 마크 II"
 
 #: src-en/data/blueprints.xml.append:7418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/short"
-msgstr ""
+msgstr "Triplet II"
 
 #: src-en/data/blueprints.xml.append:7420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/desc"
 msgstr ""
+"특수 전리품 무기입니다. 보관함의 툴팁을 확인하여 기본 버전보다 개선된 사항을 "
+"확인하세요."
 
 #: src-en/data/blueprints.xml.append:7462
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/title"
-msgstr ""
+msgstr "3연장 레이저 마크 I"
 
 #: src-en/data/blueprints.xml.append:7463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/short"
-msgstr ""
+msgstr "Triplet I"
 
 #: src-en/data/blueprints.xml.append:7465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/desc"
 msgstr ""
+"빠르게 연쇄되는 레이저 무기이지만, 최대 연쇄 상태에서 마지막 점사를 발사한 "
+"후에는 연쇄 상태가 초기화됩니다."
 
 #: src-en/data/blueprints.xml.append:7505
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/title"
-msgstr ""
+msgstr "3연장 레이저 마크 II"
 
 #: src-en/data/blueprints.xml.append:7506
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/short"
-msgstr ""
+msgstr "Triplet II"
 
 #: src-en/data/blueprints.xml.append:7508
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/desc"
 msgstr ""
+"빠르게 연쇄되는 레이저 무기이지만, 최대 연쇄 상태에서 마지막 점사를 발사한 "
+"후에는 연쇄 상태가 초기화됩니다."
 
 #: src-en/data/blueprints.xml.append:7551
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/title"
-msgstr ""
+msgstr "반사 장갑"
 
 #: src-en/data/blueprints.xml.append:7552
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_REFLECTIVE_PLATING\"]/desc"
-msgstr ""
+msgstr "이 함선에 명중하는 빔의 피해를 절반으로 줄입니다(내림 적용, 최소 1)."
 
 #: src-en/data/blueprints.xml.append:7560
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE_WEAK\"]/title"
-msgstr ""
+msgstr "포탑 조기 에너지 공급 장치"
 
 #: src-en/data/blueprints.xml.append:7561
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE_WEAK\"]/desc"
-msgstr ""
+msgstr "FTL 도약 직후 포탑 충전량의 절반이 즉시 준비됩니다."
 
 #: src-en/data/blueprints.xml.append:7568
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE\"]/title"
-msgstr ""
+msgstr "포탑 조기 점화기"
 
 #: src-en/data/blueprints.xml.append:7569
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_PREIGNITE\"]/desc"
-msgstr ""
+msgstr "FTL 도약 직후 포탑이 즉시 발사 가능한 상태가 됩니다."
 
 #: src-en/data/blueprints.xml.append:7576
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_MANNABLE_MICRO\"]/title"
-msgstr ""
+msgstr "선원 배치 가능 소형 포탑"
 
 #: src-en/data/blueprints.xml.append:7577
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_TURRET_MANNABLE_MICRO\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:7584
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_DAWN_INITIATE\"]/title"
-msgstr ""
+msgstr "뉴 던 입교자"
 
 #: src-en/data/blueprints.xml.append:7585
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"OG_DAWN_INITIATE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:7592
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD\"]/title"
-msgstr ""
+msgstr "싱크로트론 보호막"
 
 #: src-en/data/blueprints.xml.append:7593
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD\"]/desc"
 msgstr ""
+"중성자별의 방사성 빔 효과로부터 함선을 보호하여 피해를 흡수한 뒤 엔진 시스템 "
+"전체로 분산시킵니다. 보호막이 작동하는 동안 함선은 이온 면역 상태가 되지만, "
+"엔진 출력이 1 이하로 떨어지면 보호막이 해제됩니다."
 
 #: src-en/data/blueprints.xml.append:7601
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD_LOCKED\"]/title"
-msgstr ""
+msgstr "싱크로트론 보호막"
 
 #: src-en/data/blueprints.xml.append:7602
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD_LOCKED\"]/desc"
 msgstr ""
+"중성자별의 방사성 빔 효과로부터 함선을 보호하여 피해를 흡수한 뒤 엔진 시스템 "
+"전체로 분산시킵니다. 보호막이 작동하는 동안 함선은 이온 면역 상태가 되지만, "
+"엔진 출력이 1 이하로 떨어지면 보호막이 해제됩니다."
 
 #: src-en/data/blueprints.xml.append:7613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FOCUS_OG_SILAS\"]/title"
-msgstr ""
+msgstr "드론 조준 레이저"
 
 #: src-en/data/blueprints.xml.append:7614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FOCUS_OG_SILAS\"]/short"
-msgstr ""
+msgstr "Drone Focus"
 
 #: src-en/data/blueprints.xml.append:7630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_LASER_OG_SILAS\"]/title"
-msgstr ""
+msgstr "드론 레이저"
