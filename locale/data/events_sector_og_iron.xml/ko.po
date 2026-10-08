@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-11 22:36+0000\n"
+"PO-Revision-Date: 2026-10-08 13:37+0000\n"
 "Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
 "Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_ironxml/ko/>\n"
@@ -1484,7 +1484,7 @@ msgid ""
 msgstr ""
 "이곳의 민간선은 펄서로 인해 고립된 듯합니다. \"함장님, 오셔서 다행입니다. "
 "도약을 실행하려던 순간 펄서의 충격을 받아 도약 드라이브가 나가버렸고, 전력 "
-"급증으로 엔진이 구워졌습니다. 물자도 부족하고 전담 엔지니어도 탑승해 있지 "
+"급증으로 엔진이 구워졌습니다. 물자도 부족하고 전담 공병도 탑승해 있지 "
 "않으니, 어떤 도움이라도 감사히 받겠습니다.\""
 
 #: src-en/data/events_sector_og_iron.xml:1180
@@ -1505,7 +1505,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_og_iron.xml:1194
 msgid ""
 "data/events_sector_og_iron.xml$//event[@name=\"OG_IRON_DISTRESS_PULSAR\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr "(엔지니어 선원) 엔지니어가 도울 수 있는지 확인한다."
+msgstr "(공병 선원) 공병이 도울 수 있는지 확인한다."
 
 #: src-en/data/events_sector_og_iron.xml:1196
 msgid ""
