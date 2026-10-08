@@ -5,7 +5,7 @@
         "data/autoBlueprints.xml.append",
 		"data/blueprints.xml.append",
 		"data/events_addon_icon.xml.append",
-		
+		"data/events_sector_laststand.xml.append",
 		"data/events_sector_abandoned.xml.append",
 		"data/events_sector_asteroid.xml.append",
 		"data/events_sector_droppoint.xml.append",
