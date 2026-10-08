@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-11 22:36+0000\n"
+"PO-Revision-Date: 2026-10-08 13:37+0000\n"
 "Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
 "Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
 "dataevents_sector_og_neutronxml/ko/>\n"
@@ -1748,7 +1748,7 @@ msgstr "(아이언 워치 선원) 아이언 워치 선원에게 점검하도록 
 #: src-en/data/events_sector_og_neutron.xml:1348
 msgid ""
 "data/events_sector_og_neutron.xml$//event[@name=\"OG_NEUTRON_SCIENTIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr "(공병 선원) 엔지니어에게 점검하도록 한다."
+msgstr "(공병 선원) 공병에게 점검하도록 한다."
 
 #: src-en/data/events_sector_og_neutron.xml:1352
 msgid ""
