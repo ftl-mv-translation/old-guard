@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-02 01:36+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/dataevents_special_og_battlecruisersxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_og_battlecruisers.xml:9
 msgid ""
@@ -41,8 +34,7 @@ msgstr "未探索的信标。"
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_SLUG\"]/text"
 msgstr ""
-"一艘配备强大炮塔技术的战列巡洋舰正停泊在这个信标处。星盗会可不是以诚实商人著"
-"称的，所以你怀疑这只蛞蝓蛞蝓族族家伙得到这些炮塔的手段并不正当。"
+"一艘配备强大炮塔技术的战列巡洋舰正停泊在这个信标处。星盗会可不是以诚实商人著称的，所以你怀疑这只蛞蝓蛞蝓族族家伙得到这些炮塔的手段并不正当。"
 
 #: src-en/data/events_special_og_battlecruisers.xml:35
 msgid ""
@@ -107,9 +99,7 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_og_battlecruisers.xml:91
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"NEBULA_OG_BATTLECRUISER_CLAN\"]/text"
-msgstr ""
-"一艘配备强大炮塔技术的战列巡洋舰正停泊在这个信标处。星盗会可不是以诚实商人著"
-"称的，所以你怀疑这个特定氏族得到这些炮塔的手段并不正当。"
+msgstr "一艘配备强大炮塔技术的战列巡洋舰正停泊在这个信标处。星盗会可不是以诚实商人著称的，所以你怀疑这个特定氏族得到这些炮塔的手段并不正当。"
 
 #: src-en/data/events_special_og_battlecruisers.xml:94
 msgid ""
@@ -174,9 +164,7 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_og_battlecruisers.xml:148
 msgid ""
 "data/events_special_og_battlecruisers.xml$//event[@name=\"OG_BATTLECRUISER_CRYSTAL\"]/text"
-msgstr ""
-"水晶帝国比任何其他政府或种族都更具领土意识。一艘配备专门炮塔技术的战列巡洋舰"
-"正在信标处巡逻，但这一次他们似乎并不在意你的存在。"
+msgstr "水晶帝国比任何其他政府或种族都更具领土意识。一艘配备专门炮塔技术的战列巡洋舰正在信标处巡逻，但这一次他们似乎并不在意你的存在。"
 
 #: src-en/data/events_special_og_battlecruisers.xml:151
 msgid ""

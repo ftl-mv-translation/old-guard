@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-08 13:37+0000\n"
-"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
-"datablueprintsxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:4
 msgid ""
@@ -43,9 +36,7 @@ msgid ""
 msgstr ""
 "포탑 회전 속도가 50% 증가합니다.\n"
 "\t\n"
-"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
-"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
-"비용 없이 내장형 장비로 전환할 수 있습니다."
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:30
 msgid ""
@@ -68,9 +59,7 @@ msgid ""
 msgstr ""
 "포탑 투사체 속도가 50% 증가합니다.\n"
 "\t\n"
-"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
-"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
-"비용 없이 내장형 장비로 전환할 수 있습니다."
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
@@ -93,9 +82,7 @@ msgid ""
 msgstr ""
 "수동으로 목표를 지정할 때 포탑의 회전 속도가 180 증가합니다.\n"
 "\t\n"
-"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
-"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
-"비용 없이 내장형 장비로 전환할 수 있습니다."
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:68
 msgid ""
@@ -118,9 +105,7 @@ msgid ""
 msgstr ""
 "적응형 포탑 공간을 확장하여 모든 크기의 포탑을 장착할 수 있게 합니다.\n"
 "\t\n"
-"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
-"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
-"비용 없이 내장형 장비로 전환할 수 있습니다."
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:86
 msgid ""
@@ -141,12 +126,9 @@ msgstr "보조 하드포인트 개조 [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_2_LARGE\"]/desc"
 msgstr ""
-"보조 적응형 포탑 공간을 확장하여 모든 크기의 포탑을 장착할 수 있게 "
-"만듭니다.\n"
+"보조 적응형 포탑 공간을 확장하여 모든 크기의 포탑을 장착할 수 있게 만듭니다.\n"
 "\t\n"
-"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
-"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
-"비용 없이 내장형 장비로 전환할 수 있습니다."
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
@@ -167,12 +149,9 @@ msgstr "보조 적응형 포탑 [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_OG_TURRET_ADAPTIVE_SECONDARY\"]/desc"
 msgstr ""
-"드론 제어 시스템 대신 보조 적응형 포탑 시스템을 설치합니다. 이 새로운 "
-"시스템은 시스템 슬롯을 차지하지 않습니다.\n"
+"드론 제어 시스템 대신 보조 적응형 포탑 시스템을 설치합니다. 이 새로운 시스템은 시스템 슬롯을 차지하지 않습니다.\n"
 "\t\n"
-"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
-"슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 "
-"비용 없이 내장형 장비로 전환할 수 있습니다."
+"\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 포탑 제어 시스템을 소지하고 있다면 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:123
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret\"]/title"
@@ -255,11 +234,9 @@ msgstr "적응형 포탑 제어실"
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive\"]/desc"
 msgstr ""
-"내부 업그레이드를 통해 드론 제어 시스템을 대신하여 이 시스템과 병행 가능한 "
-"보조 포탑 시스템을 추가할 수 있으며, 보조 시스템은 시스템 슬롯을 차지하지 "
-"않습니다. 함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 "
-"감소합니다. 전투 외 상황에서 함선에 맞게 포탑 위치를 변경할 수 있으며, 내부 "
-"업그레이드 메뉴에서 대형 포탑 슬롯으로 업그레이드할 수 있습니다."
+"내부 업그레이드를 통해 드론 제어 시스템을 대신하여 이 시스템과 병행 가능한 보조 포탑 시스템을 추가할 수 있으며, 보조 시스템은 시스템"
+" 슬롯을 차지하지 않습니다. 함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다. 전투 외 상황에서 함선에 "
+"맞게 포탑 위치를 변경할 수 있으며, 내부 업그레이드 메뉴에서 대형 포탑 슬롯으로 업그레이드할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:274
 msgid ""
@@ -270,9 +247,8 @@ msgstr "보조 적응형 포탑 제어실"
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_2\"]/desc"
 msgstr ""
-"함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 "
-"감소합니다. 전투 외 상황에서 함선에 맞게 포탑 위치를 변경할 수 있으며, 내부 "
-"업그레이드 메뉴에서 대형 포탑 슬롯으로 업그레이드할 수 있습니다."
+"함선의 포탑에 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다. 전투 외 상황에서 함선에 맞게 포탑 위치를 변경할 수 "
+"있으며, 내부 업그레이드 메뉴에서 대형 포탑 슬롯으로 업그레이드할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:293
 msgid ""
@@ -283,11 +259,9 @@ msgstr "고급 적응형 포탑 제어실"
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"og_turret_adaptive_single\"]/desc"
 msgstr ""
-"드론 시스템의 대안으로, 다른 방식으로는 포탑을 설치할 수 없는 함선에서만 "
-"이용 가능하며 시스템 최대 레벨이 더 높습니다. 함선의 포탑에 전력을 "
-"공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다. 전투 외 상황에서 "
-"함선에 맞게 포탑 위치를 변경할 수 있으며, 내부 업그레이드 메뉴에서 대형 포탑 "
-"슬롯으로 업그레이드할 수 있습니다."
+"드론 시스템의 대안으로, 다른 방식으로는 포탑을 설치할 수 없는 함선에서만 이용 가능하며 시스템 최대 레벨이 더 높습니다. 함선의 포탑에"
+" 전력을 공급합니다. 업그레이드 시 포탑의 충전 시간이 감소합니다. 전투 외 상황에서 함선에 맞게 포탑 위치를 변경할 수 있으며, 내부 "
+"업그레이드 메뉴에서 대형 포탑 슬롯으로 업그레이드할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:314
 msgid ""
@@ -303,9 +277,8 @@ msgstr "Cargo Crate"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_CARGO_CRATE_PREIGN_WEAK\"]/desc"
 msgstr ""
-"특이하게 생긴 화물 상자입니다. 내부에 무엇이 들었는지는 알 수 없으며 여유 "
-"시간이 있다면 열어볼 수도 있겠지만, 이를 전달받을 고객이 그리 기뻐하진 않을 "
-"것입니다."
+"특이하게 생긴 화물 상자입니다. 내부에 무엇이 들었는지는 알 수 없으며 여유 시간이 있다면 열어볼 수도 있겠지만, 이를 전달받을 고객이 "
+"그리 기뻐하진 않을 것입니다."
 
 #: src-en/data/blueprints.xml.append:332
 msgid ""
@@ -323,9 +296,7 @@ msgid ""
 msgstr ""
 "시스템 균형기의 재사용 대기시간이 50% 감소합니다.\n"
 "\n"
-"[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
-"슬롯을 차지합니다. 시스템 균형기 시스템을 소지하고 있다면 내부 업그레이드 "
-"창에서 비용 없이 내장형 장비로 전환할 수 있습니다."
+"[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 슬롯을 차지합니다. 시스템 균형기 시스템을 소지하고 있다면 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:351
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/title"
@@ -334,9 +305,8 @@ msgstr "시스템 균형기"
 #: src-en/data/blueprints.xml.append:352
 msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"og_equaliser\"]/desc"
 msgstr ""
-"작동 시 시스템 피해의 균형을 맞춰 선택한 모든 시스템으로 피해를 "
-"재분배합니다. 재사용 대기시간 20초. 업그레이드 시 함선 전체가 받는 총 피해량 "
-"또한 감소시킵니다."
+"작동 시 시스템 피해의 균형을 맞춰 선택한 모든 시스템으로 피해를 재분배합니다. 재사용 대기시간 20초. 업그레이드 시 함선 전체가 받는"
+" 총 피해량 또한 감소시킵니다."
 
 #: src-en/data/blueprints.xml.append:367
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_raider\"]/desc"
@@ -378,8 +348,7 @@ msgstr "화재로 받는 피해 0.6배"
 #: src-en/data/blueprints.xml.append:403
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/desc"
 msgstr ""
-"엘리트 인간 선원입니다. 행동을 취할 때마다 충전량이 소모되는 개인용 은폐 "
-"장치를 장착한 뉴 던 병사입니다.\n"
+"엘리트 인간 선원입니다. 행동을 취할 때마다 충전량이 소모되는 개인용 은폐 장치를 장착한 뉴 던 병사입니다.\n"
 "\n"
 "\t인간의 기본 특성: 약간의 질식 저항, 숙련도가 빠르게 증가"
 
@@ -395,8 +364,8 @@ msgstr "Dawn Soldier"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_dawn\"]/powerList/power[1]"
 msgstr ""
-"활성화 능력: 적 선원으로부터 숨기 위해 은신합니다. 은신 중에는 공격력이 "
-"증가하며, 은신 지속 시간은 시간이 아닌 수행한 행동에 따라 감소합니다."
+"활성화 능력: 적 선원으로부터 숨기 위해 은신합니다. 은신 중에는 공격력이 증가하며, 은신 지속 시간은 시간이 아닌 수행한 행동에 따라 "
+"감소합니다."
 
 #: src-en/data/blueprints.xml.append:412
 msgid ""
@@ -407,8 +376,7 @@ msgstr "전투로부터 받는 피해 0.7배, 화재로부터 0.6배의 피해�
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/desc"
 msgstr ""
-"슈퍼 엘리트 인간 선원입니다. 전투 내내 특정 시스템을 주기적으로 무력화할 수 "
-"있는 소형 해킹 장치를 장착한 미드나이트 선 공작원입니다.\n"
+"슈퍼 엘리트 인간 선원입니다. 전투 내내 특정 시스템을 주기적으로 무력화할 수 있는 소형 해킹 장치를 장착한 미드나이트 선 공작원입니다.\n"
 "\n"
 "\t인간의 기본 특성: 약간의 질식 저항"
 
@@ -426,9 +394,8 @@ msgstr "Operative"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_midnight\"]/powerList/power[1]"
 msgstr ""
-">활성화 능력: 현재 방에 거의 파괴 불가능한 해킹 장치를 설치합니다. 이 장치는 "
-"전투가 끝날 때까지 현재 방을 반복적으로 해킹하며, 무기, 드론, 방어막은 "
-"공격할 수 없습니다."
+">활성화 능력: 현재 방에 거의 파괴 불가능한 해킹 장치를 설치합니다. 이 장치는 전투가 끝날 때까지 현재 방을 반복적으로 해킹하며, "
+"무기, 드론, 방어막은 공격할 수 없습니다."
 
 #: src-en/data/blueprints.xml.append:446
 msgid ""
@@ -453,8 +420,7 @@ msgstr "모든 기술을 완전히 익힘"
 #: src-en/data/blueprints.xml.append:453
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/desc"
 msgstr ""
-"중요한 아이언 워치 과학자입니다. 미드나이트 선 조직에 의해 파괴되기 전까지 "
-"아이언 워치 중성자별 연구소(NSRS)의 소장이었습니다.\n"
+"중요한 아이언 워치 과학자입니다. 미드나이트 선 조직에 의해 파괴되기 전까지 아이언 워치 중성자별 연구소(NSRS)의 소장이었습니다.\n"
 "\n"
 "\t인간의 고유 특성을 계승함: 질식 저항력 약간 증가, 숙련도 상승 속도 증가"
 
@@ -472,8 +438,7 @@ msgstr "Researcher"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_silas\"]/powerList/power[1]"
 msgstr ""
-"활성화 능력: 모든 종류의 투사체와 드론을 표적으로 삼을 수 있는 방어 드론을 "
-"배치합니다. 투사체는 파괴하지만 드론은 기절만 일으킵니다."
+"활성화 능력: 모든 종류의 투사체와 드론을 표적으로 삼을 수 있는 방어 드론을 배치합니다. 투사체는 파괴하지만 드론은 기절만 일으킵니다."
 
 #: src-en/data/blueprints.xml.append:462
 msgid ""
@@ -504,9 +469,8 @@ msgstr "화재로부터 0.6배의 피해만을 받음"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/desc"
 msgstr ""
-"중요한 아이언 워치 외교관입니다. 반군 위협에 대응하여 연방의 지원을 "
-"요청하고자 아이언 워치 사령부에서 파견했습니다. 연방 기지까지 이송해야 "
-"합니다."
+"중요한 아이언 워치 외교관입니다. 반군 위협에 대응하여 연방의 지원을 요청하고자 아이언 워치 사령부에서 파견했습니다. 연방 기지까지 "
+"이송해야 합니다."
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
@@ -521,9 +485,7 @@ msgstr "Diplomat"
 #: src-en/data/blueprints.xml.append:477
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_og_iron_diplomat\"]/powerList/power[1]"
-msgstr ""
-"활성화 능력: 조종 가능해지며, 일반적인 속도로 조종, 전투 및 수리가 "
-"가능해집니다. 체력이 25 이하일 때 발동합니다."
+msgstr "활성화 능력: 조종 가능해지며, 일반적인 속도로 조종, 전투 및 수리가 가능해집니다. 체력이 25 이하일 때 발동합니다."
 
 #: src-en/data/blueprints.xml.append:478
 msgid ""
@@ -553,9 +515,7 @@ msgstr "뛰어난 회복력과 투지 덕분에 재해로부터 받는 피해가
 #: src-en/data/blueprints.xml.append:486
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"human_og_civilian\"]/desc"
-msgstr ""
-"인간 민간인입니다. 상점에 접촉하거나 출구 송신소로 도약 시 25스크랩을 "
-"포상으로 지급합니다."
+msgstr "인간 민간인입니다. 상점에 접촉하거나 출구 송신소로 도약 시 25스크랩을 포상으로 지급합니다."
 
 #: src-en/data/blueprints.xml.append:488
 msgid ""
@@ -600,9 +560,7 @@ msgstr "뛰어난 회복력과 투지 덕분에 재해로부터 받는 피해가
 #: src-en/data/blueprints.xml.append:540
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_og_civilian\"]/desc"
-msgstr ""
-"맨티스 민간인입니다. 상점에 접촉하거나 출구 송신소로 도약 시 5스크랩을 "
-"포상으로 지급합니다."
+msgstr "맨티스 민간인입니다. 상점에 접촉하거나 출구 송신소로 도약 시 5스크랩을 포상으로 지급합니다."
 
 #: src-en/data/blueprints.xml.append:542
 msgid ""
@@ -766,9 +724,7 @@ msgstr "Burst L."
 #: src-en/data/blueprints.xml.append:717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_1\"]/desc"
-msgstr ""
-"표준형 점사형 레이저 포탑입니다. 공격과 방어 사이에서 저렴하고 효율적인 "
-"절충안 역할을 합니다."
+msgstr "표준형 점사형 레이저 포탑입니다. 공격과 방어 사이에서 저렴하고 효율적인 절충안 역할을 합니다."
 
 #: src-en/data/blueprints.xml.append:736
 msgid ""
@@ -784,8 +740,8 @@ msgstr "Heavy L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_2\"]/desc"
 msgstr ""
-"중형 레이저 포탑은 회전 속도가 느리고 발당 피해량이 높아 방어용 포탑으로는 "
-"적합하지 않지만, 적함을 상대할 때 매우 뛰어난 성능을 발휘합니다."
+"중형 레이저 포탑은 회전 속도가 느리고 발당 피해량이 높아 방어용 포탑으로는 적합하지 않지만, 적함을 상대할 때 매우 뛰어난 성능을 "
+"발휘합니다."
 
 #: src-en/data/blueprints.xml.append:757
 msgid ""
@@ -801,8 +757,7 @@ msgstr "O. Burst L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_1\"]/desc"
 msgstr ""
-"표준형 점사형 레이저 포탑입니다. 공격과 방어 사이에서 저렴하고 효율적인 "
-"절충안 역할을 합니다. 매우 오래되어 명중률이 떨어집니다."
+"표준형 점사형 레이저 포탑입니다. 공격과 방어 사이에서 저렴하고 효율적인 절충안 역할을 합니다. 매우 오래되어 명중률이 떨어집니다."
 
 #: src-en/data/blueprints.xml.append:778
 msgid ""
@@ -817,9 +772,7 @@ msgstr "Light C."
 #: src-en/data/blueprints.xml.append:780
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT\"]/desc"
-msgstr ""
-"높은 충전 횟수와 빠른 회전 속도로 함선을 방어하는 데 매우 효과적인 특수 경량 "
-"레이저 포탑입니다."
+msgstr "높은 충전 횟수와 빠른 회전 속도로 함선을 방어하는 데 매우 효과적인 특수 경량 레이저 포탑입니다."
 
 #: src-en/data/blueprints.xml.append:799
 msgid ""
@@ -835,8 +788,7 @@ msgstr "Light C.™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BOSS_LIGHT_CHAOS\"]/desc"
 msgstr ""
-"높은 충전 횟수와 빠른 회전 속도로 함선을 방어하는 데 매우 효과적인 특수 "
-"경량형 레이저 포탑입니다.\n"
+"높은 충전 횟수와 빠른 회전 속도로 함선을 방어하는 데 매우 효과적인 특수 경량형 레이저 포탑입니다.\n"
 "혼돈 변종은 회전 속도가 5배 빠르며 모든 투사체를 목표로 지정할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:821
@@ -852,9 +804,7 @@ msgstr "Harbinger"
 #: src-en/data/blueprints.xml.append:823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ANCIENT\"]/desc"
-msgstr ""
-"오벨리스크가 제조한 믿을 수 없을 정도로 강력한 레이저 포탑으로, 일반적인 "
-"포탑보다 훨씬 더 큰 혼란을 일으킬 수 있습니다."
+msgstr "오벨리스크가 제조한 믿을 수 없을 정도로 강력한 레이저 포탑으로, 일반적인 포탑보다 훨씬 더 큰 혼란을 일으킬 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:842
 msgid ""
@@ -884,9 +834,7 @@ msgstr "Zenith L."
 #: src-en/data/blueprints.xml.append:865
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_ZENITH\"]/desc"
-msgstr ""
-"표준형 중형 레이저 포탑과 비교해도 막대한 피해를 입히는 아이테르 동력 기반의 "
-"치명적인 레이저 포탑입니다."
+msgstr "표준형 중형 레이저 포탑과 비교해도 막대한 피해를 입히는 아이테르 동력 기반의 치명적인 레이저 포탑입니다."
 
 #: src-en/data/blueprints.xml.append:884
 msgid ""
@@ -902,9 +850,8 @@ msgstr "Rad L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_BIO\"]/desc"
 msgstr ""
-"선원에게 높은 피해를 입히고 무력화하지만, 시스템이나 선체에는 피해를 주지 "
-"않는 특수 레이저 포탑입니다. 또한 적의 레이저를 격추하는 방어 역할에도 매우 "
-"뛰어납니다."
+"선원에게 높은 피해를 입히고 무력화하지만, 시스템이나 선체에는 피해를 주지 않는 특수 레이저 포탑입니다. 또한 적의 레이저를 격추하는 "
+"방어 역할에도 매우 뛰어납니다."
 
 #: src-en/data/blueprints.xml.append:905
 msgid ""
@@ -950,8 +897,7 @@ msgstr "Vulcan"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN\"]/desc"
 msgstr ""
-"이 레이저 포탑은 예열에 오랜 시간이 걸립니다. 발사할 때마다 장전시간이 "
-"감소하며, 나중엔 어떠한 방어막이라도 뚫어낼 수 있게 됩니다."
+"이 레이저 포탑은 예열에 오랜 시간이 걸립니다. 발사할 때마다 장전시간이 감소하며, 나중엔 어떠한 방어막이라도 뚫어낼 수 있게 됩니다."
 
 #: src-en/data/blueprints.xml.append:968
 msgid ""
@@ -966,9 +912,7 @@ msgstr "Particle A."
 #: src-en/data/blueprints.xml.append:970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_PARTICLE\"]/desc"
-msgstr ""
-"시스템에 큰 피해를 가하는 유선형 볼트를 발사합니다. 선원이나 선체에는 피해를 "
-"주지 않으며, 방어막을 제거할 수도 없습니다."
+msgstr "시스템에 큰 피해를 가하는 유선형 볼트를 발사합니다. 선원이나 선체에는 피해를 주지 않으며, 방어막을 제거할 수도 없습니다."
 
 #: src-en/data/blueprints.xml.append:989
 msgid ""
@@ -984,8 +928,7 @@ msgstr "Frost L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_FROST\"]/desc"
 msgstr ""
-"서리 레이저는 방을 봉쇄하여 대부분의 선원이 진입하거나 탈출하지 못하도록 "
-"선실을 봉쇄할 수 있는 몇 안 되는 무기 중 하나입니다."
+"서리 레이저는 방을 봉쇄하여 대부분의 선원이 진입하거나 탈출하지 못하도록 선실을 봉쇄할 수 있는 몇 안 되는 무기 중 하나입니다."
 
 #: src-en/data/blueprints.xml.append:1010
 msgid ""
@@ -1000,9 +943,7 @@ msgstr "Triplet L."
 #: src-en/data/blueprints.xml.append:1012
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_TRIPLET\"]/desc"
-msgstr ""
-"빠르게 연쇄되는 레이저 포탑이지만, 최대 연쇄 상태에서 마지막 점사를 발사한 "
-"후에는 연쇄 상태가 초기화됩니다."
+msgstr "빠르게 연쇄되는 레이저 포탑이지만, 최대 연쇄 상태에서 마지막 점사를 발사한 후에는 연쇄 상태가 초기화됩니다."
 
 #: src-en/data/blueprints.xml.append:1031
 msgid ""
@@ -1017,9 +958,7 @@ msgstr "Gatling"
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_GATLING\"]/desc"
-msgstr ""
-"개틀링 포탑은 예열에 매우 오랜 시간이 걸리지만, 결국 적들에게 지옥을 선사할 "
-"것입니다!"
+msgstr "개틀링 포탑은 예열에 매우 오랜 시간이 걸리지만, 결국 적들에게 지옥을 선사할 것입니다!"
 
 #: src-en/data/blueprints.xml.append:1052
 msgid ""
@@ -1034,9 +973,7 @@ msgstr "'Rift Waker'"
 #: src-en/data/blueprints.xml.append:1054
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RIFTWAKER\"]/desc"
-msgstr ""
-"이전에는 실반만이 가지고 있던 강력한 전쟁 무기였으나, 이제는 당신의 손에 "
-"들어왔습니다. 탐욕스러운 배신자여."
+msgstr "이전에는 실반만이 가지고 있던 강력한 전쟁 무기였으나, 이제는 당신의 손에 들어왔습니다. 탐욕스러운 배신자여."
 
 #: src-en/data/blueprints.xml.append:1073
 msgid ""
@@ -1051,9 +988,7 @@ msgstr "'Waker 0.5'"
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_CHAINGUN_GOLD\"]/desc"
-msgstr ""
-"연사식 발칸 포탑을 사용하여 실반의 악명높은 기관총 '리프트 웨이커'를 재현한 "
-"무기입니다."
+msgstr "연사식 발칸 포탑을 사용하여 실반의 악명높은 기관총 '리프트 웨이커'를 재현한 무기입니다."
 
 #: src-en/data/blueprints.xml.append:1097
 msgid ""
@@ -1069,8 +1004,8 @@ msgstr "Ion B."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_1\"]/desc"
 msgstr ""
-"이온 포탑은 드론을 억제하는 데 뛰어날 뿐만 아니라 선체 피해 없이 시스템을 "
-"무력화할 수 있습니다. 이 포탑은 충전과 발사가 매우 빠릅니다."
+"이온 포탑은 드론을 억제하는 데 뛰어날 뿐만 아니라 선체 피해 없이 시스템을 무력화할 수 있습니다. 이 포탑은 충전과 발사가 매우 "
+"빠릅니다."
 
 #: src-en/data/blueprints.xml.append:1118
 msgid ""
@@ -1086,8 +1021,8 @@ msgstr "Fire I."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_FIRE\"]/desc"
 msgstr ""
-"이온 포탑은 드론을 억제하는 데 뛰어날 뿐만 아니라 선체 피해 없이 시스템을 "
-"무력화할 수 있습니다. 이 포탑은 명중한 시스템에 화재를 발생시킵니다."
+"이온 포탑은 드론을 억제하는 데 뛰어날 뿐만 아니라 선체 피해 없이 시스템을 무력화할 수 있습니다. 이 포탑은 명중한 시스템에 화재를 "
+"발생시킵니다."
 
 #: src-en/data/blueprints.xml.append:1139
 msgid ""
@@ -1102,9 +1037,7 @@ msgstr "Phaser"
 #: src-en/data/blueprints.xml.append:1141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_PIERCE\"]/desc"
-msgstr ""
-"관통자는 모든 방어막 계층을 관통하여 첫 번째 방어막 계층에 이온 피해를 "
-"입히고, 명중한 시스템에 추가 피해를 입힙니다."
+msgstr "관통자는 모든 방어막 계층을 관통하여 첫 번째 방어막 계층에 이온 피해를 입히고, 명중한 시스템에 추가 피해를 입힙니다."
 
 #: src-en/data/blueprints.xml.append:1160
 msgid ""
@@ -1119,9 +1052,7 @@ msgstr "Stunner"
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_STUN\"]/desc"
-msgstr ""
-"충격기 이온은 평범한 이온 무기와 비슷하게 작동하지만, 명중한 선실에 있는 "
-"선원을 일시적으로 마비시킵니다."
+msgstr "충격기 이온은 평범한 이온 무기와 비슷하게 작동하지만, 명중한 선실에 있는 선원을 일시적으로 마비시킵니다."
 
 #: src-en/data/blueprints.xml.append:1181
 msgid ""
@@ -1136,9 +1067,7 @@ msgstr "Radion"
 #: src-en/data/blueprints.xml.append:1183
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_BIO\"]/desc"
-msgstr ""
-"방사성 이온이 뭐냐고요? 방사능이 첨가된 이온이라고 보시면 됩니다. 대충 그런 "
-"느낌이죠. 질식사 유도에 매우 유용합니다."
+msgstr "방사성 이온이 뭐냐고요? 방사능이 첨가된 이온이라고 보시면 됩니다. 대충 그런 느낌이죠. 질식사 유도에 매우 유용합니다."
 
 #: src-en/data/blueprints.xml.append:1202
 msgid ""
@@ -1184,8 +1113,8 @@ msgstr "€ Crystal"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_1_ELITE\"]/desc"
 msgstr ""
-"방어막을 관통하는 중형 크리스탈을 발사하도록 개조된 투사체 포탑입니다. "
-"피격된 선실에 봉쇄를 적용하고 2개의 방어막을 관통하는 엘리트 변형입니다."
+"방어막을 관통하는 중형 크리스탈을 발사하도록 개조된 투사체 포탑입니다. 피격된 선실에 봉쇄를 적용하고 2개의 방어막을 관통하는 엘리트 "
+"변형입니다."
 
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
@@ -1215,9 +1144,7 @@ msgstr "€ Crystal S."
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_SHOTGUN_ELITE\"]/desc"
-msgstr ""
-"4개의 크리스탈 투사체 더미를 발사합니다. 피격된 선실에 봉쇄를 적용하고 2개의 "
-"방어막을 관통하는 엘리트 변형입니다."
+msgstr "4개의 크리스탈 투사체 더미를 발사합니다. 피격된 선실에 봉쇄를 적용하고 2개의 방어막을 관통하는 엘리트 변형입니다."
 
 #: src-en/data/blueprints.xml.append:1313
 msgid ""
@@ -1233,8 +1160,7 @@ msgstr "Swarm M."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_1\"]/desc"
 msgstr ""
-"표적을 추적할 수 있는 소형의 빠른 미사일 무리를 발사합니다. 방어력이 "
-"뛰어나지만 적 시스템을 상대하기에는 적합하지 않습니다."
+"표적을 추적할 수 있는 소형의 빠른 미사일 무리를 발사합니다. 방어력이 뛰어나지만 적 시스템을 상대하기에는 적합하지 않습니다."
 
 #: src-en/data/blueprints.xml.append:1334
 msgid ""
@@ -1249,9 +1175,7 @@ msgstr "Dual M."
 #: src-en/data/blueprints.xml.append:1336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_2\"]/desc"
-msgstr ""
-"충전은 느리지만 적함에 높은 피해를 입힐 수 있으며, 적 드론 및 실체 투사체를 "
-"상대하기에 무난합니다."
+msgstr "충전은 느리지만 적함에 높은 피해를 입힐 수 있으며, 적 드론 및 실체 투사체를 상대하기에 무난합니다."
 
 #: src-en/data/blueprints.xml.append:1355
 msgid ""
@@ -1267,8 +1191,7 @@ msgstr "Heavy K."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY\"]/desc"
 msgstr ""
-"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 낱알은 "
-"미사일처럼 작동하지만 탄약 소모량이 절반입니다."
+"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 낱알은 미사일처럼 작동하지만 탄약 소모량이 절반입니다."
 
 #: src-en/data/blueprints.xml.append:1375
 msgid ""
@@ -1283,9 +1206,7 @@ msgstr "Solar K."
 #: src-en/data/blueprints.xml.append:1377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE\"]/desc"
-msgstr ""
-"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 개조된 "
-"이 낱알 포는 균열 대신 화재를 일으킵니다."
+msgstr "이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 개조된 이 낱알 포는 균열 대신 화재를 일으킵니다."
 
 #: src-en/data/blueprints.xml.append:1396
 msgid ""
@@ -1301,9 +1222,8 @@ msgstr "€ Heavy K."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_HEAVY_ELITE\"]/desc"
 msgstr ""
-"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 낱알은 "
-"미사일처럼 작동하지만 탄약 소모량이 절반입니다. 확실한 기절 효과와 더 적은 "
-"탄약 소모량을 가진 강력한 엘리트 버전입니다."
+"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 낱알은 미사일처럼 작동하지만 탄약 소모량이 절반입니다. 확실한 "
+"기절 효과와 더 적은 탄약 소모량을 가진 강력한 엘리트 버전입니다."
 
 #: src-en/data/blueprints.xml.append:1416
 msgid ""
@@ -1319,9 +1239,8 @@ msgstr "€ Solar K."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_KERNEL_FIRE_ELITE\"]/desc"
 msgstr ""
-"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 개조된 "
-"이 낱알 무기는 균열 대신 화재를 일으킵니다. 확실한 기절 효과와 더 적은 탄약 "
-"소모량을 가진 강력한 엘리트 버전입니다."
+"이 무기는 오키드 고향 행성의 거대한 식물 씨앗을 탄약으로 사용합니다. 개조된 이 낱알 무기는 균열 대신 화재를 일으킵니다. 확실한 기절"
+" 효과와 더 적은 탄약 소모량을 가진 강력한 엘리트 버전입니다."
 
 #: src-en/data/blueprints.xml.append:1437
 msgid ""
@@ -1337,8 +1256,8 @@ msgstr "Cloner"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_CLONE_CANNON\"]/desc"
 msgstr ""
-"이보다 더 큰 윤리적 논란을 불러일으킨 무기는 없었지만, 성능 하나는 "
-"확실합니다. 현재 포탑 배치를 담당하고 있는 선원이 누구든 복제해 냅니다."
+"이보다 더 큰 윤리적 논란을 불러일으킨 무기는 없었지만, 성능 하나는 확실합니다. 현재 포탑 배치를 담당하고 있는 선원이 누구든 복제해 "
+"냅니다."
 
 #: src-en/data/blueprints.xml.append:1461
 msgid ""
@@ -1353,9 +1272,7 @@ msgstr "Flak"
 #: src-en/data/blueprints.xml.append:1463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_1\"]/desc"
-msgstr ""
-"강력한 대공포 포탑으로, 엄청난 일제 사격을 준비하여 방어와 공격 모두에 "
-"활용할 수 있습니다."
+msgstr "강력한 대공포 포탑으로, 엄청난 일제 사격을 준비하여 방어와 공격 모두에 활용할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:1481
 msgid ""
@@ -1370,9 +1287,7 @@ msgstr "Rad Flak"
 #: src-en/data/blueprints.xml.append:1483
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_BIO\"]/desc"
-msgstr ""
-"일반 선체 피해와 함께 높은 선원 피해를 입히며, 때로는 선체를 부식시켜 균열을 "
-"일으키는 4개의 방사성 투사체를 발사합니다."
+msgstr "일반 선체 피해와 함께 높은 선원 피해를 입히며, 때로는 선체를 부식시켜 균열을 일으키는 4개의 방사성 투사체를 발사합니다."
 
 #: src-en/data/blueprints.xml.append:1502
 msgid ""
@@ -1402,9 +1317,7 @@ msgstr "Pinpoint"
 #: src-en/data/blueprints.xml.append:1528
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_1\"]/desc"
-msgstr ""
-"핀포인트 포탑은 거의 즉각적인 살상 능력 덕분에 적 미사일을 상대할 때 매우 "
-"효과적입니다."
+msgstr "핀포인트 포탑은 거의 즉각적인 살상 능력 덕분에 적 미사일을 상대할 때 매우 효과적입니다."
 
 #: src-en/data/blueprints.xml.append:1547
 msgid ""
@@ -1420,8 +1333,7 @@ msgstr "Rad P."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_BIO\"]/desc"
 msgstr ""
-"막대한 선원 피해를 입히고 적 선원을 무력화하지만 선체 피해는 주지 않는 "
-"강력한 개조형 핀포인트 포탑입니다. 2개의 방어막을 관통합니다."
+"막대한 선원 피해를 입히고 적 선원을 무력화하지만 선체 피해는 주지 않는 강력한 개조형 핀포인트 포탑입니다. 2개의 방어막을 관통합니다."
 
 #: src-en/data/blueprints.xml.append:1568
 msgid ""
@@ -1437,8 +1349,7 @@ msgstr "Chain P."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_CHAIN\"]/desc"
 msgstr ""
-"이 핀포인트 무기는 적당한 양의 피해만 입히지만, 연사 속도가 빠르게 증가하여 "
-"방어막이 벗겨진 적에게 치명적인 타격을 줍니다."
+"이 핀포인트 무기는 적당한 양의 피해만 입히지만, 연사 속도가 빠르게 증가하여 방어막이 벗겨진 적에게 치명적인 타격을 줍니다."
 
 #: src-en/data/blueprints.xml.append:1592
 msgid ""
@@ -1453,9 +1364,7 @@ msgstr "Micro L."
 #: src-en/data/blueprints.xml.append:1594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_1\"]/desc"
-msgstr ""
-"이 레이저 포탑은 단독으로 적함을 상대하긴 어렵지만, 빠른 회전 속 덕분에 "
-"뛰어난 범위 방어 역할을 합니다."
+msgstr "이 레이저 포탑은 단독으로 적함을 상대하긴 어렵지만, 빠른 회전 속 덕분에 뛰어난 범위 방어 역할을 합니다."
 
 #: src-en/data/blueprints.xml.append:1613
 msgid ""
@@ -1471,8 +1380,8 @@ msgstr "O. Micro L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_RUSTY_MINI_1\"]/desc"
 msgstr ""
-"이 레이저 포탑은 단독으로 적함을 상대하긴 어렵지만, 빠른 회전 속도 덕분에 "
-"뛰어난 범위 방어 역할을 합니다. 매우 오래되어 명중률이 떨어집니다."
+"이 레이저 포탑은 단독으로 적함을 상대하긴 어렵지만, 빠른 회전 속도 덕분에 뛰어난 범위 방어 역할을 합니다. 매우 오래되어 명중률이 "
+"떨어집니다."
 
 #: src-en/data/blueprints.xml.append:1634
 msgid ""
@@ -1487,9 +1396,7 @@ msgstr "Light L."
 #: src-en/data/blueprints.xml.append:1636
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_2\"]/desc"
-msgstr ""
-"시스템 피해를 입힐 수는 없지만, 이 경량 레이저 포탑은 방어막 제거 및 방어에 "
-"훨씬 적합합니다."
+msgstr "시스템 피해를 입힐 수는 없지만, 이 경량 레이저 포탑은 방어막 제거 및 방어에 훨씬 적합합니다."
 
 #: src-en/data/blueprints.xml.append:1655
 msgid ""
@@ -1505,9 +1412,8 @@ msgstr "Micro Rad"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_BIO\"]/desc"
 msgstr ""
-"선원에게 피해를 입히고 무력화하지만, 시스템이나 선체에는 피해를 주지 않는 "
-"특수 레이저 포탑입니다. 또한 적의 레이저를 격추하는 방어 역할도 수행할 수 "
-"있습니다."
+"선원에게 피해를 입히고 무력화하지만, 시스템이나 선체에는 피해를 주지 않는 특수 레이저 포탑입니다. 또한 적의 레이저를 격추하는 방어 "
+"역할도 수행할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:1676
 msgid ""
@@ -1537,9 +1443,7 @@ msgstr "Micro Part."
 #: src-en/data/blueprints.xml.append:1699
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_PARTICLE\"]/desc"
-msgstr ""
-"시스템에 큰 피해를 가하는 유선형 볼트를 발사합니다. 선원이나 선체에는 피해를 "
-"주지 않으며, 방어막을 제거할 수도 없습니다."
+msgstr "시스템에 큰 피해를 가하는 유선형 볼트를 발사합니다. 선원이나 선체에는 피해를 주지 않으며, 방어막을 제거할 수도 없습니다."
 
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
@@ -1570,8 +1474,7 @@ msgstr "€ Micro C."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_CRYSTAL_MINI_ELITE\"]/desc"
 msgstr ""
-"보호막을 관통하는 결정을 발사하도록 개조된 투사체 포탑입니다. 항상 봉쇄를 "
-"적용하고 2개의 보호막을 관통하는 엘리트 변형입니다."
+"보호막을 관통하는 결정을 발사하도록 개조된 투사체 포탑입니다. 항상 봉쇄를 적용하고 2개의 보호막을 관통하는 엘리트 변형입니다."
 
 #: src-en/data/blueprints.xml.append:1767
 msgid ""
@@ -1601,9 +1504,7 @@ msgstr "Micro F.I."
 #: src-en/data/blueprints.xml.append:1790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_MINI_FIRE\"]/desc"
-msgstr ""
-"이 이온 포탑은 함선의 공격을 지원하면서도 효과적인 드론 방어 수단이 됩니다. "
-"명중한 시스템에 화재를 발생시킵니다."
+msgstr "이 이온 포탑은 함선의 공격을 지원하면서도 효과적인 드론 방어 수단이 됩니다. 명중한 시스템에 화재를 발생시킵니다."
 
 #: src-en/data/blueprints.xml.append:1812
 msgid ""
@@ -1619,8 +1520,7 @@ msgstr "Micro P."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_1\"]/desc"
 msgstr ""
-"이 소형 핀포인트 포탑은 적함에 피해를 주려면 추가 지원이 필요하지만, 적 "
-"미사일을 상대할 때는 여전히 뛰어난 성능을 발휘합니다."
+"이 소형 핀포인트 포탑은 적함에 피해를 주려면 추가 지원이 필요하지만, 적 미사일을 상대할 때는 여전히 뛰어난 성능을 발휘합니다."
 
 #: src-en/data/blueprints.xml.append:1836
 msgid ""
@@ -1635,9 +1535,7 @@ msgstr "Micro F."
 #: src-en/data/blueprints.xml.append:1838
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_MINI_1\"]/desc"
-msgstr ""
-"소형 대공포 포탑으로, 일제 사격을 준비하여 방어와 공격 모두에 활용할 수 "
-"있습니다."
+msgstr "소형 대공포 포탑으로, 일제 사격을 준비하여 방어와 공격 모두에 활용할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:1860
 msgid ""
@@ -1652,9 +1550,7 @@ msgstr "Micro M."
 #: src-en/data/blueprints.xml.append:1862
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_MINI_1\"]/desc"
-msgstr ""
-"이 소형 미사일 포탑은 발사 비용이 비싸지만 강력한 공격 및 방어 지원을 "
-"제공합니다."
+msgstr "이 소형 미사일 포탑은 발사 비용이 비싸지만 강력한 공격 및 방어 지원을 제공합니다."
 
 #: src-en/data/blueprints.xml.append:1884
 msgid ""
@@ -1670,11 +1566,8 @@ msgstr "€ Heavy L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_DAWN\"]/desc"
 msgstr ""
-"중형 레이저 포탑은 발당 피해량이 높고 회전 속도가 느려 방어용 포탑으로는 "
-"적합하지 않지만, 적함을 상대할 때 매우 뛰어난 성능을 발휘합니다.\n"
-"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
-"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
-"시스템 피해를 추가로 받습니다."
+"중형 레이저 포탑은 발당 피해량이 높고 회전 속도가 느려 방어용 포탑으로는 적합하지 않지만, 적함을 상대할 때 매우 뛰어난 성능을 발휘합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1906
 msgid ""
@@ -1690,11 +1583,8 @@ msgstr "€ Fire I."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_ION_DAWN\"]/desc"
 msgstr ""
-"이온 포탑은 드론을 억제하는 데 뛰어날 뿐만 아니라 선체 피해 없이 시스템을 "
-"무력화할 수 있습니다. 이 포탑은 명중한 시스템에 화재를 발생시킵니다.\n"
-"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
-"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
-"시스템 피해를 추가로 받습니다."
+"이온 포탑은 드론을 억제하는 데 뛰어날 뿐만 아니라 선체 피해 없이 시스템을 무력화할 수 있습니다. 이 포탑은 명중한 시스템에 화재를 발생시킵니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1928
 msgid ""
@@ -1710,11 +1600,8 @@ msgstr "€ Dual M."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_DAWN\"]/desc"
 msgstr ""
-"충전은 느리지만 적함에 높은 피해를 입힐 수 있으며, 적 드론 및 실체 투사체를 "
-"상대하기에 무난합니다.\n"
-"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
-"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
-"시스템 피해를 추가로 받습니다."
+"충전은 느리지만 적함에 높은 피해를 입힐 수 있으며, 적 드론 및 실체 투사체를 상대하기에 무난합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1950
 msgid ""
@@ -1730,11 +1617,8 @@ msgstr "€ Flak"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FLAK_DAWN\"]/desc"
 msgstr ""
-"강력한 대공포 포탑으로, 엄청난 일제 사격을 준비하여 방어와 공격 모두에 "
-"활용할 수 있습니다.\n"
-"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
-"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
-"시스템 피해를 추가로 받습니다."
+"강력한 대공포 포탑으로, 엄청난 일제 사격을 준비하여 방어와 공격 모두에 활용할 수 있습니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1972
 msgid ""
@@ -1750,11 +1634,8 @@ msgstr "€ Pinpoint"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_DAWN\"]/desc"
 msgstr ""
-"핀포인트 포탑은 거의 즉각적인 살상 능력 덕분에 적 미사일을 상대할 때 매우 "
-"효과적입니다.\n"
-"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
-"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
-"시스템 피해를 추가로 받습니다."
+"핀포인트 포탑은 거의 즉각적인 살상 능력 덕분에 적 미사일을 상대할 때 매우 효과적입니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:1994
 msgid ""
@@ -1770,11 +1651,8 @@ msgstr "€ Micro L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_1\"]/desc"
 msgstr ""
-"이 레이저 포탑은 단독으로 적함을 상대하긴 어렵지만, 빠른 회전 속도 덕분에 "
-"뛰어난 방어 단위 역할을 합니다.\n"
-"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
-"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
-"시스템 피해를 추가로 받습니다."
+"이 레이저 포탑은 단독으로 적함을 상대하긴 어렵지만, 빠른 회전 속도 덕분에 뛰어난 방어 단위 역할을 합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:2016
 msgid ""
@@ -1790,11 +1668,8 @@ msgstr "€ Light L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LASER_MINI_DAWN_2\"]/desc"
 msgstr ""
-"시스템 피해를 입힐 수는 없지만, 이 경량 레이저 포탑은 보호막 억제 및 방어에 "
-"훨씬 적합합니다.\n"
-"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
-"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
-"시스템 피해를 추가로 받습니다."
+"시스템 피해를 입힐 수는 없지만, 이 경량 레이저 포탑은 보호막 억제 및 방어에 훨씬 적합합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:2038
 msgid ""
@@ -1810,11 +1685,8 @@ msgstr "€ Micro P."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_MINI_DAWN\"]/desc"
 msgstr ""
-"이 소형 핀포인트 포탑은 적함에 피해를 주려면 추가 지원이 필요하지만, 적 "
-"미사일을 상대할 때는 여전히 뛰어난 성능을 발휘합니다.\n"
-"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 "
-"부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 "
-"시스템 피해를 추가로 받습니다."
+"이 소형 핀포인트 포탑은 적함에 피해를 주려면 추가 지원이 필요하지만, 적 미사일을 상대할 때는 여전히 뛰어난 성능을 발휘합니다.\n"
+"뉴 던 변형은 명중한 방에 +1의 시스템 피해를 추가로 입히는 상태 효과를 부여합니다. 그러나 뉴 던 포탑이 장착된 포탑 시스템 역시 공격을 받을 때 +1의 시스템 피해를 추가로 받습니다."
 
 #: src-en/data/blueprints.xml.append:2060
 msgid ""
@@ -1830,8 +1702,8 @@ msgstr "Neutron"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_BEAM_NEUTRON_0\"]/desc"
 msgstr ""
-"미드나이트 선 추적함의 편성 무기인 중성자 코어입니다. 작동 가능한 상태로 "
-"만들어 포탑 슬롯에 장착할 수 있으며, 포탑 제작을 통해 업그레이드해야 합니다."
+"미드나이트 선 추적함의 편성 무기인 중성자 코어입니다. 작동 가능한 상태로 만들어 포탑 슬롯에 장착할 수 있으며, 포탑 제작을 통해 "
+"업그레이드해야 합니다."
 
 #: src-en/data/blueprints.xml.append:2081
 msgid ""
@@ -1892,9 +1764,8 @@ msgstr "Plague P."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_FOCUS_SOULPLAGUE\"]/desc"
 msgstr ""
-"강력한 방사성 핀포인트 포탑과 모호하게 닮았지만, 영혼역병 물질바이러스에 "
-"완전히 오염된 상태입니다. 명중한 방에 역병 침식 상태를 부여하여 적을 "
-"감염시키고 방해합니다."
+"강력한 방사성 핀포인트 포탑과 모호하게 닮았지만, 영혼역병 물질바이러스에 완전히 오염된 상태입니다. 명중한 방에 역병 침식 상태를 "
+"부여하여 적을 감염시키고 방해합니다."
 
 #: src-en/data/blueprints.xml.append:2168
 msgid ""
@@ -1910,9 +1781,8 @@ msgstr "Unnamed"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_MISSILE_FALSERADIANCE\"]/desc"
 msgstr ""
-"머나먼 현실에서 온 기묘한 생체 무기입니다. 이 빛의 미사일 포탑은 한 번에 "
-"여러 발의 미사일을 충전할 수 있으며, 명중한 방에 찬란한 모독 효과를 "
-"부여합니다."
+"머나먼 현실에서 온 기묘한 생체 무기입니다. 이 빛의 미사일 포탑은 한 번에 여러 발의 미사일을 충전할 수 있으며, 명중한 방에 찬란한 "
+"모독 효과를 부여합니다."
 
 #: src-en/data/blueprints.xml.append:2188
 msgid ""
@@ -2003,8 +1873,7 @@ msgstr "Rad P."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_SLUG_1\"]/desc"
 msgstr ""
-"막대한 선원 피해를 입히고 적 선원을 무력화하지만 선체 피해는 주지 않는 "
-"강력한 개조형 핀포인트 포탑입니다. 2개의 방어막을 관통합니다."
+"막대한 선원 피해를 입히고 적 선원을 무력화하지만 선체 피해는 주지 않는 강력한 개조형 핀포인트 포탑입니다. 2개의 방어막을 관통합니다."
 
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
@@ -2020,9 +1889,8 @@ msgstr "Rad L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CLAN_1\"]/desc"
 msgstr ""
-"선원에게 높은 피해를 입히고 무력화하지만, 시스템이나 선체에는 피해를 주지 "
-"않는 특수 레이저 포탑입니다. 또한 적의 레이저를 격추하는 방어 역할에도 매우 "
-"뛰어납니다."
+"선원에게 높은 피해를 입히고 무력화하지만, 시스템이나 선체에는 피해를 주지 않는 특수 레이저 포탑입니다. 또한 적의 레이저를 격추하는 "
+"방어 역할에도 매우 뛰어납니다."
 
 #: src-en/data/blueprints.xml.append:2830
 msgid ""
@@ -2038,11 +1906,9 @@ msgstr "Shard L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_CRYSTAL_1\"]/desc"
 msgstr ""
-"폭발물이 장전된 크리스탈 투사체를 사용하는 특수 기뢰 발사 포탑입니다. 탄약을 "
-"소비하지 않지만, 보호막을 최대 2계층까지만 관통할 수 있습니다.\n"
+"폭발물이 장전된 크리스탈 투사체를 사용하는 특수 기뢰 발사 포탑입니다. 탄약을 소비하지 않지만, 보호막을 최대 2계층까지만 관통할 수 있습니다.\n"
 "\t\n"
-"\t비어있는 송신소에서 미사일 5개를 소모하여 함대 추적을 1회 지연시키며, "
-"악명에는 영향을 주지 않습니다."
+"\t비어있는 송신소에서 미사일 5개를 소모하여 함대 추적을 1회 지연시키며, 악명에는 영향을 주지 않습니다."
 
 #: src-en/data/blueprints.xml.append:2853
 msgid ""
@@ -2058,8 +1924,8 @@ msgstr "Heavy L."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"OG_TURRET_LOOT_FEDERATION_1\"]/desc"
 msgstr ""
-"중형 레이저 포탑은 회전 속도가 느리고 발당 피해량이 높아 방어용 포탑으로는 "
-"적합하지 않지만, 적함을 상대할 때 매우 뛰어난 성능을 발휘합니다."
+"중형 레이저 포탑은 회전 속도가 느리고 발당 피해량이 높아 방어용 포탑으로는 적합하지 않지만, 적함을 상대할 때 매우 뛰어난 성능을 "
+"발휘합니다."
 
 #: src-en/data/blueprints.xml.append:2875
 msgid ""
@@ -2886,9 +2752,8 @@ msgstr "The Wasp"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER\"]/desc"
 msgstr ""
-"습격급 함선은 중앙에 장착된 포탑이 특징이지만, 이 함선의 포탑은 "
-"노후화되었습니다. 포탑을 개선하여 장착한다면 이 함선은 반군 함대에 심각한 "
-"위협이 될 것입니다."
+"습격급 함선은 중앙에 장착된 포탑이 특징이지만, 이 함선의 포탑은 노후화되었습니다. 포탑을 개선하여 장착한다면 이 함선은 반군 함대에 "
+"심각한 위협이 될 것입니다."
 
 #: src-en/data/blueprints.xml.append:5022
 msgid ""
@@ -2904,8 +2769,8 @@ msgstr "The Hornet"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_2\"]/desc"
 msgstr ""
-"이 습격급 함선은 강력한 레이저 캐논과 빠른 드론을 탑재하여 적함을 유린할 수 "
-"있지만, 동급의 다른 함선들에 비해 방어 능력은 다소 제한적입니다."
+"이 습격급 함선은 강력한 레이저 캐논과 빠른 드론을 탑재하여 적함을 유린할 수 있지만, 동급의 다른 함선들에 비해 방어 능력은 다소 "
+"제한적입니다."
 
 #: src-en/data/blueprints.xml.append:5104
 msgid ""
@@ -2921,8 +2786,7 @@ msgstr "The Snitch"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_RAIDER_3\"]/desc"
 msgstr ""
-"강력한 강습 선원과 시스템 및 선원 모두에게 치명적인 포탑을 갖춘 이 함선은 "
-"적의 선체를 손상시키지 않고 나포하는 데 특화되어 있습니다."
+"강력한 강습 선원과 시스템 및 선원 모두에게 치명적인 포탑을 갖춘 이 함선은 적의 선체를 손상시키지 않고 나포하는 데 특화되어 있습니다."
 
 #: src-en/data/blueprints.xml.append:5185
 msgid ""
@@ -2938,9 +2802,8 @@ msgstr "The Bastion"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR\"]/desc"
 msgstr ""
-"집행급 함선은 4개의 독립된 포탑으로 무장하고 있으며, 장착하는 포탑에 따라 "
-"강력한 방어 특화 함선이 될 수도, 압도적인 일제 사격을 퍼붓는 함선이 될 수도 "
-"있습니다."
+"집행급 함선은 4개의 독립된 포탑으로 무장하고 있으며, 장착하는 포탑에 따라 강력한 방어 특화 함선이 될 수도, 압도적인 일제 사격을 "
+"퍼붓는 함선이 될 수도 있습니다."
 
 #: src-en/data/blueprints.xml.append:5275
 msgid ""
@@ -2956,9 +2819,8 @@ msgstr "The Courier"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_2\"]/desc"
 msgstr ""
-"소형 이온 포탑 포대를 갖춘 이 함선은 적의 보호막을 무력화하여 주 포탑이 제 "
-"역할을 할 수 있도록 돕습니다. 포탑의 수가 많기 때문에 함장은 드론 제어 "
-"시스템과 무기 제어 시스템 중 하나를 선택해야 합니다."
+"소형 이온 포탑 포대를 갖춘 이 함선은 적의 보호막을 무력화하여 주 포탑이 제 역할을 할 수 있도록 돕습니다. 포탑의 수가 많기 때문에 "
+"함장은 드론 제어 시스템과 무기 제어 시스템 중 하나를 선택해야 합니다."
 
 #: src-en/data/blueprints.xml.append:5361
 msgid ""
@@ -2974,8 +2836,7 @@ msgstr "The Bombardier"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_EXECUTOR_3\"]/desc"
 msgstr ""
-"이 함선은 높은 화력에 특화되어 있어 2개의 주 포탑과 함께 4개의 무기 또는 "
-"4개의 드론을 탑재할 수 있어 강력한 화력을 자랑합니다."
+"이 함선은 높은 화력에 특화되어 있어 2개의 주 포탑과 함께 4개의 무기 또는 4개의 드론을 탑재할 수 있어 강력한 화력을 자랑합니다."
 
 #: src-en/data/blueprints.xml.append:5449
 msgid ""
@@ -2990,9 +2851,7 @@ msgstr "The Approaching Sun"
 #: src-en/data/blueprints.xml.append:5452
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR\"]/desc"
-msgstr ""
-"뉴 던이 반군과의 동맹 과정에서 설계한 고급 순양함입니다. 주 공격력은 함선 "
-"중앙에 위치한 강력한 포탑에서 나옵니다."
+msgstr "뉴 던이 반군과의 동맹 과정에서 설계한 고급 순양함입니다. 주 공격력은 함선 중앙에 위치한 강력한 포탑에서 나옵니다."
 
 #: src-en/data/blueprints.xml.append:5530
 msgid ""
@@ -3008,9 +2867,8 @@ msgstr "The God Ray"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_2\"]/desc"
 msgstr ""
-"선봉급 순양함의 변형 중 하나인 이 함선은 포탑을 방어용으로 사용하고 무기를 "
-"공격용으로 활용합니다. 의존할 만한 다른 방어 시스템이 없는 상태에서 포탑을 "
-"공격용으로 사용하는 것은 위험할 수 있습니다."
+"선봉급 순양함의 변형 중 하나인 이 함선은 포탑을 방어용으로 사용하고 무기를 공격용으로 활용합니다. 의존할 만한 다른 방어 시스템이 없는"
+" 상태에서 포탑을 공격용으로 사용하는 것은 위험할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:5617
 msgid ""
@@ -3026,9 +2884,8 @@ msgstr "The Burning Emblem"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_SPEAR_3\"]/desc"
 msgstr ""
-"철저하게 무장한 이 함선은 완전한 전투 특화형입니다. 반군 설계의 산물인 이 "
-"함선은 말폼을 활용해 산소의 필요성을 없애고, 의료 시스템 대신 의사 드론을 "
-"사용합니다."
+"철저하게 무장한 이 함선은 완전한 전투 특화형입니다. 반군 설계의 산물인 이 함선은 말폼을 활용해 산소의 필요성을 없애고, 의료 시스템 "
+"대신 의사 드론을 사용합니다."
 
 #: src-en/data/blueprints.xml.append:5705
 msgid ""
@@ -3043,9 +2900,7 @@ msgstr "The Fortress"
 #: src-en/data/blueprints.xml.append:5708
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG\"]/desc"
-msgstr ""
-"4개의 독립된 주 포탑 포대를 갖춘 이 함선은 어떤 적과도 정면으로 맞설 수 "
-"있습니다."
+msgstr "4개의 독립된 주 포탑 포대를 갖춘 이 함선은 어떤 적과도 정면으로 맞설 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:5799
 msgid ""
@@ -3060,9 +2915,7 @@ msgstr "The Impervious"
 #: src-en/data/blueprints.xml.append:5802
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_2\"]/desc"
-msgstr ""
-"이 함선은 방어막이나 은폐 장치를 설치할 수 없어 오직 포탑에만 의존하여 "
-"방어해야 합니다."
+msgstr "이 함선은 방어막이나 은폐 장치를 설치할 수 없어 오직 포탑에만 의존하여 방어해야 합니다."
 
 #: src-en/data/blueprints.xml.append:5895
 msgid ""
@@ -3077,9 +2930,7 @@ msgstr "The Empire"
 #: src-en/data/blueprints.xml.append:5898
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/desc"
-msgstr ""
-"우주 가장 깊은 곳에서 발견된 고대 전함입니다. 공병 팀이 협력하여 과거의 "
-"영광스러운 모습으로 복원해 냈습니다."
+msgstr "우주 가장 깊은 곳에서 발견된 고대 전함입니다. 공병 팀이 협력하여 과거의 영광스러운 모습으로 복원해 냈습니다."
 
 #: src-en/data/blueprints.xml.append:5974
 msgid ""
@@ -3095,8 +2946,7 @@ msgstr "Moonglow"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER\"]/desc"
 msgstr ""
-"이 날렵한 함선은 선원과 시스템을 동시에 파괴할 수 있는 강력한 방사선 빔을 "
-"발사하는 프로토타입 빔 편성 무기를 중심으로 건조되었습니다."
+"이 날렵한 함선은 선원과 시스템을 동시에 파괴할 수 있는 강력한 방사선 빔을 발사하는 프로토타입 빔 편성 무기를 중심으로 건조되었습니다."
 
 #: src-en/data/blueprints.xml.append:6062
 msgid ""
@@ -3111,9 +2961,7 @@ msgstr "Bonifacio"
 #: src-en/data/blueprints.xml.append:6064
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_2\"]/desc"
-msgstr ""
-"추적급 순양함의 수출된 변형으로, 뉴 던에서 훈련시킨 반군 공작원과 함께 반군 "
-"측에 전달되었습니다."
+msgstr "추적급 순양함의 수출된 변형으로, 뉴 던에서 훈련시킨 반군 공작원과 함께 반군 측에 전달되었습니다."
 
 #: src-en/data/blueprints.xml.append:6150
 msgid ""
@@ -3128,9 +2976,7 @@ msgstr "Moonbeam"
 #: src-en/data/blueprints.xml.append:6152
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_HUNTER_3\"]/desc"
-msgstr ""
-"초기 중성자 빔의 개량형 버전으로, 이번에는 포탑 형태로 제작되어 업그레이드 "
-"시 엄청난 수준의 피해를 퍼부을 수 있습니다."
+msgstr "초기 중성자 빔의 개량형 버전으로, 이번에는 포탑 형태로 제작되어 업그레이드 시 엄청난 수준의 피해를 퍼부을 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:6242
 msgid ""
@@ -3146,9 +2992,8 @@ msgstr "Nightwing"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER\"]/desc"
 msgstr ""
-"빠르고 은밀하게 움직이도록 건조된 경강습선으로, 어둠을 틈탄 은밀 작전에 "
-"최적화되어 있습니다. 함선의 크기가 작아 대형 포탑을 설치할 수 없었기에, "
-"공병들은 소형 포탑 시스템을 오버클록하여 살상력을 높였습니다."
+"빠르고 은밀하게 움직이도록 건조된 경강습선으로, 어둠을 틈탄 은밀 작전에 최적화되어 있습니다. 함선의 크기가 작아 대형 포탑을 설치할 수"
+" 없었기에, 공병들은 소형 포탑 시스템을 오버클록하여 살상력을 높였습니다."
 
 #: src-en/data/blueprints.xml.append:6331
 msgid ""
@@ -3163,9 +3008,7 @@ msgstr "Corte"
 #: src-en/data/blueprints.xml.append:6333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_2\"]/desc"
-msgstr ""
-"미드나이트 선 공작원과 MFK 에이스가 뉴 던과 반군을 배신하고 이 빠른 함선을 "
-"탈취해 도주했습니다."
+msgstr "미드나이트 선 공작원과 MFK 에이스가 뉴 던과 반군을 배신하고 이 빠른 함선을 탈취해 도주했습니다."
 
 #: src-en/data/blueprints.xml.append:6417
 msgid ""
@@ -3181,10 +3024,8 @@ msgstr "Hyperlight"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DRIFTER_3\"]/desc"
 msgstr ""
-"한때 미드나이트 선의 정예 정보 요원이었던 이들은 알 수 없는 멀티버스에 "
-"고립되어 집으로 돌아갈 방법을 찾지 못했습니다. 선택의 여지가 거의 없었던 "
-"그들은 거리 경주에 뛰어들었고, 전장에서와 마찬가지로 트랙에서도 무자비함을 "
-"증명했습니다."
+"한때 미드나이트 선의 정예 정보 요원이었던 이들은 알 수 없는 멀티버스에 고립되어 집으로 돌아갈 방법을 찾지 못했습니다. 선택의 여지가 "
+"거의 없었던 그들은 거리 경주에 뛰어들었고, 전장에서와 마찬가지로 트랙에서도 무자비함을 증명했습니다."
 
 #: src-en/data/blueprints.xml.append:6506
 msgid ""
@@ -3199,9 +3040,7 @@ msgstr "Supercausal"
 #: src-en/data/blueprints.xml.append:6508
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KESTREL\"]/desc"
-msgstr ""
-"상징적인 케스트렐 모델 순양함으로, 다재다능하여 숙련된 함장과 미숙한 함장 "
-"모두에게 잘 맞습니다."
+msgstr "상징적인 케스트렐 모델 순양함으로, 다재다능하여 숙련된 함장과 미숙한 함장 모두에게 잘 맞습니다."
 
 #: src-en/data/blueprints.xml.append:6589
 msgid ""
@@ -3216,9 +3055,7 @@ msgstr "Corsica"
 #: src-en/data/blueprints.xml.append:6592
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_REBEL\"]/desc"
-msgstr ""
-"아이언 워치의 포탑 기술을 역설계하고 기함과 유사한 무장으로 무장한 이 강력한 "
-"순양함은 압도적인 화력을 자랑합니다."
+msgstr "아이언 워치의 포탑 기술을 역설계하고 기함과 유사한 무장으로 무장한 이 강력한 순양함은 압도적인 화력을 자랑합니다."
 
 #: src-en/data/blueprints.xml.append:6673
 msgid ""
@@ -3233,9 +3070,7 @@ msgstr "The Iron Giant"
 #: src-en/data/blueprints.xml.append:6676
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_CURA\"]/desc"
-msgstr ""
-"지각이 제거된 반군 AI 코어로 구동되는 이 함선은 에너지 파동을 생성하는 "
-"프로토타입 장비를 탑재하고 있습니다."
+msgstr "지각이 제거된 반군 AI 코어로 구동되는 이 함선은 에너지 파동을 생성하는 프로토타입 장비를 탑재하고 있습니다."
 
 #: src-en/data/blueprints.xml.append:6761
 msgid ""
@@ -3251,8 +3086,8 @@ msgstr "The Isolation"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_SEPARATIST\"]/desc"
 msgstr ""
-"이 외로운 분리주의자 엔지는 추가적인 선원의 도움 없이 이 배를 조종하지만, "
-"그의 관리자 드론 부대와 함께라면 시스템들 까지도 관리할 수 있습니다."
+"이 외로운 분리주의자 엔지는 추가적인 선원의 도움 없이 이 배를 조종하지만, 그의 관리자 드론 부대와 함께라면 시스템들 까지도 관리할 수"
+" 있습니다."
 
 #: src-en/data/blueprints.xml.append:6846
 msgid ""
@@ -3268,8 +3103,8 @@ msgstr "Venus"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ANGEL\"]/desc"
 msgstr ""
-"'천사'들은 은하계 최고의 용병들입니다. 이 스텔스 함선은 강력한 선원을 "
-"활용하여 큰 피해를 입기 전에 신속하게 적을 처리할 수 있어야 합니다."
+"'천사'들은 은하계 최고의 용병들입니다. 이 스텔스 함선은 강력한 선원을 활용하여 큰 피해를 입기 전에 신속하게 적을 처리할 수 있어야 "
+"합니다."
 
 #: src-en/data/blueprints.xml.append:6925
 msgid ""
@@ -3284,9 +3119,7 @@ msgstr "Rampart"
 #: src-en/data/blueprints.xml.append:6928
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_ROCK\"]/desc"
-msgstr ""
-"이 함선은 그 설계자와 마찬가지로 엄청난 내구성을 자랑하는 괴물입니다. 잔혹한 "
-"화력으로 적을 제압합니다."
+msgstr "이 함선은 그 설계자와 마찬가지로 엄청난 내구성을 자랑하는 괴물입니다. 잔혹한 화력으로 적을 제압합니다."
 
 #: src-en/data/blueprints.xml.append:7012
 msgid ""
@@ -3301,9 +3134,7 @@ msgstr "The Beggar"
 #: src-en/data/blueprints.xml.append:7015
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_PEACEKEEPER\"]/desc"
-msgstr ""
-"날렵한 디자인의 최첨단 졸탄 선박입니다. 데보락 레이의 개인 순양함으로 "
-"유명합니다."
+msgstr "날렵한 디자인의 최첨단 졸탄 선박입니다. 데보락 레이의 개인 순양함으로 유명합니다."
 
 #: src-en/data/blueprints.xml.append:7090
 msgid ""
@@ -3319,8 +3150,7 @@ msgstr "The Silver Raven"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_KNIGHT\"]/desc"
 msgstr ""
-"이 소형 순양함은 내구도가 낮지만 여전히 나이트 친위대의 기함으로 존재합니다. "
-"중요한 것은 크기가 아니라 어떻게 사용하느냐입니다."
+"이 소형 순양함은 내구도가 낮지만 여전히 나이트 친위대의 기함으로 존재합니다. 중요한 것은 크기가 아니라 어떻게 사용하느냐입니다."
 
 #: src-en/data/blueprints.xml.append:7169
 msgid ""
@@ -3335,9 +3165,7 @@ msgstr "The Surveyor"
 #: src-en/data/blueprints.xml.append:7172
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1\"]/desc"
-msgstr ""
-"사일러스의 개인용 함선은 방어막이 가동될 때까지 포탑과 방어 드론에 의존하여 "
-"생존합니다."
+msgstr "사일러스의 개인용 함선은 방어막이 가동될 때까지 포탑과 방어 드론에 의존하여 생존합니다."
 
 #: src-en/data/blueprints.xml.append:7255
 msgid ""
@@ -3353,8 +3181,8 @@ msgstr "The Falcon"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_OG_CREW1_2\"]/desc"
 msgstr ""
-"이번에 호루스는 만반의 준비를 마쳤습니다. 그녀는 박물관에서 고대의 거대 "
-"함선을 끌어내었으며, 이제 그 무엇도 그녀의 길을 막을 수 없습니다!"
+"이번에 호루스는 만반의 준비를 마쳤습니다. 그녀는 박물관에서 고대의 거대 함선을 끌어내었으며, 이제 그 무엇도 그녀의 길을 막을 수 "
+"없습니다!"
 
 #: src-en/data/blueprints.xml.append:7357
 msgid ""
@@ -3369,9 +3197,7 @@ msgstr "Artillery"
 #: src-en/data/blueprints.xml.append:7359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OG_NEUTRON_BEAM_1\"]/desc"
-msgstr ""
-"[기본 재사용 대기시간: 20초] 적함을 관통하는 응축된 방사성 빔을 발사하여 "
-"시스템과 선원에게 피해를 입힙니다."
+msgstr "[기본 재사용 대기시간: 20초] 적함을 관통하는 응축된 방사성 빔을 발사하여 시스템과 선원에게 피해를 입힙니다."
 
 #: src-en/data/blueprints.xml.append:7378
 msgid ""
@@ -3386,9 +3212,7 @@ msgstr "Pierce I"
 #: src-en/data/blueprints.xml.append:7381
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_DAWN_1\"]/desc"
-msgstr ""
-"특수 전리품 무기입니다. 보관함의 툴팁을 확인하여 기본 버전보다 개선된 사항을 "
-"확인하세요."
+msgstr "특수 전리품 무기입니다. 보관함의 툴팁을 확인하여 기본 버전보다 개선된 사항을 확인하세요."
 
 #: src-en/data/blueprints.xml.append:7417
 msgid ""
@@ -3403,9 +3227,7 @@ msgstr "Triplet II"
 #: src-en/data/blueprints.xml.append:7420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LOOT_OG_MIDNIGHT_1\"]/desc"
-msgstr ""
-"특수 전리품 무기입니다. 보관함의 툴팁을 확인하여 기본 버전보다 개선된 사항을 "
-"확인하세요."
+msgstr "특수 전리품 무기입니다. 보관함의 툴팁을 확인하여 기본 버전보다 개선된 사항을 확인하세요."
 
 #: src-en/data/blueprints.xml.append:7462
 msgid ""
@@ -3420,9 +3242,7 @@ msgstr "Triplet I"
 #: src-en/data/blueprints.xml.append:7465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_1\"]/desc"
-msgstr ""
-"빠르게 연쇄되는 레이저 무기이지만, 최대 연쇄 상태에서 마지막 점사를 발사한 "
-"후에는 연쇄 상태가 초기화됩니다."
+msgstr "빠르게 연쇄되는 레이저 무기이지만, 최대 연쇄 상태에서 마지막 점사를 발사한 후에는 연쇄 상태가 초기화됩니다."
 
 #: src-en/data/blueprints.xml.append:7505
 msgid ""
@@ -3437,9 +3257,7 @@ msgstr "Triplet II"
 #: src-en/data/blueprints.xml.append:7508
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_OG_TRIPLET_2\"]/desc"
-msgstr ""
-"빠르게 연쇄되는 레이저 무기이지만, 최대 연쇄 상태에서 마지막 점사를 발사한 "
-"후에는 연쇄 상태가 초기화됩니다."
+msgstr "빠르게 연쇄되는 레이저 무기이지만, 최대 연쇄 상태에서 마지막 점사를 발사한 후에는 연쇄 상태가 초기화됩니다."
 
 #: src-en/data/blueprints.xml.append:7551
 msgid ""
@@ -3499,9 +3317,8 @@ msgstr "싱크로트론 보호막"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD\"]/desc"
 msgstr ""
-"중성자별의 방사성 빔 효과로부터 함선을 보호하여 피해를 흡수한 뒤 엔진 시스템 "
-"전체로 분산시킵니다. 보호막이 작동하는 동안 함선은 이온 면역 상태가 되지만, "
-"엔진 출력이 1 이하로 떨어지면 보호막이 해제됩니다."
+"중성자별의 방사성 빔 효과로부터 함선을 보호하여 피해를 흡수한 뒤 엔진 시스템 전체로 분산시킵니다. 보호막이 작동하는 동안 함선은 이온 "
+"면역 상태가 되지만, 엔진 출력이 1 이하로 떨어지면 보호막이 해제됩니다."
 
 #: src-en/data/blueprints.xml.append:7601
 msgid ""
@@ -3512,9 +3329,8 @@ msgstr "싱크로트론 보호막"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"OG_NEUTRON_SHIELD_LOCKED\"]/desc"
 msgstr ""
-"중성자별의 방사성 빔 효과로부터 함선을 보호하여 피해를 흡수한 뒤 엔진 시스템 "
-"전체로 분산시킵니다. 보호막이 작동하는 동안 함선은 이온 면역 상태가 되지만, "
-"엔진 출력이 1 이하로 떨어지면 보호막이 해제됩니다."
+"중성자별의 방사성 빔 효과로부터 함선을 보호하여 피해를 흡수한 뒤 엔진 시스템 전체로 분산시킵니다. 보호막이 작동하는 동안 함선은 이온 "
+"면역 상태가 되지만, 엔진 출력이 1 이하로 떨어지면 보호막이 해제됩니다."
 
 #: src-en/data/blueprints.xml.append:7613
 msgid ""

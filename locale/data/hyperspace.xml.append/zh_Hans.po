@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-03 04:36+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/datahyperspace-xml-append/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/hyperspace.xml.append:151
 msgid ""
@@ -26,8 +19,7 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "同步辐射屏障：\n"
-"此敌人免疫离子伤害和辐射。这些伤害会被转化为系统伤害，由引擎系统吸收。此敌人"
-"拥有更高的引擎等级上限，但会损失10%闪避率。"
+"此敌人免疫离子伤害和辐射。这些伤害会被转化为系统伤害，由引擎系统吸收。此敌人拥有更高的引擎等级上限，但会损失10%闪避率。"
 
 #: src-en/data/hyperspace.xml.append:161
 msgid ""
@@ -117,9 +109,7 @@ msgstr "完美执行"
 #: src-en/data/hyperspace.xml.append:291
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/description"
-msgstr ""
-"驾驶执行者级舰船：在不使用护盾或隐身的情况下，赢得一场战斗且不承受任何船体伤"
-"害。"
+msgstr "驾驶执行者级舰船：在不使用护盾或隐身的情况下，赢得一场战斗且不承受任何船体伤害。"
 
 #: src-en/data/hyperspace.xml.append:296
 msgid ""
@@ -129,9 +119,7 @@ msgstr "行政命令"
 #: src-en/data/hyperspace.xml.append:297
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/description"
-msgstr ""
-"驾驶执行者级舰船，仅使用炮塔、护盾、引擎、氧气、隐身、医疗系统和子系统，抵达"
-"第8星区。"
+msgstr "驾驶执行者级舰船，仅使用炮塔、护盾、引擎、氧气、隐身、医疗系统和子系统，抵达第8星区。"
 
 #: src-en/data/hyperspace.xml.append:487
 msgid ""
@@ -211,9 +199,7 @@ msgstr "绝缘"
 #: src-en/data/hyperspace.xml.append:609
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_2\"]/description"
-msgstr ""
-"驾驶猎手级舰船：在整个星区中，避免护盾、引擎、炮塔、武器或无人机承受任何离子"
-"伤害。"
+msgstr "驾驶猎手级舰船：在整个星区中，避免护盾、引擎、炮塔、武器或无人机承受任何离子伤害。"
 
 #: src-en/data/hyperspace.xml.append:614
 msgid ""
@@ -295,8 +281,7 @@ msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"og_midnight_main_power\"]/tooltip"
 msgstr ""
 "[冷却：无]\n"
-"在当前房间部署一个几乎不可摧毁的黑客装置，该装置将在战斗剩余时间内反复黑客当"
-"前房间。\n"
+"在当前房间部署一个几乎不可摧毁的黑客装置，该装置将在战斗剩余时间内反复黑客当前房间。\n"
 "使用时若可能，将特工传送回其母舰。\n"
 "无法以武器、无人机或护盾为目标。\n"
 "黑客持续10秒。\n"
@@ -311,8 +296,7 @@ msgstr "无人机"
 msgid "data/hyperspace.xml.append$//powerEffect[@name=\"OG_SILAS_DRONE\"]/tooltip"
 msgstr ""
 "[冷却：10秒 持续时间：10秒]\n"
-"部署一架能够锁定所有类型弹丸和无人机的防御无人机，可摧毁弹丸但只能眩晕无人机"
-"。"
+"部署一架能够锁定所有类型弹丸和无人机的防御无人机，可摧毁弹丸但只能眩晕无人机。"
 
 #: src-en/data/hyperspace.xml.append:1680
 msgid ""

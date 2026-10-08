@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-02 01:36+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/dataevents_special_storagexmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -888,6 +881,4 @@ msgstr "使用你的水晶空雷炮塔和额外的导弹。[-5}，提供1点延�
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/event/text"
-msgstr ""
-"你改装了弹药并为叛军设下了陷阱。幸运的是，由于某个模糊的法律漏洞，使用这种武"
-"器并不违法，尽管它在道德上极其可疑。"
+msgstr "你改装了弹药并为叛军设下了陷阱。幸运的是，由于某个模糊的法律漏洞，使用这种武器并不违法，尽管它在道德上极其可疑。"

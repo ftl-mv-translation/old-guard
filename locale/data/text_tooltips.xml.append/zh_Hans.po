@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-03 04:36+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-old-guard/datatext_tooltipsxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_tooltips.xml.append:2
 msgid "data/text_tooltips.xml.append$//text[@name=\"tip_og_turret\"]"
@@ -369,9 +362,7 @@ msgstr "将炮塔设置为进攻模式。"
 #: src-en/data/text_tooltips.xml.append:92
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_button_autoFire\"]"
-msgstr ""
-"切换以自动激活/停用炮塔开火。\\n\\n左 CTRL + 瞄准可强制炮塔执行与当前设置相反"
-"的操作"
+msgstr "切换以自动激活/停用炮塔开火。\\n\\n左 CTRL + 瞄准可强制炮塔执行与当前设置相反的操作"
 
 #: src-en/data/text_tooltips.xml.append:94
 msgid ""
@@ -549,9 +540,7 @@ msgstr "黑客无人机"
 #: src-en/data/text_tooltips.xml.append:139
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"og_lua_midnight_hacking_text\"]"
-msgstr ""
-"黑客无人机\\n跃迁时或系统完全损坏时移除。\\n\\n当前时间：%.1f秒\\n冷却时间"
-"：%d秒\\n黑客持续时间：%d秒"
+msgstr "黑客无人机\\n跃迁时或系统完全损坏时移除。\\n\\n当前时间：%.1f秒\\n冷却时间：%d秒\\n黑客持续时间：%d秒"
 
 #: src-en/data/text_tooltips.xml.append:141
 msgid "data/text_tooltips.xml.append$//text[@name=\"og_lua_turret_rep_iron\"]"

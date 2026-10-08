@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-10 05:15+0000\n"
-"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
-"datatext_eventsxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_events.xml.append:1
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_iron_generic\"]"
@@ -21,9 +14,7 @@ msgstr ""
 "통치 세력: 아이언 워치\n"
 "반군 위협 수준: 보통\n"
 "\n"
-"아이언 워치 영역 내의 안전도는 위치마다 다릅니다. 이곳에서는 다양한 집단들을 "
-"마주치게 될 것입니다. 아이언 워치는 탐험가, 과학자, 그리고 해적들의 "
-"집합체로, 절박함이나 호기심으로 인해 미개척 우주로 뛰어든 자들입니다."
+"아이언 워치 영역 내의 안전도는 위치마다 다릅니다. 이곳에서는 다양한 집단들을 마주치게 될 것입니다. 아이언 워치는 탐험가, 과학자, 그리고 해적들의 집합체로, 절박함이나 호기심으로 인해 미개척 우주로 뛰어든 자들입니다."
 
 #: src-en/data/text_events.xml.append:9
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_iron_hektar\"]"
@@ -34,11 +25,8 @@ msgstr ""
 "통치 세력: 아이언 워치\n"
 "반군 위협 수준: 보통\n"
 "\n"
-"아이언 워치 영역 내의 안전도는 위치마다 다릅니다. 이곳에서는 다양한 집단들을 "
-"마주치게 될 것입니다. 아이언 워치는 탐험가, 과학자, 그리고 해적들의 "
-"집합체로, 절박함이나 호기심으로 인해 미개척 우주로 뛰어든 자들입니다.\n"
-"당신은 아틀라스 하단에서 작은 \"H\" 로고를 발견했습니다... 스폰서일까요? 그 "
-"밑에는 \"헥타르 산업의 지역 시장을 방문하세요!\"라고 적혀 있습니다. 흠..."
+"아이언 워치 영역 내의 안전도는 위치마다 다릅니다. 이곳에서는 다양한 집단들을 마주치게 될 것입니다. 아이언 워치는 탐험가, 과학자, 그리고 해적들의 집합체로, 절박함이나 호기심으로 인해 미개척 우주로 뛰어든 자들입니다.\n"
+"당신은 아틀라스 하단에서 작은 \"H\" 로고를 발견했습니다... 스폰서일까요? 그 밑에는 \"헥타르 산업의 지역 시장을 방문하세요!\"라고 적혀 있습니다. 흠..."
 
 #: src-en/data/text_events.xml.append:18
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_dawn\"]"
@@ -50,9 +38,7 @@ msgstr ""
 "반군 위협 수준: 매우 높음\n"
 "흥미로운 장소: ???\n"
 "\n"
-"뉴 던의 군사 거점입니다. 아이언 워치와의 전쟁에서 보급품과 동맹 모두 "
-"부족해진 이들은 일부 뉴 던 구성원들의 반대에도 불구하고 반군에게 손을 내밀어 "
-"도움을 요청했습니다."
+"뉴 던의 군사 거점입니다. 아이언 워치와의 전쟁에서 보급품과 동맹 모두 부족해진 이들은 일부 뉴 던 구성원들의 반대에도 불구하고 반군에게 손을 내밀어 도움을 요청했습니다."
 
 #: src-en/data/text_events.xml.append:27
 msgid "data/text_events.xml.append$//text[@name=\"atlas_og_neutron\"]"
@@ -64,9 +50,7 @@ msgstr ""
 "반군 위협 수준: 높음 (중립 함대)\n"
 "흥미로운 장소: 중성자 연구 기지\n"
 "\n"
-"아이언 워치 영역 내의 안전도는 위치마다 다릅니다. 이곳에서는 다양한 집단들을 "
-"마주치게 될 것입니다. 아이언 워치는 탐험가, 과학자, 그리고 해적들의 "
-"집합체로, 절박함이나 호기심으로 인해 미개척 우주로 뛰어든 자들입니다."
+"아이언 워치 영역 내의 안전도는 위치마다 다릅니다. 이곳에서는 다양한 집단들을 마주치게 될 것입니다. 아이언 워치는 탐험가, 과학자, 그리고 해적들의 집합체로, 절박함이나 호기심으로 인해 미개척 우주로 뛰어든 자들입니다."
 
 #: src-en/data/text_events.xml.append:37
 msgid "data/text_events.xml.append$//text[@name=\"map_icon_og_battlecruiser\"]"

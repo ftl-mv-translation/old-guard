@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-10 12:09+0000\n"
-"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
-"datatext_miscxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"map_og_neutron_beam_loc\"]"
@@ -23,15 +16,12 @@ msgstr "송신소 좌표가 펄서와 매우 가까워 중성자 제트 방사�
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_og_neutron_beam\"]"
 msgstr ""
-"중성자별의 제트 방사선 범위 내에 들어왔습니다. 방사선이 함선 전체의 모든 "
-"시스템과 선원에게 피해를 줍니다. 대신 피해를 흡수하는 작동 중인 시스템이 "
-"있는 방에 머무르는 동안 선원은 보호받습니다."
+"중성자별의 제트 방사선 범위 내에 들어왔습니다. 방사선이 함선 전체의 모든 시스템과 선원에게 피해를 줍니다. 대신 피해를 흡수하는 작동 "
+"중인 시스템이 있는 방에 머무르는 동안 선원은 보호받습니다."
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_og_triplet\"]"
-msgstr ""
-"팁: 3연사 무기는 세 번째 발사 시 초기화되기 전까지 두 번 연속으로 중첩 "
-"효과를 얻습니다."
+msgstr "팁: 3연사 무기는 세 번째 발사 시 초기화되기 전까지 두 번 연속으로 중첩 효과를 얻습니다."
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"ship_unlock_og_two_wins\"]"
@@ -150,9 +140,7 @@ msgstr "이 함선을 해금하려면 아이언 분리주의자 순양함으로 
 #: src-en/data/text_misc.xml.append:40
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OG_ROCK_unlock\"]"
-msgstr ""
-"이 함선을 해금하려면 아이언 엔젤릭 데스브링어 순양함으로 5 구역에 "
-"도달하십시오."
+msgstr "이 함선을 해금하려면 아이언 엔젤릭 데스브링어 순양함으로 5 구역에 도달하십시오."
 
 #: src-en/data/text_misc.xml.append:41
 msgid ""

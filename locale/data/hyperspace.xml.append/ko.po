@@ -1,15 +1,9 @@
+#
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-10 13:38+0000\n"
-"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
-"datahyperspace-xml-append/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/hyperspace.xml.append:151
 msgid ""
@@ -25,9 +19,7 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "싱크로트론 보호막:\n"
-"이 적은 이온 피해 및 방사선으로부터 보호받습니다. 대신 해당 피해는 엔진 "
-"시스템 손상으로 흡수되며, 이 적은 엔진의 최대 레벨이 높지만 회피율이 10% "
-"감소합니다."
+"이 적은 이온 피해 및 방사선으로부터 보호받습니다. 대신 해당 피해는 엔진 시스템 손상으로 흡수되며, 이 적은 엔진의 최대 레벨이 높지만 회피율이 10% 감소합니다."
 
 #: src-en/data/hyperspace.xml.append:161
 msgid ""
@@ -59,9 +51,7 @@ msgid ""
 "append:shipIcon[6]/tooltip"
 msgstr ""
 "뉴 던 포탑:\n"
-"이 적은 뉴 던 포탑을 보유하고 있습니다. 이 포탑에 적중당한 방은 일시적으로 "
-"취약해져 추가로 +1의 시스템 피해를 입지만, 이 포탑들 역시 이에 대응하는 "
-"자신들의 시스템을 취약하게 만듭니다."
+"이 적은 뉴 던 포탑을 보유하고 있습니다. 이 포탑에 적중당한 방은 일시적으로 취약해져 추가로 +1의 시스템 피해를 입지만, 이 포탑들 역시 이에 대응하는 자신들의 시스템을 취약하게 만듭니다."
 
 #: src-en/data/hyperspace.xml.append:181
 msgid ""
@@ -69,23 +59,22 @@ msgid ""
 "append:shipIcon[7]/tooltip"
 msgstr ""
 "순양전함:\n"
-"이 적은 특수 포탑 기술을 갖추고 있습니다. 제압하면 전리품으로 특수 포탑을 "
-"획득할 수 있습니다."
+"이 적은 특수 포탑 기술을 갖추고 있습니다. 제압하면 전리품으로 특수 포탑을 획득할 수 있습니다."
 
 #: src-en/data/hyperspace.xml.append:230
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/name"
 msgstr "전시 경제"
 
-#: src-en/data/hyperspace.xml.append:236
-msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/name"
-msgstr "방울뱀 건드리기"
-
 #: src-en/data/hyperspace.xml.append:231
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_1\"]/description"
 msgstr "습격급(Raider-Class) 함선으로 자신만의 새로운 포탑을 제작하기."
+
+#: src-en/data/hyperspace.xml.append:236
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_2\"]/name"
+msgstr "방울뱀 건드리기"
 
 #: src-en/data/hyperspace.xml.append:237
 msgid ""
@@ -101,8 +90,8 @@ msgstr "무거운 짐 메기"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_RAIDER_3\"]/description"
 msgstr ""
-"습격급(Raider-Class) 함선으로 무기 또는 드론 시스템을 구매하지 않고(또는 "
-"함선 기본 시스템으로 업그레이드하지 않고) 8 구역에 도달하기."
+"습격급(Raider-Class) 함선으로 무기 또는 드론 시스템을 구매하지 않고(또는 함선 기본 시스템으로 업그레이드하지 않고) 8 "
+"구역에 도달하기."
 
 #: src-en/data/hyperspace.xml.append:284
 msgid ""
@@ -122,9 +111,7 @@ msgstr "완벽한 집행"
 #: src-en/data/hyperspace.xml.append:291
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_2\"]/description"
-msgstr ""
-"집행급(Executor-Class) 함선으로 선체 피해를 입지 않고, 보호막이나 은폐장 "
-"없이 전투에서 승리."
+msgstr "집행급(Executor-Class) 함선으로 선체 피해를 입지 않고, 보호막이나 은폐장 없이 전투에서 승리."
 
 #: src-en/data/hyperspace.xml.append:296
 msgid ""
@@ -135,9 +122,8 @@ msgstr "행정 명령"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_EXECUTOR_3\"]/description"
 msgstr ""
-"집행급(Executor-Class) 함선으로 포탑, 방어막 제어실, 엔진실, 산소실, 은폐장, "
-"의료 시스템 및 보조 시스템 외의 다른 시스템을 사용하지 않고 8 섹터에 "
-"도달하기."
+"집행급(Executor-Class) 함선으로 포탑, 방어막 제어실, 엔진실, 산소실, 은폐장, 의료 시스템 및 보조 시스템 외의 다른 "
+"시스템을 사용하지 않고 8 섹터에 도달하기."
 
 #: src-en/data/hyperspace.xml.append:487
 msgid ""
@@ -147,9 +133,7 @@ msgstr "지점 방어"
 #: src-en/data/hyperspace.xml.append:488
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_1\"]/description"
-msgstr ""
-"선봉급(Spearhead-Class) 함선으로 단일 전투에서 투사체 또는 드론을 5개 "
-"요격하기."
+msgstr "선봉급(Spearhead-Class) 함선으로 단일 전투에서 투사체 또는 드론을 5개 요격하기."
 
 #: src-en/data/hyperspace.xml.append:493
 msgid ""
@@ -160,8 +144,8 @@ msgstr "반군 충성심"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/description"
 msgstr ""
-"선봉급(Spearhead-Class) 함선으로 인간이 아닌 선원 단 1명만 탑승한 상태에서 "
-"새로운 송신소로 이동하지 않고 8 구역에 도달하기."
+"선봉급(Spearhead-Class) 함선으로 인간이 아닌 선원 단 1명만 탑승한 상태에서 새로운 송신소로 이동하지 않고 8 구역에 "
+"도달하기."
 
 #: src-en/data/hyperspace.xml.append:499
 msgid ""
@@ -171,9 +155,7 @@ msgstr "콤보 브레이커"
 #: src-en/data/hyperspace.xml.append:500
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/description"
-msgstr ""
-"선봉급(Spearhead-Class) 함선으로 단 한 번의 효과 적용 동안 뉴 던 포탑의 "
-"보너스 시스템 피해를 6회 발동."
+msgstr "선봉급(Spearhead-Class) 함선으로 단 한 번의 효과 적용 동안 뉴 던 포탑의 보너스 시스템 피해를 6회 발동."
 
 #: src-en/data/hyperspace.xml.append:545
 msgid ""
@@ -185,15 +167,15 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_1\"]/description"
 msgstr "거상급(Colossus-Class) 함선으로 모든 선원 슬롯을 채우기."
 
-#: src-en/data/hyperspace.xml.append:552
-msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_2\"]/description"
-msgstr "거상급(Colossus-Class) 함선으로 모든 포탑 슬롯에 동일한 포탑을 장착하기."
-
 #: src-en/data/hyperspace.xml.append:551
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_2\"]/name"
 msgstr "통일된 일격"
+
+#: src-en/data/hyperspace.xml.append:552
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_BIG_2\"]/description"
+msgstr "거상급(Colossus-Class) 함선으로 모든 포탑 슬롯에 동일한 포탑을 장착하기."
 
 #: src-en/data/hyperspace.xml.append:557
 msgid ""
@@ -213,9 +195,7 @@ msgstr "고요한 송곳니"
 #: src-en/data/hyperspace.xml.append:603
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_1\"]/description"
-msgstr ""
-"추적급(Hunter-Class) 함선으로 적함에 무기, 포탑, 또는 드론을 발사하지 않고 "
-"전투에서 승리."
+msgstr "추적급(Hunter-Class) 함선으로 적함에 무기, 포탑, 또는 드론을 발사하지 않고 전투에서 승리."
 
 #: src-en/data/hyperspace.xml.append:608
 msgid ""
@@ -226,8 +206,8 @@ msgstr "절연 처리"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_2\"]/description"
 msgstr ""
-"추적급(Hunter-Class) 함선으로 한 섹터 전체 동안 방어막 제어실, 엔진실, 포탑, "
-"무기, 또는 드론에 어떠한 이온 피해도 입지 않기."
+"추적급(Hunter-Class) 함선으로 한 섹터 전체 동안 방어막 제어실, 엔진실, 포탑, 무기, 또는 드론에 어떠한 이온 피해도 입지"
+" 않기."
 
 #: src-en/data/hyperspace.xml.append:614
 msgid ""
@@ -237,9 +217,7 @@ msgstr "해충 구제자"
 #: src-en/data/hyperspace.xml.append:615
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_HUNTER_3\"]/description"
-msgstr ""
-"추적형(Hunter-Class) 함선으로 중성자별 제한 구역에서 습격이 완료되기 전에 "
-"아이언 워치 연구소를 파괴."
+msgstr "추적형(Hunter-Class) 함선으로 중성자별 제한 구역에서 습격이 완료되기 전에 아이언 워치 연구소를 파괴."
 
 #: src-en/data/hyperspace.xml.append:659
 msgid ""
@@ -249,9 +227,7 @@ msgstr "전원 배치"
 #: src-en/data/hyperspace.xml.append:660
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_1\"]/description"
-msgstr ""
-"유랑급(Drifter-Class) 함선으로 소형 포탑 제어 시스템 두 곳 모두 최고 레벨의 "
-"선원을 배치."
+msgstr "유랑급(Drifter-Class) 함선으로 소형 포탑 제어 시스템 두 곳 모두 최고 레벨의 선원을 배치."
 
 #: src-en/data/hyperspace.xml.append:665
 msgid ""
@@ -261,9 +237,7 @@ msgstr "유령선"
 #: src-en/data/hyperspace.xml.append:666
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_2\"]/description"
-msgstr ""
-"유랑급(Drifter-Class) 함선으로 모든 선원이 살아있는 상태에서 적함에 침투해 "
-"있는 동안 전투에서 승리."
+msgstr "유랑급(Drifter-Class) 함선으로 모든 선원이 살아있는 상태에서 적함에 침투해 있는 동안 전투에서 승리."
 
 #: src-en/data/hyperspace.xml.append:671
 msgid ""
@@ -273,9 +247,7 @@ msgstr "중무장"
 #: src-en/data/hyperspace.xml.append:672
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DRIFTER_3\"]/description"
-msgstr ""
-"유랑급(Drifter-Class) 함선으로 모든 공격 시스템(무기, 드론, 포탑)을 최고 "
-"전력으로 업그레이드."
+msgstr "유랑급(Drifter-Class) 함선으로 모든 공격 시스템(무기, 드론, 포탑)을 최고 전력으로 업그레이드."
 
 #: src-en/data/hyperspace.xml.append:835
 msgid "data/hyperspace.xml.append$//unique_og_silas[@name=\"Dr. Silas\"]/@name"
@@ -317,8 +289,7 @@ msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"og_midnight_main_power\"]/tooltip"
 msgstr ""
 "[충전 시간: 해당 없음]\n"
-"\t\t\t\t현재 방에 거의 파괴 불가능한 해킹 장치를 배치하여 전투가 끝날 때까지 "
-"반복적으로 해킹을 수행합니다.\n"
+"\t\t\t\t현재 방에 거의 파괴 불가능한 해킹 장치를 배치하여 전투가 끝날 때까지 반복적으로 해킹을 수행합니다.\n"
 "\t\t\t\t사용 시 요원을 가능하면 자신의 함선으로 순간이동시킵니다.\n"
 "\t\t\t\t무기, 드론, 방어막은 표적으로 지정할 수 없습니다.\n"
 "\t\t\t\t해킹 지속시간은 10초입니다.\n"
@@ -333,8 +304,7 @@ msgstr "드론"
 msgid "data/hyperspace.xml.append$//powerEffect[@name=\"OG_SILAS_DRONE\"]/tooltip"
 msgstr ""
 "[충전 시간: 10초  지속시간: 10초]\n"
-"\t\t\t\t모든 유형의 투사체와 드론을 표적으로 삼을 수 있는 방어 드론을 "
-"배치합니다. 투사체는 파괴하지만 드론은 기절시키기만 합니다."
+"\t\t\t\t모든 유형의 투사체와 드론을 표적으로 삼을 수 있는 방어 드론을 배치합니다. 투사체는 파괴하지만 드론은 기절시키기만 합니다."
 
 #: src-en/data/hyperspace.xml.append:1680
 msgid ""
@@ -346,8 +316,7 @@ msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_og_iron_diplomat\"]/powerEffect/tooltip"
 msgstr ""
 "[충전 시간: 5초  지속시간: 20초]\n"
-"\t\t\t\t제어가 가능해지며 정상적인 속도로 전투, 수리, 제어 배치가 "
-"가능해집니다.\n"
+"\t\t\t\t제어가 가능해지며 정상적인 속도로 전투, 수리, 제어 배치가 가능해집니다.\n"
 "\t\t\t\t체력이 25 미만일 때 발동합니다."
 
 #: src-en/data/hyperspace.xml.append:1791

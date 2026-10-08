@@ -59,8 +59,8 @@
 		"//visitedTooltip",
 		"//undiscoveredTooltip",
 		"//win/@text",
-
-
+		"//eventButton/tooltip",
+		"//eventButton/inactiveTooltip",
 		// hyperspace
 		// "// ",
 		
