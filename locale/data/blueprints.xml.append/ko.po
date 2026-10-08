@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-11 22:37+0000\n"
+"PO-Revision-Date: 2026-10-08 13:37+0000\n"
 "Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
 "Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
 "datablueprintsxmlappend/ko/>\n"
@@ -3078,7 +3078,7 @@ msgstr "The Empire"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OG_DAWN_BIG_3\"]/desc"
 msgstr ""
-"우주 가장 깊은 곳에서 발견된 고대 전함입니다. 엔지니어 팀이 협력하여 과거의 "
+"우주 가장 깊은 곳에서 발견된 고대 전함입니다. 공병 팀이 협력하여 과거의 "
 "영광스러운 모습으로 복원해 냈습니다."
 
 #: src-en/data/blueprints.xml.append:5974
@@ -3148,7 +3148,7 @@ msgid ""
 msgstr ""
 "빠르고 은밀하게 움직이도록 건조된 경강습선으로, 어둠을 틈탄 은밀 작전에 "
 "최적화되어 있습니다. 함선의 크기가 작아 대형 포탑을 설치할 수 없었기에, "
-"엔지니어들은 소형 포탑 시스템을 오버클록하여 살상력을 높였습니다."
+"공병들은 소형 포탑 시스템을 오버클록하여 살상력을 높였습니다."
 
 #: src-en/data/blueprints.xml.append:6331
 msgid ""
