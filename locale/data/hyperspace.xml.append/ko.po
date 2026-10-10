@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-10-11 00:36+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/the-old-guard/"
+"datahyperspace-xml-append/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/hyperspace.xml.append:151
 msgid ""
@@ -144,8 +151,8 @@ msgstr "반군 충성심"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_2\"]/description"
 msgstr ""
-"선봉급(Spearhead-Class) 함선으로 인간이 아닌 선원 단 1명만 탑승한 상태에서 새로운 송신소로 이동하지 않고 8 구역에 "
-"도달하기."
+"선봉급(Spearhead-Class) 함선으로 도약할 때 인간이 아닌 선원이 탑승하지 않은 "
+"상태를 유지하며 8구역에 도달하기."
 
 #: src-en/data/hyperspace.xml.append:499
 msgid ""
@@ -155,7 +162,9 @@ msgstr "콤보 브레이커"
 #: src-en/data/hyperspace.xml.append:500
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"SHIP_ACH_OG_DAWN_SPEAR_3\"]/description"
-msgstr "선봉급(Spearhead-Class) 함선으로 단 한 번의 효과 적용 동안 뉴 던 포탑의 보너스 시스템 피해를 6회 발동."
+msgstr ""
+"선봉급(Spearhead-Class) 함선으로 여명 포탑의 효과를 한 번 적용한 동안 보너스 "
+"시스템 피해를 6회 발동."
 
 #: src-en/data/hyperspace.xml.append:545
 msgid ""
